@@ -1,0 +1,187 @@
+{
+  "date": "2026-03-26",
+  "title": "미국 + 국내 AI 뉴스 통합 브리핑",
+  "subtitle": "2026년 3월 26일 · 팀장님용 데일리 브리핑 · 미국 자본/개발자 툴 경쟁 + 국내 반도체/광고 인프라 + 김해 날씨",
+  "summary": "오늘 흐름은 미국이 OpenAI 중심의 자본 조달·개발자 툴·조직 확장으로 엔터프라이즈 AI 전선을 넓히고, 국내는 네이버 광고 플랫폼과 SK하이닉스 메모리·인프라 투자처럼 ‘AI를 실제 돈과 생산능력으로 연결하는 축’이 선명해졌다는 점입니다.",
+  "summary_box": "자비스 판단: 오늘 포인트는 모델 데모가 아니라 실행력입니다. 미국은 자본·개발자 생태계 선점, 국내는 메모리·광고·국산 칩 실증으로 실물 전환이 빨라지고 있습니다.",
+  "weather": {
+    "loc": "김해 · 2026-03-26 08:30 기준 · Open-Meteo",
+    "temp": "9.0°C",
+    "desc": "맑음 · 체감 6.5°C · 강수 0mm",
+    "icon": "☀️",
+    "badges": [
+      "구름량 0%",
+      "비 소식 없음",
+      "아침 공기 다소 쌀쌀"
+    ]
+  },
+  "cards": [
+    {
+      "meta": [
+        "미국",
+        "Reuters",
+        "3일 전"
+      ],
+      "country": "미국",
+      "category": "시장/자금",
+      "entities": [
+        "OpenAI",
+        "Anthropic"
+      ],
+      "keywords": [
+        "사모펀드",
+        "자금조달",
+        "엔터프라이즈",
+        "경쟁"
+      ],
+      "title": "OpenAI, Anthropic와 기업시장 경쟁 속 사모자금 유치 조건 강화",
+      "summary": "Reuters에 따르면 OpenAI는 Anthropic과의 엔터프라이즈 경쟁 속에서 사모펀드와의 합작 및 자금 유치 논의에서 더 매력적인 조건을 제시하고 있습니다. 기업용 AI 확산이 빨라지면서 모델 성능 경쟁을 넘어 자본 구조와 유통 채널 확보가 핵심 전장으로 옮겨가는 모습입니다.",
+      "take": "미국 AI 경쟁은 이제 연구 경쟁을 넘어 금융 구조 경쟁으로 이동 중입니다. 누가 더 빨리 자본과 배포 채널을 묶느냐가 기업시장 점유율을 좌우할 가능성이 큽니다.",
+      "links": [
+        {
+          "label": "Reuters",
+          "url": "https://www.reuters.com/business/openai-sweetens-private-equity-pitch-amid-enterprise-turf-war-with-anthropic-2026-03-23/"
+        }
+      ]
+    },
+    {
+      "meta": [
+        "미국",
+        "Reuters",
+        "1주 전"
+      ],
+      "country": "미국",
+      "category": "개발자도구/M&A",
+      "entities": [
+        "OpenAI",
+        "Astral",
+        "Anthropic"
+      ],
+      "keywords": [
+        "코딩 AI",
+        "M&A",
+        "개발자도구",
+        "Codex"
+      ],
+      "title": "OpenAI, Astral 인수로 코딩 AI 툴체인 통합 가속",
+      "summary": "Reuters는 OpenAI가 Python 도구 기업 Astral을 인수해 개발자 도구군을 Codex 생태계에 더 깊게 통합하려 한다고 전했습니다. Claude Code가 개발자층에서 존재감을 키우는 가운데, 경쟁 축이 모델 응답 품질에서 IDE·도구·워크플로 장악으로 확대되고 있습니다.",
+      "take": "코딩 AI 시장은 모델 성능만이 아니라 실제 개발 흐름 전체를 누가 잡느냐의 싸움입니다. 툴체인 장악은 장기적인 락인 효과를 만듭니다.",
+      "links": [
+        {
+          "label": "Reuters",
+          "url": "https://www.reuters.com/technology/openai-buy-python-toolmaker-astral-take-anthropic-2026-03-19/"
+        }
+      ]
+    },
+    {
+      "meta": [
+        "미국",
+        "Reuters",
+        "5일 전"
+      ],
+      "country": "미국",
+      "category": "조직/확장",
+      "entities": [
+        "OpenAI"
+      ],
+      "keywords": [
+        "인력확대",
+        "스케일업",
+        "엔터프라이즈",
+        "채용"
+      ],
+      "title": "OpenAI, 2026년 말까지 인력 8천 명 규모 확대 추진",
+      "summary": "Reuters 보도에 따르면 OpenAI는 약 4,500명 수준에서 2026년 말 8,000명까지 인력을 늘리는 방안을 추진 중입니다. 이는 연구 조직뿐 아니라 제품, 영업, 운영 전반을 포함한 대규모 사업 체계 확장 신호로 읽힙니다.",
+      "take": "AI 경쟁이 이제 실험 단계가 아니라 대규모 사업 운영 체제로 넘어갔다는 뜻입니다. 인력 확장은 곧 매출화와 글로벌 운영 전선을 넓히겠다는 선언에 가깝습니다.",
+      "links": [
+        {
+          "label": "Reuters",
+          "url": "https://www.reuters.com/business/openai-nearly-double-workforce-8000-by-end-2026-ft-reports-2026-03-21/"
+        }
+      ]
+    },
+    {
+      "meta": [
+        "국내",
+        "더테크",
+        "1일 전"
+      ],
+      "country": "국내",
+      "category": "광고/플랫폼",
+      "entities": [
+        "네이버"
+      ],
+      "keywords": [
+        "광고 AI",
+        "플랫폼 통합",
+        "인사이트",
+        "수익화"
+      ],
+      "title": "네이버, 검색·디스플레이 광고 플랫폼 통합하며 AI 광고 기능 강화",
+      "summary": "네이버는 검색 광고와 디스플레이 광고 시스템을 하나로 통합한 신규 플랫폼을 도입하고, AI 기반 추천 인사이트와 통합 대시보드를 강화했습니다. 핵심은 사용자 편의 개선을 넘어 광고 성과와 플랫폼 수익성을 높이기 위한 구조 개편에 가깝습니다.",
+      "take": "국내 포털의 AI 투자는 결국 광고 매출 최적화로 수렴합니다. AI가 직접 매출을 만드는 영역부터 깊게 붙는 전형적인 사례입니다.",
+      "links": [
+        {
+          "label": "더테크",
+          "url": "https://www.the-tech.co.kr/news/article.html?no=41345"
+        }
+      ]
+    },
+    {
+      "meta": [
+        "국내",
+        "인더뉴스",
+        "오늘"
+      ],
+      "country": "국내",
+      "category": "반도체/투자",
+      "entities": [
+        "SK하이닉스"
+      ],
+      "keywords": [
+        "HBM4",
+        "AI 메모리",
+        "생산인프라",
+        "순현금"
+      ],
+      "title": "SK하이닉스, AI 메모리 수요 대응 위해 생산 인프라·재무 체력 동시 강화",
+      "summary": "인더뉴스에 따르면 SK하이닉스는 AI 시대 투자 확대에 대응하기 위해 100조원 이상의 순현금 확보를 목표로 제시했습니다. HBM4·HBM4E·cHBM과 AI D램·AI 낸드 확대, 용인·청주·미국 생산 거점 강화까지 함께 언급되며 메모리 수요 대응을 위한 전면 투자 기조가 확인됐습니다.",
+      "take": "국내 AI 경쟁력의 실질 축은 여전히 메모리와 생산능력입니다. 모델보다 공급 능력과 재무 체력을 가진 기업이 더 큰 협상력을 갖게 될 가능성이 큽니다.",
+      "links": [
+        {
+          "label": "인더뉴스",
+          "url": "https://www.inthenews.co.kr/news/article.html?no=84728"
+        }
+      ]
+    },
+    {
+      "meta": [
+        "국내",
+        "SPTA Times Korea",
+        "2일 전"
+      ],
+      "country": "국내",
+      "category": "산업/실증",
+      "entities": [
+        "정부",
+        "K-NPU 얼라이언스"
+      ],
+      "keywords": [
+        "NPU",
+        "스마트시티",
+        "국산 AI칩",
+        "실증"
+      ],
+      "title": "국산 NPU 기반 스마트시티 실증 본격화",
+      "summary": "SPTA Times Korea가 요약한 서울경제 기사에 따르면 정부와 기업은 국산 NPU를 스마트시티 인프라에 적용하는 실증 사업을 본격 추진하고 있습니다. GPU 의존도를 낮추고 실제 도시 환경에서 AI 반도체 성능과 활용성을 검증하는 단계로 진입한 흐름입니다.",
+      "take": "국내 AI는 소프트웨어 데모보다 산업 현장 실증에서 기회가 큽니다. 초기 공공·도시 인프라 수요를 누가 선점하느냐가 향후 생태계 주도권으로 이어질 수 있습니다.",
+      "links": [
+        {
+          "label": "SPTA Times Korea",
+          "url": "https://www.sptatimeskorea.com/post/%EC%A0%9C20260323-tt-01%ED%98%B8-2026%EB%85%84-3%EC%9B%94-23%EC%9D%BC-%EB%B0%98%EB%8F%84%EC%B2%B4-%EA%B8%B0%EC%88%A0-%EA%B4%80%EB%A0%A8-%EC%A3%BC%EC%9A%94-%EB%89%B4%EC%8A%A4-%EC%9A%94%EC%95%BD"
+        }
+      ]
+    }
+  ],
+  "footer": "데이터 소스: Reuters, 더테크, 인더뉴스, SPTA Times Korea, Open-Meteo · JSON 기반 자동 생성/아카이브/인사이트 파이프라인 적용"
+}
