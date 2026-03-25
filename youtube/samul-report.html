@@ -1,0 +1,111 @@
+<!doctype html>
+<html lang="ko">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>유튜브 채널 분석 - 사물의 참견</title>
+<style>
+:root{
+  --bg1:#070a13; --bg2:#10192c; --text:#eef4ff; --muted:#a9b6cf;
+  --line:rgba(255,255,255,.12); --shadow:0 12px 40px rgba(0,0,0,.28);
+}
+*{box-sizing:border-box}
+body{margin:0;color:var(--text);font-family:"SF Pro Display","Segoe UI",Apple SD Gothic Neo,"Malgun Gothic",sans-serif;background:linear-gradient(180deg,var(--bg1),var(--bg2));}
+.wrap{max-width:1180px;margin:0 auto;padding:20px 14px 54px}
+.glass{background:linear-gradient(180deg,rgba(255,255,255,.12),rgba(255,255,255,.05));border:1px solid rgba(255,255,255,.14);box-shadow:var(--shadow);backdrop-filter:blur(22px);-webkit-backdrop-filter:blur(22px)}
+.hero,.panel,.card{border-radius:26px}
+.hero{padding:24px 22px;margin-bottom:18px}
+.panel{padding:18px}
+.top{display:grid;grid-template-columns:1.2fr .8fr;gap:18px;margin-bottom:18px}
+.cards{display:grid;grid-template-columns:repeat(auto-fit,minmax(280px,1fr));gap:16px}
+.card{padding:18px}
+.kicker{font-size:13px;letter-spacing:.16em;text-transform:uppercase;color:#7de9da;font-weight:800}
+h1{margin:8px 0 8px;font-size:42px;line-height:1.08}
+.sub,.meta{color:var(--muted)}
+.num{width:32px;height:32px;border-radius:999px;display:inline-flex;align-items:center;justify-content:center;background:rgba(154,183,255,.16);font-weight:900;margin-bottom:10px}
+.title{font-size:20px;font-weight:800;line-height:1.38;margin:10px 0}
+.summary{line-height:1.7}
+.take{margin-top:14px;padding:12px 14px;border-radius:16px;background:rgba(154,183,255,.08);border:1px solid rgba(154,183,255,.14)}
+.chips{display:flex;flex-wrap:wrap;gap:8px;margin-top:12px}
+.chip{padding:7px 11px;border-radius:999px;background:rgba(255,255,255,.06);border:1px solid rgba(255,255,255,.08);font-size:12px;color:#dce7ff}
+a{color:#bfd2ff;text-decoration:none}
+a:hover{text-decoration:underline}
+@media (max-width:900px){.top{grid-template-columns:1fr}h1{font-size:32px}}
+</style>
+</head>
+<body>
+<div class="wrap">
+  <section class="hero glass">
+    <div class="kicker">JARVIS YOUTUBE CHANNEL ANALYSIS</div>
+    <h1>사물의 참견 채널 분석</h1>
+    <div class="sub">YouTube Data API v3 기반 채널 분석 샘플 · 모바일 최적화 카드형 리포트</div>
+    <div class="chips" style="margin-top:16px">
+      <a class="chip" href="https://www.youtube.com/@%EC%82%AC%EB%AC%BC%EC%9D%98%EC%B0%B8%EA%B2%AC">유튜브 채널 열기</a>
+      <span class="chip">채널 ID: UCIVl2LLE3wmN6vcg0SHXoxA</span>
+      <span class="chip">국가: KR</span>
+    </div>
+  </section>
+
+  <section class="top">
+    <div class="panel glass">
+      <h2>채널 한줄 판단</h2>
+      <div class="summary">생활 밀착형 건강·생활정보를 <strong>사물 시점 쇼츠 포맷</strong>으로 재가공하는 정보형 채널입니다. 단순한 건강 정보보다 "일상 속에서 자주 틀리는 습관"을 짚는 콘텐츠가 중심입니다.</div>
+      <div class="take"><strong>자비스 해석:</strong> 정보형 쇼츠 채널이지만, 사물의 시선으로 말하는 콘셉트가 차별화 포인트입니다. 재미보다도 실용성 기반 반응이 강한 채널로 보입니다.</div>
+    </div>
+    <div class="panel glass">
+      <h2>기본 정보</h2>
+      <div class="chips">
+        <span class="chip">구독자 127,000명</span>
+        <span class="chip">총 조회수 37,906,312</span>
+        <span class="chip">영상 32개</span>
+        <span class="chip">핸들 @사물의참견</span>
+      </div>
+      <div class="summary" style="margin-top:14px">설명문 기준 핵심 키워드: 건강한 삶, 생활 습관 개선, AI 기반 정보 필터링, 사물 시점, Scientific + Sarcastic 톤.</div>
+    </div>
+  </section>
+
+  <section class="cards">
+    <article class="card glass">
+      <div class="num">1</div>
+      <div class="meta">최근 업로드 흐름</div>
+      <div class="title">최근 5개 업로드 주제</div>
+      <div class="summary">음식 보관·세척 상식, 운전 실수, 양념/주방 상식, 생활 꿀팁, 유제품/식품 섭취 습관 등 생활 전반의 실수 방지형 주제가 반복됩니다.</div>
+      <div class="chips">
+        <span class="chip">생활꿀팁</span>
+        <span class="chip">건강상식</span>
+        <span class="chip">음식보관</span>
+        <span class="chip">운전팁</span>
+      </div>
+    </article>
+
+    <article class="card glass">
+      <div class="num">2</div>
+      <div class="meta">댓글 반응</div>
+      <div class="title">시청자 피드백 분위기</div>
+      <div class="summary">최신 영상 댓글은 “유용하다”, “몰랐던 정보였다”, “기획이 좋다”는 반응이 중심입니다. 실용성에 대한 긍정 평가가 눈에 띕니다.</div>
+      <div class="take"><strong>대표 반응:</strong> “요즘 이 채널이 가장 유용함”, “부침가루 냉장보관은 몰랐다”</div>
+    </article>
+
+    <article class="card glass">
+      <div class="num">3</div>
+      <div class="meta">채널 포지셔닝</div>
+      <div class="title">어떤 채널인가?</div>
+      <div class="summary">생활정보·건강정보 채널이지만 전통적인 설명형보다 쇼츠 친화적인 캐릭터 포맷을 채택하고 있습니다. 정보의 톤을 너무 무겁지 않게 가져가면서도 실전성은 유지합니다.</div>
+      <div class="chips">
+        <span class="chip">정보형 쇼츠</span>
+        <span class="chip">사물 시점</span>
+        <span class="chip">건강/생활</span>
+      </div>
+    </article>
+
+    <article class="card glass">
+      <div class="num">4</div>
+      <div class="meta">운영 인사이트</div>
+      <div class="title">강점 / 리스크 / 기회</div>
+      <div class="summary">강점은 콘셉트 차별화와 높은 실용성입니다. 리스크는 주제 중복과 포맷 반복 피로도입니다. 기회는 시리즈화, FAQ형 댓글 재활용, 경쟁 채널 비교 분석입니다.</div>
+      <div class="take"><strong>확장 포인트:</strong> 음식 / 주방 / 자동차 / 위생 / 건강으로 세부 시리즈를 분리하면 채널 구조가 더 선명해질 수 있습니다.</div>
+    </article>
+  </section>
+</div>
+</body>
+</html>
