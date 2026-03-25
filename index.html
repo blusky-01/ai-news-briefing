@@ -29,39 +29,41 @@ body{
 }
 .wrap{max-width:1180px;margin:0 auto;padding:20px 14px 54px}
 .glass{
-  background:linear-gradient(180deg, rgba(255,255,255,.11), rgba(255,255,255,.05));
-  border:1px solid var(--line);
-  box-shadow:var(--shadow);
-  backdrop-filter: blur(18px) saturate(150%);
-  -webkit-backdrop-filter: blur(18px) saturate(150%);
+  background:linear-gradient(180deg, rgba(255,255,255,.12), rgba(255,255,255,.05));
+  border:1px solid rgba(255,255,255,.14);
+  box-shadow:var(--shadow), inset 0 1px 0 rgba(255,255,255,.08);
+  backdrop-filter: blur(22px) saturate(165%);
+  -webkit-backdrop-filter: blur(22px) saturate(165%);
 }
-.hero{border-radius:28px;padding:24px 22px;margin-bottom:18px;position:relative;overflow:hidden}
-.hero::before{content:"";position:absolute;inset:0;background:linear-gradient(135deg,rgba(255,255,255,.12),transparent 32%,transparent 70%,rgba(154,183,255,.15));pointer-events:none}
+.hero{border-radius:30px;padding:26px 24px;margin-bottom:18px;position:relative;overflow:hidden}
+.hero::before{content:"";position:absolute;inset:0;background:linear-gradient(135deg,rgba(255,255,255,.16),transparent 30%,transparent 68%,rgba(154,183,255,.18));pointer-events:none}
+.hero::after{content:"";position:absolute;right:-40px;top:-40px;width:180px;height:180px;border-radius:999px;background:radial-gradient(circle,rgba(125,233,218,.18),transparent 68%);pointer-events:none}
 .kicker{font-size:13px;letter-spacing:.16em;text-transform:uppercase;color:var(--cyan);font-weight:800}
 h1{margin:8px 0 8px;font-size:clamp(30px,5vw,48px);line-height:1.08}
 .sub{color:var(--muted);font-size:15px}
 .topgrid{display:grid;grid-template-columns:1.65fr .95fr;gap:18px;margin-bottom:18px}
-.panel{border-radius:24px;padding:18px}
+.panel{border-radius:26px;padding:18px}
 .section-title{font-size:18px;font-weight:800;margin:0 0 12px}
 .summary{font-size:16px;line-height:1.7}
-.summary-box{margin-top:14px;padding:14px 16px;border-radius:18px;background:rgba(125,233,218,.08);border:1px solid rgba(125,233,218,.16);color:#ddfffb}
+.summary-box{margin-top:14px;padding:14px 16px;border-radius:18px;background:linear-gradient(180deg,rgba(125,233,218,.12),rgba(125,233,218,.06));border:1px solid rgba(125,233,218,.16);color:#ddfffb}
 .weather-main{display:flex;align-items:center;justify-content:space-between;gap:12px}
 .loc{font-size:14px;color:var(--muted)}
-.temp{font-size:34px;font-weight:800;margin-top:4px}
+.temp{font-size:36px;font-weight:800;margin-top:4px;letter-spacing:-.03em}
 .desc{font-size:15px;color:#eaf2ff;margin-top:6px}
-.weather-icon{font-size:44px;filter:drop-shadow(0 4px 14px rgba(255,255,255,.15))}
+.weather-icon{font-size:46px;filter:drop-shadow(0 6px 18px rgba(255,255,255,.18))}
 .weather-badges,.meta{display:flex;flex-wrap:wrap;gap:8px}
 .weather-badges{margin-top:12px}
 .pill{display:inline-flex;align-items:center;gap:6px;padding:7px 11px;border-radius:999px;background:rgba(255,255,255,.06);border:1px solid rgba(255,255,255,.08);font-size:12px;color:#dce7ff}
 .cards{display:grid;grid-template-columns:repeat(auto-fit,minmax(280px,1fr));gap:16px}
-.card{border-radius:24px;padding:18px;position:relative;overflow:hidden}
-.card::before{content:"";position:absolute;inset:0;background:linear-gradient(180deg,rgba(255,255,255,.07),transparent 30%);pointer-events:none}
+.card{border-radius:26px;padding:18px;position:relative;overflow:hidden}
+.card::before{content:"";position:absolute;inset:0;background:linear-gradient(180deg,rgba(255,255,255,.08),transparent 32%);pointer-events:none}
+.card::after{content:"";position:absolute;left:0;right:0;top:0;height:1px;background:linear-gradient(90deg,transparent,rgba(255,255,255,.22),transparent)}
 .num{width:32px;height:32px;border-radius:999px;display:inline-flex;align-items:center;justify-content:center;background:rgba(154,183,255,.16);font-weight:900;margin-bottom:10px}
 .title{font-size:20px;font-weight:800;line-height:1.38;margin:10px 0}
 .take{margin-top:14px;padding:12px 14px;border-radius:16px;background:rgba(154,183,255,.08);border:1px solid rgba(154,183,255,.14);color:#eef3ff}
 a{color:#bfd2ff;text-decoration:none} a:hover{text-decoration:underline}
 .footer{margin-top:28px;color:var(--muted);font-size:13px}
-@media (max-width:900px){.topgrid{grid-template-columns:1fr}.wrap{padding:14px 12px 40px}.hero{padding:22px 18px}}
+@media (max-width:900px){.topgrid{grid-template-columns:1fr}.wrap{padding:14px 12px 40px}.hero{padding:22px 18px}.panel,.card{border-radius:24px}}
 </style>
 </head>
 <body>
