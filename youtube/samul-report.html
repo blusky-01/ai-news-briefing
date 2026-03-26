@@ -50,11 +50,12 @@ h3{margin:0 0 10px;font-size:18px}
 .bar-label{font-size:13px;color:#dfe8ff;white-space:nowrap;overflow:hidden;text-overflow:ellipsis}.bar-track{height:12px;background:rgba(255,255,255,.07);border-radius:999px;overflow:hidden;border:1px solid rgba(255,255,255,.08)}.bar-fill{height:100%;border-radius:999px;background:linear-gradient(90deg,var(--accent),var(--accent2))}.bar-value{font-size:12px;color:var(--muted);text-align:right}
 .pie-wrap{display:flex;gap:18px;align-items:center;justify-content:center;flex-wrap:wrap}.legend{display:grid;gap:10px;min-width:220px}.legend-item{display:grid;grid-template-columns:12px 1fr auto;gap:10px;align-items:center;font-size:13px;color:#e4ecff}.dot{width:12px;height:12px;border-radius:50%}
 .table{display:grid;gap:10px}.row{display:grid;grid-template-columns:56px 1fr 110px 110px;gap:10px;align-items:center;padding:12px 14px;border-radius:16px;background:rgba(255,255,255,.04);border:1px solid rgba(255,255,255,.08)}.row.head{background:rgba(124,156,255,.12);font-weight:700;color:#e9f0ff}
-.navdock{position:sticky;top:12px;z-index:50;padding:10px 12px;margin-bottom:18px}.navscroll{display:flex;gap:10px;overflow:auto;padding-bottom:2px}.navbtn{flex:0 0 auto;padding:10px 14px;border-radius:999px;border:1px solid rgba(255,255,255,.1);background:rgba(255,255,255,.04);color:#dfe8ff;font-size:13px;transition:.18s ease}.navbtn.active{background:rgba(124,156,255,.22);border-color:rgba(124,156,255,.38);color:#fff}
+.navdock{position:sticky;top:12px;z-index:50;padding:10px 12px;margin-bottom:18px}.navscroll{display:flex;gap:10px;overflow:auto;padding-bottom:2px;justify-content:center;scrollbar-width:none}.navscroll::-webkit-scrollbar{display:none}.navbtn{flex:0 0 auto;padding:10px 14px;border-radius:999px;border:1px solid rgba(255,255,255,.1);background:rgba(255,255,255,.04);color:#dfe8ff;font-size:13px;transition:.18s ease;white-space:nowrap}.navbtn.active{background:rgba(124,156,255,.22);border-color:rgba(124,156,255,.38);color:#fff}
 .topbtn{position:fixed;right:18px;bottom:18px;z-index:60;padding:12px 14px;border-radius:999px;background:rgba(124,156,255,.22);border:1px solid rgba(124,156,255,.32);box-shadow:var(--shadow);font-size:13px}
 hr.sep{border:none;border-top:1px solid rgba(255,255,255,.1);margin:14px 0}
-@media (max-width:1100px){.grid.cols-4{grid-template-columns:repeat(2,1fr)}.grid.two,.grid.charts{grid-template-columns:1fr}}
-@media (max-width:760px){h1{font-size:32px}.grid.cols-4{grid-template-columns:1fr}.row{grid-template-columns:46px 1fr 82px 82px}.bar-row{grid-template-columns:1fr}.bar-value{text-align:left}}
+.strategy-cards{display:grid;grid-template-columns:repeat(3,minmax(0,1fr));gap:12px}.strategy-card{padding:16px;border-radius:18px;background:rgba(255,255,255,.04);border:1px solid rgba(255,255,255,.08)}
+@media (max-width:1100px){.grid.cols-4{grid-template-columns:repeat(2,1fr)}.grid.two,.grid.charts,.strategy-cards{grid-template-columns:1fr}}
+@media (max-width:760px){h1{font-size:32px}.grid.cols-4{grid-template-columns:1fr}.row{grid-template-columns:46px 1fr 82px 82px}.bar-row{grid-template-columns:1fr}.bar-value{text-align:left}.navscroll{justify-content:flex-start}}
 </style>
 </head>
 <body>
@@ -81,7 +82,6 @@ hr.sep{border:none;border-top:1px solid rgba(255,255,255,.1);margin:14px 0}
       <a class="navbtn" href="#topics" data-target="topics">주제 방향</a>
       <a class="navbtn" href="#scripts" data-target="scripts">대본 포맷</a>
       <a class="navbtn" href="#rules" data-target="rules">운영 규칙</a>
-      <a class="navbtn" href="#status" data-target="status">현재 상태</a>
     </div>
   </nav>
 
@@ -178,11 +178,22 @@ hr.sep{border:none;border-top:1px solid rgba(255,255,255,.1);margin:14px 0}
 
   <section id="strategy" class="section card">
     <h2>신규 채널 포지셔닝 3안 설계</h2>
-    <div class="table">
-      <div class="row head"><div>안</div><div>포지셔닝</div><div>장점</div><div>리스크</div></div>
-      <div class="row"><div>A</div><div>냉정한 사물 연구소</div><div>AI/과학 느낌 강화</div><div>대중성 약화 가능</div></div>
-      <div class="row"><div>B</div><div>잔소리하지만 유능한 생활코치</div><div>대중성 높음</div><div>원조 채널과 유사</div></div>
-      <div class="row"><div>C</div><div>도발적인 현실 팩폭 채널</div><div>확산력 강함</div><div>선 넘으면 반감</div></div>
+    <div class="strategy-cards">
+      <div class="strategy-card">
+        <h3>A안. 냉정한 사물 연구소</h3>
+        <p><strong>장점:</strong> AI/과학 느낌 강화</p>
+        <p><strong>리스크:</strong> 너무 딱딱하면 대중성 약화</p>
+      </div>
+      <div class="strategy-card">
+        <h3>B안. 잔소리하지만 유능한 생활코치</h3>
+        <p><strong>장점:</strong> 대중성 높음</p>
+        <p><strong>리스크:</strong> 원조 채널과 유사해질 수 있음</p>
+      </div>
+      <div class="strategy-card">
+        <h3>C안. 도발적인 현실 팩폭 채널</h3>
+        <p><strong>장점:</strong> 확산력 강함</p>
+        <p><strong>리스크:</strong> 선 넘으면 반감 커짐</p>
+      </div>
     </div>
     <hr class="sep">
     <div class="quote"><strong>우선 추천은 B안 + A안 일부 혼합</strong>입니다. 너무 차갑지도, 너무 공격적이지도 않게 가면서 도움 되는 잔소리 캐릭터를 구축하는 방향이 가장 안정적입니다.</div>
@@ -256,19 +267,6 @@ hr.sep{border:none;border-top:1px solid rgba(255,255,255,.1);margin:14px 0}
     </div>
   </section>
 
-  <section id="status" class="section card">
-    <h2>현재 상태 정리</h2>
-    <div class="list">
-      <div class="list-item"><span class="badge">완료</span> 채널 분석 데이터 수집</div>
-      <div class="list-item"><span class="badge">완료</span> 통합 분석 대시보드 HTML 작성</div>
-      <div class="list-item"><span class="badge">완료</span> 성공공식 문서화</div>
-      <div class="list-item"><span class="badge">완료</span> 신규 채널 포지셔닝 3안 설계</div>
-      <div class="list-item"><span class="badge">완료</span> 첫 30개 주제 방향 정리</div>
-      <div class="list-item"><span class="badge">완료</span> 대본 생성 포맷 고정</div>
-      <div class="list-item"><span class="badge">완료</span> 썸네일/자막/캐릭터 말투 규칙 정리</div>
-      <div class="list-item"><strong>남은 마지막 단계</strong><br>GitHub 업로드 및 웹 배포</div>
-    </div>
-  </section>
 </div>
 
 <a href="#top" class="topbtn">맨 위로</a>
@@ -276,15 +274,24 @@ hr.sep{border:none;border-top:1px solid rgba(255,255,255,.1);margin:14px 0}
 <script>
 const sections = [...document.querySelectorAll('.section[id]')];
 const navLinks = [...document.querySelectorAll('.navbtn')];
+function setActiveNav(id){
+  navLinks.forEach(link => {
+    const active = link.dataset.target === id;
+    link.classList.toggle('active', active);
+    if (active) {
+      link.scrollIntoView({behavior:'smooth', inline:'center', block:'nearest'});
+    }
+  });
+}
 const observer = new IntersectionObserver((entries) => {
   entries.forEach(entry => {
     if (entry.isIntersecting) {
-      const id = entry.target.id;
-      navLinks.forEach(link => link.classList.toggle('active', link.dataset.target === id));
+      setActiveNav(entry.target.id);
     }
   });
 }, { rootMargin: '-20% 0px -65% 0px', threshold: 0.05 });
 sections.forEach(section => observer.observe(section));
+navLinks.forEach(link => link.addEventListener('click', () => setActiveNav(link.dataset.target)));
 </script>
 </body>
 </html>
