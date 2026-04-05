@@ -1,435 +1,135 @@
 {
   "date": "2026-04-06",
   "title": "미국 + 국내 AI 뉴스 통합 브리핑",
-  "subtitle": "2026년 4월 6일 · 팀장님용 데일리 브리핑 · 승부처는 모델 화제보다 자동화 침투력, 업무시스템 장악력, GPU 확보력, 정책 레버리지입니다",
-  "summary": "오늘 핵심은 AI 시장의 경쟁축이 더 분명하게 ‘에이전트형 자동화 + 업무시스템 내장 + 인프라/자금 확보’로 이동하고 있다는 점입니다. 미국 빅테크는 실행형 에이전트와 멀티모델 검증 구조를 앞세워 기업 워크플로우를 장악하려 하고, 국내는 GPU 공급·제조 AX·정책지원 플랫폼이 실제 도입 속도를 끌어올리고 있습니다. 팀장님 관점에서는 화제성보다 반복 업무를 얼마나 더 싸고 안정적으로 자동화하는지, 그리고 현장 시스템 안에 얼마나 깊게 박히는지가 핵심입니다.",
-  "summary_box": "자비스 판단: 우선순위는 ① 에이전트형 AI 자동화 ② 주요 모델 사업자 업그레이드와 제품 패키징 ③ ERP·오피스·심사 시스템 침투 ④ GPU·네트워크 인프라 ⑤ 정부지원사업/바우처 연결입니다. 데모형 뉴스보다 매출화 구조, 도입 난이도, 운영 단가, 락인 가능성을 먼저 봐야 합니다.",
+  "subtitle": "2026년 4월 6일 · 팀장님용 데일리 브리핑 · 오늘은 과한 탐색 없이 핵심만 압축",
+  "summary": "오늘 핵심은 AI 경쟁이 모델 화제보다 기업 배치, 업무 자동화, 오픈모델 확산, 현장 도입 투자로 더 선명하게 옮겨가고 있다는 점입니다.",
+  "summary_box": "자비스 판단: 오늘 포인트는 ① 기업용 AI 구축 경쟁 심화 ② 오픈모델·로컬 에이전트 확산 ③ 국내 현장 도입 투자 확대입니다.",
   "weather": {
-    "loc": "김해 · 2026-04-06 04:45 기준 · Open-Meteo",
-    "temp": "9.2°C",
-    "desc": "맑음 · 체감 7.9°C · 강수 0mm",
-    "icon": "☀️",
+    "loc": "김해 · 2026-04-06 04:51 기준 · wttr.in",
+    "temp": "11°C",
+    "desc": "구름 조금 · 체감 11°C · 강수 0mm",
+    "icon": "⛅",
     "badges": [
-      "구름량 5%",
-      "비 소식 없음",
-      "새벽·아침은 쌀쌀"
+      "습도 76%",
+      "남서풍 6km/h",
+      "출근 전 선선"
     ]
   },
   "cards": [
     {
       "meta": [
         "미국",
-        "OpenAI 공식/AI타임스",
-        "최근 공개 사항 반영"
-      ],
-      "country": "미국",
-      "category": "AI 자동화",
-      "entities": [
-        "OpenAI",
-        "GPT-5.4",
-        "ChatGPT",
-        "Codex"
-      ],
-      "keywords": [
-        "에이전트",
-        "컴퓨터유즈",
-        "업무자동화",
-        "코딩자동화"
-      ],
-      "title": "OpenAI, GPT-5.4 축으로 ‘답변형’보다 ‘실행형 업무 에이전트’ 전개를 가속",
-      "summary": "OpenAI는 GPT-5.4를 ChatGPT, API, Codex에 묶어 추론·코딩·툴 사용·컴퓨터 조작을 한 축으로 밀고 있다. 핵심은 단순 성능 경쟁이 아니라 문서·스프레드시트·웹 작업까지 이어지는 실전 자동화 범위를 넓히는 것이다.",
-      "take": "팀장님 기준으로는 모델 교체 뉴스가 아니라 사무·개발 자동화 단가가 더 내려가는 신호다. 내부 리서치, 문서 작성, 반복 개발업무 파일럿을 확대할 타이밍으로 볼 수 있다.",
-      "links": [
-        {
-          "label": "OpenAI",
-          "url": "https://openai.com/index/introducing-gpt-5-4/"
-        },
-        {
-          "label": "OpenAI Help",
-          "url": "https://help.openai.com/en/articles/9624314-model-release-notes"
-        },
-        {
-          "label": "AI타임스",
-          "url": "https://www.aitimes.com/news/articleView.html?idxno=207607"
-        }
-      ]
-    },
-    {
-      "meta": [
-        "미국",
         "Reuters",
-        "3월 30일"
-      ],
-      "country": "미국",
-      "category": "AI 자동화",
-      "entities": [
-        "Microsoft",
-        "Copilot",
-        "OpenAI",
-        "Anthropic"
-      ],
-      "keywords": [
-        "멀티모델",
-        "검증",
-        "오피스자동화",
-        "에이전트"
-      ],
-      "title": "MS, Copilot에 멀티모델 교차검증을 붙여 ‘신뢰 가능한 업무형 AI’로 승부",
-      "summary": "Reuters에 따르면 Microsoft는 Copilot Cowork와 Researcher 기능을 강화하면서 OpenAI GPT와 Anthropic Claude 출력을 함께 활용하는 Critique 구조를 도입했다. 생성과 검증을 분리해 실제 업무 품질을 높이려는 흐름이다.",
-      "take": "향후 ERP·문서·승인 시스템도 단일 모델보다 ‘주 생성 모델 + 교차 검증 모델’ 구조가 표준이 될 가능성이 높다. 팀장님 쪽 업무자동화도 멀티모델 orchestration 관점으로 설계하는 편이 안전하다.",
-      "links": [
-        {
-          "label": "Reuters",
-          "url": "https://www.reuters.com/business/microsoft-unveils-ai-upgrades-rolls-out-copilot-cowork-early-access-customers-2026-03-30/"
-        },
-        {
-          "label": "Reuters 2",
-          "url": "https://www.reuters.com/business/microsoft-taps-anthropic-copilot-cowork-push-ai-agents-2026-03-09/"
-        }
-      ]
-    },
-    {
-      "meta": [
-        "미국",
-        "Google 공식",
-        "최근 확장 전략"
-      ],
-      "country": "미국",
-      "category": "주요 모델 사업자 업그레이드",
-      "entities": [
-        "Google",
-        "Gemini 3.1 Pro",
-        "Vertex AI",
-        "NotebookLM"
-      ],
-      "keywords": [
-        "배포확장",
-        "엔터프라이즈",
-        "고급모델",
-        "생산성"
-      ],
-      "title": "Google, Gemini 3.1 Pro를 소비자·개발자·기업 채널에 동시 확장",
-      "summary": "Google은 Gemini 3.1 Pro를 API, Vertex AI, Gemini 앱, NotebookLM까지 함께 확장하며 연구 성능보다 배포 채널 장악을 앞세우고 있다. 같은 플래그십 모델을 여러 접점에 동시에 밀어 넣는 전략이 뚜렷하다.",
-      "take": "문서·지식자산 활용이 많은 조직일수록 Google 계열 에이전트가 빠르게 침투할 수 있다. 팀장님 관점에서는 기능 우위뿐 아니라 도구 락인 리스크와 전환비용을 같이 봐야 한다.",
-      "links": [
-        {
-          "label": "Google Blog",
-          "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-1-pro/"
-        }
-      ]
-    },
-    {
-      "meta": [
-        "미국",
-        "Google 공식",
-        "저원가 포지션"
-      ],
-      "country": "미국",
-      "category": "주요 모델 사업자 업그레이드",
-      "entities": [
-        "Google",
-        "Gemini 3.1 Flash-Lite",
-        "Google AI Studio",
-        "Vertex AI"
-      ],
-      "keywords": [
-        "저원가",
-        "고속응답",
-        "대량배포",
-        "반복업무"
-      ],
-      "title": "Google, Flash-Lite로 ‘싸고 빠른 반복업무 AI’ 시장 공략 강화",
-      "summary": "Google은 Gemini 3.1 Flash-Lite를 앞세워 번역, 콘텐츠 검수, UI 생성 같은 고빈도 업무용 저원가 모델 포지션을 강화하고 있다. 전사 배포에서 중요한 비용·속도·운영 안정성을 전면에 둔 전략이다.",
-      "take": "최고 지능보다 비용과 응답속도가 중요한 백오피스 자동화에는 이런 모델이 더 현실적이다. 팀장님 업무 중 대량 문서처리·고객응대 보조에 특히 유효하다.",
-      "links": [
-        {
-          "label": "Google Blog",
-          "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-1-flash-lite/"
-        }
-      ]
-    },
-    {
-      "meta": [
-        "미국",
-        "AI타임스",
-        "3일 전"
-      ],
-      "country": "미국",
-      "category": "주요 모델 사업자 업그레이드",
-      "entities": [
-        "Microsoft",
-        "MAI",
-        "음성모델",
-        "이미지모델"
-      ],
-      "keywords": [
-        "자체모델",
-        "멀티모달",
-        "원가통제",
-        "플랫폼경쟁"
-      ],
-      "title": "MS, MAI 시리즈로 자체 음성·이미지 모델 라인업 확대",
-      "summary": "AI타임스에 따르면 Microsoft는 MAI 시리즈 음성·이미지 모델을 공개하며 향후 최첨단 자체 모델 개발 의지도 밝혔다. 이는 외부 모델 의존도를 낮추고 Copilot 생태계 내 원가·품질 통제력을 높이려는 움직임으로 해석된다.",
-      "take": "빅테크는 이제 단일 파트너 모델을 붙이는 수준이 아니라 자체 모델 포트폴리오를 병행해 협상력과 마진을 방어하고 있다. 벤더 선택 시 ‘누가 더 오래 멀티벤더 구조를 유지할지’도 봐야 한다.",
-      "links": [
-        {
-          "label": "AI타임스",
-          "url": "https://www.aitimes.com/news/articleView.html?idxno=208751"
-        }
-      ]
-    },
-    {
-      "meta": [
-        "미국",
-        "Reuters",
-        "3월 19일"
-      ],
-      "country": "미국",
-      "category": "ERP/업무시스템",
-      "entities": [
-        "OpenAI",
-        "Astral",
-        "Codex",
-        "Anthropic"
-      ],
-      "keywords": [
-        "개발도구",
-        "생태계장악",
-        "워크플로우",
-        "락인"
-      ],
-      "title": "OpenAI의 Astral 인수는 개발 업무시스템 장악 전략으로 읽어야 함",
-      "summary": "Reuters는 OpenAI가 Python 툴메이커 Astral을 인수해 Codex와 개발 도구군 통합을 노린다고 보도했다. 이는 모델 판매보다 패키지 흐름, 실행 환경, 코드 품질 관리 같은 실제 업무면을 잡으려는 수다.",
-      "take": "사용자는 모델보다 ‘내가 매일 쓰는 시스템 안에서 바로 되느냐’를 본다. ERP도 같은 논리라서, 장기적으로는 툴체인 통합 사업자가 더 강해질 가능성이 높다.",
-      "links": [
-        {
-          "label": "Reuters",
-          "url": "https://www.reuters.com/technology/openai-buy-python-toolmaker-astral-take-anthropic-2026-03-19/"
-        }
-      ]
-    },
-    {
-      "meta": [
-        "국내",
-        "전자신문",
-        "4월 3일"
-      ],
-      "country": "국내",
-      "category": "ERP/업무시스템",
-      "entities": [
-        "AIWORKX",
-        "국내 카드사",
-        "기업카드",
-        "생성형 AI"
-      ],
-      "keywords": [
-        "심사자동화",
-        "비대면업무",
-        "업무시스템",
-        "도입사례"
-      ],
-      "title": "국내 카드 심사·발급 프로세스에 생성형 AI 자동화 수주가 본격화",
-      "summary": "전자신문에 따르면 AIWORKX는 국내 주요 카드사의 비대면 기업카드 신청·심사·발급 전 과정을 고도화하는 프로젝트를 수주했다. 생성형 AI가 챗봇을 넘어 기업 내부 심사 워크플로우와 문서 판단까지 들어가기 시작한 사례다.",
-      "take": "이런 실수주 레퍼런스가 국내 B2B AI 시장에서는 훨씬 중요하다. 팀장님 기준으로도 ERP·승인·심사·증빙 자동화는 바로 매출과 연결되기 쉬운 영역이다.",
-      "links": [
-        {
-          "label": "전자신문",
-          "url": "https://www.etnews.com/20260403000033"
-        }
-      ]
-    },
-    {
-      "meta": [
-        "국내",
-        "전자신문",
-        "4월 2일"
-      ],
-      "country": "국내",
-      "category": "반도체/GPU",
-      "entities": [
-        "엘리스그룹",
-        "아리스타네트웍스",
-        "GPU 클러스터",
-        "이더넷"
-      ],
-      "keywords": [
-        "GPU인프라",
-        "네트워크",
-        "클러스터링",
-        "운영효율"
-      ],
-      "title": "국내 GPU 경쟁은 장비 수급을 넘어 네트워크·클러스터 운영 역량으로 이동",
-      "summary": "전자신문에 따르면 엘리스그룹은 아리스타네트웍스와 손잡고 이더넷 기반 대규모 GPU 클러스터링 구현에 나섰다. 이제 경쟁 포인트는 GPU 보유량만이 아니라 추론·학습을 안정적으로 돌릴 네트워크와 운영 능력이다.",
-      "take": "GPU 숫자보다 실제 서비스 품질과 원가를 좌우하는 건 운영 효율이다. 투자 관점에서도 장비 판매보다 GPU 클러스터 운영·최적화 레이어를 같이 볼 필요가 있다.",
-      "links": [
-        {
-          "label": "전자신문",
-          "url": "https://www.etnews.com/20260402000334"
-        }
-      ]
-    },
-    {
-      "meta": [
-        "국내",
-        "전자신문",
-        "4월 2일"
-      ],
-      "country": "국내",
-      "category": "정부지원사업",
-      "entities": [
-        "경기도",
-        "제조 AI 솔루션 개발지원센터",
-        "중소 제조기업",
-        "산업부"
-      ],
-      "keywords": [
-        "제조AX",
-        "현장실증",
-        "중소기업",
-        "지역지원"
-      ],
-      "title": "경기도, 제조 AI 지원 2차년도를 본격화하며 현장 실증 확대",
-      "summary": "전자신문에 따르면 경기도는 중소 제조기업의 AI 도입을 지원하는 제조 AI 솔루션 개발지원센터 구축 사업 2차년도를 본격화했다. 실제 공장 현장 실증을 늘리는 방향이라 보여주기식이 아니라 도입 확산형 정책에 가깝다.",
-      "take": "팀장님 입장에서는 ‘지원사업’보다 ‘현장 적용 레퍼런스 누적’이 더 중요하다. 제조·업무 자동화 사업자는 이런 지역 실증 트랙을 잘 타면 영업비를 줄이고 사례를 쌓을 수 있다.",
-      "links": [
-        {
-          "label": "전자신문",
-          "url": "https://www.etnews.com/20260402000011"
-        }
-      ]
-    },
-    {
-      "meta": [
-        "국내",
-        "전자신문/AI타임스",
-        "3월~4월 진행형"
-      ],
-      "country": "국내",
-      "category": "정부지원사업",
-      "entities": [
-        "과기정통부",
-        "NIPA",
-        "국가 AI 프로젝트",
-        "GPU 3000장"
-      ],
-      "keywords": [
-        "GPU지원",
-        "정책자금",
-        "사업화",
-        "국가프로젝트"
-      ],
-      "title": "정부의 AI 고속도로·국가 AI 프로젝트는 ‘GPU+실증’ 패키지로 봐야 함",
-      "summary": "정부는 2조원대 GPU 인프라 강화사업, AI 고속도로, 국가 AI 프로젝트 선정과 GPU 지원을 동시에 밀고 있다. 단순 R&D 지원이 아니라 실증·상용화 속도를 끌어올리기 위한 실행 자원 공급 성격이 강하다.",
-      "take": "과제 규모보다 GPU·실증·레퍼런스·후속 납품 계약으로 이어지는 구조인지 먼저 봐야 한다. 초기 시장 진입 레버리지로는 여전히 유효하다.",
-      "links": [
-        {
-          "label": "전자신문 1",
-          "url": "https://www.etnews.com/20260312000399"
-        },
-        {
-          "label": "전자신문 2",
-          "url": "https://www.etnews.com/20260316000413"
-        },
-        {
-          "label": "AI타임스",
-          "url": "https://www.aitimes.com/news/articleView.html?idxno=208735"
-        }
-      ]
-    },
-    {
-      "meta": [
-        "국내",
-        "AI타임스",
-        "3일 전"
-      ],
-      "country": "국내",
-      "category": "국내 스타트업",
-      "entities": [
-        "OpenRouter",
-        "모델 선택 플랫폼",
-        "버셀",
-        "포트키"
-      ],
-      "keywords": [
-        "라우팅",
-        "멀티모델",
-        "인프라중개",
-        "기업가치"
-      ],
-      "title": "모델 선택 플랫폼 OpenRouter 고평가는 ‘멀티모델 중개 레이어’ 가치 상승 신호",
-      "summary": "AI타임스는 OpenRouter 기업가치가 1.9조원 수준에 근접했다고 전했다. 직접 모델을 만드는 회사보다 여러 모델을 연결·선택·관리하는 중간 레이어의 가치가 커지고 있다는 의미다.",
-      "take": "팀장님 관점에서도 특정 모델 1개보다 공급자 교체·비용통제·성능비교를 가능하게 하는 라우팅 레이어가 실무적으로 더 중요해질 수 있다. 투자 관점에서도 멀티모델 운영 툴은 별도 카테고리로 볼 만하다.",
-      "links": [
-        {
-          "label": "AI타임스",
-          "url": "https://www.aitimes.com/news/articleView.html?idxno=208722"
-        }
-      ]
-    },
-    {
-      "meta": [
-        "국내",
-        "AI타임스",
-        "3월 1일"
-      ],
-      "country": "국내",
-      "category": "국내 스타트업",
-      "entities": [
-        "팀모노리스",
-        "Slack",
-        "HWP",
-        "코들"
-      ],
-      "keywords": [
-        "AX",
-        "업무자동화",
-        "로컬포맷",
-        "현장도입"
-      ],
-      "title": "국내 스타트업 기회는 여전히 ‘한국형 업무흐름’ 자동화에 있음",
-      "summary": "AI타임스는 팀모노리스가 슬랙 상주형 AI 동료와 HWP 자동화 파이프라인으로 데이터 분석·문서화 시간을 크게 줄였다고 전했다. 해외 범용 툴이 놓치는 HWP, 현장 보고서, 내부 협업 흐름을 직접 풀어낸 점이 핵심이다.",
-      "take": "국내 스타트업의 기회는 거대 모델 경쟁보다 한국형 포맷과 승인 흐름 해결에 있다. HWP, 공공 문서, 메신저 기반 협업 자동화는 아직 공백이 크다.",
-      "links": [
-        {
-          "label": "AI타임스",
-          "url": "https://www.aitimes.com/news/articleView.html?idxno=207413"
-        }
-      ]
-    },
-    {
-      "meta": [
-        "미국",
-        "Reuters",
-        "3월 16~23일"
+        "4월 1일"
       ],
       "country": "미국",
       "category": "투자/시장",
       "entities": [
         "OpenAI",
-        "Anthropic",
-        "Private Equity",
-        "Enterprise AI"
+        "Amazon",
+        "Microsoft",
+        "Alphabet"
       ],
       "keywords": [
-        "엔터프라이즈",
-        "커스터마이징",
-        "구축형매출",
-        "시장재편"
+        "기업AI",
+        "인프라",
+        "CAPEX",
+        "시장경쟁"
       ],
-      "title": "OpenAI·Anthropic 경쟁은 API 판매보다 ‘기업 맞춤 구축 사업’으로 이동",
-      "summary": "Reuters에 따르면 OpenAI는 사모펀드와의 합작 구조까지 검토하며 기업 고객 맞춤형 AI 구축 비용을 흡수하려 한다. 엔지니어 투입과 현장 구현을 포함한 구축형 매출 모델이 더 중요해진 흐름이다.",
-      "take": "모델 성능보다 고객 업무흐름에 깊게 들어가 장기 매출을 만드는 능력이 더 중요해졌다. 팀장님이 파트너를 볼 때도 데모보다 현장 커스터마이징 역량과 운영 구조를 먼저 봐야 한다.",
+      "title": "Reuters: OpenAI 경쟁의 본질이 모델 홍보보다 자본·인프라 확보전으로 이동",
+      "summary": "Reuters는 OpenAI의 초고속 성장 이면에 막대한 인프라 수요와 집중 리스크가 있다고 짚었다. 결국 승부는 누가 더 많은 사용자를 붙이느냐보다 누가 더 오래 감당 가능한 비용 구조를 확보하느냐에 가깝다.",
+      "take": "팀장님 기준으론 성능 비교보다 운영 단가와 공급 안정성이 더 중요하다는 신호다.",
       "links": [
         {
-          "label": "Reuters 1",
-          "url": "https://www.reuters.com/business/openai-courts-private-equity-join-enterprise-ai-venture-sources-say-2026-03-16/"
-        },
+          "label": "Reuters",
+          "url": "https://www.reuters.com/technology/artificial-intelligence/artificial-intelligencer-openais-852-billion-problem-finding-focus-2026-04-01/"
+        }
+      ]
+    },
+    {
+      "meta": [
+        "미국",
+        "Reuters",
+        "3월 21일"
+      ],
+      "country": "미국",
+      "category": "기업 확장",
+      "entities": [
+        "OpenAI",
+        "ChatGPT"
+      ],
+      "keywords": [
+        "채용",
+        "제품확장",
+        "엔터프라이즈",
+        "성장"
+      ],
+      "title": "OpenAI, 2026년 말까지 대규모 채용 확대 추진",
+      "summary": "Reuters 인용 보도에 따르면 OpenAI는 제품·엔지니어링·세일즈 중심으로 인력을 크게 늘릴 계획이다. 이는 연구 경쟁만이 아니라 엔터프라이즈 확장과 현장 배치를 동시에 밀겠다는 뜻으로 읽힌다.",
+      "take": "단순 모델 회사가 아니라 구축·영업 조직까지 키우는 단계라 국내 도입시장에도 영향이 크다.",
+      "links": [
         {
-          "label": "Reuters 2",
-          "url": "https://www.reuters.com/business/openai-sweetens-private-equity-pitch-amid-enterprise-turf-war-with-anthropic-2026-03-23/"
+          "label": "Reuters",
+          "url": "https://www.reuters.com/business/openai-nearly-double-workforce-8000-by-end-2026-ft-reports-2026-03-21/"
+        }
+      ]
+    },
+    {
+      "meta": [
+        "국내",
+        "AI타임스",
+        "4월 3일"
+      ],
+      "country": "국내",
+      "category": "오픈모델",
+      "entities": [
+        "Google",
+        "Gemma 4"
+      ],
+      "keywords": [
+        "오픈모델",
+        "로컬에이전트",
+        "저비용",
+        "개발생태계"
+      ],
+      "title": "구글 젬마 4 공개, 로컬 에이전트용 오픈모델 축이 다시 강화",
+      "summary": "AI타임스는 구글이 젬마 4 계열을 아파치 2.0 라이선스로 공개했다고 전했다. 가벼운 배포와 로컬 실행 친화성이 강조돼, 폐쇄형 API만이 아니라 현장 맞춤형 에이전트 수요도 계속 커질 가능성이 높다.",
+      "take": "팀장님 관점에선 비용 민감한 자동화엔 오픈모델 카드도 계속 유효하다.",
+      "links": [
+        {
+          "label": "AI타임스",
+          "url": "https://www.aitimes.com/news/articleView.html?idxno=208746"
+        }
+      ]
+    },
+    {
+      "meta": [
+        "국내",
+        "전자신문",
+        "3월 31일"
+      ],
+      "country": "국내",
+      "category": "도입/투자",
+      "entities": [
+        "국내 대학",
+        "AI 플랫폼"
+      ],
+      "keywords": [
+        "AI투자",
+        "디지털전환",
+        "플랫폼",
+        "현장도입"
+      ],
+      "title": "국내 주요 대학, AI 플랫폼 투자 확대 흐름 가속",
+      "summary": "전자신문은 주요 대학들이 등록금 인상분 등을 바탕으로 AI 플랫폼 기반 디지털 전환 투자 확대에 나서고 있다고 전했다. 국내에서도 실사용 시스템 예산이 움직이는 흐름이 이어지고 있다.",
+      "take": "B2B 시장은 여전히 화제성보다 실제 예산 집행처가 어디냐가 핵심이다.",
+      "links": [
+        {
+          "label": "전자신문",
+          "url": "https://www.etnews.com/20260331000051"
         }
       ]
     }
   ],
-  "footer": "데이터 소스: OpenAI, Google Blog, Reuters, AI타임스, 전자신문, Open-Meteo · 사업성/투자성/실행성 우선 선별"
+  "footer": "데이터 소스: Reuters, AI타임스, 전자신문, wttr.in · 최소 카드 기준으로 압축"
 }
