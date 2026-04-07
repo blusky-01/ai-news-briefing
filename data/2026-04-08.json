@@ -1,0 +1,138 @@
+{
+  "date": "2026-04-08",
+  "title": "미국 + 국내 AI 뉴스 통합 브리핑",
+  "subtitle": "2026년 4월 8일 · 팀장님용 데일리 브리핑 · 핵심만 빠르게 압축",
+  "summary": "오늘 핵심은 AI 경쟁이 모델 화제보다 인프라 투자, 수익화 구조, 현장 도입 속도로 더 선명하게 이동하고 있다는 점입니다.",
+  "summary_box": "자비스 판단: 오늘 포인트는 ① 미국은 AI 경쟁의 무게중심이 인프라·비용 구조로 이동 ② 국내는 AX 조직 개편과 현장 도입형 AI가 더 빨라짐 ③ 실전 승부는 모델 데모보다 공급력과 운영 효율입니다.",
+  "weather": {
+    "loc": "김해 · 2026-04-08 08:31 기준 · wttr.in",
+    "temp": "5°C",
+    "desc": "맑음 · 체감 5°C · 강수 0mm",
+    "icon": "☀️",
+    "badges": [
+      "습도 65%",
+      "북북서풍 4km/h",
+      "아침 쌀쌀"
+    ]
+  },
+  "cards": [
+    {
+      "meta": [
+        "미국",
+        "Reuters",
+        "4월 1일"
+      ],
+      "country": "미국",
+      "category": "투자/시장",
+      "entities": [
+        "OpenAI",
+        "Amazon",
+        "Microsoft",
+        "Alphabet",
+        "Meta"
+      ],
+      "keywords": [
+        "기업AI",
+        "인프라",
+        "CAPEX",
+        "비용구조"
+      ],
+      "title": "Reuters: AI 승부의 핵심이 모델 과시보다 인프라·비용 감당력으로 이동",
+      "summary": "Reuters는 OpenAI 성장 이면의 대규모 컴퓨팅 비용 부담과 함께, Amazon·Microsoft·Alphabet·Meta의 2026년 투자 확대 전망을 짚었다. 시장 초점이 누가 더 강한 모델을 과시하느냐보다 누가 더 오래 버틸 인프라와 자본을 확보하느냐로 이동하는 흐름이다.",
+      "take": "팀장님 관점에선 이제 모델 스펙보다 운영 단가와 공급 체력이 더 중요한 국면입니다.",
+      "links": [
+        {
+          "label": "Reuters",
+          "url": "https://www.reuters.com/technology/artificial-intelligence/artificial-intelligencer-openais-852-billion-problem-finding-focus-2026-04-01/"
+        }
+      ]
+    },
+    {
+      "meta": [
+        "미국",
+        "Reuters",
+        "4월 3일"
+      ],
+      "country": "미국",
+      "category": "인프라/확장",
+      "entities": [
+        "Microsoft",
+        "Japan"
+      ],
+      "keywords": [
+        "AI인프라",
+        "투자",
+        "클라우드",
+        "사이버보안"
+      ],
+      "title": "Microsoft, 일본에 100억달러 투자로 AI 인프라 확장 가속",
+      "summary": "Reuters에 따르면 Microsoft는 2026~2029년 일본의 AI 인프라 확대와 사이버보안 협력을 위해 100억달러를 투자할 계획이다. 대형 사업자 경쟁이 서비스 기능보다 권역별 데이터센터·클라우드 선점전으로 커지는 흐름을 보여준다.",
+      "take": "AI는 기능 경쟁을 넘어 국가·권역 단위 인프라 선점 경쟁으로 확대되고 있습니다.",
+      "links": [
+        {
+          "label": "Reuters",
+          "url": "https://www.reuters.com/business/media-telecom/microsoft-invest-10-billion-japan-ai-cyber-defence-expansion-2026-04-03/"
+        }
+      ]
+    },
+    {
+      "meta": [
+        "국내",
+        "전자신문",
+        "4월 7일"
+      ],
+      "country": "국내",
+      "category": "기업/AX",
+      "entities": [
+        "이통3사",
+        "SKT",
+        "KT",
+        "LG유플러스"
+      ],
+      "keywords": [
+        "AX",
+        "수익화",
+        "조직개편",
+        "보안"
+      ],
+      "title": "전자신문: 이통 3사, 2026년 AI 성과·슬림화·보안 중심으로 진용 재편",
+      "summary": "전자신문은 국내 이동통신 3사가 올해 조직개편에서 AX 가속, AI 수익화, 보안 거버넌스 강화를 핵심축으로 잡았다고 전했다. AI를 보여주기식 기능보다 실제 사업성과와 운영 효율 중심으로 정렬하는 분위기가 강해졌다.",
+      "take": "국내 대기업도 이제 AI를 실험이 아니라 수익과 운영 체계 문제로 다루는 흐름입니다.",
+      "links": [
+        {
+          "label": "전자신문",
+          "url": "https://www.etnews.com/20260407000184"
+        }
+      ]
+    },
+    {
+      "meta": [
+        "국내",
+        "전자신문",
+        "4월 2일"
+      ],
+      "country": "국내",
+      "category": "국방/산업",
+      "entities": [
+        "펀진",
+        "국방AX"
+      ],
+      "keywords": [
+        "국방AI",
+        "소프트웨어무기",
+        "로봇",
+        "인프라전환"
+      ],
+      "title": "전자신문: 국방 AX 논의에서 AI 전장의 핵심을 소프트웨어·로봇 결합으로 제시",
+      "summary": "전자신문 보도에 따르면 국방 AI 전환 논의에서 미래 전장의 핵심이 로봇과 소프트웨어 정의 무기체계의 결합이라는 진단이 나왔다. AI 활용 범위가 사무 보조를 넘어 현장형·실전형 시스템으로 넓어지는 흐름을 보여준다.",
+      "take": "국내 AI 확산은 문서 자동화뿐 아니라 현장형·산업형 시스템으로 더 빨리 번지는 모습입니다.",
+      "links": [
+        {
+          "label": "전자신문",
+          "url": "https://www.etnews.com/20260402000352"
+        }
+      ]
+    }
+  ],
+  "footer": "데이터 소스: Reuters, 전자신문, wttr.in · 최소 카드 기준 압축"
+}
