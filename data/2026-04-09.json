@@ -1,0 +1,135 @@
+{
+  "date": "2026-04-09",
+  "title": "미국 + 국내 AI 뉴스 통합 브리핑",
+  "subtitle": "2026년 4월 9일 · 팀장님용 데일리 브리핑 · 핵심만 빠르게 압축",
+  "summary": "오늘 핵심은 AI 경쟁의 무게중심이 모델 화제보다 인프라 투자, 서비스 탑재, 실제 운영 효율로 더 또렷하게 이동하고 있다는 점입니다.",
+  "summary_box": "자비스 판단: 오늘 포인트는 ① 미국은 신모델 공개와 인프라 투자 확대가 동시에 진행 ② 국내는 AX 성과·운영·현장 적용 중심 흐름이 강화 ③ 실전 승부는 데모보다 공급력과 운영 효율입니다.",
+  "weather": {
+    "loc": "김해 · 2026-04-09 08:30 기준 · Open-Meteo",
+    "temp": "10.7°C",
+    "desc": "이슬비 · 체감 9.6°C · 강수 0.3mm",
+    "icon": "🌦️",
+    "badges": [
+      "습도 94%",
+      "풍속 6.9km/h",
+      "아침 서늘"
+    ]
+  },
+  "cards": [
+    {
+      "meta": [
+        "미국",
+        "Reuters",
+        "4월 8일"
+      ],
+      "country": "미국",
+      "category": "모델/서비스",
+      "entities": [
+        "Meta",
+        "Muse Spark"
+      ],
+      "keywords": [
+        "신모델",
+        "서비스탑재",
+        "경쟁심화",
+        "생태계"
+      ],
+      "title": "Reuters: Meta, 초지능 팀 첫 AI 모델 'Muse Spark' 공개",
+      "summary": "Reuters에 따르면 Meta는 경쟁사 추격을 위해 꾸린 초지능 팀의 첫 모델 Muse Spark를 공개했다. 새 모델은 Meta AI 앱과 주요 서비스 탑재 확대 흐름과 연결되며, 대형 사업자 경쟁이 연구 발표보다 실제 사용자 접점 확대 쪽으로 이동하고 있음을 보여준다.",
+      "take": "미국 빅테크 AI 경쟁은 이제 모델 발표 자체보다 얼마나 빨리 자사 서비스에 녹여내느냐가 핵심입니다.",
+      "links": [
+        {
+          "label": "Reuters",
+          "url": "https://www.reuters.com/sustainability/sustainable-finance-reporting/meta-unveils-first-ai-model-superintelligence-team-2026-04-08/"
+        }
+      ]
+    },
+    {
+      "meta": [
+        "미국",
+        "Reuters",
+        "4월 3일"
+      ],
+      "country": "미국",
+      "category": "인프라/확장",
+      "entities": [
+        "Microsoft",
+        "Japan"
+      ],
+      "keywords": [
+        "AI인프라",
+        "투자",
+        "클라우드",
+        "사이버보안"
+      ],
+      "title": "Microsoft, 일본에 100억달러 투자로 AI 인프라 확장 가속",
+      "summary": "Reuters는 Microsoft가 2026~2029년 일본의 AI 인프라와 사이버보안 협력을 위해 100억달러를 투자한다고 전했다. AI 경쟁이 기능 시연을 넘어 권역별 데이터센터와 공급능력 확보전으로 커지는 흐름이다.",
+      "take": "결국 AI 승부는 모델 성능만이 아니라 지역 단위 인프라 선점과 장기 투자 여력입니다.",
+      "links": [
+        {
+          "label": "Reuters",
+          "url": "https://www.reuters.com/business/media-telecom/microsoft-invest-10-billion-japan-ai-cyber-defence-expansion-2026-04-03/"
+        }
+      ]
+    },
+    {
+      "meta": [
+        "국내",
+        "전자신문",
+        "4월 7일"
+      ],
+      "country": "국내",
+      "category": "기업/AX",
+      "entities": [
+        "이통3사",
+        "SKT",
+        "KT",
+        "LG유플러스"
+      ],
+      "keywords": [
+        "AX",
+        "수익화",
+        "조직개편",
+        "보안"
+      ],
+      "title": "전자신문: 이통 3사, 2026년 AI 성과·슬림화·보안 중심으로 진용 재편",
+      "summary": "전자신문은 국내 이동통신 3사가 올해 조직개편에서 AX 가속, AI 수익화, 보안 거버넌스 강화를 핵심축으로 잡았다고 전했다. AI를 보여주기식 기능보다 실제 사업성과와 운영 효율 중심으로 정렬하는 분위기가 강해졌다.",
+      "take": "국내 대기업도 AI를 실험이 아니라 성과와 운영 체계 문제로 다루는 흐름입니다.",
+      "links": [
+        {
+          "label": "전자신문",
+          "url": "https://www.etnews.com/20260407000184"
+        }
+      ]
+    },
+    {
+      "meta": [
+        "국내",
+        "전자신문",
+        "4월 2일"
+      ],
+      "country": "국내",
+      "category": "산업/현장적용",
+      "entities": [
+        "지케스",
+        "연세대 AI기술연구센터"
+      ],
+      "keywords": [
+        "통합관제",
+        "산업AI",
+        "운영자동화",
+        "현장적용"
+      ],
+      "title": "전자신문: 지케스·연세대, 차세대 AI 통합관제 연구 협력 본격화",
+      "summary": "전자신문 보도에 따르면 지케스와 연세대 AI기술연구센터가 AI 기반 인프라 모니터링·운영관리 고도화를 위한 협력을 추진한다. 국내 AI 도입이 문서 보조를 넘어 운영 자동화와 현장 시스템으로 확장되는 흐름을 보여준다.",
+      "take": "국내 AI 확산은 이제 현장 운영과 관제 효율 개선 쪽에서 더 빨리 체감될 가능성이 큽니다.",
+      "links": [
+        {
+          "label": "전자신문",
+          "url": "https://www.etnews.com/20260402000114"
+        }
+      ]
+    }
+  ],
+  "footer": "데이터 소스: Reuters, 전자신문, Open-Meteo · 최소 카드 기준 압축"
+}
