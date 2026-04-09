@@ -1,0 +1,134 @@
+{
+  "date": "2026-04-10",
+  "title": "미국 + 국내 AI 뉴스 통합 브리핑",
+  "subtitle": "2026년 4월 10일 · 팀장님용 데일리 브리핑 · 핵심만 빠르게 압축",
+  "summary": "오늘 핵심은 AI 경쟁이 신모델보다 인프라 확보, 기업 제휴, 실제 사업 적용 속도로 더 선명하게 재편되고 있다는 점입니다.",
+  "summary_box": "자비스 판단: 오늘 포인트는 ① 미국은 대형 인프라·클라우드 계약과 공급력 확대 ② 국내는 AI 경쟁력·데이터센터·현장 적용 이슈 부각 ③ 실전 승부는 화제성보다 운영력과 상용화 속도입니다.",
+  "weather": {
+    "loc": "김해 · 2026-04-10 08:30 기준 · wttr.in",
+    "temp": "17°C",
+    "desc": "흐림 · 체감 17°C · 강수 0.0mm",
+    "icon": "☁️",
+    "badges": [
+      "습도 88%",
+      "풍속 16km/h",
+      "가시거리 9km"
+    ]
+  },
+  "cards": [
+    {
+      "meta": [
+        "미국",
+        "Reuters",
+        "4월 9일"
+      ],
+      "country": "미국",
+      "category": "인프라/클라우드",
+      "entities": [
+        "Meta",
+        "CoreWeave"
+      ],
+      "keywords": [
+        "AI클라우드",
+        "대형계약",
+        "인프라",
+        "공급력"
+      ],
+      "title": "Reuters: Meta·CoreWeave, 210억달러 규모 AI 클라우드 계약 확대",
+      "summary": "Reuters에 따르면 CoreWeave와 Meta는 약 210억달러 규모의 신규 AI 클라우드 계약을 맺었다. AI 경쟁이 모델 발표를 넘어 실제 연산 자원과 공급 계약 확보전으로 이동하고 있음을 보여준다.",
+      "take": "미국 AI 경쟁의 핵심은 이제 누가 더 큰 GPU·클라우드 공급력을 안정적으로 확보하느냐입니다.",
+      "links": [
+        {
+          "label": "Reuters",
+          "url": "https://www.reuters.com/business/coreweave-signs-21-billion-ai-cloud-deal-with-meta-2026-04-09/"
+        }
+      ]
+    },
+    {
+      "meta": [
+        "미국",
+        "Reuters",
+        "4월 9일"
+      ],
+      "country": "미국",
+      "category": "인프라/시장",
+      "entities": [
+        "OpenAI",
+        "Nvidia",
+        "Oracle"
+      ],
+      "keywords": [
+        "AI인프라",
+        "투자",
+        "데이터센터",
+        "수요급증"
+      ],
+      "title": "Reuters: OpenAI·Nvidia 등, AI 인프라 투자 경쟁 본격화",
+      "summary": "Reuters는 OpenAI부터 Nvidia까지 주요 기업들이 데이터센터와 AI 인프라 확장에 대규모 자금을 투입하고 있다고 전했다. 생성형 AI 경쟁의 병목이 모델보다 인프라로 이동한 흐름이 더 뚜렷해졌다.",
+      "take": "상반기 AI 시장의 진짜 승부처는 모델 성능보다 인프라 증설 속도와 비용 통제입니다.",
+      "links": [
+        {
+          "label": "Reuters",
+          "url": "https://www.reuters.com/business/autos-transportation/companies-pouring-billions-advance-ai-infrastructure-2026-04-09/"
+        }
+      ]
+    },
+    {
+      "meta": [
+        "국내",
+        "전자신문",
+        "4월 8일"
+      ],
+      "country": "국내",
+      "category": "산업/경쟁력",
+      "entities": [
+        "클래리베이트",
+        "한국 기업"
+      ],
+      "keywords": [
+        "AI경쟁력",
+        "IP전략",
+        "다학제협력",
+        "혁신"
+      ],
+      "title": "전자신문: AI 시대 한국 기업 경쟁력, 협업·IP 전략 강화 필요",
+      "summary": "전자신문은 클래리베이트 분석을 인용해 AI 시대 한국 기업 경쟁력 강화를 위해 다학제 협력과 지식재산 전략이 중요하다고 전했다. 국내에서도 AI를 단순 도입이 아닌 경쟁력 체계로 보는 시각이 강화되고 있다.",
+      "take": "국내 AI 경쟁은 기능 도입보다 기술 축적과 IP 확보를 함께 보는 단계로 넘어가고 있습니다.",
+      "links": [
+        {
+          "label": "전자신문",
+          "url": "https://www.etnews.com/20260408000155"
+        }
+      ]
+    },
+    {
+      "meta": [
+        "국내",
+        "전자신문",
+        "4월 8일"
+      ],
+      "country": "국내",
+      "category": "인프라/데이터센터",
+      "entities": [
+        "파네시아",
+        "K-클라우드"
+      ],
+      "keywords": [
+        "AI데이터센터",
+        "인터커넥트",
+        "국책과제",
+        "인프라"
+      ],
+      "title": "전자신문: 파네시아, AI 데이터센터 인터커넥트 사업 확장",
+      "summary": "전자신문에 따르면 파네시아는 K-클라우드 대형 국책과제를 수주하며 UALink·이더넷 기반 AI 데이터센터 인터커넥트 영역으로 사업을 넓히고 있다. 국내도 AI 인프라 핵심 부품·연결 기술 투자 흐름이 빨라지는 모습이다.",
+      "take": "국내 역시 AI 서비스보다 먼저 데이터센터 연결성과 기반 장비 경쟁력이 중요해지고 있습니다.",
+      "links": [
+        {
+          "label": "전자신문",
+          "url": "https://www.etnews.com/20260408000455"
+        }
+      ]
+    }
+  ],
+  "footer": "데이터 소스: Reuters, 전자신문, wttr.in · 최소 카드 기준 압축"
+}
