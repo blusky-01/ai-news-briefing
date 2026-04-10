@@ -1,0 +1,134 @@
+{
+  "date": "2026-04-11",
+  "title": "미국 + 국내 AI 뉴스 통합 브리핑",
+  "subtitle": "2026년 4월 11일 · 팀장님용 데일리 브리핑 · 핵심만 빠르게 압축",
+  "summary": "오늘 핵심은 AI 경쟁이 신모델 발표보다 인프라 공급 계약, 데이터 확보, 실제 산업 전환 속도로 더 선명하게 갈리고 있다는 점입니다.",
+  "summary_box": "자비스 판단: 오늘 포인트는 ① 미국은 대형 AI 클라우드 계약과 인프라 투자 가속 ② 국내는 공공 데이터 개방과 AI 전환 기반 정비 ③ 실전 승부는 화제보다 공급력·데이터·현장 적용입니다.",
+  "weather": {
+    "loc": "김해 · 2026-04-11 08:29 기준 · wttr.in",
+    "temp": "11°C",
+    "desc": "맑음 · 체감 10°C · 강수 0.0mm",
+    "icon": "☀️",
+    "badges": [
+      "습도 71%",
+      "풍속 9km/h",
+      "가시거리 10km"
+    ]
+  },
+  "cards": [
+    {
+      "meta": [
+        "미국",
+        "Reuters",
+        "4월 10일"
+      ],
+      "country": "미국",
+      "category": "인프라/클라우드",
+      "entities": [
+        "CoreWeave",
+        "Anthropic"
+      ],
+      "keywords": [
+        "AI클라우드",
+        "대형계약",
+        "인프라",
+        "수요확대"
+      ],
+      "title": "Reuters: CoreWeave, Anthropic과 AI 클라우드 계약 체결",
+      "summary": "Reuters에 따르면 CoreWeave가 Anthropic과 신규 AI 클라우드 계약을 체결했다. 대형 모델 기업들이 직접 인프라 공급선을 넓히는 흐름이 이어지고 있다.",
+      "take": "미국 시장은 모델 경쟁 못지않게 안정적 GPU·클라우드 확보전이 더 강해지고 있습니다.",
+      "links": [
+        {
+          "label": "Reuters",
+          "url": "https://www.reuters.com/legal/transactional/coreweave-strikes-ai-cloud-deal-with-anthropic-shares-rise-2026-04-10/"
+        }
+      ]
+    },
+    {
+      "meta": [
+        "미국",
+        "Reuters",
+        "4월 9일"
+      ],
+      "country": "미국",
+      "category": "인프라/시장",
+      "entities": [
+        "Meta",
+        "CoreWeave",
+        "Nvidia"
+      ],
+      "keywords": [
+        "AI인프라",
+        "클라우드",
+        "GPU",
+        "투자확대"
+      ],
+      "title": "Reuters: Meta·CoreWeave, 210억달러 규모 AI 클라우드 계약 확대",
+      "summary": "Meta와 CoreWeave의 대형 계약 확대는 생성형 AI 경쟁이 실제 연산 자원 확보 중심으로 재편되고 있음을 보여준다.",
+      "take": "상반기 미국 AI 승부는 누가 더 큰 공급력을 먼저 잠그느냐에 달렸습니다.",
+      "links": [
+        {
+          "label": "Reuters",
+          "url": "https://www.reuters.com/business/coreweave-signs-21-billion-ai-cloud-deal-with-meta-2026-04-09/"
+        }
+      ]
+    },
+    {
+      "meta": [
+        "국내",
+        "전자신문",
+        "4월 10일"
+      ],
+      "country": "국내",
+      "category": "정책/데이터",
+      "entities": [
+        "과기정통부",
+        "공공부문"
+      ],
+      "keywords": [
+        "AI학습데이터",
+        "공공데이터",
+        "정책",
+        "개방"
+      ],
+      "title": "전자신문: 정부·공공 AI 학습용 데이터 전수조사, 100종 공개 목표",
+      "summary": "전자신문에 따르면 정부가 공공부문 AI 학습용 데이터 자산을 전수조사하고 100종 공개를 목표로 통합 제공 기반을 강화하고 있다.",
+      "take": "국내는 모델 경쟁보다 실제 활용 가능한 데이터 풀을 넓히는 기반 작업이 빨라지고 있습니다.",
+      "links": [
+        {
+          "label": "전자신문",
+          "url": "https://www.etnews.com/20260410000043"
+        }
+      ]
+    },
+    {
+      "meta": [
+        "국내",
+        "전자신문",
+        "4월 8일"
+      ],
+      "country": "국내",
+      "category": "인프라/데이터센터",
+      "entities": [
+        "파네시아",
+        "K-클라우드"
+      ],
+      "keywords": [
+        "AI데이터센터",
+        "인터커넥트",
+        "인프라",
+        "국책과제"
+      ],
+      "title": "전자신문: 파네시아, AI 데이터센터 인터커넥트 사업 확장",
+      "summary": "파네시아가 K-클라우드 대형 국책과제를 바탕으로 AI 데이터센터 인터커넥트 영역을 확장하고 있다. 국내에서도 기반 장비·연결 기술 투자가 이어지는 모습이다.",
+      "take": "국내 AI 경쟁력은 서비스보다 먼저 데이터센터 연결성과 기반 기술 축적에서 갈릴 가능성이 큽니다.",
+      "links": [
+        {
+          "label": "전자신문",
+          "url": "https://www.etnews.com/20260408000455"
+        }
+      ]
+    }
+  ],
+  "footer": "데이터 소스: Reuters, 전자신문, wttr.in · 최소 카드 기준 압축"
+}
