@@ -1,0 +1,133 @@
+{
+  "date": "2026-04-12",
+  "title": "미국 + 국내 AI 뉴스 통합 브리핑",
+  "subtitle": "2026년 4월 12일 · 팀장님용 데일리 브리핑 · 핵심만 빠르게 압축",
+  "summary": "오늘 핵심은 AI 경쟁이 신모델 화제보다 인프라 투자, 대형 계약, 산업 현장 적용 속도에서 더 뚜렷하게 갈리고 있다는 점입니다.",
+  "summary_box": "자비스 판단: 오늘 포인트는 ① 미국은 AI 인프라·클라우드 투자와 공급력 경쟁 가속 ② 국내는 헬스케어·농업 등 현장 AX 확대 ③ 실전 승부는 모델 발표보다 자원 확보와 산업 적용 속도입니다.",
+  "weather": {
+    "loc": "김해 · 2026-04-12 07:04 기준 · wttr.in",
+    "temp": "12°C",
+    "desc": "구름 조금 · 체감 12°C · 강수 0.0mm",
+    "icon": "⛅",
+    "badges": [
+      "습도 54%",
+      "풍속 8km/h",
+      "가시거리 10km"
+    ]
+  },
+  "cards": [
+    {
+      "meta": [
+        "미국",
+        "Reuters",
+        "4월 10일"
+      ],
+      "country": "미국",
+      "category": "인프라/클라우드",
+      "entities": [
+        "CoreWeave",
+        "Anthropic"
+      ],
+      "keywords": [
+        "AI클라우드",
+        "대형계약",
+        "인프라",
+        "GPU수요"
+      ],
+      "title": "Reuters: CoreWeave, Anthropic과 AI 클라우드 계약 체결",
+      "summary": "Reuters에 따르면 CoreWeave가 Anthropic과 신규 AI 클라우드 계약을 맺었다. 대형 모델 기업들이 직접 연산 자원 확보를 넓히는 흐름이 이어지고 있다.",
+      "take": "미국 시장은 모델 경쟁 못지않게 안정적 GPU·클라우드 공급선 선점전이 더 강해지고 있습니다.",
+      "links": [
+        {
+          "label": "Reuters",
+          "url": "https://www.reuters.com/legal/transactional/coreweave-strikes-ai-cloud-deal-with-anthropic-shares-rise-2026-04-10/"
+        }
+      ]
+    },
+    {
+      "meta": [
+        "미국",
+        "Reuters",
+        "4월 9일"
+      ],
+      "country": "미국",
+      "category": "인프라/투자",
+      "entities": [
+        "OpenAI",
+        "Nvidia"
+      ],
+      "keywords": [
+        "AI인프라",
+        "투자확대",
+        "데이터센터",
+        "연산수요"
+      ],
+      "title": "Reuters: OpenAI부터 Nvidia까지 AI 인프라에 수십억달러 투입",
+      "summary": "Reuters는 주요 AI 기업들이 폭증하는 수요에 대응하기 위해 데이터센터와 관련 인프라에 대규모 자금을 투입하고 있다고 전했다.",
+      "take": "상반기 미국 AI 경쟁은 누가 더 빨리 연산 자원과 시설을 확보하느냐가 핵심입니다.",
+      "links": [
+        {
+          "label": "Reuters",
+          "url": "https://www.reuters.com/business/autos-transportation/companies-pouring-billions-advance-ai-infrastructure-2026-04-09/"
+        }
+      ]
+    },
+    {
+      "meta": [
+        "국내",
+        "전자신문",
+        "4월 9일"
+      ],
+      "country": "국내",
+      "category": "산업AX/헬스케어",
+      "entities": [
+        "복지부",
+        "의료기관",
+        "지자체"
+      ],
+      "keywords": [
+        "AI전환",
+        "만성질환",
+        "헬스케어",
+        "공공사업"
+      ],
+      "title": "전자신문: 복지부, 120억 규모 만성질환 AI전환 사업 출범",
+      "summary": "전자신문에 따르면 기업·의료기관·지자체가 함께 만성질환 관리 체계에 AI를 접목하는 약 120억원 규모 사업이 시작됐다.",
+      "take": "국내는 거대모델 경쟁보다 의료 같은 현장 문제를 푸는 AX 사업이 더 빠르게 쌓이고 있습니다.",
+      "links": [
+        {
+          "label": "전자신문",
+          "url": "https://www.etnews.com/20260409000306"
+        }
+      ]
+    },
+    {
+      "meta": [
+        "국내",
+        "전자신문",
+        "4월 9일"
+      ],
+      "country": "국내",
+      "category": "산업AX/스마트농업",
+      "entities": [
+        "대동"
+      ],
+      "keywords": [
+        "AI트랙터",
+        "스마트농업",
+        "필드로봇",
+        "산업적용"
+      ],
+      "title": "전자신문: 대동, 국내 최초 AI트랙터 출시",
+      "summary": "전자신문은 대동이 국내 최초 AI트랙터를 출시하며 농업 현장 자동화와 필드로봇 전환을 본격화했다고 보도했다.",
+      "take": "국내 AI 흐름은 서비스 데모보다 농업·제조 같은 실물 산업 적용으로 넓어지는 모습입니다.",
+      "links": [
+        {
+          "label": "전자신문",
+          "url": "https://www.etnews.com/20260409000161"
+        }
+      ]
+    }
+  ],
+  "footer": "데이터 소스: Reuters, 전자신문, wttr.in · 최소 카드 기준 압축"
+}
