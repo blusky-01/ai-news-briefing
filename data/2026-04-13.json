@@ -1,0 +1,132 @@
+{
+  "date": "2026-04-13",
+  "title": "미국 + 국내 AI 뉴스 통합 브리핑",
+  "subtitle": "2026년 4월 13일 · 팀장님용 데일리 브리핑 · 핵심만 빠르게 압축",
+  "summary": "오늘 핵심은 미국은 AI 인프라와 보안 이슈가, 국내는 의료·반도체 기반 확장이 동시에 부각됐다는 점입니다.",
+  "summary_box": "자비스 판단: 오늘 포인트는 ① 미국은 클라우드·칩·보안 리스크 관리가 경쟁력 ② 국내는 의료 활용과 AI 반도체 생태계 강화가 동시 진행 ③ 실전 승부는 발표보다 공급력과 현장 적용 속도입니다.",
+  "weather": {
+    "loc": "김해 · 2026-04-13 07:31 기준 · wttr.in",
+    "temp": "15°C",
+    "desc": "구름 조금 · 체감 15°C · 강수 0.0mm",
+    "icon": "⛅",
+    "badges": [
+      "습도 44%",
+      "풍속 6km/h",
+      "가시거리 10km"
+    ]
+  },
+  "cards": [
+    {
+      "meta": [
+        "미국",
+        "Reuters",
+        "4월 10일"
+      ],
+      "country": "미국",
+      "category": "인프라/클라우드",
+      "entities": [
+        "CoreWeave",
+        "Anthropic"
+      ],
+      "keywords": [
+        "AI클라우드",
+        "대형계약",
+        "인프라",
+        "GPU수요"
+      ],
+      "title": "Reuters: CoreWeave, Anthropic과 AI 클라우드 공급 계약",
+      "summary": "Reuters에 따르면 CoreWeave가 Anthropic에 클라우드 컴퓨팅 용량을 공급하는 계약을 체결했다. 모델 기업과 인프라 기업의 직결 구조가 더 강해지고 있다.",
+      "take": "미국 AI 경쟁은 모델 성능 못지않게 연산 자원 선점이 핵심으로 굳어지고 있습니다.",
+      "links": [
+        {
+          "label": "Reuters",
+          "url": "https://www.reuters.com/legal/transactional/coreweave-strikes-ai-cloud-deal-with-anthropic-shares-rise-2026-04-10/"
+        }
+      ]
+    },
+    {
+      "meta": [
+        "미국",
+        "Reuters",
+        "4월 11일"
+      ],
+      "country": "미국",
+      "category": "보안/운영",
+      "entities": [
+        "OpenAI"
+      ],
+      "keywords": [
+        "보안이슈",
+        "서드파티도구",
+        "운영리스크",
+        "AI서비스"
+      ],
+      "title": "Reuters: OpenAI, 서드파티 개발도구 관련 보안 이슈 확인",
+      "summary": "Reuters는 OpenAI가 외부 개발도구와 관련된 보안 이슈를 확인했지만 사용자 데이터 접근은 없었다고 전했다. AI 서비스 운영에서 공급망형 리스크 관리가 다시 부각됐다.",
+      "take": "AI 서비스 확장기에는 기능 경쟁과 함께 도구 체인 보안 통제가 더 중요해지고 있습니다.",
+      "links": [
+        {
+          "label": "Reuters",
+          "url": "https://www.reuters.com/business/openai-identifies-security-issue-involving-third-party-tool-says-user-data-was-2026-04-11/"
+        }
+      ]
+    },
+    {
+      "meta": [
+        "국내",
+        "전자신문",
+        "4월 12일"
+      ],
+      "country": "국내",
+      "category": "헬스케어/원격의료",
+      "entities": [
+        "원격의료학회"
+      ],
+      "keywords": [
+        "원격의료",
+        "헬스케어AI",
+        "데이터통합",
+        "의료활용"
+      ],
+      "title": "전자신문: 원격의료 확산 핵심으로 AI 부각",
+      "summary": "전자신문에 따르면 원격의료학회 춘계학술대회에서 AI가 복잡한 의사결정과 환자 관리 지원의 핵심 수단으로 제시됐다. 국내 의료 AI 적용 논의가 실사용 중심으로 이동하고 있다.",
+      "take": "국내는 생성형 AI 화제보다 의료 현장 문제를 푸는 적용형 AI가 더 빠르게 쌓이고 있습니다.",
+      "links": [
+        {
+          "label": "전자신문",
+          "url": "https://www.etnews.com/20260412000035"
+        }
+      ]
+    },
+    {
+      "meta": [
+        "국내",
+        "전자신문",
+        "4월 10일"
+      ],
+      "country": "국내",
+      "category": "AI반도체/생태계",
+      "entities": [
+        "GIST",
+        "Arm",
+        "NI"
+      ],
+      "keywords": [
+        "AI반도체",
+        "설계검증평가",
+        "산학협력",
+        "인력양성"
+      ],
+      "title": "전자신문: GIST, AI 반도체 설계-검증-평가 협력축 강화",
+      "summary": "전자신문은 GIST가 Arm에 이어 NI와 협력하며 AI 반도체 설계, 검증, 평가를 잇는 통합형 산학 협력 기반을 강화했다고 보도했다.",
+      "take": "국내 AI 경쟁력은 서비스뿐 아니라 반도체와 검증 인프라까지 묶는 생태계 구축 속도가 중요합니다.",
+      "links": [
+        {
+          "label": "전자신문",
+          "url": "https://www.etnews.com/20260410000110"
+        }
+      ]
+    }
+  ],
+  "footer": "데이터 소스: Reuters, 전자신문, wttr.in · 최소 카드 기준 압축"
+}
