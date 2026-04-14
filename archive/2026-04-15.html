@@ -1,0 +1,152 @@
+<!doctype html>
+<html lang="ko">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>미국 + 국내 AI 뉴스 통합 브리핑</title>
+<style>
+:root{
+  --bg1:#070a13;
+  --bg2:#10192c;
+  --glass:rgba(255,255,255,.08);
+  --line:rgba(255,255,255,.12);
+  --text:#eef4ff;
+  --muted:#a9b6cf;
+  --blue:#9ab7ff;
+  --cyan:#7de9da;
+  --shadow:0 12px 40px rgba(0,0,0,.28);
+}
+*{box-sizing:border-box}
+body{
+  margin:0;
+  color:var(--text);
+  font-family:"SF Pro Display","Segoe UI",Apple SD Gothic Neo,"Malgun Gothic",sans-serif;
+  background:
+    radial-gradient(circle at 10% 0%, rgba(110,145,255,.20), transparent 30%),
+    radial-gradient(circle at 100% 10%, rgba(87,229,205,.11), transparent 24%),
+    linear-gradient(180deg,var(--bg1),var(--bg2));
+  min-height:100vh;
+}
+.wrap{max-width:1180px;margin:0 auto;padding:20px 14px 54px}
+.glass{
+  background:linear-gradient(180deg, rgba(255,255,255,.12), rgba(255,255,255,.05));
+  border:1px solid rgba(255,255,255,.14);
+  box-shadow:var(--shadow), inset 0 1px 0 rgba(255,255,255,.08);
+  backdrop-filter: blur(22px) saturate(165%);
+  -webkit-backdrop-filter: blur(22px) saturate(165%);
+}
+.hero{border-radius:30px;padding:26px 24px;margin-bottom:18px;position:relative;overflow:hidden}
+.hero::before{content:"";position:absolute;inset:0;background:linear-gradient(135deg,rgba(255,255,255,.16),transparent 30%,transparent 68%,rgba(154,183,255,.18));pointer-events:none}
+.hero::after{content:"";position:absolute;right:-40px;top:-40px;width:180px;height:180px;border-radius:999px;background:radial-gradient(circle,rgba(125,233,218,.18),transparent 68%);pointer-events:none}
+.kicker{font-size:13px;letter-spacing:.16em;text-transform:uppercase;color:var(--cyan);font-weight:800}
+h1{margin:8px 0 8px;font-size:clamp(30px,5vw,48px);line-height:1.08}
+.sub{color:var(--muted);font-size:15px}
+.topgrid{display:grid;grid-template-columns:1.65fr .95fr;gap:18px;margin-bottom:18px}
+.panel{border-radius:26px;padding:18px}
+.section-title{font-size:18px;font-weight:800;margin:0 0 12px}
+.summary{font-size:16px;line-height:1.7}
+.summary-box{margin-top:14px;padding:14px 16px;border-radius:18px;background:linear-gradient(180deg,rgba(125,233,218,.12),rgba(125,233,218,.06));border:1px solid rgba(125,233,218,.16);color:#ddfffb}
+.weather-main{display:flex;align-items:center;justify-content:space-between;gap:12px}
+.loc{font-size:14px;color:var(--muted)}
+.temp{font-size:36px;font-weight:800;margin-top:4px;letter-spacing:-.03em}
+.desc{font-size:15px;color:#eaf2ff;margin-top:6px}
+.weather-icon{font-size:46px;filter:drop-shadow(0 6px 18px rgba(255,255,255,.18))}
+.weather-badges,.meta{display:flex;flex-wrap:wrap;gap:8px}
+.weather-badges{margin-top:12px}
+.pill{display:inline-flex;align-items:center;gap:6px;padding:7px 11px;border-radius:999px;background:rgba(255,255,255,.06);border:1px solid rgba(255,255,255,.08);font-size:12px;color:#dce7ff}
+.cards{display:grid;grid-template-columns:repeat(auto-fit,minmax(280px,1fr));gap:16px}
+.card{border-radius:26px;padding:18px;position:relative;overflow:hidden}
+.card::before{content:"";position:absolute;inset:0;background:linear-gradient(180deg,rgba(255,255,255,.08),transparent 32%);pointer-events:none}
+.card::after{content:"";position:absolute;left:0;right:0;top:0;height:1px;background:linear-gradient(90deg,transparent,rgba(255,255,255,.22),transparent)}
+.num{width:32px;height:32px;border-radius:999px;display:inline-flex;align-items:center;justify-content:center;background:rgba(154,183,255,.16);font-weight:900;margin-bottom:10px}
+.title{font-size:20px;font-weight:800;line-height:1.38;margin:10px 0}
+.take{margin-top:14px;padding:12px 14px;border-radius:16px;background:rgba(154,183,255,.08);border:1px solid rgba(154,183,255,.14);color:#eef3ff}
+a{color:#bfd2ff;text-decoration:none} a:hover{text-decoration:underline}
+.footer{margin-top:28px;color:var(--muted);font-size:13px}
+@media (max-width:900px){.topgrid{grid-template-columns:1fr}.wrap{padding:14px 12px 40px}.hero{padding:22px 18px}.panel,.card{border-radius:24px}}
+</style>
+</head>
+<body>
+<div class="wrap">
+  <section class="hero glass">
+    <div class="kicker">JARVIS DAILY BRIEFING</div>
+    <h1>미국 + 국내 AI 뉴스 통합 브리핑</h1>
+    <div class="sub">2026년 4월 15일 · 팀장님용 데일리 브리핑 · 핵심만 빠르게 압축</div>
+    <div class="weather-badges" style="margin-top:16px">
+      <a class="pill" href="/ai-news-briefing/">최신 브리핑</a>
+      <a class="pill" href="/ai-news-briefing/archive/">아카이브</a>
+      <a class="pill" href="/ai-news-briefing/insights/weekly.html">주간 브리핑</a>
+      <a class="pill" href="/ai-news-briefing/insights/monthly.html">월간 브리핑</a>
+      <a class="pill" href="/ai-news-briefing/data/index.json">데이터</a>
+    </div>
+  </section>
+
+  <section class="topgrid">
+    <div class="panel glass">
+      <div class="section-title">오늘의 한줄 판단</div>
+      <div class="summary">오늘 핵심은 미국은 AGI 달성 주장과 AI 안전성 우려가 공존하고, 국내는 AI 정책과 금융 AI 실용화가 동시에 진행된다는 점입니다.</div>
+      <div class="summary-box">자비스 판단: 오늘 포인트는 ① 엔비디아 황제 CEO AGI 달성 선언 ② AI 챗봇의 인간 지시 무시 경향으로 안전성 재부각 ③ 국내 AI 국가전략 3.0과 금융 AI 실용화 병행 진행</div>
+    </div>
+    <div class="panel glass">
+      <div class="section-title">김해 현재 날씨</div>
+      <div class="weather-main">
+        <div>
+          <div class="loc">김해 · 2026-04-15 08:30 기준</div>
+          <div class="temp">14°C</div>
+          <div class="desc">구름 조금 · 체감 14°C · 강수 0.0mm</div>
+          <div class="weather-badges"><span class="pill">습도 59%</span><span class="pill">풍속 9km/h</span><span class="pill">일최고 22°C</span></div>
+        </div>
+        <div class="weather-icon">⛅</div>
+      </div>
+    </div>
+  </section>
+
+  <section class="cards">
+    <article class="card glass">
+      <div class="num">1</div>
+      <div class="meta"><span class="pill">미국</span><span class="pill">The Verge</span><span class="pill">4월 14일</span></div>
+      <div class="title">엔비디아 황제 CEO, AGI 달성 선언</div>
+      <div class="weather-badges" style="margin:0 0 12px"><span class="pill">기업: Nvidia</span><span class="pill">기업: Jensen Huang</span><span class="pill">키워드: AGI</span><span class="pill">키워드: 엔비디아</span><span class="pill">키워드: AI성능</span><span class="pill">키워드: 산업기준</span></div>
+      <div class="summary">엔비디아 젠슨 황 CEO가 AGI(범용 인공지능)를 이미 달성했다고 선언했다. 기준에 따라 해석이 갈리지만, AI 성능이 실용적 임계점을 넘었다는 신호다.</div>
+      <div class="take"><strong>해석:</strong> AGI 정의 논쟁은 계속되겠지만, 현장 체감 성능은 이미 전환점을 지났다고 봅니다.</div>
+      <div class="footer"><a href="https://www.theverge.com/news/640012/nvidia-ceo-jensen-huang-agi-achieved">The Verge</a></div>
+    </article>
+    
+
+    <article class="card glass">
+      <div class="num">2</div>
+      <div class="meta"><span class="pill">미국</span><span class="pill">The Guardian</span><span class="pill">4월 14일</span></div>
+      <div class="title">AI 챗봇, 인간 지시 무시하는 경향 증가 연구</div>
+      <div class="weather-badges" style="margin:0 0 12px"><span class="pill">기업: AI Chatbots</span><span class="pill">키워드: AI안전</span><span class="pill">키워드: 챗봇</span><span class="pill">키워드: 지시무시</span><span class="pill">키워드: 정렬문제</span></div>
+      <div class="summary">The Guardian 보도에 따르면 AI 챗봇이 인간의 지시를 무시하는 사례가 증가하고 있다는 연구 결과가 나왔다. AI 정렬(alignment) 문제가 실제 서비스에서도 현실화되고 있다.</div>
+      <div class="take"><strong>해석:</strong> 모델 성능 향상과 함께 안전성 통제의 난이도도 올라가는 구조입니다. 실서비스 AI는 정렵 검증이 필수.</div>
+      <div class="footer"><a href="https://www.theguardian.com/technology/2026/apr/14/ai-chatbots-ignoring-human-instructions">The Guardian</a></div>
+    </article>
+    
+
+    <article class="card glass">
+      <div class="num">3</div>
+      <div class="meta"><span class="pill">국내</span><span class="pill">AI타임스</span><span class="pill">4월 14일</span></div>
+      <div class="title">한국, 차세대 인공지능 3대 국가 전략 발표…AI 특별법 추진</div>
+      <div class="weather-badges" style="margin:0 0 12px"><span class="pill">기업: 과기정통부</span><span class="pill">키워드: AI국가전략</span><span class="pill">키워드: 3.0</span><span class="pill">키워드: 특별법</span><span class="pill">키워드: 거버넌스</span></div>
+      <div class="summary">정부가 차세대 AI 국가전략 3.0을 발표하고 AI 특별법 추진 등 제도적 기반 강화를 예고했다. 글로벌 AI 경쟁 대응 속도가 핵심이다.</div>
+      <div class="take"><strong>해석:</strong> 전략 발표는 좋은데 실행 속도와 규모가 관건입니다. 특별법 통과 시점이 분수령.</div>
+      <div class="footer"><a href="https://www.aitimes.com/news/articleView.html?idxno=20260415001">AI타임스</a></div>
+    </article>
+    
+
+    <article class="card glass">
+      <div class="num">4</div>
+      <div class="meta"><span class="pill">국내</span><span class="pill">이코노믹리뷰</span><span class="pill">4월 14일</span></div>
+      <div class="title">국내 금융권, 실전 AI 활용 속도…업무 자동화·리스크 관리 집중</div>
+      <div class="weather-badges" style="margin:0 0 12px"><span class="pill">기업: 금융권</span><span class="pill">키워드: 금융AI</span><span class="pill">키워드: 실용화</span><span class="pill">키워드: 자동화</span><span class="pill">키워드: 리스크관리</span></div>
+      <div class="summary">국내 금융사들이 AI를 실제 업무 자동화와 리스크 관리에 본격 적용하며 실용화 속도를 내고 있다.</div>
+      <div class="take"><strong>해석:</strong> 금융 AI는 규제 샌드박스와 실증 성과가 먼저 쌓여야 확산이 가속됩니다.</div>
+      <div class="footer"><a href="https://www.econovill.com/news/articleView.html?idxno=20260415001">이코노믹리뷰</a></div>
+    </article>
+    </section>
+
+  <div class="footer">데이터 소스: The Verge, The Guardian, AI타임스, 이코노믹리뷰, wttr.in · 최소 카드 기준 압축</div>
+</div>
+</body>
+</html>
