@@ -1,5 +1,75 @@
 [
   {
+    "date": "2026-04-16",
+    "title": "미국 + 국내 AI 뉴스 통합 브리핑",
+    "summary": "오늘 핵심은 캐나다 은행-규제당국의 AI 리스크 논의와 국내 AI 인공지능 특별법 추진이 동시에 진행되며, AI 거버넌스가 글로벌 화두라는 점입니다.",
+    "weather": {
+      "loc": "김해 · 2026-04-16 08:30 기준",
+      "temp": "13°C",
+      "desc": "맑음 · 체감 12°C · 강수 0.0mm",
+      "icon": "☀️",
+      "badges": [
+        "습도 58%",
+        "풍속 16km/h NNE",
+        "일최고 18°C"
+      ]
+    },
+    "path": "archive/2026-04-16.html",
+    "dataPath": "data/2026-04-16.json",
+    "countrySummary": "혼합",
+    "keywordsTop": [
+      "AI규제",
+      "금융AI",
+      "Mythos AI",
+      "Anthropic",
+      "AI철학",
+      "인간관계",
+      "기술수용",
+      "AI특별법"
+    ],
+    "entitiesTop": [
+      "Canadian Banks",
+      "Mythos AI",
+      "Anthropic"
+    ]
+  },
+  {
+    "date": "2026-04-15",
+    "title": "미국 + 국내 AI 뉴스 통합 브리핑",
+    "summary": "오늘 핵심은 미국은 AGI 달성 주장과 AI 안전성 우려가 공존하고, 국내는 AI 정책과 금융 AI 실용화가 동시에 진행된다는 점입니다.",
+    "weather": {
+      "loc": "김해 · 2026-04-15 08:30 기준",
+      "temp": "14°C",
+      "desc": "구름 조금 · 체감 14°C · 강수 0.0mm",
+      "icon": "⛅",
+      "badges": [
+        "습도 59%",
+        "풍속 9km/h",
+        "일최고 22°C"
+      ]
+    },
+    "path": "archive/2026-04-15.html",
+    "dataPath": "data/2026-04-15.json",
+    "countrySummary": "혼합",
+    "keywordsTop": [
+      "AGI",
+      "엔비디아",
+      "AI성능",
+      "산업기준",
+      "AI안전",
+      "챗봇",
+      "지시무시",
+      "정렬문제"
+    ],
+    "entitiesTop": [
+      "Nvidia",
+      "Jensen Huang",
+      "AI Chatbots",
+      "과기정통부",
+      "금융권"
+    ]
+  },
+  {
     "date": "2026-04-13",
     "title": "미국 + 국내 AI 뉴스 통합 브리핑",
     "summary": "오늘 핵심은 미국은 AI 인프라와 보안 이슈가, 국내는 의료·반도체 기반 확장이 동시에 부각됐다는 점입니다.",
