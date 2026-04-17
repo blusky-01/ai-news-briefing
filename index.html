@@ -3,7 +3,7 @@
 <head>
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
-<title>미국 + 국내 AI 뉴스 통합 브리핑</title>
+<title>아침 브리핑</title>
 <style>
 :root{
   --bg1:#070a13;
@@ -60,6 +60,8 @@ h1{margin:8px 0 8px;font-size:clamp(30px,5vw,48px);line-height:1.08}
 .card::after{content:"";position:absolute;left:0;right:0;top:0;height:1px;background:linear-gradient(90deg,transparent,rgba(255,255,255,.22),transparent)}
 .num{width:32px;height:32px;border-radius:999px;display:inline-flex;align-items:center;justify-content:center;background:rgba(154,183,255,.16);font-weight:900;margin-bottom:10px}
 .title{font-size:20px;font-weight:800;line-height:1.38;margin:10px 0}
+.thumb{display:block;margin:4px 0 14px;border-radius:18px;overflow:hidden;border:1px solid rgba(255,255,255,.12);background:rgba(255,255,255,.04)}
+.thumb img{display:block;width:100%;height:auto;aspect-ratio:16/9;object-fit:cover}
 .take{margin-top:14px;padding:12px 14px;border-radius:16px;background:rgba(154,183,255,.08);border:1px solid rgba(154,183,255,.14);color:#eef3ff}
 a{color:#bfd2ff;text-decoration:none} a:hover{text-decoration:underline}
 .footer{margin-top:28px;color:var(--muted);font-size:13px}
@@ -70,8 +72,8 @@ a{color:#bfd2ff;text-decoration:none} a:hover{text-decoration:underline}
 <div class="wrap">
   <section class="hero glass">
     <div class="kicker">JARVIS DAILY BRIEFING</div>
-    <h1>미국 + 국내 AI 뉴스 통합 브리핑</h1>
-    <div class="sub">2026년 4월 16일 · 팀장님용 데일리 브리핑 · 핵심만 빠르게 압축</div>
+    <h1>아침 브리핑</h1>
+    <div class="sub">날씨 · 응원 · 일정 · 메일 · 유튜브 · 시스템 · OpenClaw</div>
     <div class="weather-badges" style="margin-top:16px">
       <a class="pill" href="/ai-news-briefing/">최신 브리핑</a>
       <a class="pill" href="/ai-news-briefing/archive/">아카이브</a>
@@ -84,19 +86,19 @@ a{color:#bfd2ff;text-decoration:none} a:hover{text-decoration:underline}
   <section class="topgrid">
     <div class="panel glass">
       <div class="section-title">오늘의 한줄 판단</div>
-      <div class="summary">오늘 핵심은 캐나다 은행-규제당국의 AI 리스크 논의와 국내 AI 인공지능 특별법 추진이 동시에 진행되며, AI 거버넌스가 글로벌 화두라는 점입니다.</div>
-      <div class="summary-box">자비스 판단: 오늘 포인트는 ① 캐나다 은행·규제당국 Mythos AI 논의 + Anthropic 미팅 ② 국내 AI 인공지능 특별법 추진 가속 ③ AI와 인간 관계 재정의 논쟁 지속</div>
+      <div class="summary">팀장님 맞춤 아침 브리핑 구조로 전환된 기본 버전입니다.</div>
+      <div class="summary-box">유튜브는 최신 업로드 감지와 제목 기반 요약까지 연결했습니다. 메일/일정은 다음 단계에서 실제 수집을 붙입니다.</div>
     </div>
     <div class="panel glass">
       <div class="section-title">김해 현재 날씨</div>
       <div class="weather-main">
         <div>
-          <div class="loc">김해 · 2026-04-16 08:30 기준</div>
-          <div class="temp">13°C</div>
-          <div class="desc">맑음 · 체감 12°C · 강수 0.0mm</div>
-          <div class="weather-badges"><span class="pill">습도 58%</span><span class="pill">풍속 16km/h NNE</span><span class="pill">일최고 18°C</span></div>
+          <div class="loc">김해</div>
+          <div class="temp">17°C</div>
+          <div class="desc">Light rain</div>
+          <div class="weather-badges"><span class="pill">체감 17°C</span></div>
         </div>
-        <div class="weather-icon">☀️</div>
+        <div class="weather-icon">⛅</div>
       </div>
     </div>
   </section>
@@ -104,38 +106,77 @@ a{color:#bfd2ff;text-decoration:none} a:hover{text-decoration:underline}
   <section class="cards">
     <article class="card glass">
       <div class="num">1</div>
-      <div class="meta"><span class="pill">미국/캐나다</span><span class="pill">CTV News</span><span class="pill">4월 15일</span></div>
-      <div class="title">캐나다 은행·규제당국, Mythos AI 논의…장관 Anthropic 미팅 예정</div>
-      <div class="weather-badges" style="margin:0 0 12px"><span class="pill">기업: Canadian Banks</span><span class="pill">기업: Mythos AI</span><span class="pill">기업: Anthropic</span><span class="pill">키워드: AI규제</span><span class="pill">키워드: 금융AI</span><span class="pill">키워드: Mythos AI</span><span class="pill">키워드: Anthropic</span></div>
-      <div class="summary">캐나다 주요 은행과 규제당국이 Mythos AI 리스크를 논의했고, 장관이 Anthropic과 직접 미팅을 예정했다. 금융권 AI 리스크 관리가 북미 전역으로 확산 중이다.</div>
-      <div class="take"><strong>해석:</strong> 금융 AI 리스크는 이제 개별 기업 문제가 아니라 국가적 규제 이슈입니다. 한국도 참고할 동향.</div>
-      <div class="footer"><a href="https://www.ctvnews.ca/business/canadian-banks-regulators-discussed-mythos-ai-minister-to-meet-with-anthropic">CTV News</a></div>
+      <div class="meta"><span class="pill">응원</span><span class="pill">중간 길이</span></div>
+      <div class="title">오늘의 한마디</div>
+      
+      <div class="weather-badges" style="margin:0 0 12px"><span class="pill">키워드: 아침</span><span class="pill">키워드: 집중</span></div>
+      <div class="summary">리듬만 잃지 않으면 오늘 일은 충분히 정리됩니다. 차분하게 가면 됩니다.</div>
+      <div class="take"><strong>해석:</strong> 짧고 담백한 응원 메시지로 하루 시작 톤을 맞춥니다.</div>
+      <div class="footer"></div>
     </article>
     
 
     <article class="card glass">
       <div class="num">2</div>
-      <div class="meta"><span class="pill">미국</span><span class="pill">The Guardian</span><span class="pill">4월 13일</span></div>
-      <div class="title">AI에 대해 포슈 원수의 실수를 반복하지 말라</div>
-      <div class="weather-badges" style="margin:0 0 12px"><span class="pill">키워드: AI철학</span><span class="pill">키워드: 인간관계</span><span class="pill">키워드: 기술수용</span></div>
-      <div class="summary">The Guardian 칼럼에서 AI를 과소평가하는 오류를 경고했다. 역사적 교훈처럼 기술 변화를 무시하면 안 된다는 주장이다.</div>
-      <div class="take"><strong>해석:</strong> AI 회의론과 과신 사이 균형이 중요합니다. 무시도 과신도 위험.</div>
-      <div class="footer"><a href="https://www.theguardian.com/technology/2026/apr/13/dont-make-marshal-foch-mistake-on-ai">The Guardian</a></div>
+      <div class="meta"><span class="pill">일정</span><span class="pill">calendar</span></div>
+      <div class="title">오늘 일정</div>
+      
+      <div class="weather-badges" style="margin:0 0 12px"><span class="pill">기업: calendar</span><span class="pill">키워드: calendar</span></div>
+      <div class="summary">오늘 일정 없음</div>
+      <div class="take"><strong>해석:</strong> 오늘 등록된 일정이 없거나, 표시할 이벤트가 없습니다.</div>
+      <div class="footer"></div>
     </article>
     
 
     <article class="card glass">
       <div class="num">3</div>
-      <div class="meta"><span class="pill">국내</span><span class="pill">한국경제신문</span><span class="pill">4월 15일</span></div>
-      <div class="title">국내 차세대 인공지능(AI) 법 특별법 추진 위원회 출범</div>
-      <div class="weather-badges" style="margin:0 0 12px"><span class="pill">키워드: AI특별법</span><span class="pill">키워드: 인공지능법</span><span class="pill">키워드: 규제</span><span class="pill">키워드: 국가전략</span></div>
-      <div class="summary">국내에서 AI 관련 특별법 추진을 위한 위원회가 공식 출범했다. 인공지능 기반 산업 경쟁력 확보와 안전성 확보를 동시에 추진한다.</div>
-      <div class="take"><strong>해석:</strong> 특별법 통과 시 AI 스타트업 규제 샌드박스 확대 가능. 실행력이 관건.</div>
-      <div class="footer"><a href="https://www.kenews.co.kr/news/articleView.html?idxno=20260416001">한국경제신문</a></div>
+      <div class="meta"><span class="pill">메일</span><span class="pill">gmail</span><span class="pill">중요 알림</span></div>
+      <div class="title">주요 메일 / 중요 알림</div>
+      
+      <div class="weather-badges" style="margin:0 0 12px"><span class="pill">기업: 중요인물</span><span class="pill">기업: 에러</span><span class="pill">키워드: gmail</span><span class="pill">키워드: alert</span></div>
+      <div class="summary">[중요인물] ✅ 스카이님, Android 기기에서 Googl / [중요인물,에러] 보안 알림 / [중요인물,에러] Security alert: new or unu</div>
+      <div class="take"><strong>해석:</strong> 2026-04-17 00:45 Google &lt;no-reply@google.com&gt; - ✅ 스카이님, Android 기기에서 Google 설정을 완료하세요. 2026-04-17 00:44 Google &lt;no-reply@accounts.google.com&gt; - 보안 알림 2026-04-16 17:57 X &lt;verify@x.com&gt; - Security alert: new or unusual X login</div>
+      <div class="footer"></div>
+    </article>
+    
+
+    <article class="card glass">
+      <div class="num">4</div>
+      <div class="meta"><span class="pill">유튜브</span><span class="pill">AI 채널</span><span class="pill">중간 길이</span></div>
+      <div class="title">유튜브 업데이트</div>
+      <a class="thumb" href="https://www.youtube.com/watch?v=pzr25NdcG_Y"><img src="https://i.ytimg.com/vi/pzr25NdcG_Y/hqdefault.jpg" alt="thumbnail"></a>
+      <div class="weather-badges" style="margin:0 0 12px"><span class="pill">기업: @JulianGoldieSEO</span><span class="pill">기업: @fahdmirza</span><span class="pill">기업: @zerochotv</span><span class="pill">키워드: youtube</span><span class="pill">키워드: update</span><span class="pill">키워드: thumbnail</span></div>
+      <div class="summary">@JulianGoldieSEO Qwen 3.6: Run Openclaw FREE  / @fahdmirza Qwen3.6-35B-A3B + OpenClaw - / @zerochotv Opus 4.7 출시 소식 + 조언자 기능 소개. </div>
+      <div class="take"><strong>해석:</strong> @JulianGoldieSEO: 제목 기준으로 새 영상이 올라왔고, 세부 내용은 설명/자막 연동 단계에서 더 정밀하게 요약할 예정입니다. @fahdmirza: 핵심 키워드: agent. 제목 기준으로 업데이트/도구/실행 팁 가능성이 높습니다. @zerochotv: 핵심 키워드: ai, agent, claude, 출시. 제목 기준으로 업데이트/도구/실행 팁 가능성이 높습니다.</div>
+      <div class="footer"><a href="https://www.youtube.com/watch?v=pzr25NdcG_Y">@JulianGoldieSEO · 04-17 16:00</a> · <a href="https://www.youtube.com/watch?v=-vzpjCfkvyM">@fahdmirza · 04-17 16:00</a> · <a href="https://www.youtube.com/watch?v=NJCnuK9O-tk">@zerochotv · 04-17 15:07</a></div>
+    </article>
+    
+
+    <article class="card glass">
+      <div class="num">5</div>
+      <div class="meta"><span class="pill">시스템</span><span class="pill">LHM</span></div>
+      <div class="title">시스템 상태 요약</div>
+      
+      <div class="weather-badges" style="margin:0 0 12px"><span class="pill">기업: Intel N100</span><span class="pill">기업: RAM</span><span class="pill">기업: SSD</span><span class="pill">키워드: temperature</span><span class="pill">키워드: load</span><span class="pill">키워드: memory</span></div>
+      <div class="summary">CPU 63.0 °C / 사용률 32.8 % / RAM 49.7 %</div>
+      <div class="take"><strong>해석:</strong> SSD 온도 40.0 °C, 메모리 사용 7.8 GB / 여유 7.9 GB</div>
+      <div class="footer"></div>
+    </article>
+    
+
+    <article class="card glass">
+      <div class="num">6</div>
+      <div class="meta"><span class="pill">OpenClaw</span><span class="pill">Gateway</span></div>
+      <div class="title">OpenClaw 상태 요약</div>
+      
+      <div class="weather-badges" style="margin:0 0 12px"><span class="pill">기업: main</span><span class="pill">기업: gateway</span><span class="pill">키워드: version</span><span class="pill">키워드: rpc</span><span class="pill">키워드: status</span></div>
+      <div class="summary">버전 확인 실패</div>
+      <div class="take"><strong>해석:</strong> 게이트웨이 상태 확인 실패</div>
+      <div class="footer"></div>
     </article>
     </section>
 
-  <div class="footer">데이터 소스: CTV News, The Guardian, 한국경제신문, wttr.in · 최소 카드 기준 압축</div>
+  <div class="footer">Morning briefing migration in progress</div>
 </div>
 </body>
 </html>
