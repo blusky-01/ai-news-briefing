@@ -9,7 +9,7 @@
 <style>
 :root{--bg:#070d1c;--surface0:#0d1629;--surface1:#131d35;--surface2:#1a2540;--surface3:#212e4e;--border:rgba(255,255,255,.07);--text:#d8e3f8;--text2:#8a97b5;--text3:#515f7e;--cyan:#00e5ff;--violet:#b3aaff;--green:#4dffa0;--red:#ff6b6b;--amber:#ffc34d;--radius:16px;--radius-lg:24px}
 *{box-sizing:border-box;margin:0;padding:0}body{font-family:'DM Sans',sans-serif;background:var(--bg);color:var(--text);min-height:100vh}a{color:inherit;text-decoration:none}.material-symbols-outlined{font-variation-settings:'FILL' 0,'wght' 400,'GRAD' 0,'opsz' 24}
-.topbar{position:sticky;top:0;z-index:100;background:rgba(7,13,28,.88);backdrop-filter:blur(18px);border-bottom:1px solid var(--border);padding:0 28px;height:60px;display:flex;align-items:center;justify-content:space-between}.brand{font-family:'Syne',sans-serif;font-weight:800;letter-spacing:.12em;text-transform:uppercase}.brand span{color:var(--cyan)}.topnav{display:flex;gap:8px}.topnav button{background:none;border:0;color:var(--text2);padding:8px 14px;border-radius:10px;cursor:pointer}.topnav button.active,.topnav button:hover{background:var(--surface2);color:var(--text)}
+.topbar{position:sticky;top:0;z-index:100;background:rgba(7,13,28,.88);backdrop-filter:blur(18px);border-bottom:1px solid var(--border);padding:0 20px;height:60px;display:flex;align-items:center;justify-content:space-between;gap:12px}.brand{font-family:'Syne',sans-serif;font-weight:800;letter-spacing:.12em;text-transform:uppercase;flex:1 1 auto}.brand span{color:var(--cyan)}.topnav{display:flex;gap:8px;flex-wrap:nowrap;overflow-x:auto;overflow-y:hidden;scrollbar-width:none;-ms-overflow-style:none}.topnav::-webkit-scrollbar{display:none}.topnav button{background:none;border:0;color:var(--text2);padding:8px 14px;border-radius:10px;cursor:pointer;white-space:nowrap;writing-mode:horizontal-tb}.topnav button.active,.topnav button:hover{background:var(--surface2);color:var(--text)}.menu-btn{display:none;background:none;border:1px solid var(--border);color:var(--text);width:38px;height:38px;border-radius:10px;align-items:center;justify-content:center;flex:0 0 auto}
 .layout{display:flex}.sidebar{width:220px;position:sticky;top:60px;height:calc(100vh - 60px);background:var(--surface0);border-right:1px solid var(--border);padding:24px 12px}.sidebar .item{display:flex;align-items:center;gap:10px;padding:10px 12px;border-radius:10px;color:var(--text2)}.sidebar .item.active,.sidebar .item:hover{background:var(--surface2);color:var(--text)}.main{flex:1;padding:32px;max-width:1280px}.page-title{font-family:'Syne',sans-serif;font-size:40px;font-weight:800}.page-sub{margin-top:8px;color:var(--text2);font-size:14px}
 .status-bar{display:grid;grid-template-columns:repeat(4,1fr);gap:12px;margin:26px 0}.stat{background:var(--surface1);border:1px solid var(--border);border-radius:var(--radius);padding:14px}.stat .label{font-size:10px;color:var(--text3);text-transform:uppercase;letter-spacing:.1em}.stat .value{font-family:'DM Mono',monospace;font-size:22px;margin-top:6px}.stat .sub{font-size:11px;color:var(--text3);margin-top:4px}
 .hero{background:var(--surface1);border:1px solid var(--border);border-radius:var(--radius-lg);padding:28px;margin-bottom:14px}.hero .eyebrow{font-size:11px;color:var(--cyan);text-transform:uppercase;letter-spacing:.1em;margin-bottom:16px}.hero .quote{font-family:'Syne',sans-serif;font-size:28px;font-weight:700;line-height:1.4}.hero .body{margin-top:14px;color:var(--text2);line-height:1.8}
@@ -18,11 +18,12 @@
 .row-panel{margin-top:14px}.list-item{padding:14px 0;border-top:1px solid var(--border)}.list-item:first-child{border-top:0;padding-top:0}.list-head{display:flex;justify-content:space-between;gap:10px}.list-title{font-weight:700}.list-meta{font-size:12px;color:var(--text3)}.list-desc{margin-top:6px;color:var(--text2);font-size:14px;line-height:1.7}.thumb-row{display:grid;grid-template-columns:180px 1fr;gap:14px;align-items:start}.thumb{width:100%;aspect-ratio:16/9;object-fit:cover;border-radius:14px;border:1px solid var(--border)}
 .metrics{display:grid;gap:12px;margin-top:14px}.metric .m-head{display:flex;justify-content:space-between;font-size:13px;margin-bottom:6px}.bar{height:10px;background:var(--surface2);border-radius:999px;overflow:hidden;border:1px solid rgba(255,255,255,.05)}.bar > span{display:block;height:100%;background:linear-gradient(90deg,var(--cyan),var(--violet));border-radius:999px}.bar.warn > span{background:linear-gradient(90deg,var(--amber),#ff8f00)}.bar.danger > span{background:linear-gradient(90deg,var(--red),#ff3d3d)}
 .footer{margin-top:28px;padding-top:18px;border-top:1px solid var(--border);font-size:12px;color:var(--text3)}
-@media (max-width:1100px){.sidebar{display:none}.main{padding:24px}.status-bar,.grid-2{grid-template-columns:1fr 1fr}}@media (max-width:760px){.topnav{overflow:auto}.status-bar,.grid-2,.thumb-row{grid-template-columns:1fr}.main{padding:18px}.page-title{font-size:32px}}
+@media (max-width:1100px){.sidebar{display:none}.main{padding:24px}.status-bar,.grid-2{grid-template-columns:1fr 1fr}}@media (max-width:760px){.menu-btn{display:flex}.layout{display:block}.sidebar{display:none;position:fixed;top:60px;left:0;bottom:0;width:260px;height:auto;z-index:120;padding:18px 12px;box-shadow:20px 0 40px rgba(0,0,0,.35)}.sidebar.open{display:block}.topbar{padding:0 14px}.brand{font-size:20px;line-height:1.05;max-width:150px}.topnav{flex:1 1 auto;min-width:0}.topnav button{padding:8px 12px;font-size:13px}.status-bar,.grid-2,.thumb-row{grid-template-columns:1fr}.main{padding:18px}.page-title{font-size:32px}}
 </style>
 </head>
 <body>
 <header class="topbar">
+  <button class="menu-btn" id="menuBtn" aria-label="메뉴 열기"><span class="material-symbols-outlined">menu</span></button>
   <div class="brand">JARVIS <span>·</span> Briefing</div>
   <nav class="topnav">
     <button class="tab-btn active" data-tab="briefing">브리핑</button>
@@ -519,6 +520,14 @@ for (const btn of document.querySelectorAll('.tab-btn')) {
     document.querySelectorAll('.tab-panel').forEach(p => p.classList.remove('active'));
     btn.classList.add('active');
     document.getElementById('tab-' + btn.dataset.tab).classList.add('active');
+  });
+}
+const menuBtn = document.getElementById('menuBtn');
+const sidebar = document.querySelector('.sidebar');
+if (menuBtn && sidebar) {
+  menuBtn.addEventListener('click', () => sidebar.classList.toggle('open'));
+  document.querySelectorAll('.sidebar .item, .tab-btn').forEach(el => {
+    el.addEventListener('click', () => sidebar.classList.remove('open'));
   });
 }
 </script>
