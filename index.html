@@ -4,238 +4,523 @@
 <meta charset="utf-8"/>
 <meta content="width=device-width, initial-scale=1.0" name="viewport"/>
 <title>아침 브리핑</title>
-<link href="https://fonts.googleapis.com/css2?family=Syne:wght@400;500;600;700;800&family=DM+Sans:ital,wght@0,300;0,400;0,500;1,300;1,400&family=DM+Mono:wght@400;500&display=swap" rel="stylesheet"/>
+<link href="https://fonts.googleapis.com/css2?family=Syne:wght@400;500;600;700;800&family=DM+Sans:wght@300;400;500;700&family=DM+Mono:wght@400;500&display=swap" rel="stylesheet"/>
 <link href="https://fonts.googleapis.com/css2?family=Material+Symbols+Outlined:opsz,wght,FILL,GRAD@20..48,100..700,0..1,-50..200" rel="stylesheet"/>
 <style>
-:root {
-  --bg: #070d1c;
-  --surface0: #0d1629;
-  --surface1: #131d35;
-  --surface2: #1a2540;
-  --surface3: #212e4e;
-  --border: rgba(255,255,255,0.06);
-  --border2: rgba(255,255,255,0.11);
-  --text: #d8e3f8;
-  --text2: #8a97b5;
-  --text3: #515f7e;
-  --cyan: #00e5ff;
-  --cyan2: #00b8d9;
-  --cyan-dim: rgba(0,229,255,0.08);
-  --violet: #b3aaff;
-  --violet2: rgba(179,170,255,0.12);
-  --red: #ff6b6b;
-  --red2: rgba(255,107,107,0.12);
-  --amber: #ffc34d;
-  --amber2: rgba(255,195,77,0.10);
-  --green: #4dffa0;
-  --green2: rgba(77,255,160,0.10);
-  --radius-sm: 10px;
-  --radius: 16px;
-  --radius-lg: 24px;
-}
-*{box-sizing:border-box;margin:0;padding:0}
-body{font-family:'DM Sans',sans-serif;background:var(--bg);color:var(--text);min-height:100vh;line-height:1.6;-webkit-font-smoothing:antialiased}
-a{color:inherit;text-decoration:none}
-.topbar{position:sticky;top:0;z-index:100;background:rgba(7,13,28,0.85);backdrop-filter:blur(20px);border-bottom:1px solid var(--border);padding:0 40px;height:60px;display:flex;align-items:center;justify-content:space-between}
-.topbar-brand{font-family:'Syne',sans-serif;font-size:15px;font-weight:800;letter-spacing:0.12em;text-transform:uppercase;color:var(--text)}
-.topbar-brand span{color:var(--cyan)}
-.topbar-nav{display:flex;gap:6px}
-.topbar-nav a{font-size:13px;padding:6px 14px;border-radius:8px;color:var(--text2)}
-.topbar-nav a.active,.topbar-nav a:hover{color:var(--text);background:var(--surface2)}
-.topbar-right{display:flex;align-items:center;gap:10px}
-.topbar-icon{width:34px;height:34px;border-radius:8px;display:flex;align-items:center;justify-content:center;color:var(--text2);border:1px solid transparent}
-.avatar{width:32px;height:32px;border-radius:50%;background:linear-gradient(135deg,var(--cyan2),var(--violet));display:flex;align-items:center;justify-content:center;font-size:12px;font-weight:700;color:var(--bg);font-family:'Syne',sans-serif}
-.layout{display:flex}
-.sidebar{width:220px;flex-shrink:0;position:sticky;top:60px;height:calc(100vh - 60px);background:var(--surface0);border-right:1px solid var(--border);display:flex;flex-direction:column;padding:24px 12px;overflow-y:auto}
-.sidebar-label{font-size:10px;font-weight:600;letter-spacing:0.1em;text-transform:uppercase;color:var(--text3);padding:0 12px;margin-bottom:6px}
-.sidebar-item{display:flex;align-items:center;gap:10px;padding:9px 12px;border-radius:var(--radius-sm);color:var(--text2);font-size:13px;border:1px solid transparent}
-.sidebar-item.active,.sidebar-item:hover{color:var(--text);background:var(--surface2)}
-.sidebar-divider{height:1px;background:var(--border);margin:12px 0}
-.sidebar-bottom{margin-top:auto}.status-dot{width:6px;height:6px;border-radius:50%;background:var(--green);box-shadow:0 0 6px var(--green);flex-shrink:0}
-.main{flex:1;padding:36px 40px;min-width:0;max-width:1100px}
-.page-header{margin-bottom:32px}.page-eyebrow{font-size:11px;font-weight:600;letter-spacing:0.12em;text-transform:uppercase;color:var(--text3);margin-bottom:8px}.page-title{font-family:'Syne',sans-serif;font-size:42px;font-weight:800;line-height:1;letter-spacing:-0.02em;margin-bottom:8px}.page-sub{font-size:14px;color:var(--text2)}
-.status-bar{display:grid;grid-template-columns:repeat(4,1fr);gap:10px;margin-bottom:28px}.stat-card{background:var(--surface1);border:1px solid var(--border);border-radius:var(--radius);padding:14px 16px}.stat-label{font-size:10px;font-weight:600;letter-spacing:0.08em;text-transform:uppercase;color:var(--text3);margin-bottom:6px}.stat-value{font-family:'DM Mono',monospace;font-size:22px;font-weight:500;line-height:1}.stat-value.cyan{color:var(--cyan)}.stat-value.red{color:var(--red)}.stat-sub{font-size:11px;color:var(--text3);margin-top:4px}
-.verdict-card,.card{background:var(--surface1);border:1px solid var(--border);border-radius:var(--radius-lg)}
-.verdict-card{padding:32px 36px;margin-bottom:12px;position:relative;overflow:hidden}.verdict-card::before{content:'';position:absolute;top:0;left:0;right:0;height:1px;background:linear-gradient(90deg,transparent,var(--cyan),transparent);opacity:.4}.verdict-badge{display:inline-flex;align-items:center;gap:6px;font-size:10px;font-weight:700;letter-spacing:.1em;text-transform:uppercase;color:var(--cyan);background:var(--cyan-dim);border:1px solid rgba(0,229,255,.2);padding:5px 12px;border-radius:20px;margin-bottom:20px}.pulse-dot{width:6px;height:6px;border-radius:50%;background:var(--cyan)}.verdict-quote{font-family:'Syne',sans-serif;font-size:26px;font-weight:700;line-height:1.4;color:var(--text);margin-bottom:16px}.verdict-body{font-size:14px;color:var(--text2);line-height:1.8;max-width:760px}.verdict-tags{display:flex;gap:6px;margin-top:20px;flex-wrap:wrap}.vtag{font-size:11px;padding:4px 10px;border-radius:20px;border:1px solid var(--border2);color:var(--text2)}
-.grid-2,.grid-sys{display:grid;grid-template-columns:1fr 1fr;gap:12px;margin-bottom:12px}
-.card{padding:22px 24px}.card-head{display:flex;align-items:flex-start;justify-content:space-between;margin-bottom:16px}.card-title{font-family:'Syne',sans-serif;font-size:17px;font-weight:700;color:var(--text)}.card-icon{width:32px;height:32px;border-radius:8px;background:var(--surface2);border:1px solid var(--border);display:flex;align-items:center;justify-content:center}.card-icon .material-symbols-outlined{font-size:16px;color:var(--text2)}
-.summary{font-size:14px;color:var(--text);line-height:1.7}.take{margin-top:14px;padding:10px 14px;background:var(--surface2);border-radius:var(--radius-sm);border-left:2px solid var(--cyan2);font-size:12px;color:var(--text2)}
-.pill{display:inline-flex;align-items:center;gap:6px;font-size:10px;font-weight:700;letter-spacing:.06em;text-transform:uppercase;padding:3px 9px;border-radius:20px;background:var(--surface2);color:var(--text2);border:1px solid var(--border2)}
-.section-links{display:flex;flex-wrap:wrap;gap:8px;margin-top:12px}.section-links a{font-size:11px;color:var(--cyan)}
-.thumb{display:block;margin-top:12px;border-radius:12px;overflow:hidden;border:1px solid var(--border)}.thumb img{display:block;width:100%;aspect-ratio:16/9;object-fit:cover}
-.weather-main{display:flex;align-items:center;justify-content:space-between;gap:12px}.loc{font-size:14px;color:var(--text2)}.temp{font-size:36px;font-weight:800;margin-top:4px;letter-spacing:-0.03em}.desc{font-size:15px;color:var(--text);margin-top:6px}.weather-icon{font-size:46px}.weather-badges{display:flex;flex-wrap:wrap;gap:8px;margin-top:12px}
-.footer{margin-top:40px;padding-top:20px;border-top:1px solid var(--border);display:flex;justify-content:space-between;align-items:center}.footer-text{font-size:11px;color:var(--text3)}.footer-status{display:flex;align-items:center;gap:6px;font-size:11px;color:var(--text3)}
-.material-symbols-outlined{font-variation-settings:'FILL' 0,'wght' 400,'GRAD' 0,'opsz' 24}
-@media (max-width:1100px){.sidebar{display:none}.main{max-width:none;padding:28px 20px}.grid-2,.grid-sys,.status-bar{grid-template-columns:1fr 1fr}}
-@media (max-width:720px){.topbar{padding:0 16px}.topbar-nav{display:none}.status-bar,.grid-2,.grid-sys{grid-template-columns:1fr}.page-title{font-size:34px}.verdict-card{padding:24px 20px}.main{padding:24px 16px}}
+:root{--bg:#070d1c;--surface0:#0d1629;--surface1:#131d35;--surface2:#1a2540;--surface3:#212e4e;--border:rgba(255,255,255,.07);--text:#d8e3f8;--text2:#8a97b5;--text3:#515f7e;--cyan:#00e5ff;--violet:#b3aaff;--green:#4dffa0;--red:#ff6b6b;--amber:#ffc34d;--radius:16px;--radius-lg:24px}
+*{box-sizing:border-box;margin:0;padding:0}body{font-family:'DM Sans',sans-serif;background:var(--bg);color:var(--text);min-height:100vh}a{color:inherit;text-decoration:none}.material-symbols-outlined{font-variation-settings:'FILL' 0,'wght' 400,'GRAD' 0,'opsz' 24}
+.topbar{position:sticky;top:0;z-index:100;background:rgba(7,13,28,.88);backdrop-filter:blur(18px);border-bottom:1px solid var(--border);padding:0 28px;height:60px;display:flex;align-items:center;justify-content:space-between}.brand{font-family:'Syne',sans-serif;font-weight:800;letter-spacing:.12em;text-transform:uppercase}.brand span{color:var(--cyan)}.topnav{display:flex;gap:8px}.topnav button{background:none;border:0;color:var(--text2);padding:8px 14px;border-radius:10px;cursor:pointer}.topnav button.active,.topnav button:hover{background:var(--surface2);color:var(--text)}
+.layout{display:flex}.sidebar{width:220px;position:sticky;top:60px;height:calc(100vh - 60px);background:var(--surface0);border-right:1px solid var(--border);padding:24px 12px}.sidebar .item{display:flex;align-items:center;gap:10px;padding:10px 12px;border-radius:10px;color:var(--text2)}.sidebar .item.active,.sidebar .item:hover{background:var(--surface2);color:var(--text)}.main{flex:1;padding:32px;max-width:1280px}.page-title{font-family:'Syne',sans-serif;font-size:40px;font-weight:800}.page-sub{margin-top:8px;color:var(--text2);font-size:14px}
+.status-bar{display:grid;grid-template-columns:repeat(4,1fr);gap:12px;margin:26px 0}.stat{background:var(--surface1);border:1px solid var(--border);border-radius:var(--radius);padding:14px}.stat .label{font-size:10px;color:var(--text3);text-transform:uppercase;letter-spacing:.1em}.stat .value{font-family:'DM Mono',monospace;font-size:22px;margin-top:6px}.stat .sub{font-size:11px;color:var(--text3);margin-top:4px}
+.hero{background:var(--surface1);border:1px solid var(--border);border-radius:var(--radius-lg);padding:28px;margin-bottom:14px}.hero .eyebrow{font-size:11px;color:var(--cyan);text-transform:uppercase;letter-spacing:.1em;margin-bottom:16px}.hero .quote{font-family:'Syne',sans-serif;font-size:28px;font-weight:700;line-height:1.4}.hero .body{margin-top:14px;color:var(--text2);line-height:1.8}
+.tab-panel{display:none}.tab-panel.active{display:block}.grid-2{display:grid;grid-template-columns:1fr 1fr;gap:14px}.card,.panel{background:var(--surface1);border:1px solid var(--border);border-radius:var(--radius-lg);padding:22px}.section-title{font-family:'Syne',sans-serif;font-size:18px;font-weight:700}.section-sub{margin-top:12px;color:var(--text2);line-height:1.8}.pill{display:inline-flex;align-items:center;font-size:10px;font-weight:700;letter-spacing:.05em;text-transform:uppercase;padding:4px 10px;border-radius:999px;background:var(--surface2);border:1px solid rgba(255,255,255,.09);color:var(--text2);margin:10px 8px 0 0}
+.weather-badges{display:flex;flex-wrap:wrap}.weather-main{display:flex;align-items:flex-start;justify-content:space-between;gap:12px;margin-top:12px}.weather-temp{font-size:38px;font-weight:800}.weather-life{margin-top:14px;padding:12px 14px;background:var(--surface2);border-left:2px solid var(--cyan);border-radius:12px;color:var(--text2)}
+.row-panel{margin-top:14px}.list-item{padding:14px 0;border-top:1px solid var(--border)}.list-item:first-child{border-top:0;padding-top:0}.list-head{display:flex;justify-content:space-between;gap:10px}.list-title{font-weight:700}.list-meta{font-size:12px;color:var(--text3)}.list-desc{margin-top:6px;color:var(--text2);font-size:14px;line-height:1.7}.thumb-row{display:grid;grid-template-columns:180px 1fr;gap:14px;align-items:start}.thumb{width:100%;aspect-ratio:16/9;object-fit:cover;border-radius:14px;border:1px solid var(--border)}
+.metrics{display:grid;gap:12px;margin-top:14px}.metric .m-head{display:flex;justify-content:space-between;font-size:13px;margin-bottom:6px}.bar{height:10px;background:var(--surface2);border-radius:999px;overflow:hidden;border:1px solid rgba(255,255,255,.05)}.bar > span{display:block;height:100%;background:linear-gradient(90deg,var(--cyan),var(--violet));border-radius:999px}.bar.warn > span{background:linear-gradient(90deg,var(--amber),#ff8f00)}.bar.danger > span{background:linear-gradient(90deg,var(--red),#ff3d3d)}
+.footer{margin-top:28px;padding-top:18px;border-top:1px solid var(--border);font-size:12px;color:var(--text3)}
+@media (max-width:1100px){.sidebar{display:none}.main{padding:24px}.status-bar,.grid-2{grid-template-columns:1fr 1fr}}@media (max-width:760px){.topnav{overflow:auto}.status-bar,.grid-2,.thumb-row{grid-template-columns:1fr}.main{padding:18px}.page-title{font-size:32px}}
 </style>
 </head>
 <body>
 <header class="topbar">
-  <div class="topbar-brand">JARVIS <span>·</span> Intelligence</div>
-  <nav class="topbar-nav">
-    <a href="#" class="active">브리핑</a>
-    <a href="/ai-news-briefing/archive/">아카이브</a>
-    <a href="/ai-news-briefing/insights/weekly.html">주간</a>
-    <a href="/ai-news-briefing/insights/monthly.html">월간</a>
-    <a href="/ai-news-briefing/data/index.json">데이터</a>
+  <div class="brand">JARVIS <span>·</span> Briefing</div>
+  <nav class="topnav">
+    <button class="tab-btn active" data-tab="briefing">브리핑</button>
+    <button class="tab-btn" data-tab="archive">아카이브</button>
+    <button class="tab-btn" data-tab="weekly">주간</button>
+    <button class="tab-btn" data-tab="monthly">월간</button>
+    <button class="tab-btn" data-tab="data">데이터</button>
   </nav>
-  <div class="topbar-right">
-    <div class="topbar-icon"><span class="material-symbols-outlined">notifications</span></div>
-    <div class="topbar-icon"><span class="material-symbols-outlined">settings</span></div>
-    <div class="avatar">SK</div>
-  </div>
 </header>
 <div class="layout">
   <aside class="sidebar">
-    <div class="sidebar-label">메인</div>
-    <a class="sidebar-item active"><span class="material-symbols-outlined">dashboard</span> 오늘 브리핑</a>
-    <a class="sidebar-item"><span class="material-symbols-outlined">calendar_today</span> 일정</a>
-    <a class="sidebar-item"><span class="material-symbols-outlined">mail</span> 메일</a>
-    <div class="sidebar-divider"></div>
-    <div class="sidebar-label">분석</div>
-    <a class="sidebar-item"><span class="material-symbols-outlined">video_library</span> 유튜브</a>
-    <a class="sidebar-item"><span class="material-symbols-outlined">tune</span> 시스템</a>
-    <a class="sidebar-item"><span class="material-symbols-outlined">archive</span> 아카이브</a>
-    <div class="sidebar-divider"></div>
-    <div class="sidebar-bottom">
-      <div class="sidebar-item" style="color: var(--text3); font-size: 12px; gap: 8px;"><div class="status-dot"></div> 시스템 가동 중</div>
-    </div>
+    <div class="item active"><span class="material-symbols-outlined">dashboard</span> 오늘 브리핑</div>
+    <div class="item"><span class="material-symbols-outlined">calendar_today</span> 일정</div>
+    <div class="item"><span class="material-symbols-outlined">mail</span> 메일</div>
+    <div class="item"><span class="material-symbols-outlined">video_library</span> 유튜브</div>
+    <div class="item"><span class="material-symbols-outlined">memory</span> 시스템</div>
+    <div class="item"><span class="material-symbols-outlined">smart_toy</span> OpenClaw</div>
   </aside>
   <main class="main">
-    <section class="page-header">
-      <div class="page-eyebrow">JARVIS Daily Briefing</div>
-      <div class="page-title">아침 브리핑</div>
-      <div class="page-sub">2026-04-18 12:57 · 날씨 · 응원 · 일정 · 메일 · 유튜브 · 시스템 · OpenClaw</div>
-    </section>
-
+    <div class="page-title">아침 브리핑</div>
+    <div class="page-sub">2026-04-18 16:20 · 날씨 · 응원 · 일정 · 메일 · 유튜브 · 시스템 · OpenClaw</div>
     <section class="status-bar">
-      <div class="stat-card"><div class="stat-label">Weather</div><div class="stat-value cyan">21°C</div><div class="stat-sub">김해 · Partly cloudy</div></div>
-      <div class="stat-card"><div class="stat-label">Latest</div><div class="stat-value">라이브</div><div class="stat-sub">오늘 브리핑 반영됨</div></div>
-      <div class="stat-card"><div class="stat-label">Archive</div><div class="stat-value">Ready</div><div class="stat-sub">주간 / 월간 / 데이터 링크 제공</div></div>
-      <div class="stat-card"><div class="stat-label">System</div><div class="stat-value red">Monitoring</div><div class="stat-sub">시스템 + OpenClaw 요약 포함</div></div>
+      <div class="stat"><div class="label">Weather</div><div class="value">23°C</div><div class="sub">김해 · Overcast</div></div>
+      <div class="stat"><div class="label">Latest</div><div class="value">Live</div><div class="sub">AI 개입형 브리핑</div></div>
+      <div class="stat"><div class="label">Archive</div><div class="value">Unified</div><div class="sub">같은 프레임 안에서 전환</div></div>
+      <div class="stat"><div class="label">System</div><div class="value">Monitoring</div><div class="sub">시스템 + OpenClaw</div></div>
     </section>
 
-    <section class="verdict-card">
-      <div class="verdict-badge"><div class="pulse-dot"></div> Morning Verdict</div>
-      <div class="verdict-quote">팀장님 맞춤 아침 브리핑 구조로 전환된 기본 버전입니다.</div>
-      <div class="verdict-body">유튜브는 최신 업로드 감지와 제목 기반 요약까지 연결했습니다. 메일/일정은 다음 단계에서 실제 수집을 붙입니다.</div>
-      <div class="verdict-tags">
-        <span class="vtag">최신 브리핑</span>
-        <span class="vtag">아카이브</span>
-        <span class="vtag">주간 인사이트</span>
-        <span class="vtag">월간 인사이트</span>
-      </div>
+    <section class="hero">
+      <div class="eyebrow">Morning Verdict</div>
+      <div class="quote">오늘은 누가 밀어붙이지 않아도 됩니다. 팀장님 리듬대로 중요한 것부터 차분히 끝내면 됩니다.</div>
+      <div class="body">큰 변수 없이 움직이기 좋은 날씨입니다. 일정만 잘 잡으면 리듬 있게 가기 좋겠습니다. 오늘은 마음을 급하게 쓰지 말고, 가장 아쉬웠던 한 가지를 먼저 정리해 보시면 좋겠습니다. 그런 작은 정리가 하루의 기분을 꽤 크게 바꿉니다.</div>
     </section>
 
-    <section class="grid-2">
-      <article class="card">
-        <div class="card-head"><div class="card-title">김해 현재 날씨</div><div class="card-icon"><span class="material-symbols-outlined">partly_cloudy_day</span></div></div>
-        <div class="weather-main"><div><div class="loc">김해</div><div class="temp">21°C</div><div class="desc">Partly cloudy</div><div class="weather-badges"><span class="pill">체감 21°C</span></div></div><div class="weather-icon">⛅</div></div>
-      </article>
-      <article class="card">
-        <div class="card-head"><div class="card-title">바로가기</div><div class="card-icon"><span class="material-symbols-outlined">link</span></div></div>
-        <div class="summary">오늘 브리핑과 아카이브, 인사이트, 원본 데이터에 빠르게 접근할 수 있습니다.</div>
-        <div class="section-links">
-          <a href="/ai-news-briefing/">최신 브리핑</a>
-          <a href="/ai-news-briefing/archive/">아카이브</a>
-          <a href="/ai-news-briefing/insights/weekly.html">주간</a>
-          <a href="/ai-news-briefing/insights/monthly.html">월간</a>
-          <a href="/ai-news-briefing/data/index.json">데이터</a>
+    <section id="tab-briefing" class="tab-panel active">
+      
+    <section class='grid-2'>
+      <article class='card'>
+        <div class='section-title'>김해 현재 날씨</div>
+        <div class='weather-main'>
+          <div>
+            <div class='list-meta'>김해</div>
+            <div class='weather-temp'>23°C</div>
+            <div class='section-sub'>Overcast</div>
+            <div class='weather-badges'><span class="pill">체감 25°C</span><span class="pill">습도 57%</span><span class="pill">강수확률 0%</span><span class="pill">풍속 8km/h</span><span class="pill">UV 2</span><span class="pill">미세먼지 정보 연동 예정</span></div>
+            <div class='weather-life'>큰 변수 없이 움직이기 좋은 날씨입니다. 일정만 잘 잡으면 리듬 있게 가기 좋겠습니다.</div>
+          </div>
+          <div style='font-size:48px'>⛅</div>
         </div>
       </article>
+      <article class='card'>
+        <div class='section-title'>오늘 일정</div>
+        <div class='section-sub'>오늘 일정 없음</div>
+        <div class='row-panel'><div class='list-item'><div class='list-desc'>표시할 항목이 없습니다.</div></div></div>
+      </article>
+    </section>
+    
+    <section class='panel' style='margin-top:14px'>
+      <div class='section-title'>주요 메일 / 중요 알림</div>
+      <div class='section-sub'>지금 확인할 만한 메일만 추렸습니다. 결제, 업무, 보안성 알림 위주로 먼저 보면 됩니다.</div>
+      <div class='row-panel'><div class='list-item'><div class='list-head'><div class='list-title'>✅ 스카이님, Android 기기에서 Google 설정을 완료하세요.</div><div class='list-meta'>Google &lt;no-reply@google.com&gt; · 2026-04-17 00:45</div></div><div class='list-desc'>중요인물</div></div><div class='list-item'><div class='list-head'><div class='list-title'>보안 알림</div><div class='list-meta'>Google &lt;no-reply@accounts.google.com&gt; · 2026-04-17 00:44</div></div><div class='list-desc'>중요인물, 에러</div></div><div class='list-item'><div class='list-head'><div class='list-title'>Security alert: new or unusual X login</div><div class='list-meta'>X &lt;verify@x.com&gt; · 2026-04-16 17:57</div></div><div class='list-desc'>중요인물, 에러</div></div></div>
+    </section>
+    
+    <section class='panel' style='margin-top:14px'>
+      <div class='section-title'>유튜브 업데이트</div>
+      <div class='section-sub'>업로드 속도가 빠른 채널은 오늘도 여러 편이 들어왔습니다. 중요한 주제부터 2~3개만 골라 보면 효율이 좋습니다.</div>
+      <div class='row-panel'>
+        <div class='list-item'>
+          <div class='thumb-row'>
+            <a href='https://www.youtube.com/watch?v=en2rxalqb6A' target='_blank' rel='noopener'><img class='thumb' src='https://i.ytimg.com/vi/en2rxalqb6A/hqdefault.jpg' alt='thumb'></a>
+            <div>
+              <div class='list-head'><div class='list-title'><a href='https://www.youtube.com/watch?v=en2rxalqb6A' target='_blank' rel='noopener'>New Claude Design Update DESTROYS Figma?</a></div><div class='list-meta'>@JulianGoldieSEO · 04-18 16:09</div></div>
+              <div class='list-desc'>핵심 키워드: claude. 오늘 흐름에선 실행형 업데이트나 도구 활용 팁으로 볼 가치가 큽니다.</div>
+            </div>
+          </div>
+        </div>
+        
+        <div class='list-item'>
+          <div class='thumb-row'>
+            <a href='https://www.youtube.com/watch?v=RlGppgMDl9k' target='_blank' rel='noopener'><img class='thumb' src='https://i.ytimg.com/vi/RlGppgMDl9k/hqdefault.jpg' alt='thumb'></a>
+            <div>
+              <div class='list-head'><div class='list-title'><a href='https://www.youtube.com/watch?v=RlGppgMDl9k' target='_blank' rel='noopener'>Comparing Full Precision vs Ollama Version of Qwen3.6-35B-A3B Locally</a></div><div class='list-meta'>@fahdmirza · 04-18 16:00</div></div>
+              <div class='list-desc'>제목 기준으로 새 영상이 올라왔고, 실제 브리핑에선 오늘 확인할 가치가 있는 영상으로 추려 보여줍니다.</div>
+            </div>
+          </div>
+        </div>
+        
+        <div class='list-item'>
+          <div class='thumb-row'>
+            <a href='https://www.youtube.com/watch?v=fw194uOehAs' target='_blank' rel='noopener'><img class='thumb' src='https://i.ytimg.com/vi/fw194uOehAs/hqdefault.jpg' alt='thumb'></a>
+            <div>
+              <div class='list-head'><div class='list-title'><a href='https://www.youtube.com/watch?v=fw194uOehAs' target='_blank' rel='noopener'>클로드 디자인 피바람.. 현직 디자이너들 다 죽어요 진짜 ㄷㄷ</a></div><div class='list-meta'>@success_wiki · 04-18 14:43</div></div>
+              <div class='list-desc'>제목 기준으로 새 영상이 올라왔고, 실제 브리핑에선 오늘 확인할 가치가 있는 영상으로 추려 보여줍니다.</div>
+            </div>
+          </div>
+        </div>
+        
+        <div class='list-item'>
+          <div class='thumb-row'>
+            <a href='https://www.youtube.com/watch?v=VOlZQklBwhU' target='_blank' rel='noopener'><img class='thumb' src='https://i.ytimg.com/vi/VOlZQklBwhU/hqdefault.jpg' alt='thumb'></a>
+            <div>
+              <div class='list-head'><div class='list-title'><a href='https://www.youtube.com/watch?v=VOlZQklBwhU' target='_blank' rel='noopener'>New Google AI Studio Update: Build ANYTHING!</a></div><div class='list-meta'>@JulianGoldieSEO · 04-18 14:00</div></div>
+              <div class='list-desc'>핵심 키워드: ai. 오늘 흐름에선 실행형 업데이트나 도구 활용 팁으로 볼 가치가 큽니다.</div>
+            </div>
+          </div>
+        </div>
+        
+        <div class='list-item'>
+          <div class='thumb-row'>
+            <a href='https://www.youtube.com/watch?v=OLEZVKatYzI' target='_blank' rel='noopener'><img class='thumb' src='https://i.ytimg.com/vi/OLEZVKatYzI/hqdefault_live.jpg' alt='thumb'></a>
+            <div>
+              <div class='list-head'><div class='list-title'><a href='https://www.youtube.com/watch?v=OLEZVKatYzI' target='_blank' rel='noopener'>Claude Design + Hermes Agent &amp; Ollama</a></div><div class='list-meta'>@JulianGoldieSEO · 04-18 13:56</div></div>
+              <div class='list-desc'>핵심 키워드: agent, claude. 오늘 흐름에선 실행형 업데이트나 도구 활용 팁으로 볼 가치가 큽니다.</div>
+            </div>
+          </div>
+        </div>
+        </div>
+    </section>
+    <section class='grid-2' style='margin-top:14px'>
+    <article class='card'>
+      <div class='section-title'>시스템 상태</div>
+      <div class='section-sub'>메모리 사용 14.7 GB, 여유 1.0 GB입니다. 장시간 작업 전 발열과 메모리 사용률을 같이 보는 편이 좋습니다.</div>
+      <div class='metrics'>
+    <div class='metric'>
+      <div class='m-head'><span>CPU 사용률</span><span>87.3 %</span></div>
+      <div class='bar'><span style='width:87%'></span></div>
+    </div>
+    
+    <div class='metric'>
+      <div class='m-head'><span>CPU 온도</span><span>77.0 °C</span></div>
+      <div class='bar warn'><span style='width:77%'></span></div>
+    </div>
+    
+    <div class='metric'>
+      <div class='m-head'><span>RAM 사용</span><span>14.7 GB</span></div>
+      <div class='bar'><span style='width:14%'></span></div>
+    </div>
+    
+    <div class='metric'>
+      <div class='m-head'><span>SSD 온도</span><span>40.0 °C</span></div>
+      <div class='bar'><span style='width:40%'></span></div>
+    </div>
+    </div>
+    </article>
+    
+    <article class='card'>
+      <div class='section-title'>OpenClaw 상태</div>
+      <div class='section-sub'>게이트웨이 상태 확인 실패</div>
+      <div class='metrics'><div class='list-desc'>표시할 지표가 없습니다.</div></div>
+    </article>
+    </section>
+    </section>
+    <section id="tab-archive" class="tab-panel panel">
+      <div class='section-title'>아카이브</div><div class='section-sub'>아카이브는 같은 프레임 안에서 유지되도록 통합하는 방향으로 정리 중입니다. 다음 단계에서 실제 목록형으로 연결합니다.</div>
+    </section>
+    <section id="tab-weekly" class="tab-panel panel">
+      <div class='section-title'>주간 인사이트</div><div class='section-sub'>주간 페이지를 현재 프레임 안에서 이어 붙일 구조로 확장 예정입니다.</div>
+    </section>
+    <section id="tab-monthly" class="tab-panel panel">
+      <div class='section-title'>월간 인사이트</div><div class='section-sub'>월간 페이지도 같은 레이아웃 기준으로 통합할 예정입니다.</div>
+    </section>
+    <section id="tab-data" class="tab-panel panel">
+      <div class='section-title'>데이터</div><div class='section-sub'>현재 브리핑에 사용된 구조화 데이터입니다.</div><pre style='margin-top:14px;white-space:pre-wrap;color:#8a97b5;font-size:12px'>{
+  &quot;date&quot;: &quot;2026-04-18 16:20&quot;,
+  &quot;title&quot;: &quot;아침 브리핑&quot;,
+  &quot;subtitle&quot;: &quot;날씨 · 응원 · 일정 · 메일 · 유튜브 · 시스템 · OpenClaw&quot;,
+  &quot;summary&quot;: &quot;오늘은 누가 밀어붙이지 않아도 됩니다. 팀장님 리듬대로 중요한 것부터 차분히 끝내면 됩니다.&quot;,
+  &quot;summary_box&quot;: &quot;큰 변수 없이 움직이기 좋은 날씨입니다. 일정만 잘 잡으면 리듬 있게 가기 좋겠습니다. 오늘은 마음을 급하게 쓰지 말고, 가장 아쉬웠던 한 가지를 먼저 정리해 보시면 좋겠습니다. 그런 작은 정리가 하루의 기분을 꽤 크게 바꿉니다.&quot;,
+  &quot;weather&quot;: {
+    &quot;loc&quot;: &quot;김해&quot;,
+    &quot;temp&quot;: &quot;23°C&quot;,
+    &quot;desc&quot;: &quot;Overcast&quot;,
+    &quot;icon&quot;: &quot;⛅&quot;,
+    &quot;badges&quot;: [
+      &quot;체감 25°C&quot;,
+      &quot;습도 57%&quot;,
+      &quot;강수확률 0%&quot;,
+      &quot;풍속 8km/h&quot;,
+      &quot;UV 2&quot;,
+      &quot;미세먼지 정보 연동 예정&quot;
+    ],
+    &quot;detail&quot;: {
+      &quot;feels_like&quot;: &quot;25&quot;,
+      &quot;humidity&quot;: &quot;57&quot;,
+      &quot;rain_chance&quot;: &quot;0&quot;,
+      &quot;wind_kmph&quot;: &quot;8&quot;,
+      &quot;uv&quot;: &quot;2&quot;,
+      &quot;pm&quot;: &quot;미세먼지 정보 연동 예정&quot;
+    },
+    &quot;life_comment&quot;: &quot;큰 변수 없이 움직이기 좋은 날씨입니다. 일정만 잘 잡으면 리듬 있게 가기 좋겠습니다.&quot;
+  },
+  &quot;sections&quot;: {
+    &quot;calendar&quot;: {
+      &quot;summary&quot;: &quot;오늘 일정 없음&quot;,
+      &quot;take&quot;: &quot;오늘 등록된 일정이 없습니다. 이럴 때는 중요한 정리 한두 개만 분명하게 끝내도 충분합니다.&quot;,
+      &quot;items&quot;: [],
+      &quot;links&quot;: [],
+      &quot;entities&quot;: [
+        &quot;calendar&quot;
+      ]
+    },
+    &quot;mail&quot;: {
+      &quot;summary&quot;: &quot;[중요인물] ✅ 스카이님, Android 기기에서 Googl / [중요인물,에러] 보안 알림 / [중요인물,에러] Security alert: new or unu&quot;,
+      &quot;take&quot;: &quot;지금 확인할 만한 메일만 추렸습니다. 결제, 업무, 보안성 알림 위주로 먼저 보면 됩니다.&quot;,
+      &quot;items&quot;: [
+        {
+          &quot;date&quot;: &quot;2026-04-17 00:45&quot;,
+          &quot;from&quot;: &quot;Google &lt;no-reply@google.com&gt;&quot;,
+          &quot;subject&quot;: &quot;✅ 스카이님, Android 기기에서 Google 설정을 완료하세요.&quot;,
+          &quot;tags&quot;: [
+            &quot;중요인물&quot;
+          ]
+        },
+        {
+          &quot;date&quot;: &quot;2026-04-17 00:44&quot;,
+          &quot;from&quot;: &quot;Google &lt;no-reply@accounts.google.com&gt;&quot;,
+          &quot;subject&quot;: &quot;보안 알림&quot;,
+          &quot;tags&quot;: [
+            &quot;중요인물&quot;,
+            &quot;에러&quot;
+          ]
+        },
+        {
+          &quot;date&quot;: &quot;2026-04-16 17:57&quot;,
+          &quot;from&quot;: &quot;X &lt;verify@x.com&gt;&quot;,
+          &quot;subject&quot;: &quot;Security alert: new or unusual X login&quot;,
+          &quot;tags&quot;: [
+            &quot;중요인물&quot;,
+            &quot;에러&quot;
+          ]
+        }
+      ],
+      &quot;links&quot;: [],
+      &quot;entities&quot;: [
+        &quot;에러&quot;,
+        &quot;중요인물&quot;
+      ]
+    },
+    &quot;youtube&quot;: {
+      &quot;summary&quot;: &quot;@JulianGoldieSEO New Claude Design Update / @fahdmirza Comparing Full Precision / @success_wiki 클로드 디자인 피바람.. 현직 디자이너들 다&quot;,
+      &quot;take&quot;: &quot;업로드 속도가 빠른 채널은 오늘도 여러 편이 들어왔습니다. 중요한 주제부터 2~3개만 골라 보면 효율이 좋습니다.&quot;,
+      &quot;items&quot;: [
+        {
+          &quot;channel&quot;: &quot;@JulianGoldieSEO&quot;,
+          &quot;title&quot;: &quot;New Claude Design Update DESTROYS Figma?&quot;,
+          &quot;published&quot;: &quot;04-18 16:09&quot;,
+          &quot;published_dt&quot;: &quot;2026-04-18T16:09:41+09:00&quot;,
+          &quot;url&quot;: &quot;https://www.youtube.com/watch?v=en2rxalqb6A&quot;,
+          &quot;thumbnail&quot;: &quot;https://i.ytimg.com/vi/en2rxalqb6A/hqdefault.jpg&quot;,
+          &quot;summary&quot;: &quot;핵심 키워드: claude. 오늘 흐름에선 실행형 업데이트나 도구 활용 팁으로 볼 가치가 큽니다.&quot;,
+          &quot;shorts&quot;: false
+        },
+        {
+          &quot;channel&quot;: &quot;@fahdmirza&quot;,
+          &quot;title&quot;: &quot;Comparing Full Precision vs Ollama Version of Qwen3.6-35B-A3B Locally&quot;,
+          &quot;published&quot;: &quot;04-18 16:00&quot;,
+          &quot;published_dt&quot;: &quot;2026-04-18T16:00:33+09:00&quot;,
+          &quot;url&quot;: &quot;https://www.youtube.com/watch?v=RlGppgMDl9k&quot;,
+          &quot;thumbnail&quot;: &quot;https://i.ytimg.com/vi/RlGppgMDl9k/hqdefault.jpg&quot;,
+          &quot;summary&quot;: &quot;제목 기준으로 새 영상이 올라왔고, 실제 브리핑에선 오늘 확인할 가치가 있는 영상으로 추려 보여줍니다.&quot;,
+          &quot;shorts&quot;: false
+        },
+        {
+          &quot;channel&quot;: &quot;@success_wiki&quot;,
+          &quot;title&quot;: &quot;클로드 디자인 피바람.. 현직 디자이너들 다 죽어요 진짜 ㄷㄷ&quot;,
+          &quot;published&quot;: &quot;04-18 14:43&quot;,
+          &quot;published_dt&quot;: &quot;2026-04-18T14:43:14+09:00&quot;,
+          &quot;url&quot;: &quot;https://www.youtube.com/watch?v=fw194uOehAs&quot;,
+          &quot;thumbnail&quot;: &quot;https://i.ytimg.com/vi/fw194uOehAs/hqdefault.jpg&quot;,
+          &quot;summary&quot;: &quot;제목 기준으로 새 영상이 올라왔고, 실제 브리핑에선 오늘 확인할 가치가 있는 영상으로 추려 보여줍니다.&quot;,
+          &quot;shorts&quot;: false
+        },
+        {
+          &quot;channel&quot;: &quot;@JulianGoldieSEO&quot;,
+          &quot;title&quot;: &quot;New Google AI Studio Update: Build ANYTHING!&quot;,
+          &quot;published&quot;: &quot;04-18 14:00&quot;,
+          &quot;published_dt&quot;: &quot;2026-04-18T14:00:35+09:00&quot;,
+          &quot;url&quot;: &quot;https://www.youtube.com/watch?v=VOlZQklBwhU&quot;,
+          &quot;thumbnail&quot;: &quot;https://i.ytimg.com/vi/VOlZQklBwhU/hqdefault.jpg&quot;,
+          &quot;summary&quot;: &quot;핵심 키워드: ai. 오늘 흐름에선 실행형 업데이트나 도구 활용 팁으로 볼 가치가 큽니다.&quot;,
+          &quot;shorts&quot;: false
+        },
+        {
+          &quot;channel&quot;: &quot;@JulianGoldieSEO&quot;,
+          &quot;title&quot;: &quot;Claude Design + Hermes Agent &amp; Ollama&quot;,
+          &quot;published&quot;: &quot;04-18 13:56&quot;,
+          &quot;published_dt&quot;: &quot;2026-04-18T13:56:43+09:00&quot;,
+          &quot;url&quot;: &quot;https://www.youtube.com/watch?v=OLEZVKatYzI&quot;,
+          &quot;thumbnail&quot;: &quot;https://i.ytimg.com/vi/OLEZVKatYzI/hqdefault_live.jpg&quot;,
+          &quot;summary&quot;: &quot;핵심 키워드: agent, claude. 오늘 흐름에선 실행형 업데이트나 도구 활용 팁으로 볼 가치가 큽니다.&quot;,
+          &quot;shorts&quot;: false
+        }
+      ],
+      &quot;links&quot;: [
+        {
+          &quot;label&quot;: &quot;@JulianGoldieSEO · 04-18 16:09&quot;,
+          &quot;url&quot;: &quot;https://www.youtube.com/watch?v=en2rxalqb6A&quot;,
+          &quot;thumbnail&quot;: &quot;https://i.ytimg.com/vi/en2rxalqb6A/hqdefault.jpg&quot;
+        },
+        {
+          &quot;label&quot;: &quot;@fahdmirza · 04-18 16:00&quot;,
+          &quot;url&quot;: &quot;https://www.youtube.com/watch?v=RlGppgMDl9k&quot;,
+          &quot;thumbnail&quot;: &quot;https://i.ytimg.com/vi/RlGppgMDl9k/hqdefault.jpg&quot;
+        },
+        {
+          &quot;label&quot;: &quot;@success_wiki · 04-18 14:43&quot;,
+          &quot;url&quot;: &quot;https://www.youtube.com/watch?v=fw194uOehAs&quot;,
+          &quot;thumbnail&quot;: &quot;https://i.ytimg.com/vi/fw194uOehAs/hqdefault.jpg&quot;
+        }
+      ],
+      &quot;entities&quot;: [
+        &quot;@JulianGoldieSEO&quot;,
+        &quot;@fahdmirza&quot;,
+        &quot;@success_wiki&quot;,
+        &quot;@JulianGoldieSEO&quot;
+      ]
+    },
+    &quot;system&quot;: {
+      &quot;summary&quot;: &quot;CPU 77.0 °C / 사용률 87.3 % / RAM 93.4 %&quot;,
+      &quot;take&quot;: &quot;메모리 사용 14.7 GB, 여유 1.0 GB입니다. 장시간 작업 전 발열과 메모리 사용률을 같이 보는 편이 좋습니다.&quot;,
+      &quot;metrics&quot;: [
+        {
+          &quot;label&quot;: &quot;CPU 사용률&quot;,
+          &quot;value&quot;: &quot;87.3 %&quot;,
+          &quot;pct&quot;: 87.3,
+          &quot;tone&quot;: &quot;normal&quot;
+        },
+        {
+          &quot;label&quot;: &quot;CPU 온도&quot;,
+          &quot;value&quot;: &quot;77.0 °C&quot;,
+          &quot;pct&quot;: 77.0,
+          &quot;tone&quot;: &quot;warm&quot;
+        },
+        {
+          &quot;label&quot;: &quot;RAM 사용&quot;,
+          &quot;value&quot;: &quot;14.7 GB&quot;,
+          &quot;pct&quot;: 14.7,
+          &quot;tone&quot;: &quot;normal&quot;
+        },
+        {
+          &quot;label&quot;: &quot;SSD 온도&quot;,
+          &quot;value&quot;: &quot;40.0 °C&quot;,
+          &quot;pct&quot;: 40.0,
+          &quot;tone&quot;: &quot;normal&quot;
+        }
+      ]
+    },
+    &quot;openclaw&quot;: {
+      &quot;summary&quot;: &quot;버전 확인 실패&quot;,
+      &quot;take&quot;: &quot;게이트웨이 상태 확인 실패&quot;,
+      &quot;metrics&quot;: []
+    }
+  },
+  &quot;cards&quot;: [
+    {
+      &quot;title&quot;: &quot;오늘의 한마디&quot;,
+      &quot;summary&quot;: &quot;오늘은 누가 밀어붙이지 않아도 됩니다. 팀장님 리듬대로 중요한 것부터 차분히 끝내면 됩니다.&quot;,
+      &quot;take&quot;: &quot;큰 변수 없이 움직이기 좋은 날씨입니다. 일정만 잘 잡으면 리듬 있게 가기 좋겠습니다. 오늘은 마음을 급하게 쓰지 말고, 가장 아쉬웠던 한 가지를 먼저 정리해 보시면 좋겠습니다. 그런 작은 정리가 하루의 기분을 꽤 크게 바꿉니다.&quot;,
+      &quot;meta&quot;: [
+        &quot;응원&quot;,
+        &quot;중간 길이&quot;
+      ],
+      &quot;entities&quot;: [],
+      &quot;keywords&quot;: [
+        &quot;아침&quot;,
+        &quot;집중&quot;
+      ],
+      &quot;links&quot;: []
+    },
+    {
+      &quot;title&quot;: &quot;오늘 일정&quot;,
+      &quot;summary&quot;: &quot;오늘 일정 없음&quot;,
+      &quot;take&quot;: &quot;오늘 등록된 일정이 없습니다. 이럴 때는 중요한 정리 한두 개만 분명하게 끝내도 충분합니다.&quot;,
+      &quot;meta&quot;: [
+        &quot;일정&quot;,
+        &quot;calendar&quot;
+      ],
+      &quot;entities&quot;: [
+        &quot;calendar&quot;
+      ],
+      &quot;keywords&quot;: [
+        &quot;calendar&quot;
+      ],
+      &quot;links&quot;: []
+    },
+    {
+      &quot;title&quot;: &quot;주요 메일 / 중요 알림&quot;,
+      &quot;summary&quot;: &quot;[중요인물] ✅ 스카이님, Android 기기에서 Googl / [중요인물,에러] 보안 알림 / [중요인물,에러] Security alert: new or unu&quot;,
+      &quot;take&quot;: &quot;지금 확인할 만한 메일만 추렸습니다. 결제, 업무, 보안성 알림 위주로 먼저 보면 됩니다.&quot;,
+      &quot;meta&quot;: [
+        &quot;메일&quot;,
+        &quot;gmail&quot;,
+        &quot;중요 알림&quot;
+      ],
+      &quot;entities&quot;: [
+        &quot;에러&quot;,
+        &quot;중요인물&quot;
+      ],
+      &quot;keywords&quot;: [
+        &quot;gmail&quot;,
+        &quot;alert&quot;
+      ],
+      &quot;links&quot;: []
+    },
+    {
+      &quot;title&quot;: &quot;유튜브 업데이트&quot;,
+      &quot;summary&quot;: &quot;@JulianGoldieSEO New Claude Design Update / @fahdmirza Comparing Full Precision / @success_wiki 클로드 디자인 피바람.. 현직 디자이너들 다&quot;,
+      &quot;take&quot;: &quot;업로드 속도가 빠른 채널은 오늘도 여러 편이 들어왔습니다. 중요한 주제부터 2~3개만 골라 보면 효율이 좋습니다.&quot;,
+      &quot;meta&quot;: [
+        &quot;유튜브&quot;,
+        &quot;AI 채널&quot;,
+        &quot;중간 길이&quot;
+      ],
+      &quot;entities&quot;: [
+        &quot;@JulianGoldieSEO&quot;,
+        &quot;@fahdmirza&quot;,
+        &quot;@success_wiki&quot;,
+        &quot;@JulianGoldieSEO&quot;
+      ],
+      &quot;keywords&quot;: [
+        &quot;youtube&quot;,
+        &quot;update&quot;,
+        &quot;thumbnail&quot;
+      ],
+      &quot;links&quot;: [
+        {
+          &quot;label&quot;: &quot;@JulianGoldieSEO · 04-18 16:09&quot;,
+          &quot;url&quot;: &quot;https://www.youtube.com/watch?v=en2rxalqb6A&quot;,
+          &quot;thumbnail&quot;: &quot;https://i.ytimg.com/vi/en2rxalqb6A/hqdefault.jpg&quot;
+        },
+        {
+          &quot;label&quot;: &quot;@fahdmirza · 04-18 16:00&quot;,
+          &quot;url&quot;: &quot;https://www.youtube.com/watch?v=RlGppgMDl9k&quot;,
+          &quot;thumbnail&quot;: &quot;https://i.ytimg.com/vi/RlGppgMDl9k/hqdefault.jpg&quot;
+        },
+        {
+          &quot;label&quot;: &quot;@success_wiki · 04-18 14:43&quot;,
+          &quot;url&quot;: &quot;https://www.youtube.com/watch?v=fw194uOehAs&quot;,
+          &quot;thumbnail&quot;: &quot;https://i.ytimg.com/vi/fw194uOehAs/hqdefault.jpg&quot;
+        }
+      ]
+    },
+    {
+      &quot;title&quot;: &quot;시스템 상태 요약&quot;,
+      &quot;summary&quot;: &quot;CPU 77.0 °C / 사용률 87.3 % / RAM 93.4 %&quot;,
+      &quot;take&quot;: &quot;메모리 사용 14.7 GB, 여유 1.0 GB입니다. 장시간 작업 전 발열과 메모리 사용률을 같이 보는 편이 좋습니다.&quot;,
+      &quot;meta&quot;: [
+        &quot;시스템&quot;,
+        &quot;LHM&quot;
+      ],
+      &quot;entities&quot;: [
+        &quot;Intel N100&quot;,
+        &quot;RAM&quot;,
+        &quot;SSD&quot;
+      ],
+      &quot;keywords&quot;: [
+        &quot;temperature&quot;,
+        &quot;load&quot;,
+        &quot;memory&quot;
+      ],
+      &quot;links&quot;: []
+    },
+    {
+      &quot;title&quot;: &quot;OpenClaw 상태 요약&quot;,
+      &quot;summary&quot;: &quot;버전 확인 실패&quot;,
+      &quot;take&quot;: &quot;게이트웨이 상태 확인 실패&quot;,
+      &quot;meta&quot;: [
+        &quot;OpenClaw&quot;,
+        &quot;Gateway&quot;
+      ],
+      &quot;entities&quot;: [
+        &quot;main&quot;,
+        &quot;gateway&quot;
+      ],
+      &quot;keywords&quot;: [
+        &quot;version&quot;,
+        &quot;rpc&quot;,
+        &quot;status&quot;
+      ],
+      &quot;links&quot;: []
+    }
+  ],
+  &quot;footer&quot;: &quot;AI-assisted morning briefing, unified data structure ready for stage 2&quot;
+}</pre>
     </section>
 
-    <section class="grid-2">
-    <article class="card">
-      <div class="card-head">
-        <div>
-          <div class="card-title">오늘의 한마디</div>
-          <div class='weather-badges'><span class="pill">응원</span><span class="pill">중간 길이</span><span class="pill">아침</span><span class="pill">집중</span></div>
-        </div>
-        <div class="card-icon"><span class="material-symbols-outlined">wb_sunny</span></div>
-      </div>
-      <div class="summary">리듬만 잃지 않으면 오늘 일은 충분히 정리됩니다. 차분하게 가면 됩니다.</div>
-      <div class="take">짧고 담백한 응원 메시지로 하루 시작 톤을 맞춥니다.</div>
-      
-    </article>
-    
-
-    <article class="card">
-      <div class="card-head">
-        <div>
-          <div class="card-title">오늘 일정</div>
-          <div class='weather-badges'><span class="pill">일정</span><span class="pill">calendar</span><span class="pill">calendar</span><span class="pill">calendar</span></div>
-        </div>
-        <div class="card-icon"><span class="material-symbols-outlined">calendar_today</span></div>
-      </div>
-      <div class="summary">오늘 일정 없음</div>
-      <div class="take">오늘 등록된 일정이 없거나, 표시할 이벤트가 없습니다.</div>
-      
-    </article>
-    
-
-    <article class="card">
-      <div class="card-head">
-        <div>
-          <div class="card-title">주요 메일 / 중요 알림</div>
-          <div class='weather-badges'><span class="pill">메일</span><span class="pill">gmail</span><span class="pill">중요 알림</span><span class="pill">중요인물</span><span class="pill">에러</span><span class="pill">gmail</span><span class="pill">alert</span></div>
-        </div>
-        <div class="card-icon"><span class="material-symbols-outlined">mail</span></div>
-      </div>
-      <div class="summary">[중요인물] ✅ 스카이님, Android 기기에서 Googl / [중요인물,에러] 보안 알림 / [중요인물,에러] Security alert: new or unu</div>
-      <div class="take">2026-04-17 00:45 Google &lt;no-reply@google.com&gt; - ✅ 스카이님, Android 기기에서 Google 설정을 완료하세요. 2026-04-17 00:44 Google &lt;no-reply@accounts.google.com&gt; - 보안 알림 2026-04-16 17:57 X &lt;verify@x.com&gt; - Security alert: new or unusual X login</div>
-      
-    </article>
-    
-
-    <article class="card">
-      <div class="card-head">
-        <div>
-          <div class="card-title">유튜브 업데이트</div>
-          <div class='weather-badges'><span class="pill">유튜브</span><span class="pill">AI 채널</span><span class="pill">중간 길이</span><span class="pill">@zerochotv</span><span class="pill">@JulianGoldieSEO</span><span class="pill">@JulianGoldieSEO</span><span class="pill">youtube</span><span class="pill">update</span><span class="pill">thumbnail</span></div>
-        </div>
-        <div class="card-icon"><span class="material-symbols-outlined">play_circle</span></div>
-      </div>
-      <div class="summary">@zerochotv 제가 쓰고 있는 AI랑 하네스, 비서 스택 공개합니 / @JulianGoldieSEO New FREE Google Personal Int / @JulianGoldieSEO Build Anything with Kimi K2.</div>
-      <div class="take">@zerochotv: 핵심 키워드: ai, agent, openai, claude. 제목 기준으로 업데이트/도구/실행 팁 가능성이 높습니다. @JulianGoldieSEO: 제목 기준으로 새 영상이 올라왔고, 세부 내용은 설명/자막 연동 단계에서 더 정밀하게 요약할 예정입니다. @JulianGoldieSEO: 제목 기준으로 새 영상이 올라왔고, 세부 내용은 설명/자막 연동 단계에서 더 정밀하게 요약할 예정입니다.</div>
-      <a class='thumb' href='https://www.youtube.com/watch?v=Z5P6zMMDP_I' target='_blank' rel='noopener'><img src='https://i.ytimg.com/vi/Z5P6zMMDP_I/hqdefault.jpg' alt='thumb'></a><div class='section-links'><a href='https://www.youtube.com/watch?v=Z5P6zMMDP_I' target='_blank' rel='noopener'>@zerochotv · 04-18 12:00</a></div><a class='thumb' href='https://www.youtube.com/watch?v=Kly0NonvvTM' target='_blank' rel='noopener'><img src='https://i.ytimg.com/vi/Kly0NonvvTM/hqdefault.jpg' alt='thumb'></a><div class='section-links'><a href='https://www.youtube.com/watch?v=Kly0NonvvTM' target='_blank' rel='noopener'>@JulianGoldieSEO · 04-18 12:00</a></div><a class='thumb' href='https://www.youtube.com/watch?v=g_3cnWRfgis' target='_blank' rel='noopener'><img src='https://i.ytimg.com/vi/g_3cnWRfgis/hqdefault.jpg' alt='thumb'></a><div class='section-links'><a href='https://www.youtube.com/watch?v=g_3cnWRfgis' target='_blank' rel='noopener'>@JulianGoldieSEO · 04-18 10:00</a></div>
-    </article>
-    
-
-    <article class="card">
-      <div class="card-head">
-        <div>
-          <div class="card-title">시스템 상태 요약</div>
-          <div class='weather-badges'><span class="pill">시스템</span><span class="pill">LHM</span><span class="pill">Intel N100</span><span class="pill">RAM</span><span class="pill">SSD</span><span class="pill">temperature</span><span class="pill">load</span><span class="pill">memory</span></div>
-        </div>
-        <div class="card-icon"><span class="material-symbols-outlined">memory</span></div>
-      </div>
-      <div class="summary">CPU 58.0 °C / 사용률 46.4 % / RAM 87.3 %</div>
-      <div class="take">SSD 온도 40.0 °C, 메모리 사용 13.8 GB / 여유 2.0 GB</div>
-      
-    </article>
-    
-
-    <article class="card">
-      <div class="card-head">
-        <div>
-          <div class="card-title">OpenClaw 상태 요약</div>
-          <div class='weather-badges'><span class="pill">OpenClaw</span><span class="pill">Gateway</span><span class="pill">main</span><span class="pill">gateway</span><span class="pill">version</span><span class="pill">rpc</span><span class="pill">status</span></div>
-        </div>
-        <div class="card-icon"><span class="material-symbols-outlined">smart_toy</span></div>
-      </div>
-      <div class="summary">버전 확인 실패</div>
-      <div class="take">게이트웨이 상태 확인 실패</div>
-      
-    </article>
-    </section>
-
-    <footer class="footer">
-      <div class="footer-text">Morning briefing migration in progress</div>
-      <div class="footer-status"><div class="status-dot"></div> Generated by JARVIS</div>
-    </footer>
+    <div class="footer">AI-assisted morning briefing, unified data structure ready for stage 2</div>
   </main>
 </div>
+<script>
+for (const btn of document.querySelectorAll('.tab-btn')) {
+  btn.addEventListener('click', () => {
+    document.querySelectorAll('.tab-btn').forEach(b => b.classList.remove('active'));
+    document.querySelectorAll('.tab-panel').forEach(p => p.classList.remove('active'));
+    btn.classList.add('active');
+    document.getElementById('tab-' + btn.dataset.tab).classList.add('active');
+  });
+}
+</script>
 </body>
 </html>
