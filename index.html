@@ -35,14 +35,14 @@
 </header>
 <div class="layout">
   <aside class="sidebar">
-    <div class="item active"><span class="material-symbols-outlined">dashboard</span> 오늘 브리핑</div>
-    <a href="#tab-briefing" class="item active"><span class="material-symbols-outlined">calendar_today</span> 일정</a>
-    <a href="#tab-briefing" class="item"><span class="material-symbols-outlined">mail</span> 메일</a>
-    <a href="#tab-briefing" class="item"><span class="material-symbols-outlined">video_library</span> 유튜브</a>
-    <a href="#tab-briefing" class="item"><span class="material-symbols-outlined">memory</span> 시스템</a>
-    <a href="#tab-briefing" class="item"><span class="material-symbols-outlined">smart_toy</span> OpenClaw</a>
+    <a href="#top" class="item nav-link active" data-target="briefing"><span class="material-symbols-outlined">dashboard</span> 오늘 브리핑</a>
+    <a href="#section-calendar" class="item anchor-link"><span class="material-symbols-outlined">calendar_today</span> 일정</a>
+    <a href="#section-mail" class="item anchor-link"><span class="material-symbols-outlined">mail</span> 메일</a>
+    <a href="#section-youtube" class="item anchor-link"><span class="material-symbols-outlined">video_library</span> 유튜브</a>
+    <a href="#section-system" class="item anchor-link"><span class="material-symbols-outlined">memory</span> 시스템</a>
+    <a href="#section-openclaw" class="item anchor-link"><span class="material-symbols-outlined">smart_toy</span> OpenClaw</a>
   </aside>
-  <main class="main">
+  <main class="main" id="top">
     <div class="page-title">아침 브리핑</div>
     <div class="page-sub">2026-04-18 16:20 · 날씨 · 응원 · 일정 · 메일 · 유튜브 · 시스템 · OpenClaw</div>
     <section class="status-bar">
@@ -61,7 +61,7 @@
     <section id="tab-briefing" class="tab-panel active">
       
     <section class='grid-2'>
-      <article class='card'>
+      <article class='card' id='section-weather'>
         <div class='section-title'>김해 현재 날씨</div>
         <div class='weather-main'>
           <div>
@@ -74,116 +74,22 @@
           <div style='font-size:48px'>⛅</div>
         </div>
       </article>
-      <article class='card'>
+      <article class='card' id='section-calendar'>
         <div class='section-title'>오늘 일정</div>
         <div class='section-sub'>오늘 일정 없음</div>
         <div class='row-panel'><div class='list-item'><div class='list-desc'>표시할 항목이 없습니다.</div></div></div>
       </article>
     </section>
-    
-    <section class='panel' style='margin-top:14px'>
-      <div class='section-title'>주요 메일 / 중요 알림</div>
-      <div class='section-sub'>지금 확인할 만한 메일만 추렸습니다. 결제, 업무, 보안성 알림 위주로 먼저 보면 됩니다.</div>
-      <div class='row-panel'><div class='list-item'><div class='list-head'><div class='list-title'>✅ 스카이님, Android 기기에서 Google 설정을 완료하세요.</div><div class='list-meta'>Google &lt;no-reply@google.com&gt; · 2026-04-17 00:45</div></div><div class='list-desc'>중요인물</div></div><div class='list-item'><div class='list-head'><div class='list-title'>보안 알림</div><div class='list-meta'>Google &lt;no-reply@accounts.google.com&gt; · 2026-04-17 00:44</div></div><div class='list-desc'>중요인물, 에러</div></div><div class='list-item'><div class='list-head'><div class='list-title'>Security alert: new or unusual X login</div><div class='list-meta'>X &lt;verify@x.com&gt; · 2026-04-16 17:57</div></div><div class='list-desc'>중요인물, 에러</div></div></div>
-    </section>
-    
-    <section class='panel' style='margin-top:14px'>
-      <div class='section-title'>유튜브 업데이트</div>
-      <div class='section-sub'>업로드 속도가 빠른 채널은 오늘도 여러 편이 들어왔습니다. 중요한 주제부터 2~3개만 골라 보면 효율이 좋습니다.</div>
-      <div class='row-panel'>
-        <div class='list-item'>
-          <div class='thumb-row'>
-            <a href='https://www.youtube.com/watch?v=en2rxalqb6A' target='_blank' rel='noopener'><img class='thumb' src='https://i.ytimg.com/vi/en2rxalqb6A/hqdefault.jpg' alt='thumb'></a>
-            <div>
-              <div class='list-head'><div class='list-title'><a href='https://www.youtube.com/watch?v=en2rxalqb6A' target='_blank' rel='noopener'>New Claude Design Update DESTROYS Figma?</a></div><div class='list-meta'>@JulianGoldieSEO · 04-18 16:09</div></div>
-              <div class='list-desc'>핵심 키워드: claude. 오늘 흐름에선 실행형 업데이트나 도구 활용 팁으로 볼 가치가 큽니다.</div>
-            </div>
-          </div>
-        </div>
-        
-        <div class='list-item'>
-          <div class='thumb-row'>
-            <a href='https://www.youtube.com/watch?v=RlGppgMDl9k' target='_blank' rel='noopener'><img class='thumb' src='https://i.ytimg.com/vi/RlGppgMDl9k/hqdefault.jpg' alt='thumb'></a>
-            <div>
-              <div class='list-head'><div class='list-title'><a href='https://www.youtube.com/watch?v=RlGppgMDl9k' target='_blank' rel='noopener'>Comparing Full Precision vs Ollama Version of Qwen3.6-35B-A3B Locally</a></div><div class='list-meta'>@fahdmirza · 04-18 16:00</div></div>
-              <div class='list-desc'>제목 기준으로 새 영상이 올라왔고, 실제 브리핑에선 오늘 확인할 가치가 있는 영상으로 추려 보여줍니다.</div>
-            </div>
-          </div>
-        </div>
-        
-        <div class='list-item'>
-          <div class='thumb-row'>
-            <a href='https://www.youtube.com/watch?v=fw194uOehAs' target='_blank' rel='noopener'><img class='thumb' src='https://i.ytimg.com/vi/fw194uOehAs/hqdefault.jpg' alt='thumb'></a>
-            <div>
-              <div class='list-head'><div class='list-title'><a href='https://www.youtube.com/watch?v=fw194uOehAs' target='_blank' rel='noopener'>클로드 디자인 피바람.. 현직 디자이너들 다 죽어요 진짜 ㄷㄷ</a></div><div class='list-meta'>@success_wiki · 04-18 14:43</div></div>
-              <div class='list-desc'>제목 기준으로 새 영상이 올라왔고, 실제 브리핑에선 오늘 확인할 가치가 있는 영상으로 추려 보여줍니다.</div>
-            </div>
-          </div>
-        </div>
-        
-        <div class='list-item'>
-          <div class='thumb-row'>
-            <a href='https://www.youtube.com/watch?v=VOlZQklBwhU' target='_blank' rel='noopener'><img class='thumb' src='https://i.ytimg.com/vi/VOlZQklBwhU/hqdefault.jpg' alt='thumb'></a>
-            <div>
-              <div class='list-head'><div class='list-title'><a href='https://www.youtube.com/watch?v=VOlZQklBwhU' target='_blank' rel='noopener'>New Google AI Studio Update: Build ANYTHING!</a></div><div class='list-meta'>@JulianGoldieSEO · 04-18 14:00</div></div>
-              <div class='list-desc'>핵심 키워드: ai. 오늘 흐름에선 실행형 업데이트나 도구 활용 팁으로 볼 가치가 큽니다.</div>
-            </div>
-          </div>
-        </div>
-        
-        <div class='list-item'>
-          <div class='thumb-row'>
-            <a href='https://www.youtube.com/watch?v=OLEZVKatYzI' target='_blank' rel='noopener'><img class='thumb' src='https://i.ytimg.com/vi/OLEZVKatYzI/hqdefault_live.jpg' alt='thumb'></a>
-            <div>
-              <div class='list-head'><div class='list-title'><a href='https://www.youtube.com/watch?v=OLEZVKatYzI' target='_blank' rel='noopener'>Claude Design + Hermes Agent &amp; Ollama</a></div><div class='list-meta'>@JulianGoldieSEO · 04-18 13:56</div></div>
-              <div class='list-desc'>핵심 키워드: agent, claude. 오늘 흐름에선 실행형 업데이트나 도구 활용 팁으로 볼 가치가 큽니다.</div>
-            </div>
-          </div>
-        </div>
-        </div>
-    </section>
-    <section class='grid-2' style='margin-top:14px'>
-    <article class='card'>
-      <div class='section-title'>시스템 상태</div>
-      <div class='section-sub'>메모리 사용 14.7 GB, 여유 1.0 GB입니다. 장시간 작업 전 발열과 메모리 사용률을 같이 보는 편이 좋습니다.</div>
-      <div class='metrics'>
-    <div class='metric'>
-      <div class='m-head'><span>CPU 사용률</span><span>87.3 %</span></div>
-      <div class='bar'><span style='width:87%'></span></div>
-    </div>
-    
-    <div class='metric'>
-      <div class='m-head'><span>CPU 온도</span><span>77.0 °C</span></div>
-      <div class='bar warn'><span style='width:77%'></span></div>
-    </div>
-    
-    <div class='metric'>
-      <div class='m-head'><span>RAM 사용</span><span>14.7 GB</span></div>
-      <div class='bar'><span style='width:14%'></span></div>
-    </div>
-    
-    <div class='metric'>
-      <div class='m-head'><span>SSD 온도</span><span>40.0 °C</span></div>
-      <div class='bar'><span style='width:40%'></span></div>
-    </div>
-    </div>
-    </article>
-    
-    <article class='card'>
-      <div class='section-title'>OpenClaw 상태</div>
-      <div class='section-sub'>게이트웨이 상태 확인 실패</div>
-      <div class='metrics'><div class='list-desc'>표시할 지표가 없습니다.</div></div>
-    </article>
-    </section>
+    <section class='panel' id='section-mail' style='margin-top:14px'><div class='section-title'>주요 메일 / 중요 알림</div><div class='section-sub'>지금 확인할 만한 메일만 추렸습니다. 결제, 업무, 보안성 알림 위주로 먼저 보면 됩니다.</div><div class='row-panel'><div class='list-item'><div class='list-head'><div class='list-title'>✅ 스카이님, Android 기기에서 Google 설정을 완료하세요.</div><div class='list-meta'>Google &lt;no-reply@google.com&gt; · 2026-04-17 00:45</div></div><div class='list-desc'>중요인물</div></div><div class='list-item'><div class='list-head'><div class='list-title'>보안 알림</div><div class='list-meta'>Google &lt;no-reply@accounts.google.com&gt; · 2026-04-17 00:44</div></div><div class='list-desc'>중요인물, 에러</div></div><div class='list-item'><div class='list-head'><div class='list-title'>Security alert: new or unusual X login</div><div class='list-meta'>X &lt;verify@x.com&gt; · 2026-04-16 17:57</div></div><div class='list-desc'>중요인물, 에러</div></div></div></section><section class='panel' id='section-youtube' style='margin-top:14px'><div class='section-title'>유튜브 업데이트</div><div class='section-sub'>업로드 속도가 빠른 채널은 오늘도 여러 편이 들어왔습니다. 중요한 주제부터 2~3개만 골라 보면 효율이 좋습니다.</div><div class='row-panel'><div class='list-item'><div class='thumb-row'><a href='https://www.youtube.com/watch?v=en2rxalqb6A' target='_blank' rel='noopener'><img class='thumb' src='https://i.ytimg.com/vi/en2rxalqb6A/hqdefault.jpg' alt='thumb'></a><div><div class='list-head'><div class='list-title'><a href='https://www.youtube.com/watch?v=en2rxalqb6A' target='_blank' rel='noopener'>New Claude Design Update DESTROYS Figma?</a></div><div class='list-meta'>@JulianGoldieSEO · 04-18 16:09</div></div><div class='list-desc'>핵심 키워드: claude. 오늘 흐름에선 실행형 업데이트나 도구 활용 팁으로 볼 가치가 큽니다.</div></div></div></div><div class='list-item'><div class='thumb-row'><a href='https://www.youtube.com/watch?v=RlGppgMDl9k' target='_blank' rel='noopener'><img class='thumb' src='https://i.ytimg.com/vi/RlGppgMDl9k/hqdefault.jpg' alt='thumb'></a><div><div class='list-head'><div class='list-title'><a href='https://www.youtube.com/watch?v=RlGppgMDl9k' target='_blank' rel='noopener'>Comparing Full Precision vs Ollama Version of Qwen3.6-35B-A3B Locally</a></div><div class='list-meta'>@fahdmirza · 04-18 16:00</div></div><div class='list-desc'>제목 기준으로 새 영상이 올라왔고, 실제 브리핑에선 오늘 확인할 가치가 있는 영상으로 추려 보여줍니다.</div></div></div></div><div class='list-item'><div class='thumb-row'><a href='https://www.youtube.com/watch?v=fw194uOehAs' target='_blank' rel='noopener'><img class='thumb' src='https://i.ytimg.com/vi/fw194uOehAs/hqdefault.jpg' alt='thumb'></a><div><div class='list-head'><div class='list-title'><a href='https://www.youtube.com/watch?v=fw194uOehAs' target='_blank' rel='noopener'>클로드 디자인 피바람.. 현직 디자이너들 다 죽어요 진짜 ㄷㄷ</a></div><div class='list-meta'>@success_wiki · 04-18 14:43</div></div><div class='list-desc'>제목 기준으로 새 영상이 올라왔고, 실제 브리핑에선 오늘 확인할 가치가 있는 영상으로 추려 보여줍니다.</div></div></div></div><div class='list-item'><div class='thumb-row'><a href='https://www.youtube.com/watch?v=VOlZQklBwhU' target='_blank' rel='noopener'><img class='thumb' src='https://i.ytimg.com/vi/VOlZQklBwhU/hqdefault.jpg' alt='thumb'></a><div><div class='list-head'><div class='list-title'><a href='https://www.youtube.com/watch?v=VOlZQklBwhU' target='_blank' rel='noopener'>New Google AI Studio Update: Build ANYTHING!</a></div><div class='list-meta'>@JulianGoldieSEO · 04-18 14:00</div></div><div class='list-desc'>핵심 키워드: ai. 오늘 흐름에선 실행형 업데이트나 도구 활용 팁으로 볼 가치가 큽니다.</div></div></div></div><div class='list-item'><div class='thumb-row'><a href='https://www.youtube.com/watch?v=OLEZVKatYzI' target='_blank' rel='noopener'><img class='thumb' src='https://i.ytimg.com/vi/OLEZVKatYzI/hqdefault_live.jpg' alt='thumb'></a><div><div class='list-head'><div class='list-title'><a href='https://www.youtube.com/watch?v=OLEZVKatYzI' target='_blank' rel='noopener'>Claude Design + Hermes Agent &amp; Ollama</a></div><div class='list-meta'>@JulianGoldieSEO · 04-18 13:56</div></div><div class='list-desc'>핵심 키워드: agent, claude. 오늘 흐름에선 실행형 업데이트나 도구 활용 팁으로 볼 가치가 큽니다.</div></div></div></div></div></section><section class='grid-2' style='margin-top:14px'><article class='card' id='section-system'><div class='section-title'>시스템 상태</div><div class='section-sub'>메모리 사용 14.7 GB, 여유 1.0 GB입니다. 장시간 작업 전 발열과 메모리 사용률을 같이 보는 편이 좋습니다.</div><div class='metrics'><div class='metric'><div class='m-head'><span>CPU 사용률</span><span>87.3 %</span></div><div class='bar'><span style='width:87%'></span></div></div><div class='metric'><div class='m-head'><span>CPU 온도</span><span>77.0 °C</span></div><div class='bar warn'><span style='width:77%'></span></div></div><div class='metric'><div class='m-head'><span>RAM 사용</span><span>14.7 GB</span></div><div class='bar'><span style='width:14%'></span></div></div><div class='metric'><div class='m-head'><span>SSD 온도</span><span>40.0 °C</span></div><div class='bar'><span style='width:40%'></span></div></div></div></article><article class='card' id='section-openclaw'><div class='section-title'>OpenClaw 상태</div><div class='section-sub'>게이트웨이 상태 확인 실패</div><div class='metrics'><div class='list-desc'>표시할 지표가 없습니다.</div></div></article></section>
     </section>
     <section id="tab-archive" class="tab-panel panel">
-      <div class='section-title'>아카이브</div><div class='section-sub'>아카이브는 같은 프레임 안에서 유지되도록 통합하는 방향으로 정리 중입니다. 다음 단계에서 실제 목록형으로 연결합니다.</div>
+      <div class='section-title'>아카이브</div><div class='section-sub'>최근 브리핑 기록을 같은 프레임 안에서 확인할 수 있게 묶었습니다.</div><div class='row-panel'><div class='list-item'><div class='list-head'><div class='list-title'><a href='/ai-news-briefing/archive/daily_ai_briefing_2026-04-16.html' target='_blank' rel='noopener'>2026-04-16 브리핑</a></div><div class='list-meta'>archive</div></div><div class='list-desc'>daily_ai_briefing_2026-04-16.html</div></div><div class='list-item'><div class='list-head'><div class='list-title'><a href='/ai-news-briefing/archive/daily_ai_briefing_2026-04-15.html' target='_blank' rel='noopener'>2026-04-15 브리핑</a></div><div class='list-meta'>archive</div></div><div class='list-desc'>daily_ai_briefing_2026-04-15.html</div></div><div class='list-item'><div class='list-head'><div class='list-title'><a href='/ai-news-briefing/archive/daily_ai_briefing_2026-04-13.html' target='_blank' rel='noopener'>2026-04-13 브리핑</a></div><div class='list-meta'>archive</div></div><div class='list-desc'>daily_ai_briefing_2026-04-13.html</div></div><div class='list-item'><div class='list-head'><div class='list-title'><a href='/ai-news-briefing/archive/daily_ai_briefing_2026-04-12.html' target='_blank' rel='noopener'>2026-04-12 브리핑</a></div><div class='list-meta'>archive</div></div><div class='list-desc'>daily_ai_briefing_2026-04-12.html</div></div><div class='list-item'><div class='list-head'><div class='list-title'><a href='/ai-news-briefing/archive/daily_ai_briefing_2026-04-11.html' target='_blank' rel='noopener'>2026-04-11 브리핑</a></div><div class='list-meta'>archive</div></div><div class='list-desc'>daily_ai_briefing_2026-04-11.html</div></div><div class='list-item'><div class='list-head'><div class='list-title'><a href='/ai-news-briefing/archive/daily_ai_briefing_2026-04-10.html' target='_blank' rel='noopener'>2026-04-10 브리핑</a></div><div class='list-meta'>archive</div></div><div class='list-desc'>daily_ai_briefing_2026-04-10.html</div></div><div class='list-item'><div class='list-head'><div class='list-title'><a href='/ai-news-briefing/archive/daily_ai_briefing_2026-04-09.html' target='_blank' rel='noopener'>2026-04-09 브리핑</a></div><div class='list-meta'>archive</div></div><div class='list-desc'>daily_ai_briefing_2026-04-09.html</div></div><div class='list-item'><div class='list-head'><div class='list-title'><a href='/ai-news-briefing/archive/daily_ai_briefing_2026-04-08.html' target='_blank' rel='noopener'>2026-04-08 브리핑</a></div><div class='list-meta'>archive</div></div><div class='list-desc'>daily_ai_briefing_2026-04-08.html</div></div><div class='list-item'><div class='list-head'><div class='list-title'><a href='/ai-news-briefing/archive/daily_ai_briefing_2026-04-07.html' target='_blank' rel='noopener'>2026-04-07 브리핑</a></div><div class='list-meta'>archive</div></div><div class='list-desc'>daily_ai_briefing_2026-04-07.html</div></div><div class='list-item'><div class='list-head'><div class='list-title'><a href='/ai-news-briefing/archive/daily_ai_briefing_2026-04-06.html' target='_blank' rel='noopener'>2026-04-06 브리핑</a></div><div class='list-meta'>archive</div></div><div class='list-desc'>daily_ai_briefing_2026-04-06.html</div></div><div class='list-item'><div class='list-head'><div class='list-title'><a href='/ai-news-briefing/archive/daily_ai_briefing_2026-04-05_check.html' target='_blank' rel='noopener'>2026-04-05_check 브리핑</a></div><div class='list-meta'>archive</div></div><div class='list-desc'>daily_ai_briefing_2026-04-05_check.html</div></div><div class='list-item'><div class='list-head'><div class='list-title'><a href='/ai-news-briefing/archive/daily_ai_briefing_2026-04-05.html' target='_blank' rel='noopener'>2026-04-05 브리핑</a></div><div class='list-meta'>archive</div></div><div class='list-desc'>daily_ai_briefing_2026-04-05.html</div></div><div class='list-item'><div class='list-head'><div class='list-title'><a href='/ai-news-briefing/archive/daily_ai_briefing_2026-04-04.html' target='_blank' rel='noopener'>2026-04-04 브리핑</a></div><div class='list-meta'>archive</div></div><div class='list-desc'>daily_ai_briefing_2026-04-04.html</div></div><div class='list-item'><div class='list-head'><div class='list-title'><a href='/ai-news-briefing/archive/daily_ai_briefing_2026-04-01.html' target='_blank' rel='noopener'>2026-04-01 브리핑</a></div><div class='list-meta'>archive</div></div><div class='list-desc'>daily_ai_briefing_2026-04-01.html</div></div><div class='list-item'><div class='list-head'><div class='list-title'><a href='/ai-news-briefing/archive/daily_ai_briefing_2026-03-31.html' target='_blank' rel='noopener'>2026-03-31 브리핑</a></div><div class='list-meta'>archive</div></div><div class='list-desc'>daily_ai_briefing_2026-03-31.html</div></div><div class='list-item'><div class='list-head'><div class='list-title'><a href='/ai-news-briefing/archive/daily_ai_briefing_2026-03-30.html' target='_blank' rel='noopener'>2026-03-30 브리핑</a></div><div class='list-meta'>archive</div></div><div class='list-desc'>daily_ai_briefing_2026-03-30.html</div></div><div class='list-item'><div class='list-head'><div class='list-title'><a href='/ai-news-briefing/archive/daily_ai_briefing_2026-03-29.html' target='_blank' rel='noopener'>2026-03-29 브리핑</a></div><div class='list-meta'>archive</div></div><div class='list-desc'>daily_ai_briefing_2026-03-29.html</div></div><div class='list-item'><div class='list-head'><div class='list-title'><a href='/ai-news-briefing/archive/daily_ai_briefing_2026-03-28.html' target='_blank' rel='noopener'>2026-03-28 브리핑</a></div><div class='list-meta'>archive</div></div><div class='list-desc'>daily_ai_briefing_2026-03-28.html</div></div><div class='list-item'><div class='list-head'><div class='list-title'><a href='/ai-news-briefing/archive/daily_ai_briefing_2026-03-27.html' target='_blank' rel='noopener'>2026-03-27 브리핑</a></div><div class='list-meta'>archive</div></div><div class='list-desc'>daily_ai_briefing_2026-03-27.html</div></div><div class='list-item'><div class='list-head'><div class='list-title'><a href='/ai-news-briefing/archive/daily_ai_briefing_2026-03-26.html' target='_blank' rel='noopener'>2026-03-26 브리핑</a></div><div class='list-meta'>archive</div></div><div class='list-desc'>daily_ai_briefing_2026-03-26.html</div></div></div>
     </section>
     <section id="tab-weekly" class="tab-panel panel">
-      <div class='section-title'>주간 인사이트</div><div class='section-sub'>주간 페이지를 현재 프레임 안에서 이어 붙일 구조로 확장 예정입니다.</div>
+      <div class='section-title'>주간 인사이트</div><div class='section-sub'>주간 인사이트 페이지로 이어지는 링크를 유지하면서 같은 프레임 안 설명을 제공합니다.</div><div class='row-panel'><div class='list-item'><div class='list-head'><div class='list-title'><a href='/ai-news-briefing/insights/weekly.html' target='_blank' rel='noopener'>주간 인사이트 열기</a></div><div class='list-meta'>weekly</div></div><div class='list-desc'>이번 주 변화와 흐름을 별도 페이지에서 이어서 확인할 수 있습니다.</div></div></div>
     </section>
     <section id="tab-monthly" class="tab-panel panel">
-      <div class='section-title'>월간 인사이트</div><div class='section-sub'>월간 페이지도 같은 레이아웃 기준으로 통합할 예정입니다.</div>
+      <div class='section-title'>월간 인사이트</div><div class='section-sub'>월간 인사이트도 같은 흐름 안에서 접근할 수 있게 연결했습니다.</div><div class='row-panel'><div class='list-item'><div class='list-head'><div class='list-title'><a href='/ai-news-briefing/insights/monthly.html' target='_blank' rel='noopener'>월간 인사이트 열기</a></div><div class='list-meta'>monthly</div></div><div class='list-desc'>월간 누적 요약과 흐름을 확인할 수 있습니다.</div></div></div>
     </section>
     <section id="tab-data" class="tab-panel panel">
       <div class='section-title'>데이터</div><div class='section-sub'>현재 브리핑에 사용된 구조화 데이터입니다.</div><pre style='margin-top:14px;white-space:pre-wrap;color:#8a97b5;font-size:12px'>{
@@ -517,9 +423,38 @@
 for (const btn of document.querySelectorAll('.tab-btn')) {
   btn.addEventListener('click', () => {
     document.querySelectorAll('.tab-btn').forEach(b => b.classList.remove('active'));
+    document.querySelectorAll('.nav-link').forEach(b => b.classList.remove('active'));
     document.querySelectorAll('.tab-panel').forEach(p => p.classList.remove('active'));
     btn.classList.add('active');
-    document.getElementById('tab-' + btn.dataset.tab).classList.add('active');
+    const panel = btn.dataset.tab;
+    document.getElementById('tab-' + panel).classList.add('active');
+    const match = document.querySelector(`.nav-link[data-target='${panel}']`);
+    if (match) match.classList.add('active');
+  });
+}
+for (const link of document.querySelectorAll('.nav-link')) {
+  link.addEventListener('click', (e) => {
+    e.preventDefault();
+    const panel = link.dataset.target;
+    document.querySelectorAll('.tab-btn').forEach(b => b.classList.remove('active'));
+    document.querySelectorAll('.nav-link').forEach(b => b.classList.remove('active'));
+    document.querySelectorAll('.tab-panel').forEach(p => p.classList.remove('active'));
+    const tabBtn = document.querySelector(`.tab-btn[data-tab='${panel}']`);
+    if (tabBtn) tabBtn.classList.add('active');
+    link.classList.add('active');
+    document.getElementById('tab-' + panel).classList.add('active');
+  });
+}
+for (const anchor of document.querySelectorAll('.anchor-link')) {
+  anchor.addEventListener('click', () => {
+    document.querySelectorAll('.tab-btn').forEach(b => b.classList.remove('active'));
+    document.querySelectorAll('.nav-link').forEach(b => b.classList.remove('active'));
+    const tabBtn = document.querySelector(`.tab-btn[data-tab='briefing']`);
+    const briefLink = document.querySelector(`.nav-link[data-target='briefing']`);
+    if (tabBtn) tabBtn.classList.add('active');
+    if (briefLink) briefLink.classList.add('active');
+    document.querySelectorAll('.tab-panel').forEach(p => p.classList.remove('active'));
+    document.getElementById('tab-briefing').classList.add('active');
   });
 }
 const menuBtn = document.getElementById('menuBtn');
