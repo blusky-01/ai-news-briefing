@@ -1,5 +1,5 @@
 {
-  "date": "2026-04-18 17:37",
+  "date": "2026-04-18 17:50",
   "title": "오후 브리핑",
   "subtitle": "오후 리듬 점검 · 남은 일정 · 메일 · 유튜브 · 시스템",
   "summary": "오늘은 18:00 저녁 6시에 erp 작업 계속하기부터 시작됩니다. 첫 흐름만 안정적으로 잡으면 오늘 전체 리듬이 훨씬 부드럽게 이어질 겁니다.",
@@ -81,8 +81,8 @@
       ],
       "links": [],
       "entities": [
-        "에러",
-        "중요인물"
+        "중요인물",
+        "에러"
       ]
     },
     "youtube": {
@@ -165,25 +165,25 @@
       ]
     },
     "system": {
-      "summary": "CPU 61.0 °C / 사용률 57.4 % / RAM 81.4 % / 업타임 43시간 38분",
-      "take": "메모리 사용 12.9 GB, SSD 여유 192.5GB, 네트워크 인터페이스 Ethernet, Ethernet 2, Wi-Fi입니다. 장시간 작업 전 발열과 메모리, 네트워크 상태를 같이 보는 편이 좋습니다.",
+      "summary": "CPU 54.0 °C / 사용률 39.8 % / RAM 79.4 % / 업타임 43시간 50분",
+      "take": "메모리 사용 12.5 GB, SSD 여유 194.6GB, 네트워크 인터페이스 Ethernet, Ethernet 2, Wi-Fi입니다. 장시간 작업 전 발열과 메모리, 네트워크 상태를 같이 보는 편이 좋습니다.",
       "metrics": [
         {
           "label": "CPU 사용률",
-          "value": "57.4 %",
-          "pct": 57.4,
+          "value": "39.8 %",
+          "pct": 39.8,
           "tone": "normal"
         },
         {
           "label": "CPU 온도",
-          "value": "61.0 °C",
-          "pct": 61.0,
+          "value": "54.0 °C",
+          "pct": 54.0,
           "tone": "normal"
         },
         {
           "label": "RAM 사용",
-          "value": "12.9 GB",
-          "pct": 12.9,
+          "value": "12.5 GB",
+          "pct": 12.5,
           "tone": "normal"
         },
         {
@@ -194,25 +194,25 @@
         },
         {
           "label": "SSD 여유 공간",
-          "value": "192.5 GB",
-          "pct": 40.4,
+          "value": "194.6 GB",
+          "pct": 40.9,
           "tone": "normal"
         },
         {
           "label": "업타임",
-          "value": "43시간 38분",
+          "value": "43시간 50분",
           "pct": 100,
           "tone": "normal"
         },
         {
           "label": "네트워크 수신",
-          "value": "3059.0 MB",
+          "value": "3265.6 MB",
           "pct": 100,
           "tone": "normal"
         },
         {
           "label": "네트워크 송신",
-          "value": "842.9 MB",
+          "value": "851.8 MB",
           "pct": 100,
           "tone": "normal"
         }
@@ -220,39 +220,8 @@
     },
     "openclaw": {
       "summary": "OpenClaw 2026.4.15 (041266a)",
-      "take": "Runtime: running (pid 9852, Verified gateway listener detected on port 18789 even though schtasks did not report a running task.) | RPC probe: ok | Listening: 127.0.0.1:18789",
-      "metrics": [
-        {
-          "label": "Gateway",
-          "value": "bind=loopback (127.0.0.1), port=18789 (service args)",
-          "pct": 100,
-          "tone": "normal"
-        },
-        {
-          "label": "Probe note",
-          "value": "Loopback-only gateway; only local clients can connect.",
-          "pct": 100,
-          "tone": "normal"
-        },
-        {
-          "label": "Runtime",
-          "value": "running (pid 9852, Verified gateway listener detected on port 18789 even though schtasks did not report a running task.)",
-          "pct": 100,
-          "tone": "good"
-        },
-        {
-          "label": "RPC probe",
-          "value": "ok",
-          "pct": 100,
-          "tone": "good"
-        },
-        {
-          "label": "Listening",
-          "value": "127.0.0.1:18789",
-          "pct": 100,
-          "tone": "good"
-        }
-      ]
+      "take": "게이트웨이 상태 확인 실패",
+      "metrics": []
     }
   },
   "cards": [
@@ -302,8 +271,8 @@
         "중요 알림"
       ],
       "entities": [
-        "에러",
-        "중요인물"
+        "중요인물",
+        "에러"
       ],
       "keywords": [
         "gmail",
@@ -351,8 +320,8 @@
     },
     {
       "title": "시스템 상태 요약",
-      "summary": "CPU 61.0 °C / 사용률 57.4 % / RAM 81.4 % / 업타임 43시간 38분",
-      "take": "메모리 사용 12.9 GB, SSD 여유 192.5GB, 네트워크 인터페이스 Ethernet, Ethernet 2, Wi-Fi입니다. 장시간 작업 전 발열과 메모리, 네트워크 상태를 같이 보는 편이 좋습니다.",
+      "summary": "CPU 54.0 °C / 사용률 39.8 % / RAM 79.4 % / 업타임 43시간 50분",
+      "take": "메모리 사용 12.5 GB, SSD 여유 194.6GB, 네트워크 인터페이스 Ethernet, Ethernet 2, Wi-Fi입니다. 장시간 작업 전 발열과 메모리, 네트워크 상태를 같이 보는 편이 좋습니다.",
       "meta": [
         "시스템",
         "LHM"
@@ -372,7 +341,7 @@
     {
       "title": "OpenClaw 상태 요약",
       "summary": "OpenClaw 2026.4.15 (041266a)",
-      "take": "Runtime: running (pid 9852, Verified gateway listener detected on port 18789 even though schtasks did not report a running task.) | RPC probe: ok | Listening: 127.0.0.1:18789",
+      "take": "게이트웨이 상태 확인 실패",
       "meta": [
         "OpenClaw",
         "Gateway"
