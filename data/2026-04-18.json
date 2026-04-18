@@ -1,5 +1,5 @@
 {
-  "date": "2026-04-18 17:24",
+  "date": "2026-04-18 17:31",
   "title": "아침 브리핑",
   "subtitle": "날씨 · 응원 · 일정 · 메일 · 유튜브 · 시스템 · OpenClaw",
   "summary": "오늘은 18:00 저녁 6시에 erp 작업 계속하기부터 시작됩니다. 첫 흐름만 안정적으로 잡으면 오늘 전체 리듬이 훨씬 부드럽게 이어질 겁니다.",
@@ -165,31 +165,55 @@
       ]
     },
     "system": {
-      "summary": "CPU 57.0 °C / 사용률 53.5 % / RAM 79.4 %",
-      "take": "메모리 사용 12.5 GB, 여유 3.3 GB입니다. 장시간 작업 전 발열과 메모리 사용률을 같이 보는 편이 좋습니다.",
+      "summary": "CPU 67.0 °C / 사용률 61.3 % / RAM 82.5 % / 업타임 43시간 31분",
+      "take": "메모리 사용 13.0 GB, SSD 여유 192.5GB, 네트워크 인터페이스 Ethernet, Ethernet 2, Wi-Fi입니다. 장시간 작업 전 발열과 메모리, 네트워크 상태를 같이 보는 편이 좋습니다.",
       "metrics": [
         {
           "label": "CPU 사용률",
-          "value": "53.5 %",
-          "pct": 53.5,
+          "value": "61.3 %",
+          "pct": 61.3,
           "tone": "normal"
         },
         {
           "label": "CPU 온도",
-          "value": "57.0 °C",
-          "pct": 57.0,
+          "value": "67.0 °C",
+          "pct": 67.0,
           "tone": "normal"
         },
         {
           "label": "RAM 사용",
-          "value": "12.5 GB",
-          "pct": 12.5,
+          "value": "13.0 GB",
+          "pct": 13.0,
           "tone": "normal"
         },
         {
           "label": "SSD 온도",
           "value": "40.0 °C",
           "pct": 40.0,
+          "tone": "normal"
+        },
+        {
+          "label": "SSD 여유 공간",
+          "value": "192.5 GB",
+          "pct": 40.4,
+          "tone": "normal"
+        },
+        {
+          "label": "업타임",
+          "value": "43시간 31분",
+          "pct": 100,
+          "tone": "normal"
+        },
+        {
+          "label": "네트워크 수신",
+          "value": "3041.4 MB",
+          "pct": 100,
+          "tone": "normal"
+        },
+        {
+          "label": "네트워크 송신",
+          "value": "837.8 MB",
+          "pct": 100,
           "tone": "normal"
         }
       ]
@@ -327,8 +351,8 @@
     },
     {
       "title": "시스템 상태 요약",
-      "summary": "CPU 57.0 °C / 사용률 53.5 % / RAM 79.4 %",
-      "take": "메모리 사용 12.5 GB, 여유 3.3 GB입니다. 장시간 작업 전 발열과 메모리 사용률을 같이 보는 편이 좋습니다.",
+      "summary": "CPU 67.0 °C / 사용률 61.3 % / RAM 82.5 % / 업타임 43시간 31분",
+      "take": "메모리 사용 13.0 GB, SSD 여유 192.5GB, 네트워크 인터페이스 Ethernet, Ethernet 2, Wi-Fi입니다. 장시간 작업 전 발열과 메모리, 네트워크 상태를 같이 보는 편이 좋습니다.",
       "meta": [
         "시스템",
         "LHM"
