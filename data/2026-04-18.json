@@ -1,5 +1,5 @@
 {
-  "date": "2026-04-18 21:29",
+  "date": "2026-04-18 21:46",
   "title": "밤 브리핑",
   "subtitle": "마감 점검 · 남은 일 · 시스템 · OpenClaw",
   "summary": "오늘은 18:00 저녁 6시에 erp 작업 계속하기부터 시작됩니다. 첫 흐름만 안정적으로 잡으면 오늘 전체 리듬이 훨씬 부드럽게 이어질 겁니다.",
@@ -86,109 +86,65 @@
       ]
     },
     "youtube": {
-      "summary": "@JulianGoldieSEO Ollama + Hermes = FREE A / @JulianGoldieSEO Kimi K2.6: China’s AI DE / @JulianGoldieSEO Claude Design update is ",
-      "take": "업로드 속도가 빠른 채널은 오늘도 여러 편이 들어왔습니다. 중요한 주제부터 2~3개만 골라 보면 효율이 좋습니다.",
-      "items": [
-        {
-          "channel": "@JulianGoldieSEO",
-          "title": "Ollama + Hermes = FREE AI Agents in 1 Click!",
-          "published": "04-18 21:11",
-          "published_dt": "2026-04-18T21:11:52+09:00",
-          "url": "https://www.youtube.com/watch?v=mE3SLp0ry80",
-          "thumbnail": "https://i.ytimg.com/vi/mE3SLp0ry80/hqdefault.jpg",
-          "summary": "이 영상은 Ollama + Hermes = FREE AI Agents in 1 Click! 주제를 실제 실행 절차 중심으로 보여줍니다. 무료 또는 로컬 환경에서 바로 따라 할 수 있는 설정 흐름이 핵심입니다.",
-          "transcript_excerpt": "Run Hermes AI agent free forever in one single click. Here's how. So you can use Hermes with Oama and then inside your terminal you can just run this command. Olama launch Hermes. You hit enter and then from here select the model. Now if yo",
-          "shorts": false
-        },
-        {
-          "channel": "@JulianGoldieSEO",
-          "title": "Kimi K2.6: China’s AI DESTROYS Claude?",
-          "published": "04-18 20:01",
-          "published_dt": "2026-04-18T20:01:22+09:00",
-          "url": "https://www.youtube.com/watch?v=kycR_emi4Nw",
-          "thumbnail": "https://i.ytimg.com/vi/kycR_emi4Nw/hqdefault.jpg",
-          "summary": "핵심 내용은 So, China have just released Kimi K2.6 code preview. I've got access, as you can see right here. And this is available in the coding plan of Kimi. So, today we're going to be testi 입니다. 영상 전체를 안 봐도 무엇을 소개하는지 대략 파악할 수 있는 수준입니다.",
-          "transcript_excerpt": "So, China have just released Kimi K2.6 code preview. I've got access, as you can see right here. And this is available in the coding plan of Kimi. So, today we're going to be testing out versus Claude code, because this is basically China's",
-          "shorts": false
-        },
-        {
-          "channel": "@JulianGoldieSEO",
-          "title": "Claude Design update is INSANE!",
-          "published": "04-18 19:37",
-          "published_dt": "2026-04-18T19:37:45+09:00",
-          "url": "https://www.youtube.com/watch?v=t5sIyKwlQV0",
-          "thumbnail": "https://i.ytimg.com/vi/t5sIyKwlQV0/hqdefault.jpg",
-          "summary": "핵심 내용은 Breaking news, Claude design just dropped and is crazy powerful. So, you can get started at Claude design and you can create presentations, you can create websites, you can create 입니다. 영상 전체를 안 봐도 무엇을 소개하는지 대략 파악할 수 있는 수준입니다.",
-          "transcript_excerpt": "Breaking news, Claude design just dropped and is crazy powerful. So, you can get started at Claude design and you can create presentations, you can create websites, you can create apps. So, for example, I actually created this animated vide",
-          "shorts": false
-        },
-        {
-          "channel": "@JulianGoldieSEO",
-          "title": "Hermes AI Agent + Ollama: FREE + 1 Click Setup!",
-          "published": "04-18 18:00",
-          "published_dt": "2026-04-18T18:00:28+09:00",
-          "url": "https://www.youtube.com/watch?v=FEaXsMmuqeQ",
-          "thumbnail": "https://i.ytimg.com/vi/FEaXsMmuqeQ/hqdefault.jpg",
-          "summary": "이 영상은 Hermes AI Agent + Ollama: FREE + 1 Click Setup! 주제를 실제 실행 절차 중심으로 보여줍니다. 무료 또는 로컬 환경에서 바로 따라 할 수 있는 설정 흐름이 핵심입니다.",
-          "transcript_excerpt": "So, Ollama have just launched a new free way to run Hermes in one single click and it's probably the easiest way that I know to use Hermes. I've done this before with open claw setups as well. And basically what this allows you to do is run",
-          "shorts": false
-        },
-        {
-          "channel": "@JulianGoldieSEO",
-          "title": "Claude Design is INSANE! 🤯",
-          "published": "04-18 16:09",
-          "published_dt": "2026-04-18T16:09:41+09:00",
-          "url": "https://www.youtube.com/watch?v=en2rxalqb6A",
-          "thumbnail": "https://i.ytimg.com/vi/en2rxalqb6A/hqdefault.jpg",
-          "summary": "핵심 내용은 Today we have a brand new update from Claude design. So this is the new design tool we're going to be testing out today. This is kind of like design tool that can create for exampl 입니다. 영상 전체를 안 봐도 무엇을 소개하는지 대략 파악할 수 있는 수준입니다.",
-          "transcript_excerpt": "Today we have a brand new update from Claude design. So this is the new design tool we're going to be testing out today. This is kind of like design tool that can create for example PDFs, PowerPoints. You can export to Canva and you can see",
-          "shorts": false
-        }
-      ],
+      "summary": "최근 48시간 기준 새 영상 감지 없음 또는 채널 조회 실패",
+      "take": "채널 목록은 반영되어 있으며, 실제 새 업로드가 감지되면 제목 기반 요약과 링크를 브리핑에 포함합니다.",
+      "items": [],
       "links": [
         {
-          "label": "@JulianGoldieSEO · 04-18 21:11",
-          "url": "https://www.youtube.com/watch?v=mE3SLp0ry80",
-          "thumbnail": "https://i.ytimg.com/vi/mE3SLp0ry80/hqdefault.jpg"
+          "label": "@success_wiki",
+          "url": "https://www.youtube.com/@success_wiki"
         },
         {
-          "label": "@JulianGoldieSEO · 04-18 20:01",
-          "url": "https://www.youtube.com/watch?v=kycR_emi4Nw",
-          "thumbnail": "https://i.ytimg.com/vi/kycR_emi4Nw/hqdefault.jpg"
+          "label": "@JulianGoldieSEO",
+          "url": "https://www.youtube.com/@JulianGoldieSEO"
         },
         {
-          "label": "@JulianGoldieSEO · 04-18 19:37",
-          "url": "https://www.youtube.com/watch?v=t5sIyKwlQV0",
-          "thumbnail": "https://i.ytimg.com/vi/t5sIyKwlQV0/hqdefault.jpg"
+          "label": "@fahdmirza",
+          "url": "https://www.youtube.com/@fahdmirza"
+        },
+        {
+          "label": "@zerochotv",
+          "url": "https://www.youtube.com/@zerochotv"
         }
       ],
       "entities": [
+        "@success_wiki",
         "@JulianGoldieSEO",
-        "@JulianGoldieSEO",
-        "@JulianGoldieSEO",
-        "@JulianGoldieSEO"
+        "@fahdmirza"
       ]
     },
     "system": {
-      "summary": "CPU 67.0 °C / 사용률 81.6 % / RAM 61.3 % / 업타임 47시간 29분",
-      "take": "메모리 사용 9.7 GB, SSD 여유 193.1GB, 네트워크 인터페이스 Ethernet, Ethernet 2, Wi-Fi입니다. 장시간 작업 전 발열과 메모리, 네트워크 상태를 같이 보는 편이 좋습니다.",
+      "summary": "CPU 사용률 38.7 % / RAM 9.2GB 사용, 총 15.8GB (58%) / SSD 282.9GB 사용, 총 476.0GB (59%)",
+      "take": "CPU는 현재 38.7 % 사용 중이고, RAM은 총 15.8GB 중 9.2GB 사용 (58%), SSD는 총 476.0GB 중 282.9GB 사용 (59%), 여유 193.1GB입니다. 네트워크 인터페이스는 Ethernet, Ethernet 2, Wi-Fi 기준입니다.",
       "metrics": [
         {
           "label": "CPU 사용률",
-          "value": "81.6 %",
-          "pct": 81.6,
+          "value": "38.7 %",
+          "pct": 38.7,
           "tone": "normal"
         },
         {
           "label": "CPU 온도",
-          "value": "67.0 °C",
-          "pct": 67.0,
+          "value": "58.0 °C",
+          "pct": 58.0,
           "tone": "normal"
         },
         {
-          "label": "RAM 사용",
-          "value": "9.7 GB",
-          "pct": 9.7,
+          "label": "RAM 사용량",
+          "value": "9.2 / 15.8 GB (58%)",
+          "pct": 58.5,
+          "tone": "normal"
+        },
+        {
+          "label": "SSD 사용량",
+          "value": "282.9 / 476.0 GB (59%)",
+          "pct": 59.4,
+          "tone": "normal"
+        },
+        {
+          "label": "SSD 여유 공간",
+          "value": "193.1 / 476.0 GB",
+          "pct": 40.6,
           "tone": "normal"
         },
         {
@@ -198,26 +154,20 @@
           "tone": "normal"
         },
         {
-          "label": "SSD 여유 공간",
-          "value": "193.1 GB",
-          "pct": 40.6,
-          "tone": "normal"
-        },
-        {
           "label": "업타임",
-          "value": "47시간 29분",
+          "value": "47시간 46분",
           "pct": 100,
           "tone": "normal"
         },
         {
           "label": "네트워크 수신",
-          "value": "4070.0 MB",
+          "value": "4090.0 MB",
           "pct": 100,
           "tone": "normal"
         },
         {
           "label": "네트워크 송신",
-          "value": "948.1 MB",
+          "value": "951.9 MB",
           "pct": 100,
           "tone": "normal"
         }
@@ -322,18 +272,17 @@
     },
     {
       "title": "유튜브 업데이트",
-      "summary": "@JulianGoldieSEO Ollama + Hermes = FREE A / @JulianGoldieSEO Kimi K2.6: China’s AI DE / @JulianGoldieSEO Claude Design update is ",
-      "take": "업로드 속도가 빠른 채널은 오늘도 여러 편이 들어왔습니다. 중요한 주제부터 2~3개만 골라 보면 효율이 좋습니다.",
+      "summary": "최근 48시간 기준 새 영상 감지 없음 또는 채널 조회 실패",
+      "take": "채널 목록은 반영되어 있으며, 실제 새 업로드가 감지되면 제목 기반 요약과 링크를 브리핑에 포함합니다.",
       "meta": [
         "유튜브",
         "AI 채널",
         "중간 길이"
       ],
       "entities": [
+        "@success_wiki",
         "@JulianGoldieSEO",
-        "@JulianGoldieSEO",
-        "@JulianGoldieSEO",
-        "@JulianGoldieSEO"
+        "@fahdmirza"
       ],
       "keywords": [
         "youtube",
@@ -342,26 +291,27 @@
       ],
       "links": [
         {
-          "label": "@JulianGoldieSEO · 04-18 21:11",
-          "url": "https://www.youtube.com/watch?v=mE3SLp0ry80",
-          "thumbnail": "https://i.ytimg.com/vi/mE3SLp0ry80/hqdefault.jpg"
+          "label": "@success_wiki",
+          "url": "https://www.youtube.com/@success_wiki"
         },
         {
-          "label": "@JulianGoldieSEO · 04-18 20:01",
-          "url": "https://www.youtube.com/watch?v=kycR_emi4Nw",
-          "thumbnail": "https://i.ytimg.com/vi/kycR_emi4Nw/hqdefault.jpg"
+          "label": "@JulianGoldieSEO",
+          "url": "https://www.youtube.com/@JulianGoldieSEO"
         },
         {
-          "label": "@JulianGoldieSEO · 04-18 19:37",
-          "url": "https://www.youtube.com/watch?v=t5sIyKwlQV0",
-          "thumbnail": "https://i.ytimg.com/vi/t5sIyKwlQV0/hqdefault.jpg"
+          "label": "@fahdmirza",
+          "url": "https://www.youtube.com/@fahdmirza"
+        },
+        {
+          "label": "@zerochotv",
+          "url": "https://www.youtube.com/@zerochotv"
         }
       ]
     },
     {
       "title": "시스템 상태 요약",
-      "summary": "CPU 67.0 °C / 사용률 81.6 % / RAM 61.3 % / 업타임 47시간 29분",
-      "take": "메모리 사용 9.7 GB, SSD 여유 193.1GB, 네트워크 인터페이스 Ethernet, Ethernet 2, Wi-Fi입니다. 장시간 작업 전 발열과 메모리, 네트워크 상태를 같이 보는 편이 좋습니다.",
+      "summary": "CPU 사용률 38.7 % / RAM 9.2GB 사용, 총 15.8GB (58%) / SSD 282.9GB 사용, 총 476.0GB (59%)",
+      "take": "CPU는 현재 38.7 % 사용 중이고, RAM은 총 15.8GB 중 9.2GB 사용 (58%), SSD는 총 476.0GB 중 282.9GB 사용 (59%), 여유 193.1GB입니다. 네트워크 인터페이스는 Ethernet, Ethernet 2, Wi-Fi 기준입니다.",
       "meta": [
         "시스템",
         "LHM"
