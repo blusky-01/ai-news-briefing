@@ -1,47 +1,56 @@
 {
-  "date": "2026-04-18 17:50",
-  "title": "오후 브리핑",
-  "subtitle": "오후 리듬 점검 · 남은 일정 · 메일 · 유튜브 · 시스템",
+  "date": "2026-04-18 20:54",
+  "title": "저녁 브리핑",
+  "subtitle": "하루 정리 · 주요 업데이트 · 시스템 · OpenClaw",
   "summary": "오늘은 18:00 저녁 6시에 erp 작업 계속하기부터 시작됩니다. 첫 흐름만 안정적으로 잡으면 오늘 전체 리듬이 훨씬 부드럽게 이어질 겁니다.",
-  "summary_box": "큰 변수 없이 움직이기 좋은 날씨입니다. 일정만 잘 잡으면 리듬 있게 가기 좋겠습니다. 일정이 있는 날일수록 처음 두 개를 완벽하게 하려 하기보다, 팀장님 페이스를 끝까지 유지하는 쪽이 더 강합니다. 무리하지 말고 호흡을 길게 가져가시면 됩니다.",
+  "summary_box": "오늘은 우산을 챙겨두는 게 좋겠습니다. 비 맞으면 컨디션이 금방 떨어집니다. 일정이 있는 날일수록 처음 두 개를 완벽하게 하려 하기보다, 팀장님 페이스를 끝까지 유지하는 쪽이 더 강합니다. 무리하지 말고 호흡을 길게 가져가시면 됩니다.",
   "weather": {
     "loc": "김해",
-    "temp": "22°C",
+    "temp": "18°C",
     "desc": "Overcast",
     "icon": "⛅",
     "badges": [
-      "체감 25°C",
-      "습도 61%",
-      "강수확률 0%",
+      "체감 18°C",
+      "습도 77%",
+      "강수확률 78%",
       "풍속 6km/h",
-      "UV 1",
+      "UV 0",
       "미세먼지 정보 연동 예정"
     ],
     "detail": {
-      "feels_like": "25",
-      "humidity": "61",
-      "rain_chance": "0",
+      "feels_like": "18",
+      "humidity": "77",
+      "rain_chance": "78",
       "wind_kmph": "6",
-      "uv": "1",
+      "uv": "0",
       "pm": "미세먼지 정보 연동 예정"
     },
-    "life_comment": "큰 변수 없이 움직이기 좋은 날씨입니다. 일정만 잘 잡으면 리듬 있게 가기 좋겠습니다."
+    "life_comment": "오늘은 우산을 챙겨두는 게 좋겠습니다. 비 맞으면 컨디션이 금방 떨어집니다."
   },
   "sections": {
     "calendar": {
-      "summary": "18:00 저녁 6시에 erp 작업 계속하기",
+      "summary": "18:00 저녁 6시에 erp 작업 계속하기 / 20:00 당근에서 ssd 1tb거래 약속",
       "take": "오늘은 일정 흐름이 보이는 날입니다. 시작 전에 우선순위만 정리하면 훨씬 가볍게 밀 수 있습니다.",
       "items": [
         {
           "shown": "18:00",
           "summary": "저녁 6시에 erp 작업 계속하기",
           "htmlLink": "https://www.google.com/calendar/event?eid=NzRxNmNkMWw2a3A2NmI5bjZzcWo2YjlrNjRzMzZiYjE2ZGkzMGI5aTc0cGpnZDloNmhpNjhjMWljayBibHVhcmFvbjIwQG0"
+        },
+        {
+          "shown": "20:00",
+          "summary": "당근에서 ssd 1tb거래 약속",
+          "htmlLink": "https://www.google.com/calendar/event?eid=YzVobTZjYjNjb3MzYWI5aTZoaTY2YjlrYzhvajZiYjFjNG9tNmI5ZzY5Z2o4YzFoYzhzNjhwYjY2byBibHVhcmFvbjIwQG0"
         }
       ],
       "links": [
         {
           "label": "18:00 · 저녁 6시에 erp 작업 계속하기",
           "url": "https://www.google.com/calendar/event?eid=NzRxNmNkMWw2a3A2NmI5bjZzcWo2YjlrNjRzMzZiYjE2ZGkzMGI5aTc0cGpnZDloNmhpNjhjMWljayBibHVhcmFvbjIwQG0"
+        },
+        {
+          "label": "20:00 · 당근에서 ssd 1tb거래 약속",
+          "url": "https://www.google.com/calendar/event?eid=YzVobTZjYjNjb3MzYWI5aTZoaTY2YjlrYzhvajZiYjFjNG9tNmI5ZzY5Z2o4YzFoYzhzNjhwYjY2byBibHVhcmFvbjIwQG0"
         }
       ],
       "entities": [
@@ -49,7 +58,7 @@
       ]
     },
     "mail": {
-      "summary": "[중요인물] ✅ 스카이님, Android 기기에서 Googl / [중요인물,에러] 보안 알림 / [중요인물,에러] Security alert: new or unu",
+      "summary": "[중요인물] ✅ 스카이님, Android 기기에서 Googl / [중요인물,에러] 보안 알림",
       "take": "지금 확인할 만한 메일만 추렸습니다. 결제, 업무, 보안성 알림 위주로 먼저 보면 됩니다.",
       "items": [
         {
@@ -68,27 +77,48 @@
             "중요인물",
             "에러"
           ]
-        },
-        {
-          "date": "2026-04-16 17:57",
-          "from": "X <verify@x.com>",
-          "subject": "Security alert: new or unusual X login",
-          "tags": [
-            "중요인물",
-            "에러"
-          ]
         }
       ],
       "links": [],
       "entities": [
-        "중요인물",
-        "에러"
+        "에러",
+        "중요인물"
       ]
     },
     "youtube": {
-      "summary": "@JulianGoldieSEO Claude Design is INSANE! / @fahdmirza Comparing Full Precision / @success_wiki 클로드 디자인 피바람.. 현직 디자이너들 다",
+      "summary": "@JulianGoldieSEO China’s Kimi K2.6 VS Cla / @JulianGoldieSEO Claude Design update is  / @JulianGoldieSEO Hermes AI Agent + Ollama",
       "take": "업로드 속도가 빠른 채널은 오늘도 여러 편이 들어왔습니다. 중요한 주제부터 2~3개만 골라 보면 효율이 좋습니다.",
       "items": [
+        {
+          "channel": "@JulianGoldieSEO",
+          "title": "China’s Kimi K2.6 VS Claude: Who Wins?",
+          "published": "04-18 20:01",
+          "published_dt": "2026-04-18T20:01:22+09:00",
+          "url": "https://www.youtube.com/watch?v=kycR_emi4Nw",
+          "thumbnail": "https://i.ytimg.com/vi/kycR_emi4Nw/hqdefault.jpg",
+          "summary": "핵심 키워드: claude. 오늘 흐름에선 실행형 업데이트나 도구 활용 팁으로 볼 가치가 큽니다.",
+          "shorts": false
+        },
+        {
+          "channel": "@JulianGoldieSEO",
+          "title": "Claude Design update is INSANE!",
+          "published": "04-18 19:37",
+          "published_dt": "2026-04-18T19:37:45+09:00",
+          "url": "https://www.youtube.com/watch?v=t5sIyKwlQV0",
+          "thumbnail": "https://i.ytimg.com/vi/t5sIyKwlQV0/hqdefault.jpg",
+          "summary": "핵심 키워드: claude. 오늘 흐름에선 실행형 업데이트나 도구 활용 팁으로 볼 가치가 큽니다.",
+          "shorts": false
+        },
+        {
+          "channel": "@JulianGoldieSEO",
+          "title": "Hermes AI Agent + Ollama: FREE + 1 Click Setup!",
+          "published": "04-18 18:00",
+          "published_dt": "2026-04-18T18:00:28+09:00",
+          "url": "https://www.youtube.com/watch?v=FEaXsMmuqeQ",
+          "thumbnail": "https://i.ytimg.com/vi/FEaXsMmuqeQ/hqdefault.jpg",
+          "summary": "핵심 키워드: ai, agent. 오늘 흐름에선 실행형 업데이트나 도구 활용 팁으로 볼 가치가 큽니다.",
+          "shorts": false
+        },
         {
           "channel": "@JulianGoldieSEO",
           "title": "Claude Design is INSANE! 🤯",
@@ -108,82 +138,52 @@
           "thumbnail": "https://i.ytimg.com/vi/RlGppgMDl9k/hqdefault.jpg",
           "summary": "제목 기준으로 새 영상이 올라왔고, 실제 브리핑에선 오늘 확인할 가치가 있는 영상으로 추려 보여줍니다.",
           "shorts": false
-        },
-        {
-          "channel": "@success_wiki",
-          "title": "클로드 디자인 피바람.. 현직 디자이너들 다 죽어요 진짜 ㄷㄷ",
-          "published": "04-18 14:43",
-          "published_dt": "2026-04-18T14:43:14+09:00",
-          "url": "https://www.youtube.com/watch?v=fw194uOehAs",
-          "thumbnail": "https://i.ytimg.com/vi/fw194uOehAs/hqdefault.jpg",
-          "summary": "제목 기준으로 새 영상이 올라왔고, 실제 브리핑에선 오늘 확인할 가치가 있는 영상으로 추려 보여줍니다.",
-          "shorts": false
-        },
-        {
-          "channel": "@JulianGoldieSEO",
-          "title": "New Google AI Studio Update: Build ANYTHING!",
-          "published": "04-18 14:00",
-          "published_dt": "2026-04-18T14:00:35+09:00",
-          "url": "https://www.youtube.com/watch?v=VOlZQklBwhU",
-          "thumbnail": "https://i.ytimg.com/vi/VOlZQklBwhU/hqdefault.jpg",
-          "summary": "핵심 키워드: ai. 오늘 흐름에선 실행형 업데이트나 도구 활용 팁으로 볼 가치가 큽니다.",
-          "shorts": false
-        },
-        {
-          "channel": "@JulianGoldieSEO",
-          "title": "Claude Design + Hermes Agent & Ollama",
-          "published": "04-18 13:56",
-          "published_dt": "2026-04-18T13:56:43+09:00",
-          "url": "https://www.youtube.com/watch?v=OLEZVKatYzI",
-          "thumbnail": "https://i.ytimg.com/vi/OLEZVKatYzI/hqdefault_live.jpg",
-          "summary": "핵심 키워드: agent, claude. 오늘 흐름에선 실행형 업데이트나 도구 활용 팁으로 볼 가치가 큽니다.",
-          "shorts": false
         }
       ],
       "links": [
         {
-          "label": "@JulianGoldieSEO · 04-18 16:09",
-          "url": "https://www.youtube.com/watch?v=en2rxalqb6A",
-          "thumbnail": "https://i.ytimg.com/vi/en2rxalqb6A/hqdefault.jpg"
+          "label": "@JulianGoldieSEO · 04-18 20:01",
+          "url": "https://www.youtube.com/watch?v=kycR_emi4Nw",
+          "thumbnail": "https://i.ytimg.com/vi/kycR_emi4Nw/hqdefault.jpg"
         },
         {
-          "label": "@fahdmirza · 04-18 16:00",
-          "url": "https://www.youtube.com/watch?v=RlGppgMDl9k",
-          "thumbnail": "https://i.ytimg.com/vi/RlGppgMDl9k/hqdefault.jpg"
+          "label": "@JulianGoldieSEO · 04-18 19:37",
+          "url": "https://www.youtube.com/watch?v=t5sIyKwlQV0",
+          "thumbnail": "https://i.ytimg.com/vi/t5sIyKwlQV0/hqdefault.jpg"
         },
         {
-          "label": "@success_wiki · 04-18 14:43",
-          "url": "https://www.youtube.com/watch?v=fw194uOehAs",
-          "thumbnail": "https://i.ytimg.com/vi/fw194uOehAs/hqdefault.jpg"
+          "label": "@JulianGoldieSEO · 04-18 18:00",
+          "url": "https://www.youtube.com/watch?v=FEaXsMmuqeQ",
+          "thumbnail": "https://i.ytimg.com/vi/FEaXsMmuqeQ/hqdefault.jpg"
         }
       ],
       "entities": [
         "@JulianGoldieSEO",
-        "@fahdmirza",
-        "@success_wiki",
+        "@JulianGoldieSEO",
+        "@JulianGoldieSEO",
         "@JulianGoldieSEO"
       ]
     },
     "system": {
-      "summary": "CPU 54.0 °C / 사용률 39.8 % / RAM 79.4 % / 업타임 43시간 50분",
-      "take": "메모리 사용 12.5 GB, SSD 여유 194.6GB, 네트워크 인터페이스 Ethernet, Ethernet 2, Wi-Fi입니다. 장시간 작업 전 발열과 메모리, 네트워크 상태를 같이 보는 편이 좋습니다.",
+      "summary": "CPU 51.0 °C / 사용률 19.1 % / RAM 56.1 % / 업타임 46시간 54분",
+      "take": "메모리 사용 8.9 GB, SSD 여유 193.5GB, 네트워크 인터페이스 Ethernet, Ethernet 2, Wi-Fi입니다. 장시간 작업 전 발열과 메모리, 네트워크 상태를 같이 보는 편이 좋습니다.",
       "metrics": [
         {
           "label": "CPU 사용률",
-          "value": "39.8 %",
-          "pct": 39.8,
+          "value": "19.1 %",
+          "pct": 19.1,
           "tone": "normal"
         },
         {
           "label": "CPU 온도",
-          "value": "54.0 °C",
-          "pct": 54.0,
+          "value": "51.0 °C",
+          "pct": 51.0,
           "tone": "normal"
         },
         {
           "label": "RAM 사용",
-          "value": "12.5 GB",
-          "pct": 12.5,
+          "value": "8.9 GB",
+          "pct": 8.9,
           "tone": "normal"
         },
         {
@@ -194,25 +194,25 @@
         },
         {
           "label": "SSD 여유 공간",
-          "value": "194.6 GB",
-          "pct": 40.9,
+          "value": "193.5 GB",
+          "pct": 40.7,
           "tone": "normal"
         },
         {
           "label": "업타임",
-          "value": "43시간 50분",
+          "value": "46시간 54분",
           "pct": 100,
           "tone": "normal"
         },
         {
           "label": "네트워크 수신",
-          "value": "3265.6 MB",
+          "value": "4031.0 MB",
           "pct": 100,
           "tone": "normal"
         },
         {
           "label": "네트워크 송신",
-          "value": "851.8 MB",
+          "value": "904.0 MB",
           "pct": 100,
           "tone": "normal"
         }
@@ -220,15 +220,46 @@
     },
     "openclaw": {
       "summary": "OpenClaw 2026.4.15 (041266a)",
-      "take": "게이트웨이 상태 확인 실패",
-      "metrics": []
+      "take": "Runtime: running (pid 9852, Verified gateway listener detected on port 18789 even though schtasks did not report a running task.) | RPC probe: ok | Listening: 127.0.0.1:18789",
+      "metrics": [
+        {
+          "label": "Gateway",
+          "value": "bind=loopback (127.0.0.1), port=18789 (service args)",
+          "pct": 100,
+          "tone": "normal"
+        },
+        {
+          "label": "Probe note",
+          "value": "Loopback-only gateway; only local clients can connect.",
+          "pct": 100,
+          "tone": "normal"
+        },
+        {
+          "label": "Runtime",
+          "value": "running (pid 9852, Verified gateway listener detected on port 18789 even though schtasks did not report a running task.)",
+          "pct": 100,
+          "tone": "good"
+        },
+        {
+          "label": "RPC probe",
+          "value": "ok",
+          "pct": 100,
+          "tone": "good"
+        },
+        {
+          "label": "Listening",
+          "value": "127.0.0.1:18789",
+          "pct": 100,
+          "tone": "good"
+        }
+      ]
     }
   },
   "cards": [
     {
       "title": "오늘의 한마디",
       "summary": "오늘은 18:00 저녁 6시에 erp 작업 계속하기부터 시작됩니다. 첫 흐름만 안정적으로 잡으면 오늘 전체 리듬이 훨씬 부드럽게 이어질 겁니다.",
-      "take": "큰 변수 없이 움직이기 좋은 날씨입니다. 일정만 잘 잡으면 리듬 있게 가기 좋겠습니다. 일정이 있는 날일수록 처음 두 개를 완벽하게 하려 하기보다, 팀장님 페이스를 끝까지 유지하는 쪽이 더 강합니다. 무리하지 말고 호흡을 길게 가져가시면 됩니다.",
+      "take": "오늘은 우산을 챙겨두는 게 좋겠습니다. 비 맞으면 컨디션이 금방 떨어집니다. 일정이 있는 날일수록 처음 두 개를 완벽하게 하려 하기보다, 팀장님 페이스를 끝까지 유지하는 쪽이 더 강합니다. 무리하지 말고 호흡을 길게 가져가시면 됩니다.",
       "meta": [
         "응원",
         "중간 길이"
@@ -242,7 +273,7 @@
     },
     {
       "title": "오늘 일정",
-      "summary": "18:00 저녁 6시에 erp 작업 계속하기",
+      "summary": "18:00 저녁 6시에 erp 작업 계속하기 / 20:00 당근에서 ssd 1tb거래 약속",
       "take": "오늘은 일정 흐름이 보이는 날입니다. 시작 전에 우선순위만 정리하면 훨씬 가볍게 밀 수 있습니다.",
       "meta": [
         "일정",
@@ -258,12 +289,16 @@
         {
           "label": "18:00 · 저녁 6시에 erp 작업 계속하기",
           "url": "https://www.google.com/calendar/event?eid=NzRxNmNkMWw2a3A2NmI5bjZzcWo2YjlrNjRzMzZiYjE2ZGkzMGI5aTc0cGpnZDloNmhpNjhjMWljayBibHVhcmFvbjIwQG0"
+        },
+        {
+          "label": "20:00 · 당근에서 ssd 1tb거래 약속",
+          "url": "https://www.google.com/calendar/event?eid=YzVobTZjYjNjb3MzYWI5aTZoaTY2YjlrYzhvajZiYjFjNG9tNmI5ZzY5Z2o4YzFoYzhzNjhwYjY2byBibHVhcmFvbjIwQG0"
         }
       ]
     },
     {
       "title": "주요 메일 / 중요 알림",
-      "summary": "[중요인물] ✅ 스카이님, Android 기기에서 Googl / [중요인물,에러] 보안 알림 / [중요인물,에러] Security alert: new or unu",
+      "summary": "[중요인물] ✅ 스카이님, Android 기기에서 Googl / [중요인물,에러] 보안 알림",
       "take": "지금 확인할 만한 메일만 추렸습니다. 결제, 업무, 보안성 알림 위주로 먼저 보면 됩니다.",
       "meta": [
         "메일",
@@ -271,8 +306,8 @@
         "중요 알림"
       ],
       "entities": [
-        "중요인물",
-        "에러"
+        "에러",
+        "중요인물"
       ],
       "keywords": [
         "gmail",
@@ -282,7 +317,7 @@
     },
     {
       "title": "유튜브 업데이트",
-      "summary": "@JulianGoldieSEO Claude Design is INSANE! / @fahdmirza Comparing Full Precision / @success_wiki 클로드 디자인 피바람.. 현직 디자이너들 다",
+      "summary": "@JulianGoldieSEO China’s Kimi K2.6 VS Cla / @JulianGoldieSEO Claude Design update is  / @JulianGoldieSEO Hermes AI Agent + Ollama",
       "take": "업로드 속도가 빠른 채널은 오늘도 여러 편이 들어왔습니다. 중요한 주제부터 2~3개만 골라 보면 효율이 좋습니다.",
       "meta": [
         "유튜브",
@@ -291,8 +326,8 @@
       ],
       "entities": [
         "@JulianGoldieSEO",
-        "@fahdmirza",
-        "@success_wiki",
+        "@JulianGoldieSEO",
+        "@JulianGoldieSEO",
         "@JulianGoldieSEO"
       ],
       "keywords": [
@@ -302,26 +337,26 @@
       ],
       "links": [
         {
-          "label": "@JulianGoldieSEO · 04-18 16:09",
-          "url": "https://www.youtube.com/watch?v=en2rxalqb6A",
-          "thumbnail": "https://i.ytimg.com/vi/en2rxalqb6A/hqdefault.jpg"
+          "label": "@JulianGoldieSEO · 04-18 20:01",
+          "url": "https://www.youtube.com/watch?v=kycR_emi4Nw",
+          "thumbnail": "https://i.ytimg.com/vi/kycR_emi4Nw/hqdefault.jpg"
         },
         {
-          "label": "@fahdmirza · 04-18 16:00",
-          "url": "https://www.youtube.com/watch?v=RlGppgMDl9k",
-          "thumbnail": "https://i.ytimg.com/vi/RlGppgMDl9k/hqdefault.jpg"
+          "label": "@JulianGoldieSEO · 04-18 19:37",
+          "url": "https://www.youtube.com/watch?v=t5sIyKwlQV0",
+          "thumbnail": "https://i.ytimg.com/vi/t5sIyKwlQV0/hqdefault.jpg"
         },
         {
-          "label": "@success_wiki · 04-18 14:43",
-          "url": "https://www.youtube.com/watch?v=fw194uOehAs",
-          "thumbnail": "https://i.ytimg.com/vi/fw194uOehAs/hqdefault.jpg"
+          "label": "@JulianGoldieSEO · 04-18 18:00",
+          "url": "https://www.youtube.com/watch?v=FEaXsMmuqeQ",
+          "thumbnail": "https://i.ytimg.com/vi/FEaXsMmuqeQ/hqdefault.jpg"
         }
       ]
     },
     {
       "title": "시스템 상태 요약",
-      "summary": "CPU 54.0 °C / 사용률 39.8 % / RAM 79.4 % / 업타임 43시간 50분",
-      "take": "메모리 사용 12.5 GB, SSD 여유 194.6GB, 네트워크 인터페이스 Ethernet, Ethernet 2, Wi-Fi입니다. 장시간 작업 전 발열과 메모리, 네트워크 상태를 같이 보는 편이 좋습니다.",
+      "summary": "CPU 51.0 °C / 사용률 19.1 % / RAM 56.1 % / 업타임 46시간 54분",
+      "take": "메모리 사용 8.9 GB, SSD 여유 193.5GB, 네트워크 인터페이스 Ethernet, Ethernet 2, Wi-Fi입니다. 장시간 작업 전 발열과 메모리, 네트워크 상태를 같이 보는 편이 좋습니다.",
       "meta": [
         "시스템",
         "LHM"
@@ -341,7 +376,7 @@
     {
       "title": "OpenClaw 상태 요약",
       "summary": "OpenClaw 2026.4.15 (041266a)",
-      "take": "게이트웨이 상태 확인 실패",
+      "take": "Runtime: running (pid 9852, Verified gateway listener detected on port 18789 even though schtasks did not report a running task.) | RPC probe: ok | Listening: 127.0.0.1:18789",
       "meta": [
         "OpenClaw",
         "Gateway"
