@@ -1,5 +1,5 @@
 {
-  "date": "2026-04-18 21:52",
+  "date": "2026-04-18 21:57",
   "title": "밤 브리핑",
   "subtitle": "마감 점검 · 남은 일 · 시스템 · OpenClaw",
   "summary": "오늘은 18:00 저녁 6시에 erp 작업 계속하기부터 시작됩니다. 첫 흐름만 안정적으로 잡으면 오늘 전체 리듬이 훨씬 부드럽게 이어질 겁니다.",
@@ -197,31 +197,37 @@
       ]
     },
     "system": {
-      "summary": "CPU 54.6 % 사용 / 클럭 66.0 °C / RAM 9.5GB 사용, 총 15.8GB (60%) / SSD 282.9GB 사용, 총 476.0GB (59%)",
-      "take": "CPU는 현재 54.6 % 사용 중이고 클럭은 66.0 °C, RAM은 총 15.8GB 중 9.5GB 사용 (60%), SSD는 총 476.0GB 중 282.9GB 사용 (59%), 여유 193.1GB입니다. 네트워크 인터페이스는 Ethernet, Ethernet 2, Wi-Fi 기준입니다.",
+      "summary": "CPU 38.5 % 사용 / 클럭 1310.4 MHz / RAM 9.3GB 사용, 총 15.8GB (59%) / SSD 282.9GB 사용, 총 476.0GB (59%)",
+      "take": "CPU는 현재 38.5 % 사용 중이고 클럭은 1310.4 MHz, 버스 스피드는 100.8 MHz, RAM은 총 15.8GB 중 9.3GB 사용 (59%), SSD는 총 476.0GB 중 282.9GB 사용 (59%), 여유 193.1GB입니다. 네트워크 인터페이스는 Ethernet, Ethernet 2, Wi-Fi 기준입니다.",
       "metrics": [
         {
           "label": "CPU 사용률",
-          "value": "54.6 %",
-          "pct": 54.6,
+          "value": "38.5 %",
+          "pct": 38.5,
           "tone": "normal"
         },
         {
           "label": "CPU 클럭",
-          "value": "66.0 °C",
-          "pct": 0,
+          "value": "1310.4 MHz",
+          "pct": 37.440000000000005,
+          "tone": "normal"
+        },
+        {
+          "label": "버스 스피드",
+          "value": "100.8 MHz",
+          "pct": 100,
           "tone": "normal"
         },
         {
           "label": "CPU 온도",
-          "value": "66.0 °C",
-          "pct": 66.0,
+          "value": "51.0 °C",
+          "pct": 51.0,
           "tone": "normal"
         },
         {
           "label": "RAM 사용량",
-          "value": "9.5 / 15.8 GB (60%)",
-          "pct": 60.0,
+          "value": "9.3 / 15.8 GB (59%)",
+          "pct": 59.1,
           "tone": "normal"
         },
         {
@@ -244,19 +250,19 @@
         },
         {
           "label": "업타임",
-          "value": "47시간 52분",
+          "value": "47시간 57분",
           "pct": 100,
           "tone": "normal"
         },
         {
           "label": "네트워크 수신",
-          "value": "4108.2 MB",
+          "value": "4118.2 MB",
           "pct": 100,
           "tone": "normal"
         },
         {
           "label": "네트워크 송신",
-          "value": "955.9 MB",
+          "value": "959.3 MB",
           "pct": 100,
           "tone": "normal"
         }
@@ -417,8 +423,8 @@
     },
     {
       "title": "시스템 상태 요약",
-      "summary": "CPU 54.6 % 사용 / 클럭 66.0 °C / RAM 9.5GB 사용, 총 15.8GB (60%) / SSD 282.9GB 사용, 총 476.0GB (59%)",
-      "take": "CPU는 현재 54.6 % 사용 중이고 클럭은 66.0 °C, RAM은 총 15.8GB 중 9.5GB 사용 (60%), SSD는 총 476.0GB 중 282.9GB 사용 (59%), 여유 193.1GB입니다. 네트워크 인터페이스는 Ethernet, Ethernet 2, Wi-Fi 기준입니다.",
+      "summary": "CPU 38.5 % 사용 / 클럭 1310.4 MHz / RAM 9.3GB 사용, 총 15.8GB (59%) / SSD 282.9GB 사용, 총 476.0GB (59%)",
+      "take": "CPU는 현재 38.5 % 사용 중이고 클럭은 1310.4 MHz, 버스 스피드는 100.8 MHz, RAM은 총 15.8GB 중 9.3GB 사용 (59%), SSD는 총 476.0GB 중 282.9GB 사용 (59%), 여유 193.1GB입니다. 네트워크 인터페이스는 Ethernet, Ethernet 2, Wi-Fi 기준입니다.",
       "meta": [
         "시스템",
         "LHM"
