@@ -1,0 +1,251 @@
+<!doctype html>
+<html lang="ko">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>미국 + 국내 AI 뉴스 통합 브리핑</title>
+<style>
+:root{
+  --bg1:#070a13;
+  --bg2:#10192c;
+  --glass:rgba(255,255,255,.08);
+  --line:rgba(255,255,255,.12);
+  --text:#eef4ff;
+  --muted:#a9b6cf;
+  --blue:#9ab7ff;
+  --cyan:#7de9da;
+  --shadow:0 12px 40px rgba(0,0,0,.28);
+}
+*{box-sizing:border-box}
+body{
+  margin:0;
+  color:var(--text);
+  font-family:"SF Pro Display","Segoe UI",Apple SD Gothic Neo,"Malgun Gothic",sans-serif;
+  background:
+    radial-gradient(circle at 10% 0%, rgba(110,145,255,.20), transparent 30%),
+    radial-gradient(circle at 100% 10%, rgba(87,229,205,.11), transparent 24%),
+    linear-gradient(180deg,var(--bg1),var(--bg2));
+  min-height:100vh;
+}
+.wrap{max-width:1180px;margin:0 auto;padding:20px 14px 54px}
+.glass{
+  background:linear-gradient(180deg, rgba(255,255,255,.12), rgba(255,255,255,.05));
+  border:1px solid rgba(255,255,255,.14);
+  box-shadow:var(--shadow), inset 0 1px 0 rgba(255,255,255,.08);
+  backdrop-filter: blur(22px) saturate(165%);
+  -webkit-backdrop-filter: blur(22px) saturate(165%);
+}
+.hero{border-radius:30px;padding:26px 24px;margin-bottom:18px;position:relative;overflow:hidden}
+.hero::before{content:"";position:absolute;inset:0;background:linear-gradient(135deg,rgba(255,255,255,.16),transparent 30%,transparent 68%,rgba(154,183,255,.18));pointer-events:none}
+.hero::after{content:"";position:absolute;right:-40px;top:-40px;width:180px;height:180px;border-radius:999px;background:radial-gradient(circle,rgba(125,233,218,.18),transparent 68%);pointer-events:none}
+.kicker{font-size:13px;letter-spacing:.16em;text-transform:uppercase;color:var(--cyan);font-weight:800}
+h1{margin:8px 0 8px;font-size:clamp(30px,5vw,48px);line-height:1.08}
+.sub{color:var(--muted);font-size:15px}
+.topgrid{display:grid;grid-template-columns:1.65fr .95fr;gap:18px;margin-bottom:18px}
+.panel{border-radius:26px;padding:18px}
+.section-title{font-size:18px;font-weight:800;margin:0 0 12px}
+.summary{font-size:16px;line-height:1.7}
+.summary-box{margin-top:14px;padding:14px 16px;border-radius:18px;background:linear-gradient(180deg,rgba(125,233,218,.12),rgba(125,233,218,.06));border:1px solid rgba(125,233,218,.16);color:#ddfffb}
+.weather-main{display:flex;align-items:center;justify-content:space-between;gap:12px}
+.loc{font-size:14px;color:var(--muted)}
+.temp{font-size:36px;font-weight:800;margin-top:4px;letter-spacing:-.03em}
+.desc{font-size:15px;color:#eaf2ff;margin-top:6px}
+.weather-icon{font-size:46px;filter:drop-shadow(0 6px 18px rgba(255,255,255,.18))}
+.weather-badges,.meta{display:flex;flex-wrap:wrap;gap:8px}
+.weather-badges{margin-top:12px}
+.pill{display:inline-flex;align-items:center;gap:6px;padding:7px 11px;border-radius:999px;background:rgba(255,255,255,.06);border:1px solid rgba(255,255,255,.08);font-size:12px;color:#dce7ff}
+.cards{display:grid;grid-template-columns:repeat(auto-fit,minmax(280px,1fr));gap:16px}
+.card{border-radius:26px;padding:18px;position:relative;overflow:hidden}
+.card::before{content:"";position:absolute;inset:0;background:linear-gradient(180deg,rgba(255,255,255,.08),transparent 32%);pointer-events:none}
+.card::after{content:"";position:absolute;left:0;right:0;top:0;height:1px;background:linear-gradient(90deg,transparent,rgba(255,255,255,.22),transparent)}
+.num{width:32px;height:32px;border-radius:999px;display:inline-flex;align-items:center;justify-content:center;background:rgba(154,183,255,.16);font-weight:900;margin-bottom:10px}
+.title{font-size:20px;font-weight:800;line-height:1.38;margin:10px 0}
+.take{margin-top:14px;padding:12px 14px;border-radius:16px;background:rgba(154,183,255,.08);border:1px solid rgba(154,183,255,.14);color:#eef3ff}
+a{color:#bfd2ff;text-decoration:none} a:hover{text-decoration:underline}
+.footer{margin-top:28px;color:var(--muted);font-size:13px}
+@media (max-width:900px){.topgrid{grid-template-columns:1fr}.wrap{padding:14px 12px 40px}.hero{padding:22px 18px}.panel,.card{border-radius:24px}}
+</style>
+</head>
+<body>
+<div class="wrap">
+  <section class="hero glass">
+    <div class="kicker">JARVIS DAILY BRIEFING</div>
+    <h1>미국 + 국내 AI 뉴스 통합 브리핑</h1>
+    <div class="sub">2026년 4월 5일 · 팀장님용 데일리 브리핑 · 승부처는 모델 발표보다 실제 자동화, 업무시스템 침투력, GPU 조달력, 정책자금 연결력입니다</div>
+    <div class="weather-badges" style="margin-top:16px">
+      <a class="pill" href="/ai-news-briefing/">최신 브리핑</a>
+      <a class="pill" href="/ai-news-briefing/archive/">아카이브</a>
+      <a class="pill" href="/ai-news-briefing/insights/weekly.html">주간 브리핑</a>
+      <a class="pill" href="/ai-news-briefing/insights/monthly.html">월간 브리핑</a>
+      <a class="pill" href="/ai-news-briefing/data/index.json">데이터</a>
+    </div>
+  </section>
+
+  <section class="topgrid">
+    <div class="panel glass">
+      <div class="section-title">오늘의 한줄 판단</div>
+      <div class="summary">오늘 핵심은 AI 시장의 경쟁축이 더 선명하게 ‘에이전트형 자동화 + 업무시스템 장악 + 인프라 확보’로 옮겨가고 있다는 점입니다. OpenAI·Google·Microsoft·xAI는 각각 다른 방식으로 실행형 AI를 밀어 넣고 있고, 국내는 GPU 공급·정책자금·한국형 업무 포맷 대응이 사업화 속도를 좌우하고 있습니다. 팀장님 관점에서는 단순 화제성보다 반복 업무를 얼마나 더 싸고 깊게 대체하는지, 그리고 누가 현장 시스템 안에 장기 락인을 만들 수 있는지가 핵심 판단 포인트입니다.</div>
+      <div class="summary-box">자비스 판단: 우선순위는 ① AI 자동화 실전 배치 ② 주요 모델 사업자의 업그레이드/비공개 진행 신호 ③ 업무시스템·개발도구 장악 ④ GPU·네트워크 인프라 확보 ⑤ 정부지원사업 활용입니다. 데모형 뉴스보다 매출화 구조, 현장 도입 난이도, 운영 단가, 락인 가능성을 먼저 봐야 합니다.</div>
+    </div>
+    <div class="panel glass">
+      <div class="section-title">김해 현재 날씨</div>
+      <div class="weather-main">
+        <div>
+          <div class="loc">김해 · 2026-04-05 08:30 기준 · Open-Meteo</div>
+          <div class="temp">9.4°C</div>
+          <div class="desc">대체로 맑음 · 체감 6.2°C · 강수 0mm</div>
+          <div class="weather-badges"><span class="pill">구름량 26%</span><span class="pill">비 소식 없음</span><span class="pill">아침 외출은 약간 쌀쌀</span></div>
+        </div>
+        <div class="weather-icon">🌤️</div>
+      </div>
+    </div>
+  </section>
+
+  <section class="cards">
+    <article class="card glass">
+      <div class="num">1</div>
+      <div class="meta"><span class="pill">미국</span><span class="pill">OpenAI 공식/AI타임스</span><span class="pill">3월 5일 공개</span></div>
+      <div class="title">OpenAI, GPT-5.4로 ‘답변형 모델’에서 ‘실행형 업무 에이전트’로 한 단계 이동</div>
+      <div class="weather-badges" style="margin:0 0 12px"><span class="pill">기업: OpenAI</span><span class="pill">기업: GPT-5.4</span><span class="pill">기업: ChatGPT</span><span class="pill">기업: Codex</span><span class="pill">키워드: 에이전트</span><span class="pill">키워드: 컴퓨터유즈</span><span class="pill">키워드: 업무자동화</span><span class="pill">키워드: 코딩자동화</span></div>
+      <div class="summary">OpenAI는 GPT-5.4를 ChatGPT, API, Codex에 동시 전개하며 추론·코딩·에이전트 워크플로우를 하나로 묶었다. 공식 발표 기준으로 GPT-5.4는 100만 토큰 컨텍스트, 네이티브 컴퓨터 유즈, 툴 검색, 문서·스프레드시트·프레젠테이션 작업 강화를 전면에 내세웠다. 벤치마크에서도 GDPval 83.0%, OSWorld-Verified 75.0%, Toolathlon 54.6%로 GPT-5.2 대비 큰 폭의 개선을 제시했다.</div>
+      <div class="take"><strong>해석:</strong> 팀장님 관점에서는 단순 모델 출시가 아니라 사무·개발 자동화의 단가가 더 내려간 사건입니다. 특히 컴퓨터 유즈와 툴 검색은 실제 업무 끝단까지 들어갈 수 있다는 뜻이라, 내부 리서치·문서작성·반복 개발업무 자동화 파일럿을 더 적극적으로 검토할 구간입니다. 투자 관점에서는 ‘잘 답하는 모델’보다 ‘툴을 붙여 끝까지 처리하는 플랫폼’ 쪽이 더 높은 기업가치를 방어할 가능성이 큽니다.</div>
+      <div class="footer"><a href="https://openai.com/index/introducing-gpt-5-4/">OpenAI</a> · <a href="https://help.openai.com/en/articles/9624314-model-release-notes">OpenAI Help</a> · <a href="https://www.aitimes.com/news/articleView.html?idxno=207607">AI타임스</a></div>
+    </article>
+    
+
+    <article class="card glass">
+      <div class="num">2</div>
+      <div class="meta"><span class="pill">국내</span><span class="pill">AI타임스</span><span class="pill">1개월 전</span></div>
+      <div class="title">오픈AI ‘심포니’ 공개…코딩 자동화를 넘어 프로젝트 운영 자체를 에이전트화</div>
+      <div class="weather-badges" style="margin:0 0 12px"><span class="pill">기업: OpenAI</span><span class="pill">기업: Symphony</span><span class="pill">기업: Linear</span><span class="pill">기업: GitHub</span><span class="pill">키워드: 멀티에이전트</span><span class="pill">키워드: 프로젝트자동화</span><span class="pill">키워드: 개발운영</span><span class="pill">키워드: 증거기반검증</span></div>
+      <div class="summary">AI타임스에 따르면 OpenAI는 여러 코딩 에이전트를 작업 단위로 관리하는 오픈소스 프레임워크 ‘Symphony’를 공개했다. 이슈 트래커 상태 변화에 맞춰 에이전트가 자동으로 실행되고, 코드 작성뿐 아니라 테스트·CI·PR 검증·작업 증명까지 포함해 독립 실행 환경에서 병렬 처리하는 구조다. 개발자는 직접 구현하는 사람이 아니라 작업을 정의하고 결과를 검수하는 역할로 이동하게 된다.</div>
+      <div class="take"><strong>해석:</strong> 이건 개발 생산성 뉴스가 아니라 ‘관리 가능한 에이전트 운영체제’의 시작으로 보는 게 맞습니다. 사업 관점에서는 향후 개발 외의 문서, 운영, 고객지원 워크플로우에도 같은 구조가 확장될 수 있습니다. 실행 관점에서는 팀장님 조직에서도 티켓 기반 반복작업을 에이전트 큐 형태로 나누면 즉시 실험 가능한 패턴입니다.</div>
+      <div class="footer"><a href="https://www.aitimes.com/news/articleView.html?idxno=207683">AI타임스</a></div>
+    </article>
+    
+
+    <article class="card glass">
+      <div class="num">3</div>
+      <div class="meta"><span class="pill">미국</span><span class="pill">Google 공식</span><span class="pill">2월 19일</span></div>
+      <div class="title">Google, Gemini 3.1 Pro를 소비자·개발자·기업 채널에 동시 확장…배포력으로 OpenAI 추격</div>
+      <div class="weather-badges" style="margin:0 0 12px"><span class="pill">기업: Google</span><span class="pill">기업: Gemini 3.1 Pro</span><span class="pill">기업: Vertex AI</span><span class="pill">기업: NotebookLM</span><span class="pill">키워드: 추론</span><span class="pill">키워드: 배포확장</span><span class="pill">키워드: 엔터프라이즈</span><span class="pill">키워드: 고급모델</span></div>
+      <div class="summary">Google은 Gemini 3.1 Pro를 Gemini API, Vertex AI, Gemini 앱, NotebookLM까지 동시에 전개했다. 공식 블로그 기준으로 ARC-AGI-2 검증 점수 77.1%를 제시하며 복잡한 문제 해결 역량 강화를 강조했고, 실사용 예시도 단순 대화가 아니라 데이터 종합, 시각화, 인터랙티브 프로토타이핑에 맞췄다. 핵심은 연구 성능 발표가 아니라 배포 채널 전체에 같은 플래그십을 미는 전략이다.</div>
+      <div class="take"><strong>해석:</strong> 경쟁 영향이 큽니다. Google은 단일 모델 우위보다 Workspace·NotebookLM·Vertex에 동시에 꽂아 넣는 방식으로 시장 점유율을 넓히고 있습니다. 팀장님 관점에서는 문서·지식자산 활용이 많은 조직일수록 Google 계열 에이전트가 빠르게 침투할 수 있으므로, 도구 락인 리스크와 전환비용을 함께 점검해야 합니다.</div>
+      <div class="footer"><a href="https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-1-pro/">Google Blog</a></div>
+    </article>
+    
+
+    <article class="card glass">
+      <div class="num">4</div>
+      <div class="meta"><span class="pill">미국</span><span class="pill">Google 공식</span><span class="pill">3월 3일</span></div>
+      <div class="title">Google, Flash-Lite로 ‘싸고 빠른 업무형 AI’ 포지션 강화…대량 자동화 시장 공략</div>
+      <div class="weather-badges" style="margin:0 0 12px"><span class="pill">기업: Google</span><span class="pill">기업: Gemini 3.1 Flash-Lite</span><span class="pill">기업: Google AI Studio</span><span class="pill">기업: Vertex AI</span><span class="pill">키워드: 저원가</span><span class="pill">키워드: 고속응답</span><span class="pill">키워드: 대량배포</span><span class="pill">키워드: 반복업무</span></div>
+      <div class="summary">Google은 Gemini 3.1 Flash-Lite를 공개하며 고속·저원가 워크로드를 전면에 내세웠다. 공식 발표 기준 가격은 입력 100만 토큰당 0.25달러, 출력 1.50달러이며, 2.5 Flash 대비 초기 응답속도 2.5배, 출력 속도 45% 개선을 강조했다. 번역, 콘텐츠 검수, UI 생성, 시뮬레이션 등 고빈도 반복 업무에 맞춘 모델 포지셔닝이 분명하다.</div>
+      <div class="take"><strong>해석:</strong> 사업성 측면에서 매우 중요합니다. 실제 전사 배포는 최고 지능보다 비용·속도·운영안정성이 좌우하기 때문입니다. 팀장님 기준으로 백오피스 자동화, 고객응대 보조, 대량 문서처리에는 이런 저원가 고속형 모델이 더 현실적인 선택지이며, 시장 전체의 평균 AI 도입 단가를 낮추는 요인이 됩니다.</div>
+      <div class="footer"><a href="https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-1-flash-lite/">Google Blog</a></div>
+    </article>
+    
+
+    <article class="card glass">
+      <div class="num">5</div>
+      <div class="meta"><span class="pill">미국</span><span class="pill">xAI Docs/AI타임스</span><span class="pill">3월 말 포착</span></div>
+      <div class="title">공식 출시 전후 신호를 보면 xAI와 Google 모두 ‘행동하는 모델’로 급하게 이동 중</div>
+      <div class="weather-badges" style="margin:0 0 12px"><span class="pill">기업: xAI</span><span class="pill">기업: Grok 4.20</span><span class="pill">기업: Google</span><span class="pill">기업: Agent Smith</span><span class="pill">키워드: 비공개동향</span><span class="pill">키워드: 멀티에이전트</span><span class="pill">키워드: 서버사이드툴</span><span class="pill">키워드: 경쟁신호</span></div>
+      <div class="summary">xAI 문서에는 이미 grok-4.20-0309-reasoning, grok-4.20-multi-agent-0309, 서버사이드 툴 과금 구조가 노출돼 있어 멀티에이전트 리서치 상용화가 상당히 진척된 것으로 보인다. 동시에 AI타임스는 Google 내부 코딩 에이전트 ‘Agent Smith’가 과도한 수요로 접근 제한이 논의될 정도라고 전했다. 내부 생산성에서 먼저 검증된 기능이 곧 외부 엔터프라이즈 제품으로 내려오는 전형적 패턴이다.</div>
+      <div class="take"><strong>해석:</strong> 이 카드는 단순 루머가 아니라 방향성 신호입니다. 주요 사업자들이 모두 ‘잘 말하는 모델’보다 ‘툴을 써서 결과를 내는 멀티에이전트 체계’로 이동하고 있다는 뜻입니다. 투자 관점에서는 모델 회사만 보지 말고, 멀티에이전트 운영·관제·감사로그·비용통제 레이어를 잡는 사업도 같이 볼 필요가 있습니다.</div>
+      <div class="footer"><a href="https://docs.x.ai/developers/models">xAI Models</a> · <a href="https://docs.x.ai/developers/model-capabilities/text/multi-agent">xAI Multi-Agent</a> · <a href="https://www.aitimes.com/news/articleView.html?idxno=208499">AI타임스</a></div>
+    </article>
+    
+
+    <article class="card glass">
+      <div class="num">6</div>
+      <div class="meta"><span class="pill">미국</span><span class="pill">Reuters</span><span class="pill">4월 1일</span></div>
+      <div class="title">Reuters: OpenAI는 다시 제품 초점 조정 중…경쟁 압박이 모델 로드맵까지 흔드는 국면</div>
+      <div class="weather-badges" style="margin:0 0 12px"><span class="pill">기업: OpenAI</span><span class="pill">기업: Anthropic</span><span class="pill">기업: Google</span><span class="pill">기업: Sam Altman</span><span class="pill">키워드: 로드맵</span><span class="pill">키워드: 경쟁압박</span><span class="pill">키워드: 제품집중</span><span class="pill">키워드: 시장재편</span></div>
+      <div class="summary">Reuters는 OpenAI가 최근 6개월 동안 경쟁사 위협 때문에 제품 로드맵을 두 차례 다시 그렸다고 전했다. Google과 Anthropic의 공세로 인해 단순 성능 우위보다 어떤 제품 묶음으로 시장을 선점할지가 더 중요해졌다는 해석이 가능하다. 이는 선두 사업자조차 모델 발표만으로는 방어가 어렵고, 실제 배포 전략과 수익화 구조가 더 중요해졌음을 보여준다.</div>
+      <div class="take"><strong>해석:</strong> 팀장님 관점에서는 최강 모델 하나를 고르는 시대보다, 공급자가 얼마나 빠르게 가격·제품·유통 채널을 조정하는지 보는 시대에 더 가깝습니다. 투자 관점에서도 기술 우위만 믿고 보기보다 제품 집중력과 채널 장악력을 같이 봐야 합니다. 실행 관점에서는 특정 벤더 올인보다 멀티벤더 운영 여지를 남기는 편이 안전합니다.</div>
+      <div class="footer"><a href="https://www.reuters.com/technology/artificial-intelligence/artificial-intelligencer-openais-852-billion-problem-finding-focus-2026-04-01/">Reuters</a></div>
+    </article>
+    
+
+    <article class="card glass">
+      <div class="num">7</div>
+      <div class="meta"><span class="pill">미국</span><span class="pill">Reuters</span><span class="pill">3월 30일</span></div>
+      <div class="title">MS, 업무 코파일럿에 멀티모델 검증 구조 도입…ERP·오피스 장악력 강화 시도</div>
+      <div class="weather-badges" style="margin:0 0 12px"><span class="pill">기업: Microsoft</span><span class="pill">기업: MS 365 Copilot</span><span class="pill">기업: OpenAI</span><span class="pill">기업: Anthropic</span><span class="pill">키워드: 멀티모델</span><span class="pill">키워드: 업무시스템</span><span class="pill">키워드: 검증</span><span class="pill">키워드: 엔터프라이즈배포</span></div>
+      <div class="summary">Reuters에 따르면 Microsoft는 Copilot Cowork와 Researcher 기능을 강화하면서, 새 ‘Critique’ 기능에서 OpenAI GPT와 Anthropic Claude 출력을 함께 끌어와 응답을 교차 검토하도록 만들었다. 이는 단일 모델 정확도 경쟁보다 실제 업무 품질과 신뢰성을 높이는 구조로 해석된다. 오피스·업무시스템 안에서 바로 쓰이기 때문에 파급력도 크다.</div>
+      <div class="take"><strong>해석:</strong> 이 흐름은 매우 실무적입니다. 기업은 특정 모델 하나를 믿는 것보다 생성과 검증을 분리한 구조를 선호할 가능성이 큽니다. 팀장님 관점에서는 향후 ERP·문서·승인 시스템에도 ‘주 생성 모델 + 교차 검증 모델’ 구조가 표준이 될 수 있으므로, 단일 모델 종속보다 멀티모델 orchestration 역량이 더 중요해집니다.</div>
+      <div class="footer"><a href="https://www.reuters.com/business/microsoft-unveils-ai-upgrades-rolls-out-copilot-cowork-early-access-customers-2026-03-30/">Reuters</a> · <a href="https://www.reuters.com/business/microsoft-taps-anthropic-copilot-cowork-push-ai-agents-2026-03-09/">Reuters 2</a></div>
+    </article>
+    
+
+    <article class="card glass">
+      <div class="num">8</div>
+      <div class="meta"><span class="pill">미국</span><span class="pill">Reuters</span><span class="pill">3월 19일</span></div>
+      <div class="title">OpenAI의 Astral 인수는 모델 경쟁이 아니라 개발 업무시스템 장악 전략</div>
+      <div class="weather-badges" style="margin:0 0 12px"><span class="pill">기업: OpenAI</span><span class="pill">기업: Astral</span><span class="pill">기업: Codex</span><span class="pill">기업: Anthropic</span><span class="pill">키워드: 개발도구</span><span class="pill">키워드: 생태계장악</span><span class="pill">키워드: 워크플로우</span><span class="pill">키워드: 락인</span></div>
+      <div class="summary">Reuters는 OpenAI가 Python 툴메이커 Astral을 인수해 Codex에 개발 도구군을 통합한다고 보도했다. 이는 모델 자체보다 패키지 흐름, 실행 환경, 코드 품질 관리 등 개발자의 실제 업무면을 장악하려는 수로 읽힌다. Anthropic의 Claude Code가 얻는 개발자 지분에 대응하기 위한 생태계 전쟁 성격이 강하다.</div>
+      <div class="take"><strong>해석:</strong> 팀장님 입장에서는 ERP도 같은 논리로 보면 됩니다. 사용자는 모델보다 ‘내가 매일 쓰는 시스템 안에서 바로 되느냐’를 봅니다. OpenAI가 개발 스택 장악에 성공하면 향후 문서, 협업, QA, 운영 자동화까지 묶어 팔기 쉬워지므로, 장기적으로는 툴체인 통합 사업자가 더 강해질 가능성이 큽니다.</div>
+      <div class="footer"><a href="https://www.reuters.com/technology/openai-buy-python-toolmaker-astral-take-anthropic-2026-03-19/">Reuters</a></div>
+    </article>
+    
+
+    <article class="card glass">
+      <div class="num">9</div>
+      <div class="meta"><span class="pill">국내</span><span class="pill">전자신문</span><span class="pill">4월 3일</span></div>
+      <div class="title">국내 카드 심사·발급 프로세스도 생성형 AI 자동화 수주 본격화…실사용 레퍼런스 축적 단계</div>
+      <div class="weather-badges" style="margin:0 0 12px"><span class="pill">기업: AIWORKX</span><span class="pill">기업: 국내 카드사</span><span class="pill">기업: 기업카드</span><span class="pill">기업: 생성형 AI</span><span class="pill">키워드: 심사자동화</span><span class="pill">키워드: 비대면업무</span><span class="pill">키워드: 업무시스템</span><span class="pill">키워드: 도입사례</span></div>
+      <div class="summary">전자신문에 따르면 AIWORKX는 국내 주요 카드사의 비대면 기업카드 신청·심사·발급 전 과정을 고도화하는 프로젝트를 수주했다. 이는 생성형 AI가 단순 챗봇을 넘어 기업 내부 심사 워크플로우와 문서 판단 프로세스까지 들어가기 시작했다는 신호다. 국내 금융권에서 실제 수주 사례가 늘어나면 도입 저항이 빠르게 낮아질 수 있다.</div>
+      <div class="take"><strong>해석:</strong> 사업 관점에서는 이슈성보다 훨씬 중요합니다. 실제 돈을 내는 고객이 AI를 어디에 붙이는지 보여주는 레퍼런스이기 때문입니다. 팀장님 기준으로도 ERP·승인·심사·증빙 자동화는 바로 매출과 연결되기 쉬운 영역이라, 국내 B2B AI의 현실적인 확장 경로로 볼 수 있습니다.</div>
+      <div class="footer"><a href="https://www.etnews.com/20260403000033">전자신문</a></div>
+    </article>
+    
+
+    <article class="card glass">
+      <div class="num">10</div>
+      <div class="meta"><span class="pill">국내</span><span class="pill">전자신문</span><span class="pill">4월 2일</span></div>
+      <div class="title">국내 GPU 경쟁은 장비 수급을 넘어 네트워크·클러스터 운영 역량으로 확장</div>
+      <div class="weather-badges" style="margin:0 0 12px"><span class="pill">기업: 엘리스그룹</span><span class="pill">기업: 아리스타네트웍스</span><span class="pill">기업: GPU 클러스터</span><span class="pill">기업: 이더넷</span><span class="pill">키워드: GPU인프라</span><span class="pill">키워드: 네트워크</span><span class="pill">키워드: 클러스터링</span><span class="pill">키워드: AI고속도로</span></div>
+      <div class="summary">전자신문에 따르면 엘리스그룹은 아리스타네트웍스와 손잡고 이더넷 기반 대규모 GPU 클러스터링 구현에 나섰다. 이제 경쟁 포인트는 GPU 보유량만이 아니라 대규모 추론·학습을 안정적으로 돌릴 네트워크 구조와 운영 능력으로 옮겨가고 있다. 국내 AI 인프라 시장도 단순 장비 조달에서 운영 기술 경쟁으로 진입하는 흐름이다.</div>
+      <div class="take"><strong>해석:</strong> 팀장님 관점에서는 GPU 숫자 뉴스보다 더 실무적인 재료입니다. 실제 서비스 품질과 원가를 좌우하는 것은 GPU 자체보다도 네트워크와 운영 효율인 경우가 많습니다. 투자 관점에서는 장비 판매보다 GPU 클러스터 운영·최적화·관리 소프트웨어 쪽도 같이 볼 필요가 있습니다.</div>
+      <div class="footer"><a href="https://www.etnews.com/20260402000334">전자신문</a></div>
+    </article>
+    
+
+    <article class="card glass">
+      <div class="num">11</div>
+      <div class="meta"><span class="pill">국내</span><span class="pill">전자신문/AI타임스</span><span class="pill">3월~4월 초</span></div>
+      <div class="title">정부는 ‘AI 고속도로 + 국가 AI 프로젝트’로 사업화형 지원 확대…GPU와 과제가 동시에 풀린다</div>
+      <div class="weather-badges" style="margin:0 0 12px"><span class="pill">기업: 과기정통부</span><span class="pill">기업: NIPA</span><span class="pill">기업: 국가 AI 프로젝트</span><span class="pill">기업: GPU 3000장</span><span class="pill">키워드: GPU지원</span><span class="pill">키워드: 정책자금</span><span class="pill">키워드: 사업화</span><span class="pill">키워드: 국가프로젝트</span></div>
+      <div class="summary">전자신문은 정부의 2조원대 GPU 인프라 강화사업과 AI 고속도로 추진을 보도했고, AI타임스는 국가 AI 프로젝트 52개 과제 선정과 GPU 3000장 지원 계획을 전했다. 이는 단순 R&amp;D 지원이 아니라 실증·상용화 속도를 올리기 위한 실행 자원 공급으로 읽힌다. GPU 부족 때문에 못 하던 과제들이 실제 제품화로 이어질 가능성이 커지고 있다.</div>
+      <div class="take"><strong>해석:</strong> 팀장님 기준으로 이건 단순 정책 뉴스가 아니라 초기 시장 진입 레버리지입니다. 과제 수주보다 중요한 것은 GPU·실증·레퍼런스·후속 납품 계약까지 이어지는가입니다. 실행 관점에서는 과제 규모만 보지 말고, 실서비스 전환과 고객 확보에 연결되는 구조인지 먼저 따져봐야 합니다.</div>
+      <div class="footer"><a href="https://www.etnews.com/20260312000399">전자신문 1</a> · <a href="https://www.etnews.com/20260316000413">전자신문 2</a> · <a href="https://www.aitimes.com/news/articleView.html?idxno=208735">AI타임스</a></div>
+    </article>
+    
+
+    <article class="card glass">
+      <div class="num">12</div>
+      <div class="meta"><span class="pill">국내</span><span class="pill">AI타임스</span><span class="pill">3월 1일</span></div>
+      <div class="title">국내 스타트업 기회는 ‘한국형 업무흐름’에 있다…팀모노리스 사례가 보여준 방향</div>
+      <div class="weather-badges" style="margin:0 0 12px"><span class="pill">기업: 팀모노리스</span><span class="pill">기업: Slack</span><span class="pill">기업: HWP</span><span class="pill">기업: 코들</span><span class="pill">키워드: AX</span><span class="pill">키워드: 업무자동화</span><span class="pill">키워드: 로컬포맷</span><span class="pill">키워드: 현장도입</span></div>
+      <div class="summary">AI타임스는 팀모노리스가 슬랙 상주형 AI 동료와 HWP 자동화 파이프라인을 직접 구축해 데이터 분석·문서화 시간을 최대 92% 줄였다고 보도했다. 해외 범용 툴이 잘 다루지 못하는 HWP와 현장 보고서, 다국어 변환, 내부 협업 흐름을 직접 풀어낸 점이 핵심이다. 내부 AX 경험을 자사 제품 커리큘럼으로 다시 제품화한 것도 눈에 띈다.</div>
+      <div class="take"><strong>해석:</strong> 국내 스타트업의 기회는 거대 모델 경쟁보다 ‘한국형 업무 포맷과 승인 흐름’을 해결하는 데 있습니다. 팀장님 기준으로 HWP, 공공 문서, 메신저 기반 협업, 현장형 리포트 자동화는 아직 공백이 큰 영역입니다. 투자 관점에서도 이런 회사는 글로벌 모델의 하청이 아니라 로컬 실행 레이어를 잡는 포지션을 만들 수 있습니다.</div>
+      <div class="footer"><a href="https://www.aitimes.com/news/articleView.html?idxno=207413">AI타임스</a></div>
+    </article>
+    
+
+    <article class="card glass">
+      <div class="num">13</div>
+      <div class="meta"><span class="pill">미국</span><span class="pill">Reuters</span><span class="pill">3월 23일</span></div>
+      <div class="title">OpenAI·Anthropic 경쟁, 이제는 API 판매보다 ‘기업 맞춤 구축 사업’으로 이동</div>
+      <div class="weather-badges" style="margin:0 0 12px"><span class="pill">기업: OpenAI</span><span class="pill">기업: Anthropic</span><span class="pill">기업: Private Equity</span><span class="pill">기업: Enterprise AI</span><span class="pill">키워드: 엔터프라이즈</span><span class="pill">키워드: 커스터마이징</span><span class="pill">키워드: 구축형매출</span><span class="pill">키워드: IPO</span></div>
+      <div class="summary">Reuters에 따르면 OpenAI는 사모펀드와의 합작 구조까지 제안하며 기업 고객 맞춤형 AI 구축 비용을 흡수하려 하고 있다. 엔지니어 투입, 커스터마이징, 현장 구현을 포함한 구축형 매출 모델을 강화해 Anthropic과의 엔터프라이즈 전쟁을 벌이는 흐름이다. 이는 범용 API보다 고객사 프로세스 안에 깊게 박히는 사업이 더 중요해졌음을 보여준다.</div>
+      <div class="take"><strong>해석:</strong> 모델 성능 자체보다 고객 업무흐름에 들어가 장기 매출을 만들 수 있느냐가 진짜 승부처입니다. 투자 관점에서도 사용량 변동성이 큰 API보다 구축·운영형 매출은 멀티플 방어력이 더 좋습니다. 팀장님 입장에서는 향후 AI 사업 파트너를 볼 때 모델 데모보다 현장 커스터마이징 능력과 운영 인력 구조를 먼저 봐야 합니다.</div>
+      <div class="footer"><a href="https://www.reuters.com/business/openai-sweetens-private-equity-pitch-amid-enterprise-turf-war-with-anthropic-2026-03-23/">Reuters</a> · <a href="https://www.reuters.com/business/openai-courts-private-equity-join-enterprise-ai-venture-sources-say-2026-03-16/">Reuters 2</a></div>
+    </article>
+    </section>
+
+  <div class="footer">데이터 소스: OpenAI, Google Blog, xAI Docs, Reuters, AI타임스, 전자신문, Open-Meteo · 사업성/투자성/실행성 우선 선별</div>
+</div>
+</body>
+</html>
