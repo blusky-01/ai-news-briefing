@@ -1,5 +1,5 @@
 {
-  "date": "2026-04-18 21:57",
+  "date": "2026-04-18 22:14",
   "title": "밤 브리핑",
   "subtitle": "마감 점검 · 남은 일 · 시스템 · OpenClaw",
   "summary": "오늘은 18:00 저녁 6시에 erp 작업 계속하기부터 시작됩니다. 첫 흐름만 안정적으로 잡으면 오늘 전체 리듬이 훨씬 부드럽게 이어질 겁니다.",
@@ -87,7 +87,7 @@
     },
     "youtube": {
       "summary": "유튜브 새 영상 목록을 아직 불러오지 못했습니다",
-      "take": "현재는 채널 목록만 우선 표시합니다. YouTube Data API 쪽 응답을 다시 점검해야 합니다.",
+      "take": "search 호출은 제거했고, quota를 아끼는 구조로 정리했습니다. 현재는 채널 목록만 우선 표시합니다.",
       "items": [
         {
           "channel": "@success_wiki",
@@ -197,19 +197,19 @@
       ]
     },
     "system": {
-      "summary": "CPU 38.5 % 사용 / 클럭 1310.4 MHz / RAM 9.3GB 사용, 총 15.8GB (59%) / SSD 282.9GB 사용, 총 476.0GB (59%)",
-      "take": "CPU는 현재 38.5 % 사용 중이고 클럭은 1310.4 MHz, 버스 스피드는 100.8 MHz, RAM은 총 15.8GB 중 9.3GB 사용 (59%), SSD는 총 476.0GB 중 282.9GB 사용 (59%), 여유 193.1GB입니다. 네트워크 인터페이스는 Ethernet, Ethernet 2, Wi-Fi 기준입니다.",
+      "summary": "CPU 21.1 % 사용 / 클럭 1713.6 MHz / RAM 9.7GB 사용, 총 15.8GB (61%) / SSD 282.9GB 사용, 총 476.0GB (59%)",
+      "take": "CPU는 현재 21.1 % 사용 중이고 클럭은 1713.6 MHz, 버스 스피드는 100.8 MHz, RAM은 총 15.8GB 중 9.7GB 사용 (61%), SSD는 총 476.0GB 중 282.9GB 사용 (59%), 여유 193.1GB입니다. 네트워크 인터페이스는 Ethernet, Ethernet 2, Wi-Fi 기준입니다.",
       "metrics": [
         {
           "label": "CPU 사용률",
-          "value": "38.5 %",
-          "pct": 38.5,
+          "value": "21.1 %",
+          "pct": 21.1,
           "tone": "normal"
         },
         {
           "label": "CPU 클럭",
-          "value": "1310.4 MHz",
-          "pct": 37.440000000000005,
+          "value": "1713.6 MHz",
+          "pct": 48.96,
           "tone": "normal"
         },
         {
@@ -220,14 +220,14 @@
         },
         {
           "label": "CPU 온도",
-          "value": "51.0 °C",
-          "pct": 51.0,
+          "value": "52.0 °C",
+          "pct": 52.0,
           "tone": "normal"
         },
         {
           "label": "RAM 사용량",
-          "value": "9.3 / 15.8 GB (59%)",
-          "pct": 59.1,
+          "value": "9.7 / 15.8 GB (61%)",
+          "pct": 61.4,
           "tone": "normal"
         },
         {
@@ -250,19 +250,19 @@
         },
         {
           "label": "업타임",
-          "value": "47시간 57분",
+          "value": "48시간 15분",
           "pct": 100,
           "tone": "normal"
         },
         {
           "label": "네트워크 수신",
-          "value": "4118.2 MB",
+          "value": "4139.9 MB",
           "pct": 100,
           "tone": "normal"
         },
         {
           "label": "네트워크 송신",
-          "value": "959.3 MB",
+          "value": "969.2 MB",
           "pct": 100,
           "tone": "normal"
         }
@@ -368,7 +368,7 @@
     {
       "title": "유튜브 업데이트",
       "summary": "유튜브 새 영상 목록을 아직 불러오지 못했습니다",
-      "take": "현재는 채널 목록만 우선 표시합니다. YouTube Data API 쪽 응답을 다시 점검해야 합니다.",
+      "take": "search 호출은 제거했고, quota를 아끼는 구조로 정리했습니다. 현재는 채널 목록만 우선 표시합니다.",
       "meta": [
         "유튜브",
         "AI 채널",
@@ -423,8 +423,8 @@
     },
     {
       "title": "시스템 상태 요약",
-      "summary": "CPU 38.5 % 사용 / 클럭 1310.4 MHz / RAM 9.3GB 사용, 총 15.8GB (59%) / SSD 282.9GB 사용, 총 476.0GB (59%)",
-      "take": "CPU는 현재 38.5 % 사용 중이고 클럭은 1310.4 MHz, 버스 스피드는 100.8 MHz, RAM은 총 15.8GB 중 9.3GB 사용 (59%), SSD는 총 476.0GB 중 282.9GB 사용 (59%), 여유 193.1GB입니다. 네트워크 인터페이스는 Ethernet, Ethernet 2, Wi-Fi 기준입니다.",
+      "summary": "CPU 21.1 % 사용 / 클럭 1713.6 MHz / RAM 9.7GB 사용, 총 15.8GB (61%) / SSD 282.9GB 사용, 총 476.0GB (59%)",
+      "take": "CPU는 현재 21.1 % 사용 중이고 클럭은 1713.6 MHz, 버스 스피드는 100.8 MHz, RAM은 총 15.8GB 중 9.7GB 사용 (61%), SSD는 총 476.0GB 중 282.9GB 사용 (59%), 여유 193.1GB입니다. 네트워크 인터페이스는 Ethernet, Ethernet 2, Wi-Fi 기준입니다.",
       "meta": [
         "시스템",
         "LHM"
