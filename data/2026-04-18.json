@@ -1,5 +1,5 @@
 {
-  "date": "2026-04-18 17:19",
+  "date": "2026-04-18 17:24",
   "title": "아침 브리핑",
   "subtitle": "날씨 · 응원 · 일정 · 메일 · 유튜브 · 시스템 · OpenClaw",
   "summary": "오늘은 18:00 저녁 6시에 erp 작업 계속하기부터 시작됩니다. 첫 흐름만 안정적으로 잡으면 오늘 전체 리듬이 훨씬 부드럽게 이어질 겁니다.",
@@ -165,14 +165,70 @@
       ]
     },
     "system": {
-      "summary": "시스템 상태 조회 실패",
-      "take": "LibreHardwareMonitor 또는 센서 데이터 확인이 필요합니다.",
-      "metrics": []
+      "summary": "CPU 57.0 °C / 사용률 53.5 % / RAM 79.4 %",
+      "take": "메모리 사용 12.5 GB, 여유 3.3 GB입니다. 장시간 작업 전 발열과 메모리 사용률을 같이 보는 편이 좋습니다.",
+      "metrics": [
+        {
+          "label": "CPU 사용률",
+          "value": "53.5 %",
+          "pct": 53.5,
+          "tone": "normal"
+        },
+        {
+          "label": "CPU 온도",
+          "value": "57.0 °C",
+          "pct": 57.0,
+          "tone": "normal"
+        },
+        {
+          "label": "RAM 사용",
+          "value": "12.5 GB",
+          "pct": 12.5,
+          "tone": "normal"
+        },
+        {
+          "label": "SSD 온도",
+          "value": "40.0 °C",
+          "pct": 40.0,
+          "tone": "normal"
+        }
+      ]
     },
     "openclaw": {
-      "summary": "버전 확인 실패",
-      "take": "게이트웨이 상태 확인 실패",
-      "metrics": []
+      "summary": "OpenClaw 2026.4.15 (041266a)",
+      "take": "Runtime: running (pid 9852, Verified gateway listener detected on port 18789 even though schtasks did not report a running task.) | RPC probe: ok | Listening: 127.0.0.1:18789",
+      "metrics": [
+        {
+          "label": "Gateway",
+          "value": "bind=loopback (127.0.0.1), port=18789 (service args)",
+          "pct": 100,
+          "tone": "normal"
+        },
+        {
+          "label": "Probe note",
+          "value": "Loopback-only gateway; only local clients can connect.",
+          "pct": 100,
+          "tone": "normal"
+        },
+        {
+          "label": "Runtime",
+          "value": "running (pid 9852, Verified gateway listener detected on port 18789 even though schtasks did not report a running task.)",
+          "pct": 100,
+          "tone": "good"
+        },
+        {
+          "label": "RPC probe",
+          "value": "ok",
+          "pct": 100,
+          "tone": "good"
+        },
+        {
+          "label": "Listening",
+          "value": "127.0.0.1:18789",
+          "pct": 100,
+          "tone": "good"
+        }
+      ]
     }
   },
   "cards": [
@@ -271,8 +327,8 @@
     },
     {
       "title": "시스템 상태 요약",
-      "summary": "시스템 상태 조회 실패",
-      "take": "LibreHardwareMonitor 또는 센서 데이터 확인이 필요합니다.",
+      "summary": "CPU 57.0 °C / 사용률 53.5 % / RAM 79.4 %",
+      "take": "메모리 사용 12.5 GB, 여유 3.3 GB입니다. 장시간 작업 전 발열과 메모리 사용률을 같이 보는 편이 좋습니다.",
       "meta": [
         "시스템",
         "LHM"
@@ -291,8 +347,8 @@
     },
     {
       "title": "OpenClaw 상태 요약",
-      "summary": "버전 확인 실패",
-      "take": "게이트웨이 상태 확인 실패",
+      "summary": "OpenClaw 2026.4.15 (041266a)",
+      "take": "Runtime: running (pid 9852, Verified gateway listener detected on port 18789 even though schtasks did not report a running task.) | RPC probe: ok | Listening: 127.0.0.1:18789",
       "meta": [
         "OpenClaw",
         "Gateway"
