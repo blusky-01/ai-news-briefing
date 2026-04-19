@@ -1,5 +1,5 @@
 {
-  "date": "2026-04-20 07:08",
+  "date": "2026-04-20 07:17",
   "title": "아침 브리핑",
   "subtitle": "날씨 · 응원 · 일정 · 메일 · 유튜브 · 시스템 · OpenClaw",
   "summary": "오늘은 누가 밀어붙이지 않아도 됩니다. 팀장님 리듬대로 중요한 것부터 차분히 끝내면 됩니다.",
@@ -129,19 +129,19 @@
       ]
     },
     "system": {
-      "summary": "CPU 10.2 % 사용 / 클럭 2923.2 MHz / RAM 12.1GB 사용, 총 15.8GB (76%) / SSD 284.3GB 사용, 총 476.0GB (60%)",
-      "take": "CPU는 현재 10.2 % 사용 중이고 클럭은 2923.2 MHz, 버스 스피드는 100.8 MHz, RAM은 총 15.8GB 중 12.1GB 사용 (76%), SSD는 총 476.0GB 중 284.3GB 사용 (60%), 여유 191.7GB입니다. 네트워크 인터페이스는 Ethernet, Ethernet 2, Wi-Fi 기준입니다.",
+      "summary": "CPU 23.8 % 사용 / 클럭 604.8 MHz / RAM 12.6GB 사용, 총 15.8GB (80%) / SSD 284.3GB 사용, 총 476.0GB (60%)",
+      "take": "CPU는 현재 23.8 % 사용 중이고 클럭은 604.8 MHz, 버스 스피드는 100.8 MHz, RAM은 총 15.8GB 중 12.6GB 사용 (80%), SSD는 총 476.0GB 중 284.3GB 사용 (60%), 여유 191.7GB입니다. 네트워크 인터페이스는 Ethernet, Ethernet 2, Wi-Fi 기준입니다.",
       "metrics": [
         {
           "label": "CPU 사용률",
-          "value": "10.2 %",
-          "pct": 10.2,
+          "value": "23.8 %",
+          "pct": 23.8,
           "tone": "normal"
         },
         {
           "label": "CPU 클럭",
-          "value": "2923.2 MHz",
-          "pct": 83.52,
+          "value": "604.8 MHz",
+          "pct": 17.279999999999998,
           "tone": "normal"
         },
         {
@@ -152,15 +152,15 @@
         },
         {
           "label": "CPU 온도",
-          "value": "59.0 °C",
-          "pct": 59.0,
+          "value": "53.0 °C",
+          "pct": 53.0,
           "tone": "normal"
         },
         {
           "label": "RAM 사용량",
-          "value": "12.1 / 15.8 GB (76%)",
-          "pct": 76.5,
-          "tone": "normal"
+          "value": "12.6 / 15.8 GB (80%)",
+          "pct": 80.0,
+          "tone": "warm"
         },
         {
           "label": "SSD 사용량",
@@ -182,19 +182,19 @@
         },
         {
           "label": "업타임",
-          "value": "81시간 8분",
+          "value": "81시간 17분",
           "pct": 100,
           "tone": "normal"
         },
         {
           "label": "네트워크 수신",
-          "value": "20818.6 MB",
+          "value": "20834.4 MB",
           "pct": 100,
           "tone": "normal"
         },
         {
           "label": "네트워크 송신",
-          "value": "1440.5 MB",
+          "value": "1443.0 MB",
           "pct": 100,
           "tone": "normal"
         }
@@ -202,8 +202,39 @@
     },
     "openclaw": {
       "summary": "OpenClaw 2026.4.15 (041266a)",
-      "take": "게이트웨이 상태 확인 실패",
-      "metrics": []
+      "take": "Runtime: running (pid 2480, Verified gateway listener detected on port 18789 even though schtasks did not report a running task.) | RPC probe: ok | Listening: 127.0.0.1:18789",
+      "metrics": [
+        {
+          "label": "Gateway",
+          "value": "bind=loopback (127.0.0.1), port=18789 (service args)",
+          "pct": 100,
+          "tone": "normal"
+        },
+        {
+          "label": "Probe note",
+          "value": "Loopback-only gateway; only local clients can connect.",
+          "pct": 100,
+          "tone": "normal"
+        },
+        {
+          "label": "Runtime",
+          "value": "running (pid 2480, Verified gateway listener detected on port 18789 even though schtasks did not report a running task.)",
+          "pct": 100,
+          "tone": "good"
+        },
+        {
+          "label": "RPC probe",
+          "value": "ok",
+          "pct": 100,
+          "tone": "good"
+        },
+        {
+          "label": "Listening",
+          "value": "127.0.0.1:18789",
+          "pct": 100,
+          "tone": "good"
+        }
+      ]
     }
   },
   "cards": [
@@ -294,8 +325,8 @@
     },
     {
       "title": "시스템 상태 요약",
-      "summary": "CPU 10.2 % 사용 / 클럭 2923.2 MHz / RAM 12.1GB 사용, 총 15.8GB (76%) / SSD 284.3GB 사용, 총 476.0GB (60%)",
-      "take": "CPU는 현재 10.2 % 사용 중이고 클럭은 2923.2 MHz, 버스 스피드는 100.8 MHz, RAM은 총 15.8GB 중 12.1GB 사용 (76%), SSD는 총 476.0GB 중 284.3GB 사용 (60%), 여유 191.7GB입니다. 네트워크 인터페이스는 Ethernet, Ethernet 2, Wi-Fi 기준입니다.",
+      "summary": "CPU 23.8 % 사용 / 클럭 604.8 MHz / RAM 12.6GB 사용, 총 15.8GB (80%) / SSD 284.3GB 사용, 총 476.0GB (60%)",
+      "take": "CPU는 현재 23.8 % 사용 중이고 클럭은 604.8 MHz, 버스 스피드는 100.8 MHz, RAM은 총 15.8GB 중 12.6GB 사용 (80%), SSD는 총 476.0GB 중 284.3GB 사용 (60%), 여유 191.7GB입니다. 네트워크 인터페이스는 Ethernet, Ethernet 2, Wi-Fi 기준입니다.",
       "meta": [
         "시스템",
         "LHM"
@@ -315,7 +346,7 @@
     {
       "title": "OpenClaw 상태 요약",
       "summary": "OpenClaw 2026.4.15 (041266a)",
-      "take": "게이트웨이 상태 확인 실패",
+      "take": "Runtime: running (pid 2480, Verified gateway listener detected on port 18789 even though schtasks did not report a running task.) | RPC probe: ok | Listening: 127.0.0.1:18789",
       "meta": [
         "OpenClaw",
         "Gateway"
