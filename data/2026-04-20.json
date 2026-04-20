@@ -1,31 +1,31 @@
 {
-  "date": "2026-04-20 07:17",
-  "title": "아침 브리핑",
-  "subtitle": "날씨 · 응원 · 일정 · 메일 · 유튜브 · 시스템 · OpenClaw",
-  "summary": "오늘은 누가 밀어붙이지 않아도 됩니다. 팀장님 리듬대로 중요한 것부터 차분히 끝내면 됩니다.",
-  "summary_box": "오늘은 우산을 챙겨두는 게 좋겠습니다. 비 맞으면 컨디션이 금방 떨어집니다. 습도가 높아 체감이 더 무겁습니다. 물을 자주 마시며 리듬을 유지하면 좋겠습니다. 오늘은 마음을 급하게 쓰지 말고, 가장 아쉬웠던 한 가지를 먼저 정리해 보시면 좋겠습니다. 그런 작은 정리가 하루의 기분을 꽤 크게 바꿉니다.",
+  "date": "2026-04-20 18:45",
+  "title": "저녁 브리핑",
+  "subtitle": "하루 정리 · 주요 업데이트 · 시스템 · OpenClaw",
+  "summary": "비어 있는 하루는 느슨한 하루가 아니라, 진짜 필요한 걸 선명하게 끝낼 수 있는 하루입니다.",
+  "summary_box": "오늘은 우산을 챙겨두는 게 좋겠습니다. 비 맞으면 컨디션이 금방 떨어집니다. 오늘은 마음을 급하게 쓰지 말고, 가장 아쉬웠던 한 가지를 먼저 정리해 보시면 좋겠습니다. 그런 작은 정리가 하루의 기분을 꽤 크게 바꿉니다.",
   "weather": {
     "loc": "김해",
-    "temp": "14°C",
+    "temp": "20°C",
     "desc": "Partly cloudy",
     "icon": "⛅",
     "badges": [
-      "체감 15°C",
-      "습도 88%",
-      "강수확률 83%",
-      "풍속 4km/h",
+      "체감 20°C",
+      "습도 64%",
+      "강수확률 100%",
+      "풍속 10km/h",
       "UV 0",
       "미세먼지 정보 연동 예정"
     ],
     "detail": {
-      "feels_like": "15",
-      "humidity": "88",
-      "rain_chance": "83",
-      "wind_kmph": "4",
+      "feels_like": "20",
+      "humidity": "64",
+      "rain_chance": "100",
+      "wind_kmph": "10",
       "uv": "0",
       "pm": "미세먼지 정보 연동 예정"
     },
-    "life_comment": "오늘은 우산을 챙겨두는 게 좋겠습니다. 비 맞으면 컨디션이 금방 떨어집니다. 습도가 높아 체감이 더 무겁습니다. 물을 자주 마시며 리듬을 유지하면 좋겠습니다."
+    "life_comment": "오늘은 우산을 챙겨두는 게 좋겠습니다. 비 맞으면 컨디션이 금방 떨어집니다."
   },
   "sections": {
     "calendar": {
@@ -45,103 +45,103 @@
       "entities": []
     },
     "youtube": {
-      "summary": "@fahdmirza Turbovec - Google's Turb / @JulianGoldieSEO New FREE Gemini + Notebo / @JulianGoldieSEO How to Use Claude Design",
+      "summary": "@JulianGoldieSEO Claude Code + NotebookLM / @jocoding 디자인까지 정복 선언한 클로드 ㄷㄷ / @JulianGoldieSEO Multica DESTROYS Papercl",
       "take": "업로드 속도가 빠른 채널은 오늘도 여러 편이 들어왔습니다. 중요한 주제부터 2~3개만 골라 보면 효율이 좋습니다.",
       "items": [
         {
-          "channel": "@fahdmirza",
-          "title": "Turbovec - Google's TurboQuant Implementation with Ollama | 8x Compression Proven",
-          "published": "04-20 06:06",
-          "published_dt": "2026-04-20T06:06:35+09:00",
-          "url": "https://www.youtube.com/watch?v=ziQRtOd_0ak",
-          "thumbnail": "https://i.ytimg.com/vi/ziQRtOd_0ak/hqdefault.jpg",
-          "summary": "Turbovec - Google's TurboQuant Implementation with Ollama | 8x Compression Proven 주제를 중심으로 무엇이 새로 나왔는지, 또는 어떻게 활용하는지를 설명하는 영상입니다.",
+          "channel": "@JulianGoldieSEO",
+          "title": "Claude Code + NotebookLM is INSANE!",
+          "published": "04-20 18:00",
+          "published_dt": "2026-04-20T18:00:50+09:00",
+          "url": "https://www.youtube.com/watch?v=VtoD378U9Z0",
+          "thumbnail": "https://i.ytimg.com/vi/VtoD378U9Z0/hqdefault.jpg",
+          "summary": "Claude Code + NotebookLM is INSANE! 내용을 다루는 영상입니다. 핵심은 Claude 관련 변화나 활용 포인트를 소개하는 것입니다.",
+          "transcript_excerpt": "",
+          "shorts": false
+        },
+        {
+          "channel": "@jocoding",
+          "title": "디자인까지 정복 선언한 클로드 ㄷㄷ",
+          "published": "04-20 18:00",
+          "published_dt": "2026-04-20T18:00:00+09:00",
+          "url": "https://www.youtube.com/watch?v=h1ZfSe3U930",
+          "thumbnail": "https://i.ytimg.com/vi/h1ZfSe3U930/hqdefault.jpg",
+          "summary": "디자인까지 정복 선언한 클로드 ㄷㄷ 주제를 중심으로 무엇이 새로 나왔는지, 또는 어떻게 활용하는지를 설명하는 영상입니다.",
           "transcript_excerpt": "",
           "shorts": false
         },
         {
           "channel": "@JulianGoldieSEO",
-          "title": "New FREE Gemini + NotebookLM Update is INSANE!",
-          "published": "04-20 06:00",
-          "published_dt": "2026-04-20T06:00:51+09:00",
-          "url": "https://www.youtube.com/watch?v=xSYv25A1GxE",
-          "thumbnail": "https://i.ytimg.com/vi/xSYv25A1GxE/hqdefault.jpg",
-          "summary": "New FREE Gemini + NotebookLM 업데이트 is INSANE! 내용을 다루는 영상입니다. 핵심은 Gemini 관련 변화나 활용 포인트를 소개하는 것입니다.",
+          "title": "Multica DESTROYS Paperclip?",
+          "published": "04-20 16:00",
+          "published_dt": "2026-04-20T16:00:23+09:00",
+          "url": "https://www.youtube.com/watch?v=UJ2pzaMmjkE",
+          "thumbnail": "https://i.ytimg.com/vi/UJ2pzaMmjkE/hqdefault.jpg",
+          "summary": "Multica DESTROYS Paperclip? 주제를 중심으로 무엇이 새로 나왔는지, 또는 어떻게 활용하는지를 설명하는 영상입니다.",
           "transcript_excerpt": "",
           "shorts": false
         },
         {
           "channel": "@JulianGoldieSEO",
-          "title": "How to Use Claude Design Better Than 99% of People!",
-          "published": "04-20 04:00",
-          "published_dt": "2026-04-20T04:00:23+09:00",
-          "url": "https://www.youtube.com/watch?v=YKOXiRM2Q9U",
-          "thumbnail": "https://i.ytimg.com/vi/YKOXiRM2Q9U/hqdefault.jpg",
-          "summary": "How to Use Claude Design Better Than 99% of People! 내용을 다루는 영상입니다. 핵심은 Claude 관련 변화나 활용 포인트를 소개하는 것입니다.",
+          "title": "New Google AI Studio Updates are WILD!",
+          "published": "04-20 12:00",
+          "published_dt": "2026-04-20T12:00:03+09:00",
+          "url": "https://www.youtube.com/watch?v=7Wqh2vBjQtM",
+          "thumbnail": "https://i.ytimg.com/vi/7Wqh2vBjQtM/hqdefault.jpg",
+          "summary": "New Google AI Studio Updates are WILD! 내용을 다루는 영상입니다. 핵심은 AI 관련 변화나 활용 포인트를 소개하는 것입니다.",
           "transcript_excerpt": "",
           "shorts": false
         },
         {
           "channel": "@JulianGoldieSEO",
-          "title": "ChatGPT Codex Super App + Paperclip + Hermes + Claude Design",
-          "published": "04-20 03:10",
-          "published_dt": "2026-04-20T03:10:06+09:00",
-          "url": "https://www.youtube.com/watch?v=6Pu90Ygwmxg",
-          "thumbnail": "https://i.ytimg.com/vi/6Pu90Ygwmxg/hqdefault.jpg",
-          "summary": "ChatGPT Codex Super App + Paperclip + Hermes + Claude Design 내용을 다루는 영상입니다. 핵심은 Claude, GPT 관련 변화나 활용 포인트를 소개하는 것입니다.",
-          "transcript_excerpt": "",
-          "shorts": false
-        },
-        {
-          "channel": "@JulianGoldieSEO",
-          "title": "New Google Gemini Skills is INSANE!",
-          "published": "04-20 03:00",
-          "published_dt": "2026-04-20T03:00:02+09:00",
-          "url": "https://www.youtube.com/watch?v=1BZzrLsv20k",
-          "thumbnail": "https://i.ytimg.com/vi/1BZzrLsv20k/hqdefault.jpg",
-          "summary": "New Google Gemini Skills is INSANE! 내용을 다루는 영상입니다. 핵심은 Gemini 관련 변화나 활용 포인트를 소개하는 것입니다.",
+          "title": "Claude Opus 4.7: New Auto-Mode is INSANE! 🤯",
+          "published": "04-20 10:00",
+          "published_dt": "2026-04-20T10:00:16+09:00",
+          "url": "https://www.youtube.com/watch?v=NseKpEwS3iw",
+          "thumbnail": "https://i.ytimg.com/vi/NseKpEwS3iw/hqdefault.jpg",
+          "summary": "Claude Opus 4.7: New Auto-Mode is INSANE! 🤯 내용을 다루는 영상입니다. 핵심은 Claude 관련 변화나 활용 포인트를 소개하는 것입니다.",
           "transcript_excerpt": "",
           "shorts": false
         }
       ],
       "links": [
         {
-          "label": "@fahdmirza · 04-20 06:06",
-          "url": "https://www.youtube.com/watch?v=ziQRtOd_0ak",
-          "thumbnail": "https://i.ytimg.com/vi/ziQRtOd_0ak/hqdefault.jpg"
+          "label": "@JulianGoldieSEO · 04-20 18:00",
+          "url": "https://www.youtube.com/watch?v=VtoD378U9Z0",
+          "thumbnail": "https://i.ytimg.com/vi/VtoD378U9Z0/hqdefault.jpg"
         },
         {
-          "label": "@JulianGoldieSEO · 04-20 06:00",
-          "url": "https://www.youtube.com/watch?v=xSYv25A1GxE",
-          "thumbnail": "https://i.ytimg.com/vi/xSYv25A1GxE/hqdefault.jpg"
+          "label": "@jocoding · 04-20 18:00",
+          "url": "https://www.youtube.com/watch?v=h1ZfSe3U930",
+          "thumbnail": "https://i.ytimg.com/vi/h1ZfSe3U930/hqdefault.jpg"
         },
         {
-          "label": "@JulianGoldieSEO · 04-20 04:00",
-          "url": "https://www.youtube.com/watch?v=YKOXiRM2Q9U",
-          "thumbnail": "https://i.ytimg.com/vi/YKOXiRM2Q9U/hqdefault.jpg"
+          "label": "@JulianGoldieSEO · 04-20 16:00",
+          "url": "https://www.youtube.com/watch?v=UJ2pzaMmjkE",
+          "thumbnail": "https://i.ytimg.com/vi/UJ2pzaMmjkE/hqdefault.jpg"
         }
       ],
       "entities": [
-        "@fahdmirza",
         "@JulianGoldieSEO",
+        "@jocoding",
         "@JulianGoldieSEO",
         "@JulianGoldieSEO"
       ]
     },
     "system": {
-      "summary": "CPU 23.8 % 사용 / 클럭 604.8 MHz / RAM 12.6GB 사용, 총 15.8GB (80%) / SSD 284.3GB 사용, 총 476.0GB (60%)",
-      "take": "CPU는 현재 23.8 % 사용 중이고 클럭은 604.8 MHz, 버스 스피드는 100.8 MHz, RAM은 총 15.8GB 중 12.6GB 사용 (80%), SSD는 총 476.0GB 중 284.3GB 사용 (60%), 여유 191.7GB입니다. 네트워크 인터페이스는 Ethernet, Ethernet 2, Wi-Fi 기준입니다.",
+      "summary": "CPU 26.2 % 사용 / 클럭 2923.2 MHz / RAM 6.7GB 사용, 총 15.8GB (43%) / SSD 284.3GB 사용, 총 476.0GB (60%)",
+      "take": "CPU는 현재 26.2 % 사용 중이고 클럭은 2923.2 MHz, 버스 스피드는 100.8 MHz, RAM은 총 15.8GB 중 6.7GB 사용 (43%), SSD는 총 476.0GB 중 284.3GB 사용 (60%), 여유 191.7GB입니다. 네트워크 인터페이스는 Ethernet, Ethernet 2, Wi-Fi 기준입니다.",
       "metrics": [
         {
           "label": "CPU 사용률",
-          "value": "23.8 %",
-          "pct": 23.8,
+          "value": "26.2 %",
+          "pct": 26.2,
           "tone": "normal"
         },
         {
           "label": "CPU 클럭",
-          "value": "604.8 MHz",
-          "pct": 17.279999999999998,
+          "value": "2923.2 MHz",
+          "pct": 83.52,
           "tone": "normal"
         },
         {
@@ -152,15 +152,15 @@
         },
         {
           "label": "CPU 온도",
-          "value": "53.0 °C",
-          "pct": 53.0,
+          "value": "56.0 °C",
+          "pct": 56.0,
           "tone": "normal"
         },
         {
           "label": "RAM 사용량",
-          "value": "12.6 / 15.8 GB (80%)",
-          "pct": 80.0,
-          "tone": "warm"
+          "value": "6.7 / 15.8 GB (43%)",
+          "pct": 42.6,
+          "tone": "normal"
         },
         {
           "label": "SSD 사용량",
@@ -182,19 +182,19 @@
         },
         {
           "label": "업타임",
-          "value": "81시간 17분",
+          "value": "92시간 45분",
           "pct": 100,
           "tone": "normal"
         },
         {
           "label": "네트워크 수신",
-          "value": "20834.4 MB",
+          "value": "20983.0 MB",
           "pct": 100,
           "tone": "normal"
         },
         {
           "label": "네트워크 송신",
-          "value": "1443.0 MB",
+          "value": "1533.5 MB",
           "pct": 100,
           "tone": "normal"
         }
@@ -202,46 +202,15 @@
     },
     "openclaw": {
       "summary": "OpenClaw 2026.4.15 (041266a)",
-      "take": "Runtime: running (pid 2480, Verified gateway listener detected on port 18789 even though schtasks did not report a running task.) | RPC probe: ok | Listening: 127.0.0.1:18789",
-      "metrics": [
-        {
-          "label": "Gateway",
-          "value": "bind=loopback (127.0.0.1), port=18789 (service args)",
-          "pct": 100,
-          "tone": "normal"
-        },
-        {
-          "label": "Probe note",
-          "value": "Loopback-only gateway; only local clients can connect.",
-          "pct": 100,
-          "tone": "normal"
-        },
-        {
-          "label": "Runtime",
-          "value": "running (pid 2480, Verified gateway listener detected on port 18789 even though schtasks did not report a running task.)",
-          "pct": 100,
-          "tone": "good"
-        },
-        {
-          "label": "RPC probe",
-          "value": "ok",
-          "pct": 100,
-          "tone": "good"
-        },
-        {
-          "label": "Listening",
-          "value": "127.0.0.1:18789",
-          "pct": 100,
-          "tone": "good"
-        }
-      ]
+      "take": "게이트웨이 상태 확인 실패",
+      "metrics": []
     }
   },
   "cards": [
     {
       "title": "오늘의 한마디",
-      "summary": "오늘은 누가 밀어붙이지 않아도 됩니다. 팀장님 리듬대로 중요한 것부터 차분히 끝내면 됩니다.",
-      "take": "오늘은 우산을 챙겨두는 게 좋겠습니다. 비 맞으면 컨디션이 금방 떨어집니다. 습도가 높아 체감이 더 무겁습니다. 물을 자주 마시며 리듬을 유지하면 좋겠습니다. 오늘은 마음을 급하게 쓰지 말고, 가장 아쉬웠던 한 가지를 먼저 정리해 보시면 좋겠습니다. 그런 작은 정리가 하루의 기분을 꽤 크게 바꿉니다.",
+      "summary": "비어 있는 하루는 느슨한 하루가 아니라, 진짜 필요한 걸 선명하게 끝낼 수 있는 하루입니다.",
+      "take": "오늘은 우산을 챙겨두는 게 좋겠습니다. 비 맞으면 컨디션이 금방 떨어집니다. 오늘은 마음을 급하게 쓰지 말고, 가장 아쉬웠던 한 가지를 먼저 정리해 보시면 좋겠습니다. 그런 작은 정리가 하루의 기분을 꽤 크게 바꿉니다.",
       "meta": [
         "응원",
         "중간 길이"
@@ -287,7 +256,7 @@
     },
     {
       "title": "유튜브 업데이트",
-      "summary": "@fahdmirza Turbovec - Google's Turb / @JulianGoldieSEO New FREE Gemini + Notebo / @JulianGoldieSEO How to Use Claude Design",
+      "summary": "@JulianGoldieSEO Claude Code + NotebookLM / @jocoding 디자인까지 정복 선언한 클로드 ㄷㄷ / @JulianGoldieSEO Multica DESTROYS Papercl",
       "take": "업로드 속도가 빠른 채널은 오늘도 여러 편이 들어왔습니다. 중요한 주제부터 2~3개만 골라 보면 효율이 좋습니다.",
       "meta": [
         "유튜브",
@@ -295,8 +264,8 @@
         "중간 길이"
       ],
       "entities": [
-        "@fahdmirza",
         "@JulianGoldieSEO",
+        "@jocoding",
         "@JulianGoldieSEO",
         "@JulianGoldieSEO"
       ],
@@ -307,26 +276,26 @@
       ],
       "links": [
         {
-          "label": "@fahdmirza · 04-20 06:06",
-          "url": "https://www.youtube.com/watch?v=ziQRtOd_0ak",
-          "thumbnail": "https://i.ytimg.com/vi/ziQRtOd_0ak/hqdefault.jpg"
+          "label": "@JulianGoldieSEO · 04-20 18:00",
+          "url": "https://www.youtube.com/watch?v=VtoD378U9Z0",
+          "thumbnail": "https://i.ytimg.com/vi/VtoD378U9Z0/hqdefault.jpg"
         },
         {
-          "label": "@JulianGoldieSEO · 04-20 06:00",
-          "url": "https://www.youtube.com/watch?v=xSYv25A1GxE",
-          "thumbnail": "https://i.ytimg.com/vi/xSYv25A1GxE/hqdefault.jpg"
+          "label": "@jocoding · 04-20 18:00",
+          "url": "https://www.youtube.com/watch?v=h1ZfSe3U930",
+          "thumbnail": "https://i.ytimg.com/vi/h1ZfSe3U930/hqdefault.jpg"
         },
         {
-          "label": "@JulianGoldieSEO · 04-20 04:00",
-          "url": "https://www.youtube.com/watch?v=YKOXiRM2Q9U",
-          "thumbnail": "https://i.ytimg.com/vi/YKOXiRM2Q9U/hqdefault.jpg"
+          "label": "@JulianGoldieSEO · 04-20 16:00",
+          "url": "https://www.youtube.com/watch?v=UJ2pzaMmjkE",
+          "thumbnail": "https://i.ytimg.com/vi/UJ2pzaMmjkE/hqdefault.jpg"
         }
       ]
     },
     {
       "title": "시스템 상태 요약",
-      "summary": "CPU 23.8 % 사용 / 클럭 604.8 MHz / RAM 12.6GB 사용, 총 15.8GB (80%) / SSD 284.3GB 사용, 총 476.0GB (60%)",
-      "take": "CPU는 현재 23.8 % 사용 중이고 클럭은 604.8 MHz, 버스 스피드는 100.8 MHz, RAM은 총 15.8GB 중 12.6GB 사용 (80%), SSD는 총 476.0GB 중 284.3GB 사용 (60%), 여유 191.7GB입니다. 네트워크 인터페이스는 Ethernet, Ethernet 2, Wi-Fi 기준입니다.",
+      "summary": "CPU 26.2 % 사용 / 클럭 2923.2 MHz / RAM 6.7GB 사용, 총 15.8GB (43%) / SSD 284.3GB 사용, 총 476.0GB (60%)",
+      "take": "CPU는 현재 26.2 % 사용 중이고 클럭은 2923.2 MHz, 버스 스피드는 100.8 MHz, RAM은 총 15.8GB 중 6.7GB 사용 (43%), SSD는 총 476.0GB 중 284.3GB 사용 (60%), 여유 191.7GB입니다. 네트워크 인터페이스는 Ethernet, Ethernet 2, Wi-Fi 기준입니다.",
       "meta": [
         "시스템",
         "LHM"
@@ -346,7 +315,7 @@
     {
       "title": "OpenClaw 상태 요약",
       "summary": "OpenClaw 2026.4.15 (041266a)",
-      "take": "Runtime: running (pid 2480, Verified gateway listener detected on port 18789 even though schtasks did not report a running task.) | RPC probe: ok | Listening: 127.0.0.1:18789",
+      "take": "게이트웨이 상태 확인 실패",
       "meta": [
         "OpenClaw",
         "Gateway"
