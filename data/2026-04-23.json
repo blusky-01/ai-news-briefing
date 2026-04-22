@@ -1,0 +1,426 @@
+{
+  "date": "2026-04-23 07:02",
+  "title": "아침 브리핑",
+  "subtitle": "날씨 · 응원 · 일정 · 메일 · 유튜브 · 시스템 · OpenClaw",
+  "summary": "오늘은 18:00 무조건 걷기 운동부터 시작됩니다. 첫 흐름만 안정적으로 잡으면 오늘 전체 리듬이 훨씬 부드럽게 이어질 겁니다.",
+  "summary_box": "큰 변수 없이 움직이기 좋은 날씨입니다. 일정만 잘 잡으면 리듬 있게 가기 좋겠습니다. 일정이 있는 날일수록 처음 두 개를 완벽하게 하려 하기보다, 팀장님 페이스를 끝까지 유지하는 쪽이 더 강합니다. 무리하지 말고 호흡을 길게 가져가시면 됩니다.",
+  "weather": {
+    "loc": "김해",
+    "temp": "13°C",
+    "desc": "Light rain",
+    "icon": "⛅",
+    "badges": [
+      "체감 12°C",
+      "습도 77%",
+      "강수확률 0%",
+      "풍속 10km/h",
+      "UV 0",
+      "미세먼지 정보 연동 예정"
+    ],
+    "detail": {
+      "feels_like": "12",
+      "humidity": "77",
+      "rain_chance": "0",
+      "wind_kmph": "10",
+      "uv": "0",
+      "pm": "미세먼지 정보 연동 예정"
+    },
+    "life_comment": "큰 변수 없이 움직이기 좋은 날씨입니다. 일정만 잘 잡으면 리듬 있게 가기 좋겠습니다."
+  },
+  "sections": {
+    "calendar": {
+      "summary": "18:00 무조건 걷기 운동",
+      "take": "오늘은 일정 흐름이 보이는 날입니다. 시작 전에 우선순위만 정리하면 훨씬 가볍게 밀 수 있습니다.",
+      "items": [
+        {
+          "shown": "18:00",
+          "summary": "무조건 걷기 운동",
+          "htmlLink": "https://www.google.com/calendar/event?eid=bGdib2VxZGRtbG9rcGlhdjNqbGYyMXZtb3NfMjAyNjA0MjNUMDkwMDAwWiBibHVhcmFvbjIwQG0"
+        }
+      ],
+      "links": [
+        {
+          "label": "18:00 · 무조건 걷기 운동",
+          "url": "https://www.google.com/calendar/event?eid=bGdib2VxZGRtbG9rcGlhdjNqbGYyMXZtb3NfMjAyNjA0MjNUMDkwMDAwWiBibHVhcmFvbjIwQG0"
+        }
+      ],
+      "entities": [
+        "calendar"
+      ]
+    },
+    "mail": {
+      "summary": "[결제] Your receipt from Eleven L / [중요인물] Help us build the next ver / [확인필요] Free Plan purchased for sm",
+      "take": "지금 확인할 만한 메일만 추렸습니다. 결제, 업무, 보안성 알림 위주로 먼저 보면 됩니다.",
+      "items": [
+        {
+          "date": "2026-04-23 04:24",
+          "from": "\"Eleven Labs Inc.\" <invoice+statements+acct_1M07hSLmdOdiMXBs@stripe.com>",
+          "subject": "Your receipt from Eleven Labs Inc. #2783-0690-9944",
+          "tags": [
+            "결제"
+          ]
+        },
+        {
+          "date": "2026-04-23 03:34",
+          "from": "Jules <jules-noreply@google.com>",
+          "subject": "Help us build the next version of Jules",
+          "tags": [
+            "중요인물"
+          ]
+        },
+        {
+          "date": "2026-04-22 18:24",
+          "from": "Cloudflare <em@em1.cloudflare.com>",
+          "subject": "Free Plan purchased for smartvalve.com",
+          "tags": [
+            "확인필요"
+          ]
+        },
+        {
+          "date": "2026-04-22 18:20",
+          "from": "Cloudflare <noreply@notify.cloudflare.com>",
+          "subject": "[Action required] Verify your email address",
+          "tags": [
+            "확인필요"
+          ]
+        },
+        {
+          "date": "2026-04-22 05:49",
+          "from": "stitch-team <stitch-noreply@google.com>",
+          "subject": "The new Stitch is here ✨ Here’s how to get the best results",
+          "tags": [
+            "중요인물"
+          ]
+        }
+      ],
+      "links": [],
+      "entities": [
+        "중요인물",
+        "확인필요",
+        "결제"
+      ]
+    },
+    "youtube": {
+      "summary": "@JulianGoldieSEO Claude Obsidian is INSAN / @fahdmirza Run Qwen3.6-27B Locally  / @JulianGoldieSEO ChatGPT Images 2.0 is IN",
+      "take": "업로드 속도가 빠른 채널은 오늘도 여러 편이 들어왔습니다. 중요한 주제부터 2~3개만 골라 보면 효율이 좋습니다.",
+      "items": [
+        {
+          "channel": "@JulianGoldieSEO",
+          "title": "Claude Obsidian is INSANE!",
+          "published": "04-23 07:00",
+          "published_dt": "2026-04-23T07:00:52+09:00",
+          "url": "https://www.youtube.com/watch?v=mKv7MmtdBuo",
+          "thumbnail": "https://i.ytimg.com/vi/mKv7MmtdBuo/hqdefault.jpg",
+          "summary": "Claude Obsidian is INSANE! 내용을 다루는 영상입니다. 핵심은 Claude 관련 변화나 활용 포인트를 소개하는 것입니다.",
+          "transcript_excerpt": "",
+          "shorts": false
+        },
+        {
+          "channel": "@fahdmirza",
+          "title": "Run Qwen3.6-27B Locally - Prioritizes Stability and Real-World Utility",
+          "published": "04-23 06:45",
+          "published_dt": "2026-04-23T06:45:18+09:00",
+          "url": "https://www.youtube.com/watch?v=IfkTdIKGU-c",
+          "thumbnail": "https://i.ytimg.com/vi/IfkTdIKGU-c/hqdefault.jpg",
+          "summary": "Run Qwen3.6-27B Locally - Prioritizes Stability and Real-World Utility 주제를 중심으로 무엇이 새로 나왔는지, 또는 어떻게 활용하는지를 설명하는 영상입니다.",
+          "transcript_excerpt": "",
+          "shorts": false
+        },
+        {
+          "channel": "@JulianGoldieSEO",
+          "title": "ChatGPT Images 2.0 is INSANE + Space Agent",
+          "published": "04-23 05:57",
+          "published_dt": "2026-04-23T05:57:43+09:00",
+          "url": "https://www.youtube.com/watch?v=dS7-T3ppwMU",
+          "thumbnail": "https://i.ytimg.com/vi/dS7-T3ppwMU/hqdefault.jpg",
+          "summary": "ChatGPT Images 2.0 is INSANE + Space 에이전트 내용을 다루는 영상입니다. 핵심은 에이전트, GPT 관련 변화나 활용 포인트를 소개하는 것입니다.",
+          "transcript_excerpt": "",
+          "shorts": false
+        },
+        {
+          "channel": "@JulianGoldieSEO",
+          "title": "New Grok 4.3 Update: Elon Musk's BEST Model?",
+          "published": "04-23 05:00",
+          "published_dt": "2026-04-23T05:00:33+09:00",
+          "url": "https://www.youtube.com/watch?v=bwvmYcI2jv8",
+          "thumbnail": "https://i.ytimg.com/vi/bwvmYcI2jv8/hqdefault.jpg",
+          "summary": "New Grok 4.3 업데이트: Elon Musk's BEST Model? 주제를 중심으로 무엇이 새로 나왔는지, 또는 어떻게 활용하는지를 설명하는 영상입니다.",
+          "transcript_excerpt": "",
+          "shorts": false
+        },
+        {
+          "channel": "@JulianGoldieSEO",
+          "title": "NEW ChatGPT Image 2 Update is INSANE 🤯",
+          "published": "04-23 04:00",
+          "published_dt": "2026-04-23T04:00:12+09:00",
+          "url": "https://www.youtube.com/watch?v=GHpDKO3XeFc",
+          "thumbnail": "https://i.ytimg.com/vi/GHpDKO3XeFc/hqdefault.jpg",
+          "summary": "NEW ChatGPT Image 2 업데이트 is INSANE 🤯 내용을 다루는 영상입니다. 핵심은 GPT 관련 변화나 활용 포인트를 소개하는 것입니다.",
+          "transcript_excerpt": "",
+          "shorts": false
+        }
+      ],
+      "links": [
+        {
+          "label": "@JulianGoldieSEO · 04-23 07:00",
+          "url": "https://www.youtube.com/watch?v=mKv7MmtdBuo",
+          "thumbnail": "https://i.ytimg.com/vi/mKv7MmtdBuo/hqdefault.jpg"
+        },
+        {
+          "label": "@fahdmirza · 04-23 06:45",
+          "url": "https://www.youtube.com/watch?v=IfkTdIKGU-c",
+          "thumbnail": "https://i.ytimg.com/vi/IfkTdIKGU-c/hqdefault.jpg"
+        },
+        {
+          "label": "@JulianGoldieSEO · 04-23 05:57",
+          "url": "https://www.youtube.com/watch?v=dS7-T3ppwMU",
+          "thumbnail": "https://i.ytimg.com/vi/dS7-T3ppwMU/hqdefault.jpg"
+        }
+      ],
+      "entities": [
+        "@JulianGoldieSEO",
+        "@fahdmirza",
+        "@JulianGoldieSEO",
+        "@JulianGoldieSEO"
+      ]
+    },
+    "system": {
+      "summary": "CPU 8.6 % 사용 / 클럭 2923.2 MHz / RAM 8.9GB 사용, 총 15.8GB (57%) / SSD 281.3GB 사용, 총 476.0GB (59%)",
+      "take": "CPU는 현재 8.6 % 사용 중이고 클럭은 2923.2 MHz, 버스 스피드는 100.8 MHz, RAM은 총 15.8GB 중 8.9GB 사용 (57%), SSD는 총 476.0GB 중 281.3GB 사용 (59%), 여유 194.7GB입니다. 네트워크 인터페이스는 Ethernet, Ethernet 2, Wi-Fi 기준입니다.",
+      "metrics": [
+        {
+          "label": "CPU 사용률",
+          "value": "8.6 %",
+          "pct": 8.6,
+          "tone": "normal"
+        },
+        {
+          "label": "CPU 클럭",
+          "value": "2923.2 MHz",
+          "pct": 83.52,
+          "tone": "normal"
+        },
+        {
+          "label": "버스 스피드",
+          "value": "100.8 MHz",
+          "pct": 100,
+          "tone": "normal"
+        },
+        {
+          "label": "CPU 온도",
+          "value": "64.0 °C",
+          "pct": 64.0,
+          "tone": "normal"
+        },
+        {
+          "label": "RAM 사용량",
+          "value": "8.9 / 15.8 GB (57%)",
+          "pct": 56.6,
+          "tone": "normal"
+        },
+        {
+          "label": "SSD 사용량",
+          "value": "281.3 / 476.0 GB (59%)",
+          "pct": 59.1,
+          "tone": "normal"
+        },
+        {
+          "label": "SSD 여유 공간",
+          "value": "194.7 / 476.0 GB",
+          "pct": 40.9,
+          "tone": "normal"
+        },
+        {
+          "label": "SSD 온도",
+          "value": "40.0 °C",
+          "pct": 40.0,
+          "tone": "normal"
+        },
+        {
+          "label": "업타임",
+          "value": "39시간 50분",
+          "pct": 100,
+          "tone": "normal"
+        },
+        {
+          "label": "네트워크 수신",
+          "value": "960.8 MB",
+          "pct": 100,
+          "tone": "normal"
+        },
+        {
+          "label": "네트워크 송신",
+          "value": "418.2 MB",
+          "pct": 100,
+          "tone": "normal"
+        }
+      ]
+    },
+    "openclaw": {
+      "summary": "OpenClaw 2026.4.21 (f788c88)",
+      "take": "Runtime: running (pid 14304, Verified gateway listener detected on port 18789 even though schtasks did not report a running task.) | Listening: 127.0.0.1:18789",
+      "metrics": [
+        {
+          "label": "Gateway",
+          "value": "bind=loopback (127.0.0.1), port=18789 (service args)",
+          "pct": 100,
+          "tone": "normal"
+        },
+        {
+          "label": "Probe note",
+          "value": "Loopback-only gateway; only local clients can connect.",
+          "pct": 100,
+          "tone": "normal"
+        },
+        {
+          "label": "Runtime",
+          "value": "running (pid 14304, Verified gateway listener detected on port 18789 even though schtasks did not report a running task.)",
+          "pct": 100,
+          "tone": "good"
+        },
+        {
+          "label": "Listening",
+          "value": "127.0.0.1:18789",
+          "pct": 100,
+          "tone": "good"
+        }
+      ]
+    }
+  },
+  "cards": [
+    {
+      "title": "오늘의 한마디",
+      "summary": "오늘은 18:00 무조건 걷기 운동부터 시작됩니다. 첫 흐름만 안정적으로 잡으면 오늘 전체 리듬이 훨씬 부드럽게 이어질 겁니다.",
+      "take": "큰 변수 없이 움직이기 좋은 날씨입니다. 일정만 잘 잡으면 리듬 있게 가기 좋겠습니다. 일정이 있는 날일수록 처음 두 개를 완벽하게 하려 하기보다, 팀장님 페이스를 끝까지 유지하는 쪽이 더 강합니다. 무리하지 말고 호흡을 길게 가져가시면 됩니다.",
+      "meta": [
+        "응원",
+        "중간 길이"
+      ],
+      "entities": [],
+      "keywords": [
+        "아침",
+        "집중"
+      ],
+      "links": []
+    },
+    {
+      "title": "오늘 일정",
+      "summary": "18:00 무조건 걷기 운동",
+      "take": "오늘은 일정 흐름이 보이는 날입니다. 시작 전에 우선순위만 정리하면 훨씬 가볍게 밀 수 있습니다.",
+      "meta": [
+        "일정",
+        "calendar"
+      ],
+      "entities": [
+        "calendar"
+      ],
+      "keywords": [
+        "calendar"
+      ],
+      "links": [
+        {
+          "label": "18:00 · 무조건 걷기 운동",
+          "url": "https://www.google.com/calendar/event?eid=bGdib2VxZGRtbG9rcGlhdjNqbGYyMXZtb3NfMjAyNjA0MjNUMDkwMDAwWiBibHVhcmFvbjIwQG0"
+        }
+      ]
+    },
+    {
+      "title": "주요 메일 / 중요 알림",
+      "summary": "[결제] Your receipt from Eleven L / [중요인물] Help us build the next ver / [확인필요] Free Plan purchased for sm",
+      "take": "지금 확인할 만한 메일만 추렸습니다. 결제, 업무, 보안성 알림 위주로 먼저 보면 됩니다.",
+      "meta": [
+        "메일",
+        "gmail",
+        "중요 알림"
+      ],
+      "entities": [
+        "중요인물",
+        "확인필요",
+        "결제"
+      ],
+      "keywords": [
+        "gmail",
+        "alert"
+      ],
+      "links": []
+    },
+    {
+      "title": "유튜브 업데이트",
+      "summary": "@JulianGoldieSEO Claude Obsidian is INSAN / @fahdmirza Run Qwen3.6-27B Locally  / @JulianGoldieSEO ChatGPT Images 2.0 is IN",
+      "take": "업로드 속도가 빠른 채널은 오늘도 여러 편이 들어왔습니다. 중요한 주제부터 2~3개만 골라 보면 효율이 좋습니다.",
+      "meta": [
+        "유튜브",
+        "AI 채널",
+        "중간 길이"
+      ],
+      "entities": [
+        "@JulianGoldieSEO",
+        "@fahdmirza",
+        "@JulianGoldieSEO",
+        "@JulianGoldieSEO"
+      ],
+      "keywords": [
+        "youtube",
+        "update",
+        "thumbnail"
+      ],
+      "links": [
+        {
+          "label": "@JulianGoldieSEO · 04-23 07:00",
+          "url": "https://www.youtube.com/watch?v=mKv7MmtdBuo",
+          "thumbnail": "https://i.ytimg.com/vi/mKv7MmtdBuo/hqdefault.jpg"
+        },
+        {
+          "label": "@fahdmirza · 04-23 06:45",
+          "url": "https://www.youtube.com/watch?v=IfkTdIKGU-c",
+          "thumbnail": "https://i.ytimg.com/vi/IfkTdIKGU-c/hqdefault.jpg"
+        },
+        {
+          "label": "@JulianGoldieSEO · 04-23 05:57",
+          "url": "https://www.youtube.com/watch?v=dS7-T3ppwMU",
+          "thumbnail": "https://i.ytimg.com/vi/dS7-T3ppwMU/hqdefault.jpg"
+        }
+      ]
+    },
+    {
+      "title": "시스템 상태 요약",
+      "summary": "CPU 8.6 % 사용 / 클럭 2923.2 MHz / RAM 8.9GB 사용, 총 15.8GB (57%) / SSD 281.3GB 사용, 총 476.0GB (59%)",
+      "take": "CPU는 현재 8.6 % 사용 중이고 클럭은 2923.2 MHz, 버스 스피드는 100.8 MHz, RAM은 총 15.8GB 중 8.9GB 사용 (57%), SSD는 총 476.0GB 중 281.3GB 사용 (59%), 여유 194.7GB입니다. 네트워크 인터페이스는 Ethernet, Ethernet 2, Wi-Fi 기준입니다.",
+      "meta": [
+        "시스템",
+        "LHM"
+      ],
+      "entities": [
+        "Intel N100",
+        "RAM",
+        "SSD"
+      ],
+      "keywords": [
+        "temperature",
+        "load",
+        "memory"
+      ],
+      "links": []
+    },
+    {
+      "title": "OpenClaw 상태 요약",
+      "summary": "OpenClaw 2026.4.21 (f788c88)",
+      "take": "Runtime: running (pid 14304, Verified gateway listener detected on port 18789 even though schtasks did not report a running task.) | Listening: 127.0.0.1:18789",
+      "meta": [
+        "OpenClaw",
+        "Gateway"
+      ],
+      "entities": [
+        "main",
+        "gateway"
+      ],
+      "keywords": [
+        "version",
+        "rpc",
+        "status"
+      ],
+      "links": []
+    }
+  ],
+  "footer": "AI-assisted morning briefing, unified data structure ready for stage 2"
+}
