@@ -1,0 +1,432 @@
+{
+  "date": "2026-04-25 07:02",
+  "title": "아침 브리핑",
+  "subtitle": "날씨 · 응원 · 일정 · 메일 · 유튜브 · 시스템 · OpenClaw",
+  "summary": "오늘은 2026-04-25 법무법인 장한 수임료 4차 분납부터 시작됩니다. 첫 흐름만 안정적으로 잡으면 오늘 전체 리듬이 훨씬 부드럽게 이어질 겁니다.",
+  "summary_box": "큰 변수 없이 움직이기 좋은 날씨입니다. 일정만 잘 잡으면 리듬 있게 가기 좋겠습니다. 일정이 있는 날일수록 처음 두 개를 완벽하게 하려 하기보다, 팀장님 페이스를 끝까지 유지하는 쪽이 더 강합니다. 무리하지 말고 호흡을 길게 가져가시면 됩니다.",
+  "weather": {
+    "loc": "김해",
+    "temp": "7°C",
+    "desc": "Sunny",
+    "icon": "⛅",
+    "badges": [
+      "체감 5°C",
+      "습도 66%",
+      "강수확률 0%",
+      "풍속 10km/h",
+      "UV 0",
+      "미세먼지 정보 연동 예정"
+    ],
+    "detail": {
+      "feels_like": "5",
+      "humidity": "66",
+      "rain_chance": "0",
+      "wind_kmph": "10",
+      "uv": "0",
+      "pm": "미세먼지 정보 연동 예정"
+    },
+    "life_comment": "큰 변수 없이 움직이기 좋은 날씨입니다. 일정만 잘 잡으면 리듬 있게 가기 좋겠습니다."
+  },
+  "sections": {
+    "calendar": {
+      "summary": "2026-04-25 법무법인 장한 수임료 4차 분납 / 18:00 무조건 걷기 운동",
+      "take": "오늘은 일정 흐름이 보이는 날입니다. 시작 전에 우선순위만 정리하면 훨씬 가볍게 밀 수 있습니다.",
+      "items": [
+        {
+          "shown": "2026-04-25",
+          "summary": "법무법인 장한 수임료 4차 분납",
+          "htmlLink": "https://www.google.com/calendar/event?eid=bm1kMWZtNTAyMTlocXU0Z2Vmc29lY2Z0c2MgYmx1YXJhb24yMEBt"
+        },
+        {
+          "shown": "18:00",
+          "summary": "무조건 걷기 운동",
+          "htmlLink": "https://www.google.com/calendar/event?eid=bGdib2VxZGRtbG9rcGlhdjNqbGYyMXZtb3NfMjAyNjA0MjVUMDkwMDAwWiBibHVhcmFvbjIwQG0"
+        }
+      ],
+      "links": [
+        {
+          "label": "2026-04-25 · 법무법인 장한 수임료 4차 분납",
+          "url": "https://www.google.com/calendar/event?eid=bm1kMWZtNTAyMTlocXU0Z2Vmc29lY2Z0c2MgYmx1YXJhb24yMEBt"
+        },
+        {
+          "label": "18:00 · 무조건 걷기 운동",
+          "url": "https://www.google.com/calendar/event?eid=bGdib2VxZGRtbG9rcGlhdjNqbGYyMXZtb3NfMjAyNjA0MjVUMDkwMDAwWiBibHVhcmFvbjIwQG0"
+        }
+      ],
+      "entities": [
+        "calendar"
+      ]
+    },
+    "mail": {
+      "summary": "[중요인물,에러] 보안 알림 / [확인필요] [Action required] Update n / [중요인물] [Product Update] Name upda",
+      "take": "지금 확인할 만한 메일만 추렸습니다. 결제, 업무, 보안성 알림 위주로 먼저 보면 됩니다.",
+      "items": [
+        {
+          "date": "2026-04-25 02:13",
+          "from": "Google <no-reply@accounts.google.com>",
+          "subject": "보안 알림",
+          "tags": [
+            "중요인물",
+            "에러"
+          ]
+        },
+        {
+          "date": "2026-04-24 18:45",
+          "from": "Cloudflare <noreply@notify.cloudflare.com>",
+          "subject": "[Action required] Update nameservers for smartvalve.com",
+          "tags": [
+            "확인필요"
+          ]
+        },
+        {
+          "date": "2026-04-23 13:31",
+          "from": "Google Cloud <CloudPlatform-noreply@google.com>",
+          "subject": "[Product Update] Name update for Vertex AI and Data and Analytics products starting Apr 22, 2026",
+          "tags": [
+            "중요인물"
+          ]
+        },
+        {
+          "date": "2026-04-23 08:19",
+          "from": "Google AI Studio <googleaistudio-noreply@google.com>",
+          "subject": "Access premium vibe coding features with your Google AI subscription",
+          "tags": [
+            "중요인물"
+          ]
+        }
+      ],
+      "links": [],
+      "entities": [
+        "에러",
+        "중요인물",
+        "확인필요"
+      ]
+    },
+    "youtube": {
+      "summary": "@JulianGoldieSEO New Google Gemini Update / @fahdmirza DeepSeek V4 Pro + OpenCl / @JulianGoldieSEO Hermes Agent v0.11.0: NE",
+      "take": "업로드 속도가 빠른 채널은 오늘도 여러 편이 들어왔습니다. 중요한 주제부터 2~3개만 골라 보면 효율이 좋습니다.",
+      "items": [
+        {
+          "channel": "@JulianGoldieSEO",
+          "title": "New Google Gemini Update is INSANE!",
+          "published": "04-25 06:00",
+          "published_dt": "2026-04-25T06:00:52+09:00",
+          "url": "https://www.youtube.com/watch?v=q07qVi4ewDs",
+          "thumbnail": "https://i.ytimg.com/vi/q07qVi4ewDs/hqdefault.jpg",
+          "summary": "New Google Gemini 업데이트 is INSANE! 내용을 다루는 영상입니다. 핵심은 Gemini 관련 변화나 활용 포인트를 소개하는 것입니다.",
+          "transcript_excerpt": "",
+          "shorts": false
+        },
+        {
+          "channel": "@fahdmirza",
+          "title": "DeepSeek V4 Pro + OpenClaw: Full-Stack Agentic Coding on a Real Broken App",
+          "published": "04-25 05:20",
+          "published_dt": "2026-04-25T05:20:27+09:00",
+          "url": "https://www.youtube.com/watch?v=Wtvlsu0iZBM",
+          "thumbnail": "https://i.ytimg.com/vi/Wtvlsu0iZBM/hqdefault.jpg",
+          "summary": "DeepSeek V4 Pro + OpenClaw: Full-Stack Agentic Coding on a Real Broken App 내용을 다루는 영상입니다. 핵심은 에이전트 관련 변화나 활용 포인트를 소개하는 것입니다.",
+          "transcript_excerpt": "",
+          "shorts": false
+        },
+        {
+          "channel": "@JulianGoldieSEO",
+          "title": "Hermes Agent v0.11.0: NEW Update is INSANE!",
+          "published": "04-25 04:00",
+          "published_dt": "2026-04-25T04:00:07+09:00",
+          "url": "https://www.youtube.com/watch?v=6ijzsyzx9U4",
+          "thumbnail": "https://i.ytimg.com/vi/6ijzsyzx9U4/hqdefault.jpg",
+          "summary": "Hermes 에이전트 v0.11.0: NEW 업데이트 is INSANE! 내용을 다루는 영상입니다. 핵심은 에이전트 관련 변화나 활용 포인트를 소개하는 것입니다.",
+          "transcript_excerpt": "",
+          "shorts": false
+        },
+        {
+          "channel": "@JulianGoldieSEO",
+          "title": "NEW Gemma 4 26B A4B Update",
+          "published": "04-25 02:00",
+          "published_dt": "2026-04-25T02:00:48+09:00",
+          "url": "https://www.youtube.com/watch?v=WLh6SIi4FoE",
+          "thumbnail": "https://i.ytimg.com/vi/WLh6SIi4FoE/hqdefault.jpg",
+          "summary": "NEW Gemma 4 26B A4B 업데이트 주제를 중심으로 무엇이 새로 나왔는지, 또는 어떻게 활용하는지를 설명하는 영상입니다.",
+          "transcript_excerpt": "",
+          "shorts": false
+        },
+        {
+          "channel": "@JulianGoldieSEO",
+          "title": "LIVE: China's DeepSeek V4 is HERE!",
+          "published": "04-25 01:34",
+          "published_dt": "2026-04-25T01:34:29+09:00",
+          "url": "https://www.youtube.com/watch?v=b8gTYPBZ-UA",
+          "thumbnail": "https://i.ytimg.com/vi/b8gTYPBZ-UA/hqdefault.jpg",
+          "summary": "LIVE: China's DeepSeek V4 is HERE! 주제를 중심으로 무엇이 새로 나왔는지, 또는 어떻게 활용하는지를 설명하는 영상입니다.",
+          "transcript_excerpt": "",
+          "shorts": false
+        }
+      ],
+      "links": [
+        {
+          "label": "@JulianGoldieSEO · 04-25 06:00",
+          "url": "https://www.youtube.com/watch?v=q07qVi4ewDs",
+          "thumbnail": "https://i.ytimg.com/vi/q07qVi4ewDs/hqdefault.jpg"
+        },
+        {
+          "label": "@fahdmirza · 04-25 05:20",
+          "url": "https://www.youtube.com/watch?v=Wtvlsu0iZBM",
+          "thumbnail": "https://i.ytimg.com/vi/Wtvlsu0iZBM/hqdefault.jpg"
+        },
+        {
+          "label": "@JulianGoldieSEO · 04-25 04:00",
+          "url": "https://www.youtube.com/watch?v=6ijzsyzx9U4",
+          "thumbnail": "https://i.ytimg.com/vi/6ijzsyzx9U4/hqdefault.jpg"
+        }
+      ],
+      "entities": [
+        "@JulianGoldieSEO",
+        "@fahdmirza",
+        "@JulianGoldieSEO",
+        "@JulianGoldieSEO"
+      ]
+    },
+    "system": {
+      "summary": "CPU 26.5 % 사용 / 클럭 806.4 MHz / RAM 10.0GB 사용, 총 15.8GB (63%) / SSD 288.1GB 사용, 총 476.0GB (60%)",
+      "take": "CPU는 현재 26.5 % 사용 중이고 클럭은 806.4 MHz, 버스 스피드는 100.8 MHz, RAM은 총 15.8GB 중 10.0GB 사용 (63%), SSD는 총 476.0GB 중 288.1GB 사용 (60%), 여유 187.9GB입니다. 네트워크 인터페이스는 Ethernet, Ethernet 2, Wi-Fi 기준입니다.",
+      "metrics": [
+        {
+          "label": "CPU 사용률",
+          "value": "26.5 %",
+          "pct": 26.5,
+          "tone": "normal"
+        },
+        {
+          "label": "CPU 클럭",
+          "value": "806.4 MHz",
+          "pct": 23.04,
+          "tone": "normal"
+        },
+        {
+          "label": "버스 스피드",
+          "value": "100.8 MHz",
+          "pct": 100,
+          "tone": "normal"
+        },
+        {
+          "label": "CPU 온도",
+          "value": "44.0 °C",
+          "pct": 44.0,
+          "tone": "normal"
+        },
+        {
+          "label": "RAM 사용량",
+          "value": "10.0 / 15.8 GB (63%)",
+          "pct": 63.0,
+          "tone": "normal"
+        },
+        {
+          "label": "SSD 사용량",
+          "value": "288.1 / 476.0 GB (60%)",
+          "pct": 60.5,
+          "tone": "normal"
+        },
+        {
+          "label": "SSD 여유 공간",
+          "value": "187.9 / 476.0 GB",
+          "pct": 39.5,
+          "tone": "normal"
+        },
+        {
+          "label": "SSD 온도",
+          "value": "40.0 °C",
+          "pct": 40.0,
+          "tone": "normal"
+        },
+        {
+          "label": "업타임",
+          "value": "87시간 50분",
+          "pct": 100,
+          "tone": "normal"
+        },
+        {
+          "label": "네트워크 수신",
+          "value": "2905.5 MB",
+          "pct": 100,
+          "tone": "normal"
+        },
+        {
+          "label": "네트워크 송신",
+          "value": "1374.6 MB",
+          "pct": 100,
+          "tone": "normal"
+        }
+      ]
+    },
+    "openclaw": {
+      "summary": "OpenClaw 2026.4.22 (00bd2cf)",
+      "take": "Runtime: running (pid 28832, Verified gateway listener detected on port 18789 even though schtasks did not report a running task.) | Listening: 127.0.0.1:18789",
+      "metrics": [
+        {
+          "label": "Gateway",
+          "value": "bind=loopback (127.0.0.1), port=18789 (service args)",
+          "pct": 100,
+          "tone": "normal"
+        },
+        {
+          "label": "Probe note",
+          "value": "Loopback-only gateway; only local clients can connect.",
+          "pct": 100,
+          "tone": "normal"
+        },
+        {
+          "label": "Runtime",
+          "value": "running (pid 28832, Verified gateway listener detected on port 18789 even though schtasks did not report a running task.)",
+          "pct": 100,
+          "tone": "good"
+        },
+        {
+          "label": "Listening",
+          "value": "127.0.0.1:18789",
+          "pct": 100,
+          "tone": "good"
+        }
+      ]
+    }
+  },
+  "cards": [
+    {
+      "title": "오늘의 한마디",
+      "summary": "오늘은 2026-04-25 법무법인 장한 수임료 4차 분납부터 시작됩니다. 첫 흐름만 안정적으로 잡으면 오늘 전체 리듬이 훨씬 부드럽게 이어질 겁니다.",
+      "take": "큰 변수 없이 움직이기 좋은 날씨입니다. 일정만 잘 잡으면 리듬 있게 가기 좋겠습니다. 일정이 있는 날일수록 처음 두 개를 완벽하게 하려 하기보다, 팀장님 페이스를 끝까지 유지하는 쪽이 더 강합니다. 무리하지 말고 호흡을 길게 가져가시면 됩니다.",
+      "meta": [
+        "응원",
+        "중간 길이"
+      ],
+      "entities": [],
+      "keywords": [
+        "아침",
+        "집중"
+      ],
+      "links": []
+    },
+    {
+      "title": "오늘 일정",
+      "summary": "2026-04-25 법무법인 장한 수임료 4차 분납 / 18:00 무조건 걷기 운동",
+      "take": "오늘은 일정 흐름이 보이는 날입니다. 시작 전에 우선순위만 정리하면 훨씬 가볍게 밀 수 있습니다.",
+      "meta": [
+        "일정",
+        "calendar"
+      ],
+      "entities": [
+        "calendar"
+      ],
+      "keywords": [
+        "calendar"
+      ],
+      "links": [
+        {
+          "label": "2026-04-25 · 법무법인 장한 수임료 4차 분납",
+          "url": "https://www.google.com/calendar/event?eid=bm1kMWZtNTAyMTlocXU0Z2Vmc29lY2Z0c2MgYmx1YXJhb24yMEBt"
+        },
+        {
+          "label": "18:00 · 무조건 걷기 운동",
+          "url": "https://www.google.com/calendar/event?eid=bGdib2VxZGRtbG9rcGlhdjNqbGYyMXZtb3NfMjAyNjA0MjVUMDkwMDAwWiBibHVhcmFvbjIwQG0"
+        }
+      ]
+    },
+    {
+      "title": "주요 메일 / 중요 알림",
+      "summary": "[중요인물,에러] 보안 알림 / [확인필요] [Action required] Update n / [중요인물] [Product Update] Name upda",
+      "take": "지금 확인할 만한 메일만 추렸습니다. 결제, 업무, 보안성 알림 위주로 먼저 보면 됩니다.",
+      "meta": [
+        "메일",
+        "gmail",
+        "중요 알림"
+      ],
+      "entities": [
+        "에러",
+        "중요인물",
+        "확인필요"
+      ],
+      "keywords": [
+        "gmail",
+        "alert"
+      ],
+      "links": []
+    },
+    {
+      "title": "유튜브 업데이트",
+      "summary": "@JulianGoldieSEO New Google Gemini Update / @fahdmirza DeepSeek V4 Pro + OpenCl / @JulianGoldieSEO Hermes Agent v0.11.0: NE",
+      "take": "업로드 속도가 빠른 채널은 오늘도 여러 편이 들어왔습니다. 중요한 주제부터 2~3개만 골라 보면 효율이 좋습니다.",
+      "meta": [
+        "유튜브",
+        "AI 채널",
+        "중간 길이"
+      ],
+      "entities": [
+        "@JulianGoldieSEO",
+        "@fahdmirza",
+        "@JulianGoldieSEO",
+        "@JulianGoldieSEO"
+      ],
+      "keywords": [
+        "youtube",
+        "update",
+        "thumbnail"
+      ],
+      "links": [
+        {
+          "label": "@JulianGoldieSEO · 04-25 06:00",
+          "url": "https://www.youtube.com/watch?v=q07qVi4ewDs",
+          "thumbnail": "https://i.ytimg.com/vi/q07qVi4ewDs/hqdefault.jpg"
+        },
+        {
+          "label": "@fahdmirza · 04-25 05:20",
+          "url": "https://www.youtube.com/watch?v=Wtvlsu0iZBM",
+          "thumbnail": "https://i.ytimg.com/vi/Wtvlsu0iZBM/hqdefault.jpg"
+        },
+        {
+          "label": "@JulianGoldieSEO · 04-25 04:00",
+          "url": "https://www.youtube.com/watch?v=6ijzsyzx9U4",
+          "thumbnail": "https://i.ytimg.com/vi/6ijzsyzx9U4/hqdefault.jpg"
+        }
+      ]
+    },
+    {
+      "title": "시스템 상태 요약",
+      "summary": "CPU 26.5 % 사용 / 클럭 806.4 MHz / RAM 10.0GB 사용, 총 15.8GB (63%) / SSD 288.1GB 사용, 총 476.0GB (60%)",
+      "take": "CPU는 현재 26.5 % 사용 중이고 클럭은 806.4 MHz, 버스 스피드는 100.8 MHz, RAM은 총 15.8GB 중 10.0GB 사용 (63%), SSD는 총 476.0GB 중 288.1GB 사용 (60%), 여유 187.9GB입니다. 네트워크 인터페이스는 Ethernet, Ethernet 2, Wi-Fi 기준입니다.",
+      "meta": [
+        "시스템",
+        "LHM"
+      ],
+      "entities": [
+        "Intel N100",
+        "RAM",
+        "SSD"
+      ],
+      "keywords": [
+        "temperature",
+        "load",
+        "memory"
+      ],
+      "links": []
+    },
+    {
+      "title": "OpenClaw 상태 요약",
+      "summary": "OpenClaw 2026.4.22 (00bd2cf)",
+      "take": "Runtime: running (pid 28832, Verified gateway listener detected on port 18789 even though schtasks did not report a running task.) | Listening: 127.0.0.1:18789",
+      "meta": [
+        "OpenClaw",
+        "Gateway"
+      ],
+      "entities": [
+        "main",
+        "gateway"
+      ],
+      "keywords": [
+        "version",
+        "rpc",
+        "status"
+      ],
+      "links": []
+    }
+  ],
+  "footer": "AI-assisted morning briefing, unified data structure ready for stage 2"
+}
