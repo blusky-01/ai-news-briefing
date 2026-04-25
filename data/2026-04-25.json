@@ -1,28 +1,28 @@
 {
-  "date": "2026-04-25 07:02",
-  "title": "아침 브리핑",
-  "subtitle": "날씨 · 응원 · 일정 · 메일 · 유튜브 · 시스템 · OpenClaw",
+  "date": "2026-04-25 18:09",
+  "title": "저녁 브리핑",
+  "subtitle": "하루 정리 · 주요 업데이트 · 시스템 · OpenClaw",
   "summary": "오늘은 2026-04-25 법무법인 장한 수임료 4차 분납부터 시작됩니다. 첫 흐름만 안정적으로 잡으면 오늘 전체 리듬이 훨씬 부드럽게 이어질 겁니다.",
   "summary_box": "큰 변수 없이 움직이기 좋은 날씨입니다. 일정만 잘 잡으면 리듬 있게 가기 좋겠습니다. 일정이 있는 날일수록 처음 두 개를 완벽하게 하려 하기보다, 팀장님 페이스를 끝까지 유지하는 쪽이 더 강합니다. 무리하지 말고 호흡을 길게 가져가시면 됩니다.",
   "weather": {
     "loc": "김해",
-    "temp": "7°C",
+    "temp": "24°C",
     "desc": "Sunny",
     "icon": "⛅",
     "badges": [
-      "체감 5°C",
-      "습도 66%",
+      "체감 25°C",
+      "습도 18%",
       "강수확률 0%",
-      "풍속 10km/h",
-      "UV 0",
+      "풍속 13km/h",
+      "UV 1",
       "미세먼지 정보 연동 예정"
     ],
     "detail": {
-      "feels_like": "5",
-      "humidity": "66",
+      "feels_like": "25",
+      "humidity": "18",
       "rain_chance": "0",
-      "wind_kmph": "10",
-      "uv": "0",
+      "wind_kmph": "13",
+      "uv": "1",
       "pm": "미세먼지 정보 연동 예정"
     },
     "life_comment": "큰 변수 없이 움직이기 좋은 날씨입니다. 일정만 잘 잡으면 리듬 있게 가기 좋겠습니다."
@@ -58,9 +58,18 @@
       ]
     },
     "mail": {
-      "summary": "[중요인물,에러] 보안 알림 / [확인필요] [Action required] Update n / [중요인물] [Product Update] Name upda",
+      "summary": "[중요인물,에러] 보안 알림 / [중요인물,에러] 보안 알림 / [확인필요] [Action required] Update n",
       "take": "지금 확인할 만한 메일만 추렸습니다. 결제, 업무, 보안성 알림 위주로 먼저 보면 됩니다.",
       "items": [
+        {
+          "date": "2026-04-25 16:38",
+          "from": "Google <no-reply@accounts.google.com>",
+          "subject": "보안 알림",
+          "tags": [
+            "중요인물",
+            "에러"
+          ]
+        },
         {
           "date": "2026-04-25 02:13",
           "from": "Google <no-reply@accounts.google.com>",
@@ -77,129 +86,118 @@
           "tags": [
             "확인필요"
           ]
-        },
-        {
-          "date": "2026-04-23 13:31",
-          "from": "Google Cloud <CloudPlatform-noreply@google.com>",
-          "subject": "[Product Update] Name update for Vertex AI and Data and Analytics products starting Apr 22, 2026",
-          "tags": [
-            "중요인물"
-          ]
-        },
-        {
-          "date": "2026-04-23 08:19",
-          "from": "Google AI Studio <googleaistudio-noreply@google.com>",
-          "subject": "Access premium vibe coding features with your Google AI subscription",
-          "tags": [
-            "중요인물"
-          ]
         }
       ],
       "links": [],
       "entities": [
         "에러",
-        "중요인물",
-        "확인필요"
+        "확인필요",
+        "중요인물"
       ]
     },
     "youtube": {
-      "summary": "@JulianGoldieSEO New Google Gemini Update / @fahdmirza DeepSeek V4 Pro + OpenCl / @JulianGoldieSEO Hermes Agent v0.11.0: NE",
+      "summary": "@JulianGoldieSEO Google Gemini Enterprise / @JulianGoldieSEO DeepSeek V4: Automate &  / @JulianGoldieSEO Hunyuan3 Preview: NEW Ch",
       "take": "업로드 속도가 빠른 채널은 오늘도 여러 편이 들어왔습니다. 중요한 주제부터 2~3개만 골라 보면 효율이 좋습니다.",
       "items": [
         {
           "channel": "@JulianGoldieSEO",
-          "title": "New Google Gemini Update is INSANE!",
-          "published": "04-25 06:00",
-          "published_dt": "2026-04-25T06:00:52+09:00",
-          "url": "https://www.youtube.com/watch?v=q07qVi4ewDs",
-          "thumbnail": "https://i.ytimg.com/vi/q07qVi4ewDs/hqdefault.jpg",
-          "summary": "New Google Gemini 업데이트 is INSANE! 내용을 다루는 영상입니다. 핵심은 Gemini 관련 변화나 활용 포인트를 소개하는 것입니다.",
-          "transcript_excerpt": "",
-          "shorts": false
-        },
-        {
-          "channel": "@fahdmirza",
-          "title": "DeepSeek V4 Pro + OpenClaw: Full-Stack Agentic Coding on a Real Broken App",
-          "published": "04-25 05:20",
-          "published_dt": "2026-04-25T05:20:27+09:00",
-          "url": "https://www.youtube.com/watch?v=Wtvlsu0iZBM",
-          "thumbnail": "https://i.ytimg.com/vi/Wtvlsu0iZBM/hqdefault.jpg",
-          "summary": "DeepSeek V4 Pro + OpenClaw: Full-Stack Agentic Coding on a Real Broken App 내용을 다루는 영상입니다. 핵심은 에이전트 관련 변화나 활용 포인트를 소개하는 것입니다.",
+          "title": "Google Gemini Enterprise Agent Platform Update",
+          "published": "04-25 17:01",
+          "published_dt": "2026-04-25T17:01:01+09:00",
+          "url": "https://www.youtube.com/watch?v=tZb2V1ULYPc",
+          "thumbnail": "https://i.ytimg.com/vi/tZb2V1ULYPc/hqdefault.jpg",
+          "summary": "이 영상은 모델/LLM, 에이전트/자동화, 튜토리얼/설정 중심 내용입니다. 구성은 Intro – Why your AI agents are falling behind, Who Is This For? – Platform overview & what changed, Why Vertex AI Had to Go – The old system's limits, Build – Agent Studio vs. Agent Development Kit 순서로 이어집니다.",
+          "description_excerpt": "00:00 Intro – Why your AI agents are falling behind 00:29 Who Is This For? – Platform overview & what changed 01:44 Why Vertex AI Had to Go – The old system's limits 02:15 Build – Agent Studio vs. Agent Development Kit 02:52 Graph-Based Agent Networks – Delegating tasks across sub-agents 03:07 Agent Garden – Pre-built templates to skip the setup 03:33 Scale ",
           "transcript_excerpt": "",
           "shorts": false
         },
         {
           "channel": "@JulianGoldieSEO",
-          "title": "Hermes Agent v0.11.0: NEW Update is INSANE!",
-          "published": "04-25 04:00",
-          "published_dt": "2026-04-25T04:00:07+09:00",
-          "url": "https://www.youtube.com/watch?v=6ijzsyzx9U4",
-          "thumbnail": "https://i.ytimg.com/vi/6ijzsyzx9U4/hqdefault.jpg",
-          "summary": "Hermes 에이전트 v0.11.0: NEW 업데이트 is INSANE! 내용을 다루는 영상입니다. 핵심은 에이전트 관련 변화나 활용 포인트를 소개하는 것입니다.",
+          "title": "DeepSeek V4: Automate & Build ANYTHING!",
+          "published": "04-25 16:45",
+          "published_dt": "2026-04-25T16:45:01+09:00",
+          "url": "https://www.youtube.com/watch?v=9hJOx_f-F5I",
+          "thumbnail": "https://i.ytimg.com/vi/9hJOx_f-F5I/hqdefault_live.jpg",
+          "summary": "DeepSeek V4: Automate & Build ANYTHING! 주제를 중심으로 무엇이 새로 나왔는지, 또는 어떻게 활용하는지를 설명하는 영상입니다.",
+          "description_excerpt": "",
           "transcript_excerpt": "",
           "shorts": false
         },
         {
           "channel": "@JulianGoldieSEO",
-          "title": "NEW Gemma 4 26B A4B Update",
-          "published": "04-25 02:00",
-          "published_dt": "2026-04-25T02:00:48+09:00",
-          "url": "https://www.youtube.com/watch?v=WLh6SIi4FoE",
-          "thumbnail": "https://i.ytimg.com/vi/WLh6SIi4FoE/hqdefault.jpg",
-          "summary": "NEW Gemma 4 26B A4B 업데이트 주제를 중심으로 무엇이 새로 나왔는지, 또는 어떻게 활용하는지를 설명하는 영상입니다.",
+          "title": "Hunyuan3 Preview: NEW Chinese AI DESTROYS Kimi K2?",
+          "published": "04-25 15:00",
+          "published_dt": "2026-04-25T15:00:40+09:00",
+          "url": "https://www.youtube.com/watch?v=qqSDkTy6VgU",
+          "thumbnail": "https://i.ytimg.com/vi/qqSDkTy6VgU/hqdefault.jpg",
+          "summary": "이 영상은 모델/LLM, 에이전트/자동화 중심 내용입니다. 구성은 Intro – The Chinese AI everyone's missing, What It Is – Open-source MoE model, 295B params, 128K context, Why Smaller Is Better – Efficiency over raw size, Built From Scratch – New infrastructure, hybrid fast/slow thinking 순서로 이어집니다.",
+          "description_excerpt": "00:00 Intro – The Chinese AI everyone's missing 00:39 What It Is – Open-source MoE model, 295B params, 128K context 01:04 Why Smaller Is Better – Efficiency over raw size 01:37 Built From Scratch – New infrastructure, hybrid fast/slow thinking 01:51 Benchmarks – Reasoning, coding, and agent performance 02:07 Coding Leap – 53% → 74.4% on SWE-bench in one gene",
           "transcript_excerpt": "",
           "shorts": false
         },
         {
           "channel": "@JulianGoldieSEO",
-          "title": "LIVE: China's DeepSeek V4 is HERE!",
-          "published": "04-25 01:34",
-          "published_dt": "2026-04-25T01:34:29+09:00",
-          "url": "https://www.youtube.com/watch?v=b8gTYPBZ-UA",
-          "thumbnail": "https://i.ytimg.com/vi/b8gTYPBZ-UA/hqdefault.jpg",
-          "summary": "LIVE: China's DeepSeek V4 is HERE! 주제를 중심으로 무엇이 새로 나왔는지, 또는 어떻게 활용하는지를 설명하는 영상입니다.",
+          "title": "OpenClaw 4.23 + GPT-5.5 AI Just Changed Everything",
+          "published": "04-25 14:28",
+          "published_dt": "2026-04-25T14:28:48+09:00",
+          "url": "https://www.youtube.com/watch?v=Y3Qc4F3Gl1A",
+          "thumbnail": "https://i.ytimg.com/vi/Y3Qc4F3Gl1A/hqdefault.jpg",
+          "summary": "이 영상은 모델/LLM, 에이전트/자동화 중심 내용입니다. 구성은 OpenClaw 4.23 Overview, GPT 5.5 Built In, Easier Image Generation, Smarter Image Control 순서로 이어집니다.",
+          "description_excerpt": "00:00 OpenClaw 4.23 Overview 00:23 GPT 5.5 Built In 01:10 Easier Image Generation 01:56 Smarter Image Control 02:58 Subagents Context 04:30 Courses and Plug 05:05 WhatsApp Telegram Slack Fixes 06:24 Browser Reliability Updates 07:10 Performance and Memory Tweaks 08:03 Security and Plugin Fixes 09:22 Bigger Picture and Backups 10:55 Final Invite and Wrap Up",
+          "transcript_excerpt": "",
+          "shorts": false
+        },
+        {
+          "channel": "@JulianGoldieSEO",
+          "title": "NEW NanoClaw v2 Update is WILD!",
+          "published": "04-25 13:00",
+          "published_dt": "2026-04-25T13:00:13+09:00",
+          "url": "https://www.youtube.com/watch?v=DWDcllh-9OU",
+          "thumbnail": "https://i.ytimg.com/vi/DWDcllh-9OU/hqdefault.jpg",
+          "summary": "이 영상은 에이전트/자동화, 튜토리얼/설정 중심 내용입니다. 구성은 Intro – AI agents with zero guardrails, What Is Nanoclaw?, Core Architecture – Isolated containers & permissions, The Problem V2 Solves 순서로 이어집니다.",
+          "description_excerpt": "00:00 Intro – AI agents with zero guardrails 00:51 What Is Nanoclaw? 01:28 Core Architecture – Isolated containers & permissions 01:56 The Problem V2 Solves 03:07 Human-in-the-Loop Approval System 03:39 Vercel Integration – Approval cards in your messaging app 04:11 Agent-to-Agent Communication 04:46 15 Messaging Platforms Supported 05:09 Real Use Cases 06:1",
           "transcript_excerpt": "",
           "shorts": false
         }
       ],
       "links": [
         {
-          "label": "@JulianGoldieSEO · 04-25 06:00",
-          "url": "https://www.youtube.com/watch?v=q07qVi4ewDs",
-          "thumbnail": "https://i.ytimg.com/vi/q07qVi4ewDs/hqdefault.jpg"
+          "label": "@JulianGoldieSEO · 04-25 17:01",
+          "url": "https://www.youtube.com/watch?v=tZb2V1ULYPc",
+          "thumbnail": "https://i.ytimg.com/vi/tZb2V1ULYPc/hqdefault.jpg"
         },
         {
-          "label": "@fahdmirza · 04-25 05:20",
-          "url": "https://www.youtube.com/watch?v=Wtvlsu0iZBM",
-          "thumbnail": "https://i.ytimg.com/vi/Wtvlsu0iZBM/hqdefault.jpg"
+          "label": "@JulianGoldieSEO · 04-25 16:45",
+          "url": "https://www.youtube.com/watch?v=9hJOx_f-F5I",
+          "thumbnail": "https://i.ytimg.com/vi/9hJOx_f-F5I/hqdefault_live.jpg"
         },
         {
-          "label": "@JulianGoldieSEO · 04-25 04:00",
-          "url": "https://www.youtube.com/watch?v=6ijzsyzx9U4",
-          "thumbnail": "https://i.ytimg.com/vi/6ijzsyzx9U4/hqdefault.jpg"
+          "label": "@JulianGoldieSEO · 04-25 15:00",
+          "url": "https://www.youtube.com/watch?v=qqSDkTy6VgU",
+          "thumbnail": "https://i.ytimg.com/vi/qqSDkTy6VgU/hqdefault.jpg"
         }
       ],
       "entities": [
         "@JulianGoldieSEO",
-        "@fahdmirza",
+        "@JulianGoldieSEO",
         "@JulianGoldieSEO",
         "@JulianGoldieSEO"
       ]
     },
     "system": {
-      "summary": "CPU 26.5 % 사용 / 클럭 806.4 MHz / RAM 10.0GB 사용, 총 15.8GB (63%) / SSD 288.1GB 사용, 총 476.0GB (60%)",
-      "take": "CPU는 현재 26.5 % 사용 중이고 클럭은 806.4 MHz, 버스 스피드는 100.8 MHz, RAM은 총 15.8GB 중 10.0GB 사용 (63%), SSD는 총 476.0GB 중 288.1GB 사용 (60%), 여유 187.9GB입니다. 네트워크 인터페이스는 Ethernet, Ethernet 2, Wi-Fi 기준입니다.",
+      "summary": "CPU 46.1 % 사용 / 클럭 1915.2 MHz / RAM 10.9GB 사용, 총 15.8GB (69%) / SSD 281.6GB 사용, 총 476.0GB (59%)",
+      "take": "CPU는 현재 46.1 % 사용 중이고 클럭은 1915.2 MHz, 버스 스피드는 100.8 MHz, RAM은 총 15.8GB 중 10.9GB 사용 (69%), SSD는 총 476.0GB 중 281.6GB 사용 (59%), 여유 194.4GB입니다. 네트워크 인터페이스는 Ethernet, Ethernet 2, Wi-Fi 기준입니다.",
       "metrics": [
         {
           "label": "CPU 사용률",
-          "value": "26.5 %",
-          "pct": 26.5,
+          "value": "46.1 %",
+          "pct": 46.1,
           "tone": "normal"
         },
         {
           "label": "CPU 클럭",
-          "value": "806.4 MHz",
-          "pct": 23.04,
+          "value": "1915.2 MHz",
+          "pct": 54.72,
           "tone": "normal"
         },
         {
@@ -210,26 +208,26 @@
         },
         {
           "label": "CPU 온도",
-          "value": "44.0 °C",
-          "pct": 44.0,
+          "value": "58.0 °C",
+          "pct": 58.0,
           "tone": "normal"
         },
         {
           "label": "RAM 사용량",
-          "value": "10.0 / 15.8 GB (63%)",
-          "pct": 63.0,
+          "value": "10.9 / 15.8 GB (69%)",
+          "pct": 68.9,
           "tone": "normal"
         },
         {
           "label": "SSD 사용량",
-          "value": "288.1 / 476.0 GB (60%)",
-          "pct": 60.5,
+          "value": "281.6 / 476.0 GB (59%)",
+          "pct": 59.2,
           "tone": "normal"
         },
         {
           "label": "SSD 여유 공간",
-          "value": "187.9 / 476.0 GB",
-          "pct": 39.5,
+          "value": "194.4 / 476.0 GB",
+          "pct": 40.8,
           "tone": "normal"
         },
         {
@@ -240,27 +238,27 @@
         },
         {
           "label": "업타임",
-          "value": "87시간 50분",
+          "value": "98시간 57분",
           "pct": 100,
           "tone": "normal"
         },
         {
           "label": "네트워크 수신",
-          "value": "2905.5 MB",
+          "value": "3391.4 MB",
           "pct": 100,
           "tone": "normal"
         },
         {
           "label": "네트워크 송신",
-          "value": "1374.6 MB",
+          "value": "1464.6 MB",
           "pct": 100,
           "tone": "normal"
         }
       ]
     },
     "openclaw": {
-      "summary": "OpenClaw 2026.4.22 (00bd2cf)",
-      "take": "Runtime: running (pid 28832, Verified gateway listener detected on port 18789 even though schtasks did not report a running task.) | Listening: 127.0.0.1:18789",
+      "summary": "OpenClaw 2026.4.23 (a979721)",
+      "take": "Runtime: running (pid 21536, Verified gateway listener detected on port 18789 even though schtasks did not report a running task.) | Listening: 127.0.0.1:18789",
       "metrics": [
         {
           "label": "Gateway",
@@ -276,7 +274,7 @@
         },
         {
           "label": "Runtime",
-          "value": "running (pid 28832, Verified gateway listener detected on port 18789 even though schtasks did not report a running task.)",
+          "value": "running (pid 21536, Verified gateway listener detected on port 18789 even though schtasks did not report a running task.)",
           "pct": 100,
           "tone": "good"
         },
@@ -332,7 +330,7 @@
     },
     {
       "title": "주요 메일 / 중요 알림",
-      "summary": "[중요인물,에러] 보안 알림 / [확인필요] [Action required] Update n / [중요인물] [Product Update] Name upda",
+      "summary": "[중요인물,에러] 보안 알림 / [중요인물,에러] 보안 알림 / [확인필요] [Action required] Update n",
       "take": "지금 확인할 만한 메일만 추렸습니다. 결제, 업무, 보안성 알림 위주로 먼저 보면 됩니다.",
       "meta": [
         "메일",
@@ -341,8 +339,8 @@
       ],
       "entities": [
         "에러",
-        "중요인물",
-        "확인필요"
+        "확인필요",
+        "중요인물"
       ],
       "keywords": [
         "gmail",
@@ -352,7 +350,7 @@
     },
     {
       "title": "유튜브 업데이트",
-      "summary": "@JulianGoldieSEO New Google Gemini Update / @fahdmirza DeepSeek V4 Pro + OpenCl / @JulianGoldieSEO Hermes Agent v0.11.0: NE",
+      "summary": "@JulianGoldieSEO Google Gemini Enterprise / @JulianGoldieSEO DeepSeek V4: Automate &  / @JulianGoldieSEO Hunyuan3 Preview: NEW Ch",
       "take": "업로드 속도가 빠른 채널은 오늘도 여러 편이 들어왔습니다. 중요한 주제부터 2~3개만 골라 보면 효율이 좋습니다.",
       "meta": [
         "유튜브",
@@ -361,7 +359,7 @@
       ],
       "entities": [
         "@JulianGoldieSEO",
-        "@fahdmirza",
+        "@JulianGoldieSEO",
         "@JulianGoldieSEO",
         "@JulianGoldieSEO"
       ],
@@ -372,26 +370,26 @@
       ],
       "links": [
         {
-          "label": "@JulianGoldieSEO · 04-25 06:00",
-          "url": "https://www.youtube.com/watch?v=q07qVi4ewDs",
-          "thumbnail": "https://i.ytimg.com/vi/q07qVi4ewDs/hqdefault.jpg"
+          "label": "@JulianGoldieSEO · 04-25 17:01",
+          "url": "https://www.youtube.com/watch?v=tZb2V1ULYPc",
+          "thumbnail": "https://i.ytimg.com/vi/tZb2V1ULYPc/hqdefault.jpg"
         },
         {
-          "label": "@fahdmirza · 04-25 05:20",
-          "url": "https://www.youtube.com/watch?v=Wtvlsu0iZBM",
-          "thumbnail": "https://i.ytimg.com/vi/Wtvlsu0iZBM/hqdefault.jpg"
+          "label": "@JulianGoldieSEO · 04-25 16:45",
+          "url": "https://www.youtube.com/watch?v=9hJOx_f-F5I",
+          "thumbnail": "https://i.ytimg.com/vi/9hJOx_f-F5I/hqdefault_live.jpg"
         },
         {
-          "label": "@JulianGoldieSEO · 04-25 04:00",
-          "url": "https://www.youtube.com/watch?v=6ijzsyzx9U4",
-          "thumbnail": "https://i.ytimg.com/vi/6ijzsyzx9U4/hqdefault.jpg"
+          "label": "@JulianGoldieSEO · 04-25 15:00",
+          "url": "https://www.youtube.com/watch?v=qqSDkTy6VgU",
+          "thumbnail": "https://i.ytimg.com/vi/qqSDkTy6VgU/hqdefault.jpg"
         }
       ]
     },
     {
       "title": "시스템 상태 요약",
-      "summary": "CPU 26.5 % 사용 / 클럭 806.4 MHz / RAM 10.0GB 사용, 총 15.8GB (63%) / SSD 288.1GB 사용, 총 476.0GB (60%)",
-      "take": "CPU는 현재 26.5 % 사용 중이고 클럭은 806.4 MHz, 버스 스피드는 100.8 MHz, RAM은 총 15.8GB 중 10.0GB 사용 (63%), SSD는 총 476.0GB 중 288.1GB 사용 (60%), 여유 187.9GB입니다. 네트워크 인터페이스는 Ethernet, Ethernet 2, Wi-Fi 기준입니다.",
+      "summary": "CPU 46.1 % 사용 / 클럭 1915.2 MHz / RAM 10.9GB 사용, 총 15.8GB (69%) / SSD 281.6GB 사용, 총 476.0GB (59%)",
+      "take": "CPU는 현재 46.1 % 사용 중이고 클럭은 1915.2 MHz, 버스 스피드는 100.8 MHz, RAM은 총 15.8GB 중 10.9GB 사용 (69%), SSD는 총 476.0GB 중 281.6GB 사용 (59%), 여유 194.4GB입니다. 네트워크 인터페이스는 Ethernet, Ethernet 2, Wi-Fi 기준입니다.",
       "meta": [
         "시스템",
         "LHM"
@@ -410,8 +408,8 @@
     },
     {
       "title": "OpenClaw 상태 요약",
-      "summary": "OpenClaw 2026.4.22 (00bd2cf)",
-      "take": "Runtime: running (pid 28832, Verified gateway listener detected on port 18789 even though schtasks did not report a running task.) | Listening: 127.0.0.1:18789",
+      "summary": "OpenClaw 2026.4.23 (a979721)",
+      "take": "Runtime: running (pid 21536, Verified gateway listener detected on port 18789 even though schtasks did not report a running task.) | Listening: 127.0.0.1:18789",
       "meta": [
         "OpenClaw",
         "Gateway"

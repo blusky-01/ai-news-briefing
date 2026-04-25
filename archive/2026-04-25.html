@@ -3,7 +3,7 @@
 <head>
 <meta charset="utf-8"/>
 <meta content="width=device-width, initial-scale=1.0" name="viewport"/>
-<title>아침 브리핑</title>
+<title>저녁 브리핑</title>
 <link href="https://fonts.googleapis.com/css2?family=Syne:wght@400;500;600;700;800&family=DM+Sans:wght@300;400;500;700&family=DM+Mono:wght@400;500&display=swap" rel="stylesheet"/>
 <link href="https://fonts.googleapis.com/css2?family=Material+Symbols+Outlined:opsz,wght,FILL,GRAD@20..48,100..700,0..1,-50..200" rel="stylesheet"/>
 <style>
@@ -15,10 +15,10 @@
 .hero{background:var(--surface1);border:1px solid var(--border);border-radius:var(--radius-lg);padding:28px;margin-bottom:14px}.hero .eyebrow{font-size:11px;color:var(--cyan);text-transform:uppercase;letter-spacing:.1em;margin-bottom:16px}.hero .quote{font-family:'Syne',sans-serif;font-size:28px;font-weight:700;line-height:1.4}.hero .body{margin-top:14px;color:var(--text2);line-height:1.8}
 .tab-panel{display:none}.tab-panel.active{display:block}.grid-2{display:grid;grid-template-columns:1fr 1fr;gap:14px}.card,.panel{background:var(--surface1);border:1px solid var(--border);border-radius:var(--radius-lg);padding:22px}.section-title{font-family:'Syne',sans-serif;font-size:18px;font-weight:700}.section-sub{margin-top:12px;color:var(--text2);line-height:1.8}.pill{display:inline-flex;align-items:center;font-size:10px;font-weight:700;letter-spacing:.05em;text-transform:uppercase;padding:4px 10px;border-radius:999px;background:var(--surface2);border:1px solid rgba(255,255,255,.09);color:var(--text2);margin:10px 8px 0 0}
 .weather-badges{display:flex;flex-wrap:wrap}.weather-main{display:flex;align-items:flex-start;justify-content:space-between;gap:12px;margin-top:12px}.weather-temp{font-size:38px;font-weight:800}.weather-life{margin-top:14px;padding:12px 14px;background:var(--surface2);border-left:2px solid var(--cyan);border-radius:12px;color:var(--text2)}
-.row-panel{margin-top:14px}.list-item{padding:14px 0;border-top:1px solid var(--border)}.list-item:first-child{border-top:0;padding-top:0}.list-head{display:flex;justify-content:space-between;gap:10px}.list-title{font-weight:700}.list-meta{font-size:12px;color:var(--text3)}.list-desc{margin-top:6px;color:var(--text2);font-size:14px;line-height:1.7}.thumb-row{display:grid;grid-template-columns:180px 1fr;gap:14px;align-items:start}.thumb{width:100%;aspect-ratio:16/9;object-fit:cover;border-radius:14px;border:1px solid var(--border)}
+.row-panel{margin-top:14px}.list-item{padding:14px 0;border-top:1px solid var(--border);min-width:0}.list-item:first-child{border-top:0;padding-top:0}.list-head{display:flex;justify-content:space-between;gap:10px;min-width:0}.list-title{font-weight:700;line-height:1.45;overflow-wrap:anywhere;word-break:keep-all}.list-meta{font-size:12px;color:var(--text3);overflow-wrap:anywhere;word-break:break-word;min-width:0}.list-desc{margin-top:6px;color:var(--text2);font-size:14px;line-height:1.7;overflow-wrap:anywhere;word-break:keep-all}.mail-item{display:grid;grid-template-columns:minmax(0,1.1fr) minmax(0,1.4fr);column-gap:18px;row-gap:8px;align-items:start}.mail-title{font-weight:800;line-height:1.45;overflow-wrap:anywhere;word-break:keep-all}.mail-meta{font-size:13px;color:var(--text3);line-height:1.55;overflow-wrap:anywhere;word-break:break-word;min-width:0}.mail-tags{grid-column:1/-1;display:flex;flex-wrap:wrap;gap:6px}.mail-tag{font-size:11px;font-weight:700;color:var(--text2);background:var(--surface2);border:1px solid rgba(255,255,255,.08);border-radius:999px;padding:4px 9px}.thumb-row{display:grid;grid-template-columns:180px minmax(0,1fr);gap:14px;align-items:start}.video-copy{min-width:0}.video-summary{font-size:14px;line-height:1.75}.thumb{width:100%;aspect-ratio:16/9;object-fit:cover;border-radius:14px;border:1px solid var(--border)}
 .metrics{display:grid;gap:12px;margin-top:14px}.metric .m-head{display:flex;justify-content:space-between;font-size:13px;margin-bottom:6px}.bar{height:10px;background:var(--surface2);border-radius:999px;overflow:hidden;border:1px solid rgba(255,255,255,.05)}.bar > span{display:block;height:100%;background:linear-gradient(90deg,var(--cyan),var(--violet));border-radius:999px}.bar.warn > span{background:linear-gradient(90deg,var(--amber),#ff8f00)}.bar.danger > span{background:linear-gradient(90deg,var(--red),#ff3d3d)}
 .footer{margin-top:28px;padding-top:18px;border-top:1px solid var(--border);font-size:12px;color:var(--text3)}
-@media (max-width:1100px){.sidebar{display:none}.main{padding:24px}.status-bar,.grid-2{grid-template-columns:1fr 1fr}}@media (max-width:760px){.menu-btn{display:flex}.layout{display:block}.sidebar{display:none;position:fixed;top:60px;left:0;bottom:0;width:260px;height:auto;z-index:120;padding:18px 12px;box-shadow:20px 0 40px rgba(0,0,0,.35)}.sidebar.open{display:block}.topbar{padding:12px 14px;height:auto;display:grid;grid-template-columns:54px 1fr;grid-template-areas:'menu brand' 'nav nav';row-gap:12px;align-items:center}.menu-btn{grid-area:menu;align-self:center}.brand{grid-area:brand;font-size:14px;line-height:1.15;max-width:none;display:flex;align-items:center;min-height:38px;padding-top:2px}.topnav{grid-area:nav;flex:1 1 100%;min-width:0;padding-top:10px;border-top:1px solid var(--border)}.topnav button{padding:8px 10px;font-size:12px}.status-bar,.grid-2,.thumb-row{grid-template-columns:1fr}.main{padding:18px}.page-title{font-size:32px}}
+@media (max-width:1100px){.sidebar{display:none}.main{padding:24px}.status-bar,.grid-2{grid-template-columns:1fr 1fr}}@media (max-width:760px){.menu-btn{display:flex}.layout{display:block}.sidebar{display:none;position:fixed;top:60px;left:0;bottom:0;width:260px;height:auto;z-index:120;padding:18px 12px;box-shadow:20px 0 40px rgba(0,0,0,.35)}.sidebar.open{display:block}.topbar{padding:12px 14px;height:auto;display:grid;grid-template-columns:54px 1fr;grid-template-areas:'menu brand' 'nav nav';row-gap:12px;align-items:center}.menu-btn{grid-area:menu;align-self:center}.brand{grid-area:brand;font-size:14px;line-height:1.15;max-width:none;display:flex;align-items:center;min-height:38px;padding-top:2px}.topnav{grid-area:nav;flex:1 1 100%;min-width:0;padding-top:10px;border-top:1px solid var(--border)}.topnav button{padding:8px 10px;font-size:12px}.status-bar,.grid-2,.thumb-row,.mail-item{grid-template-columns:1fr}.main{padding:18px}.page-title{font-size:32px}.card,.panel,.hero{padding:18px;border-radius:20px}.list-head{display:block}.list-meta{margin-top:4px}.mail-title{font-size:16px}.mail-meta{font-size:12px}.thumb{border-radius:12px}.video-summary{font-size:13.5px}}
 </style>
 </head>
 <body>
@@ -43,10 +43,10 @@
     <a href="#section-openclaw" class="item anchor-link"><span class="material-symbols-outlined">smart_toy</span> OpenClaw</a>
   </aside>
   <main class="main" id="top">
-    <div class="page-title">아침 브리핑</div>
-    <div class="page-sub">2026-04-25 07:02 · 날씨 · 응원 · 일정 · 메일 · 유튜브 · 시스템 · OpenClaw</div>
+    <div class="page-title">저녁 브리핑</div>
+    <div class="page-sub">2026-04-25 18:09 · 하루 정리 · 주요 업데이트 · 시스템 · OpenClaw</div>
     <section class="status-bar">
-      <div class="stat"><div class="label">Weather</div><div class="value">7°C</div><div class="sub">김해 · Sunny</div></div>
+      <div class="stat"><div class="label">Weather</div><div class="value">24°C</div><div class="sub">김해 · Sunny</div></div>
       <div class="stat"><div class="label">Latest</div><div class="value">Live</div><div class="sub">AI 개입형 브리핑</div></div>
       <div class="stat"><div class="label">Archive</div><div class="value">Unified</div><div class="sub">같은 프레임 안에서 전환</div></div>
       <div class="stat"><div class="label">System</div><div class="value">Monitoring</div><div class="sub">시스템 + OpenClaw</div></div>
@@ -66,9 +66,9 @@
         <div class='weather-main'>
           <div>
             <div class='list-meta'>김해</div>
-            <div class='weather-temp'>7°C</div>
+            <div class='weather-temp'>24°C</div>
             <div class='section-sub'>Sunny</div>
-            <div class='weather-badges'><span class="pill">체감 5°C</span><span class="pill">습도 66%</span><span class="pill">강수확률 0%</span><span class="pill">풍속 10km/h</span><span class="pill">UV 0</span><span class="pill">미세먼지 정보 연동 예정</span></div>
+            <div class='weather-badges'><span class="pill">체감 25°C</span><span class="pill">습도 18%</span><span class="pill">강수확률 0%</span><span class="pill">풍속 13km/h</span><span class="pill">UV 1</span><span class="pill">미세먼지 정보 연동 예정</span></div>
             <div class='weather-life'>큰 변수 없이 움직이기 좋은 날씨입니다. 일정만 잘 잡으면 리듬 있게 가기 좋겠습니다.</div>
           </div>
           <div style='font-size:48px'>⛅</div>
@@ -80,7 +80,7 @@
         <div class='row-panel'><div class='list-item'><div class='list-head'><div class='list-title'><a href='https://www.google.com/calendar/event?eid=bm1kMWZtNTAyMTlocXU0Z2Vmc29lY2Z0c2MgYmx1YXJhb24yMEBt' target='_blank' rel='noopener'>법무법인 장한 수임료 4차 분납</a></div><div class='list-meta'>2026-04-25</div></div><div class='list-desc'>오늘 일정 흐름을 기준으로 우선순위를 잡으면 됩니다.</div></div><div class='list-item'><div class='list-head'><div class='list-title'><a href='https://www.google.com/calendar/event?eid=bGdib2VxZGRtbG9rcGlhdjNqbGYyMXZtb3NfMjAyNjA0MjVUMDkwMDAwWiBibHVhcmFvbjIwQG0' target='_blank' rel='noopener'>무조건 걷기 운동</a></div><div class='list-meta'>18:00</div></div><div class='list-desc'>오늘 일정 흐름을 기준으로 우선순위를 잡으면 됩니다.</div></div></div>
       </article>
     </section>
-    <section class='panel' id='section-mail' style='margin-top:14px'><div class='section-title'>주요 메일 / 중요 알림</div><div class='section-sub'>지금 확인할 만한 메일만 추렸습니다. 결제, 업무, 보안성 알림 위주로 먼저 보면 됩니다.</div><div class='row-panel'><div class='list-item'><div class='list-head'><div class='list-title'>보안 알림</div><div class='list-meta'>Google &lt;no-reply@accounts.google.com&gt; · 2026-04-25 02:13</div></div><div class='list-desc'>중요인물, 에러</div></div><div class='list-item'><div class='list-head'><div class='list-title'>[Action required] Update nameservers for smartvalve.com</div><div class='list-meta'>Cloudflare &lt;noreply@notify.cloudflare.com&gt; · 2026-04-24 18:45</div></div><div class='list-desc'>확인필요</div></div><div class='list-item'><div class='list-head'><div class='list-title'>[Product Update] Name update for Vertex AI and Data and Analytics products starting Apr 22, 2026</div><div class='list-meta'>Google Cloud &lt;CloudPlatform-noreply@google.com&gt; · 2026-04-23 13:31</div></div><div class='list-desc'>중요인물</div></div><div class='list-item'><div class='list-head'><div class='list-title'>Access premium vibe coding features with your Google AI subscription</div><div class='list-meta'>Google AI Studio &lt;googleaistudio-noreply@google.com&gt; · 2026-04-23 08:19</div></div><div class='list-desc'>중요인물</div></div></div></section><section class='panel' id='section-youtube' style='margin-top:14px'><div class='section-title'>유튜브 업데이트</div><div class='section-sub'>업로드 속도가 빠른 채널은 오늘도 여러 편이 들어왔습니다. 중요한 주제부터 2~3개만 골라 보면 효율이 좋습니다.</div><div class='row-panel'><div class='list-item'><div class='thumb-row'><a href='https://www.youtube.com/watch?v=q07qVi4ewDs' target='_blank' rel='noopener'><img class='thumb' src='https://i.ytimg.com/vi/q07qVi4ewDs/hqdefault.jpg' alt='thumb'></a><div><div class='list-head'><div class='list-title'><a href='https://www.youtube.com/watch?v=q07qVi4ewDs' target='_blank' rel='noopener'>New Google Gemini Update is INSANE!</a></div><div class='list-meta'>@JulianGoldieSEO · 04-25 06:00</div></div><div class='list-desc'>New Google Gemini 업데이트 is INSANE! 내용을 다루는 영상입니다. 핵심은 Gemini 관련 변화나 활용 포인트를 소개하는 것입니다.</div></div></div></div><div class='list-item'><div class='thumb-row'><a href='https://www.youtube.com/watch?v=Wtvlsu0iZBM' target='_blank' rel='noopener'><img class='thumb' src='https://i.ytimg.com/vi/Wtvlsu0iZBM/hqdefault.jpg' alt='thumb'></a><div><div class='list-head'><div class='list-title'><a href='https://www.youtube.com/watch?v=Wtvlsu0iZBM' target='_blank' rel='noopener'>DeepSeek V4 Pro + OpenClaw: Full-Stack Agentic Coding on a Real Broken App</a></div><div class='list-meta'>@fahdmirza · 04-25 05:20</div></div><div class='list-desc'>DeepSeek V4 Pro + OpenClaw: Full-Stack Agentic Coding on a Real Broken App 내용을 다루는 영상입니다. 핵심은 에이전트 관련 변화나 활용 포인트를 소개하는 것입니다.</div></div></div></div><div class='list-item'><div class='thumb-row'><a href='https://www.youtube.com/watch?v=6ijzsyzx9U4' target='_blank' rel='noopener'><img class='thumb' src='https://i.ytimg.com/vi/6ijzsyzx9U4/hqdefault.jpg' alt='thumb'></a><div><div class='list-head'><div class='list-title'><a href='https://www.youtube.com/watch?v=6ijzsyzx9U4' target='_blank' rel='noopener'>Hermes Agent v0.11.0: NEW Update is INSANE!</a></div><div class='list-meta'>@JulianGoldieSEO · 04-25 04:00</div></div><div class='list-desc'>Hermes 에이전트 v0.11.0: NEW 업데이트 is INSANE! 내용을 다루는 영상입니다. 핵심은 에이전트 관련 변화나 활용 포인트를 소개하는 것입니다.</div></div></div></div><div class='list-item'><div class='thumb-row'><a href='https://www.youtube.com/watch?v=WLh6SIi4FoE' target='_blank' rel='noopener'><img class='thumb' src='https://i.ytimg.com/vi/WLh6SIi4FoE/hqdefault.jpg' alt='thumb'></a><div><div class='list-head'><div class='list-title'><a href='https://www.youtube.com/watch?v=WLh6SIi4FoE' target='_blank' rel='noopener'>NEW Gemma 4 26B A4B Update</a></div><div class='list-meta'>@JulianGoldieSEO · 04-25 02:00</div></div><div class='list-desc'>NEW Gemma 4 26B A4B 업데이트 주제를 중심으로 무엇이 새로 나왔는지, 또는 어떻게 활용하는지를 설명하는 영상입니다.</div></div></div></div><div class='list-item'><div class='thumb-row'><a href='https://www.youtube.com/watch?v=b8gTYPBZ-UA' target='_blank' rel='noopener'><img class='thumb' src='https://i.ytimg.com/vi/b8gTYPBZ-UA/hqdefault.jpg' alt='thumb'></a><div><div class='list-head'><div class='list-title'><a href='https://www.youtube.com/watch?v=b8gTYPBZ-UA' target='_blank' rel='noopener'>LIVE: China&#x27;s DeepSeek V4 is HERE!</a></div><div class='list-meta'>@JulianGoldieSEO · 04-25 01:34</div></div><div class='list-desc'>LIVE: China&#x27;s DeepSeek V4 is HERE! 주제를 중심으로 무엇이 새로 나왔는지, 또는 어떻게 활용하는지를 설명하는 영상입니다.</div></div></div></div></div></section><section class='grid-2' style='margin-top:14px'><article class='card' id='section-system'><div class='section-title'>시스템 상태</div><div class='section-sub'>CPU는 현재 26.5 % 사용 중이고 클럭은 806.4 MHz, 버스 스피드는 100.8 MHz, RAM은 총 15.8GB 중 10.0GB 사용 (63%), SSD는 총 476.0GB 중 288.1GB 사용 (60%), 여유 187.9GB입니다. 네트워크 인터페이스는 Ethernet, Ethernet 2, Wi-Fi 기준입니다.</div><div class='metrics'><div class='metric'><div class='m-head'><span>CPU 사용률</span><span>26.5 %</span></div><div class='bar'><span style='width:26%'></span></div></div><div class='metric'><div class='m-head'><span>CPU 클럭</span><span>806.4 MHz</span></div><div class='bar'><span style='width:23%'></span></div></div><div class='metric'><div class='m-head'><span>버스 스피드</span><span>100.8 MHz</span></div><div class='bar'><span style='width:100%'></span></div></div><div class='metric'><div class='m-head'><span>CPU 온도</span><span>44.0 °C</span></div><div class='bar'><span style='width:44%'></span></div></div><div class='metric'><div class='m-head'><span>RAM 사용량</span><span>10.0 / 15.8 GB (63%)</span></div><div class='bar'><span style='width:63%'></span></div></div><div class='metric'><div class='m-head'><span>SSD 사용량</span><span>288.1 / 476.0 GB (60%)</span></div><div class='bar'><span style='width:60%'></span></div></div><div class='metric'><div class='m-head'><span>SSD 여유 공간</span><span>187.9 / 476.0 GB</span></div><div class='bar'><span style='width:39%'></span></div></div><div class='metric'><div class='m-head'><span>SSD 온도</span><span>40.0 °C</span></div><div class='bar'><span style='width:40%'></span></div></div><div class='metric'><div class='m-head'><span>업타임</span><span>87시간 50분</span></div><div class='bar'><span style='width:100%'></span></div></div><div class='metric'><div class='m-head'><span>네트워크 수신</span><span>2905.5 MB</span></div><div class='bar'><span style='width:100%'></span></div></div><div class='metric'><div class='m-head'><span>네트워크 송신</span><span>1374.6 MB</span></div><div class='bar'><span style='width:100%'></span></div></div></div></article><article class='card' id='section-openclaw'><div class='section-title'>OpenClaw 상태</div><div class='section-sub'>Runtime: running (pid 28832, Verified gateway listener detected on port 18789 even though schtasks did not report a running task.) | Listening: 127.0.0.1:18789</div><div class='metrics'><div class='metric'><div class='m-head'><span>Gateway</span><span>bind=loopback (127.0.0.1), port=18789 (service args)</span></div><div class='bar'><span style='width:100%'></span></div></div><div class='metric'><div class='m-head'><span>Probe note</span><span>Loopback-only gateway; only local clients can connect.</span></div><div class='bar'><span style='width:100%'></span></div></div><div class='metric'><div class='m-head'><span>Runtime</span><span>running (pid 28832, Verified gateway listener detected on port 18789 even though schtasks did not report a running task.)</span></div><div class='bar'><span style='width:100%'></span></div></div><div class='metric'><div class='m-head'><span>Listening</span><span>127.0.0.1:18789</span></div><div class='bar'><span style='width:100%'></span></div></div></div></article></section>
+    <section class='panel' id='section-mail' style='margin-top:14px'><div class='section-title'>주요 메일 / 중요 알림</div><div class='section-sub'>지금 확인할 만한 메일만 추렸습니다. 결제, 업무, 보안성 알림 위주로 먼저 보면 됩니다.</div><div class='row-panel'><div class='list-item mail-item'><div class='mail-title'>보안 알림</div><div class='mail-meta'>Google &lt;no-reply@accounts.google.com&gt; · 2026-04-25 16:38</div><div class='mail-tags'><span class='mail-tag'>중요인물</span><span class='mail-tag'>에러</span></div></div><div class='list-item mail-item'><div class='mail-title'>보안 알림</div><div class='mail-meta'>Google &lt;no-reply@accounts.google.com&gt; · 2026-04-25 02:13</div><div class='mail-tags'><span class='mail-tag'>중요인물</span><span class='mail-tag'>에러</span></div></div><div class='list-item mail-item'><div class='mail-title'>[Action required] Update nameservers for smartvalve.com</div><div class='mail-meta'>Cloudflare &lt;noreply@notify.cloudflare.com&gt; · 2026-04-24 18:45</div><div class='mail-tags'><span class='mail-tag'>확인필요</span></div></div></div></section><section class='panel' id='section-youtube' style='margin-top:14px'><div class='section-title'>유튜브 업데이트</div><div class='section-sub'>업로드 속도가 빠른 채널은 오늘도 여러 편이 들어왔습니다. 중요한 주제부터 2~3개만 골라 보면 효율이 좋습니다.</div><div class='row-panel'><div class='list-item youtube-item'><div class='thumb-row'><a href='https://www.youtube.com/watch?v=tZb2V1ULYPc' target='_blank' rel='noopener'><img class='thumb' src='https://i.ytimg.com/vi/tZb2V1ULYPc/hqdefault.jpg' alt='thumb'></a><div class='video-copy'><div class='list-head'><div class='list-title'><a href='https://www.youtube.com/watch?v=tZb2V1ULYPc' target='_blank' rel='noopener'>Google Gemini Enterprise Agent Platform Update</a></div><div class='list-meta'>@JulianGoldieSEO · 04-25 17:01</div></div><div class='list-desc video-summary'>이 영상은 모델/LLM, 에이전트/자동화, 튜토리얼/설정 중심 내용입니다. 구성은 Intro – Why your AI agents are falling behind, Who Is This For? – Platform overview &amp; what changed, Why Vertex AI Had to Go – The old system&#x27;s limits, Build – Agent Studio vs. Agent Development Kit 순서로 이어집니다.</div></div></div></div><div class='list-item youtube-item'><div class='thumb-row'><a href='https://www.youtube.com/watch?v=9hJOx_f-F5I' target='_blank' rel='noopener'><img class='thumb' src='https://i.ytimg.com/vi/9hJOx_f-F5I/hqdefault_live.jpg' alt='thumb'></a><div class='video-copy'><div class='list-head'><div class='list-title'><a href='https://www.youtube.com/watch?v=9hJOx_f-F5I' target='_blank' rel='noopener'>DeepSeek V4: Automate &amp; Build ANYTHING!</a></div><div class='list-meta'>@JulianGoldieSEO · 04-25 16:45</div></div><div class='list-desc video-summary'>DeepSeek V4: Automate &amp; Build ANYTHING! 주제를 중심으로 무엇이 새로 나왔는지, 또는 어떻게 활용하는지를 설명하는 영상입니다.</div></div></div></div><div class='list-item youtube-item'><div class='thumb-row'><a href='https://www.youtube.com/watch?v=qqSDkTy6VgU' target='_blank' rel='noopener'><img class='thumb' src='https://i.ytimg.com/vi/qqSDkTy6VgU/hqdefault.jpg' alt='thumb'></a><div class='video-copy'><div class='list-head'><div class='list-title'><a href='https://www.youtube.com/watch?v=qqSDkTy6VgU' target='_blank' rel='noopener'>Hunyuan3 Preview: NEW Chinese AI DESTROYS Kimi K2?</a></div><div class='list-meta'>@JulianGoldieSEO · 04-25 15:00</div></div><div class='list-desc video-summary'>이 영상은 모델/LLM, 에이전트/자동화 중심 내용입니다. 구성은 Intro – The Chinese AI everyone&#x27;s missing, What It Is – Open-source MoE model, 295B params, 128K context, Why Smaller Is Better – Efficiency over raw size, Built From Scratch – New infrastructure, hybrid fast/slow thinking 순서로 이어집니다.</div></div></div></div><div class='list-item youtube-item'><div class='thumb-row'><a href='https://www.youtube.com/watch?v=Y3Qc4F3Gl1A' target='_blank' rel='noopener'><img class='thumb' src='https://i.ytimg.com/vi/Y3Qc4F3Gl1A/hqdefault.jpg' alt='thumb'></a><div class='video-copy'><div class='list-head'><div class='list-title'><a href='https://www.youtube.com/watch?v=Y3Qc4F3Gl1A' target='_blank' rel='noopener'>OpenClaw 4.23 + GPT-5.5 AI Just Changed Everything</a></div><div class='list-meta'>@JulianGoldieSEO · 04-25 14:28</div></div><div class='list-desc video-summary'>이 영상은 모델/LLM, 에이전트/자동화 중심 내용입니다. 구성은 OpenClaw 4.23 Overview, GPT 5.5 Built In, Easier Image Generation, Smarter Image Control 순서로 이어집니다.</div></div></div></div><div class='list-item youtube-item'><div class='thumb-row'><a href='https://www.youtube.com/watch?v=DWDcllh-9OU' target='_blank' rel='noopener'><img class='thumb' src='https://i.ytimg.com/vi/DWDcllh-9OU/hqdefault.jpg' alt='thumb'></a><div class='video-copy'><div class='list-head'><div class='list-title'><a href='https://www.youtube.com/watch?v=DWDcllh-9OU' target='_blank' rel='noopener'>NEW NanoClaw v2 Update is WILD!</a></div><div class='list-meta'>@JulianGoldieSEO · 04-25 13:00</div></div><div class='list-desc video-summary'>이 영상은 에이전트/자동화, 튜토리얼/설정 중심 내용입니다. 구성은 Intro – AI agents with zero guardrails, What Is Nanoclaw?, Core Architecture – Isolated containers &amp; permissions, The Problem V2 Solves 순서로 이어집니다.</div></div></div></div></div></section><section class='grid-2' style='margin-top:14px'><article class='card' id='section-system'><div class='section-title'>시스템 상태</div><div class='section-sub'>CPU는 현재 46.1 % 사용 중이고 클럭은 1915.2 MHz, 버스 스피드는 100.8 MHz, RAM은 총 15.8GB 중 10.9GB 사용 (69%), SSD는 총 476.0GB 중 281.6GB 사용 (59%), 여유 194.4GB입니다. 네트워크 인터페이스는 Ethernet, Ethernet 2, Wi-Fi 기준입니다.</div><div class='metrics'><div class='metric'><div class='m-head'><span>CPU 사용률</span><span>46.1 %</span></div><div class='bar'><span style='width:46%'></span></div></div><div class='metric'><div class='m-head'><span>CPU 클럭</span><span>1915.2 MHz</span></div><div class='bar'><span style='width:54%'></span></div></div><div class='metric'><div class='m-head'><span>버스 스피드</span><span>100.8 MHz</span></div><div class='bar'><span style='width:100%'></span></div></div><div class='metric'><div class='m-head'><span>CPU 온도</span><span>58.0 °C</span></div><div class='bar'><span style='width:58%'></span></div></div><div class='metric'><div class='m-head'><span>RAM 사용량</span><span>10.9 / 15.8 GB (69%)</span></div><div class='bar'><span style='width:68%'></span></div></div><div class='metric'><div class='m-head'><span>SSD 사용량</span><span>281.6 / 476.0 GB (59%)</span></div><div class='bar'><span style='width:59%'></span></div></div><div class='metric'><div class='m-head'><span>SSD 여유 공간</span><span>194.4 / 476.0 GB</span></div><div class='bar'><span style='width:40%'></span></div></div><div class='metric'><div class='m-head'><span>SSD 온도</span><span>40.0 °C</span></div><div class='bar'><span style='width:40%'></span></div></div><div class='metric'><div class='m-head'><span>업타임</span><span>98시간 57분</span></div><div class='bar'><span style='width:100%'></span></div></div><div class='metric'><div class='m-head'><span>네트워크 수신</span><span>3391.4 MB</span></div><div class='bar'><span style='width:100%'></span></div></div><div class='metric'><div class='m-head'><span>네트워크 송신</span><span>1464.6 MB</span></div><div class='bar'><span style='width:100%'></span></div></div></div></article><article class='card' id='section-openclaw'><div class='section-title'>OpenClaw 상태</div><div class='section-sub'>Runtime: running (pid 21536, Verified gateway listener detected on port 18789 even though schtasks did not report a running task.) | Listening: 127.0.0.1:18789</div><div class='metrics'><div class='metric'><div class='m-head'><span>Gateway</span><span>bind=loopback (127.0.0.1), port=18789 (service args)</span></div><div class='bar'><span style='width:100%'></span></div></div><div class='metric'><div class='m-head'><span>Probe note</span><span>Loopback-only gateway; only local clients can connect.</span></div><div class='bar'><span style='width:100%'></span></div></div><div class='metric'><div class='m-head'><span>Runtime</span><span>running (pid 21536, Verified gateway listener detected on port 18789 even though schtasks did not report a running task.)</span></div><div class='bar'><span style='width:100%'></span></div></div><div class='metric'><div class='m-head'><span>Listening</span><span>127.0.0.1:18789</span></div><div class='bar'><span style='width:100%'></span></div></div></div></article></section>
     </section>
     <section id="tab-archive" class="tab-panel panel">
       <div class='section-title'>아카이브</div><div class='section-sub'>최근 브리핑 기록을 같은 프레임 안에서 확인할 수 있게 묶었습니다.</div><div class='row-panel'><div class='list-item'><div class='list-head'><div class='list-title'><a href='/ai-news-briefing/archive/2026-04-16.html' target='_blank' rel='noopener'>2026-04-16 브리핑</a></div><div class='list-meta'>archive</div></div><div class='list-desc'>2026-04-16.html</div></div><div class='list-item'><div class='list-head'><div class='list-title'><a href='/ai-news-briefing/archive/2026-04-15.html' target='_blank' rel='noopener'>2026-04-15 브리핑</a></div><div class='list-meta'>archive</div></div><div class='list-desc'>2026-04-15.html</div></div><div class='list-item'><div class='list-head'><div class='list-title'><a href='/ai-news-briefing/archive/2026-04-13.html' target='_blank' rel='noopener'>2026-04-13 브리핑</a></div><div class='list-meta'>archive</div></div><div class='list-desc'>2026-04-13.html</div></div><div class='list-item'><div class='list-head'><div class='list-title'><a href='/ai-news-briefing/archive/2026-04-12.html' target='_blank' rel='noopener'>2026-04-12 브리핑</a></div><div class='list-meta'>archive</div></div><div class='list-desc'>2026-04-12.html</div></div><div class='list-item'><div class='list-head'><div class='list-title'><a href='/ai-news-briefing/archive/2026-04-11.html' target='_blank' rel='noopener'>2026-04-11 브리핑</a></div><div class='list-meta'>archive</div></div><div class='list-desc'>2026-04-11.html</div></div><div class='list-item'><div class='list-head'><div class='list-title'><a href='/ai-news-briefing/archive/2026-04-10.html' target='_blank' rel='noopener'>2026-04-10 브리핑</a></div><div class='list-meta'>archive</div></div><div class='list-desc'>2026-04-10.html</div></div><div class='list-item'><div class='list-head'><div class='list-title'><a href='/ai-news-briefing/archive/2026-04-09.html' target='_blank' rel='noopener'>2026-04-09 브리핑</a></div><div class='list-meta'>archive</div></div><div class='list-desc'>2026-04-09.html</div></div><div class='list-item'><div class='list-head'><div class='list-title'><a href='/ai-news-briefing/archive/2026-04-08.html' target='_blank' rel='noopener'>2026-04-08 브리핑</a></div><div class='list-meta'>archive</div></div><div class='list-desc'>2026-04-08.html</div></div><div class='list-item'><div class='list-head'><div class='list-title'><a href='/ai-news-briefing/archive/2026-04-07.html' target='_blank' rel='noopener'>2026-04-07 브리핑</a></div><div class='list-meta'>archive</div></div><div class='list-desc'>2026-04-07.html</div></div><div class='list-item'><div class='list-head'><div class='list-title'><a href='/ai-news-briefing/archive/2026-04-06.html' target='_blank' rel='noopener'>2026-04-06 브리핑</a></div><div class='list-meta'>archive</div></div><div class='list-desc'>2026-04-06.html</div></div><div class='list-item'><div class='list-head'><div class='list-title'><a href='/ai-news-briefing/archive/2026-04-05_check.html' target='_blank' rel='noopener'>2026-04-05_check 브리핑</a></div><div class='list-meta'>archive</div></div><div class='list-desc'>2026-04-05_check.html</div></div><div class='list-item'><div class='list-head'><div class='list-title'><a href='/ai-news-briefing/archive/2026-04-05.html' target='_blank' rel='noopener'>2026-04-05 브리핑</a></div><div class='list-meta'>archive</div></div><div class='list-desc'>2026-04-05.html</div></div><div class='list-item'><div class='list-head'><div class='list-title'><a href='/ai-news-briefing/archive/2026-04-04.html' target='_blank' rel='noopener'>2026-04-04 브리핑</a></div><div class='list-meta'>archive</div></div><div class='list-desc'>2026-04-04.html</div></div><div class='list-item'><div class='list-head'><div class='list-title'><a href='/ai-news-briefing/archive/2026-04-01.html' target='_blank' rel='noopener'>2026-04-01 브리핑</a></div><div class='list-meta'>archive</div></div><div class='list-desc'>2026-04-01.html</div></div><div class='list-item'><div class='list-head'><div class='list-title'><a href='/ai-news-briefing/archive/2026-03-31.html' target='_blank' rel='noopener'>2026-03-31 브리핑</a></div><div class='list-meta'>archive</div></div><div class='list-desc'>2026-03-31.html</div></div><div class='list-item'><div class='list-head'><div class='list-title'><a href='/ai-news-briefing/archive/2026-03-30.html' target='_blank' rel='noopener'>2026-03-30 브리핑</a></div><div class='list-meta'>archive</div></div><div class='list-desc'>2026-03-30.html</div></div><div class='list-item'><div class='list-head'><div class='list-title'><a href='/ai-news-briefing/archive/2026-03-29.html' target='_blank' rel='noopener'>2026-03-29 브리핑</a></div><div class='list-meta'>archive</div></div><div class='list-desc'>2026-03-29.html</div></div><div class='list-item'><div class='list-head'><div class='list-title'><a href='/ai-news-briefing/archive/2026-03-28.html' target='_blank' rel='noopener'>2026-03-28 브리핑</a></div><div class='list-meta'>archive</div></div><div class='list-desc'>2026-03-28.html</div></div><div class='list-item'><div class='list-head'><div class='list-title'><a href='/ai-news-briefing/archive/2026-03-27.html' target='_blank' rel='noopener'>2026-03-27 브리핑</a></div><div class='list-meta'>archive</div></div><div class='list-desc'>2026-03-27.html</div></div><div class='list-item'><div class='list-head'><div class='list-title'><a href='/ai-news-briefing/archive/2026-03-26.html' target='_blank' rel='noopener'>2026-03-26 브리핑</a></div><div class='list-meta'>archive</div></div><div class='list-desc'>2026-03-26.html</div></div></div>
@@ -93,30 +93,30 @@
     </section>
     <section id="tab-data" class="tab-panel panel">
       <div class='section-title'>데이터</div><div class='section-sub'>현재 브리핑에 사용된 구조화 데이터입니다.</div><pre style='margin-top:14px;white-space:pre-wrap;color:#8a97b5;font-size:12px'>{
-  &quot;date&quot;: &quot;2026-04-25 07:02&quot;,
-  &quot;title&quot;: &quot;아침 브리핑&quot;,
-  &quot;subtitle&quot;: &quot;날씨 · 응원 · 일정 · 메일 · 유튜브 · 시스템 · OpenClaw&quot;,
+  &quot;date&quot;: &quot;2026-04-25 18:09&quot;,
+  &quot;title&quot;: &quot;저녁 브리핑&quot;,
+  &quot;subtitle&quot;: &quot;하루 정리 · 주요 업데이트 · 시스템 · OpenClaw&quot;,
   &quot;summary&quot;: &quot;오늘은 2026-04-25 법무법인 장한 수임료 4차 분납부터 시작됩니다. 첫 흐름만 안정적으로 잡으면 오늘 전체 리듬이 훨씬 부드럽게 이어질 겁니다.&quot;,
   &quot;summary_box&quot;: &quot;큰 변수 없이 움직이기 좋은 날씨입니다. 일정만 잘 잡으면 리듬 있게 가기 좋겠습니다. 일정이 있는 날일수록 처음 두 개를 완벽하게 하려 하기보다, 팀장님 페이스를 끝까지 유지하는 쪽이 더 강합니다. 무리하지 말고 호흡을 길게 가져가시면 됩니다.&quot;,
   &quot;weather&quot;: {
     &quot;loc&quot;: &quot;김해&quot;,
-    &quot;temp&quot;: &quot;7°C&quot;,
+    &quot;temp&quot;: &quot;24°C&quot;,
     &quot;desc&quot;: &quot;Sunny&quot;,
     &quot;icon&quot;: &quot;⛅&quot;,
     &quot;badges&quot;: [
-      &quot;체감 5°C&quot;,
-      &quot;습도 66%&quot;,
+      &quot;체감 25°C&quot;,
+      &quot;습도 18%&quot;,
       &quot;강수확률 0%&quot;,
-      &quot;풍속 10km/h&quot;,
-      &quot;UV 0&quot;,
+      &quot;풍속 13km/h&quot;,
+      &quot;UV 1&quot;,
       &quot;미세먼지 정보 연동 예정&quot;
     ],
     &quot;detail&quot;: {
-      &quot;feels_like&quot;: &quot;5&quot;,
-      &quot;humidity&quot;: &quot;66&quot;,
+      &quot;feels_like&quot;: &quot;25&quot;,
+      &quot;humidity&quot;: &quot;18&quot;,
       &quot;rain_chance&quot;: &quot;0&quot;,
-      &quot;wind_kmph&quot;: &quot;10&quot;,
-      &quot;uv&quot;: &quot;0&quot;,
+      &quot;wind_kmph&quot;: &quot;13&quot;,
+      &quot;uv&quot;: &quot;1&quot;,
       &quot;pm&quot;: &quot;미세먼지 정보 연동 예정&quot;
     },
     &quot;life_comment&quot;: &quot;큰 변수 없이 움직이기 좋은 날씨입니다. 일정만 잘 잡으면 리듬 있게 가기 좋겠습니다.&quot;
@@ -152,9 +152,18 @@
       ]
     },
     &quot;mail&quot;: {
-      &quot;summary&quot;: &quot;[중요인물,에러] 보안 알림 / [확인필요] [Action required] Update n / [중요인물] [Product Update] Name upda&quot;,
+      &quot;summary&quot;: &quot;[중요인물,에러] 보안 알림 / [중요인물,에러] 보안 알림 / [확인필요] [Action required] Update n&quot;,
       &quot;take&quot;: &quot;지금 확인할 만한 메일만 추렸습니다. 결제, 업무, 보안성 알림 위주로 먼저 보면 됩니다.&quot;,
       &quot;items&quot;: [
+        {
+          &quot;date&quot;: &quot;2026-04-25 16:38&quot;,
+          &quot;from&quot;: &quot;Google &lt;no-reply@accounts.google.com&gt;&quot;,
+          &quot;subject&quot;: &quot;보안 알림&quot;,
+          &quot;tags&quot;: [
+            &quot;중요인물&quot;,
+            &quot;에러&quot;
+          ]
+        },
         {
           &quot;date&quot;: &quot;2026-04-25 02:13&quot;,
           &quot;from&quot;: &quot;Google &lt;no-reply@accounts.google.com&gt;&quot;,
@@ -171,129 +180,118 @@
           &quot;tags&quot;: [
             &quot;확인필요&quot;
           ]
-        },
-        {
-          &quot;date&quot;: &quot;2026-04-23 13:31&quot;,
-          &quot;from&quot;: &quot;Google Cloud &lt;CloudPlatform-noreply@google.com&gt;&quot;,
-          &quot;subject&quot;: &quot;[Product Update] Name update for Vertex AI and Data and Analytics products starting Apr 22, 2026&quot;,
-          &quot;tags&quot;: [
-            &quot;중요인물&quot;
-          ]
-        },
-        {
-          &quot;date&quot;: &quot;2026-04-23 08:19&quot;,
-          &quot;from&quot;: &quot;Google AI Studio &lt;googleaistudio-noreply@google.com&gt;&quot;,
-          &quot;subject&quot;: &quot;Access premium vibe coding features with your Google AI subscription&quot;,
-          &quot;tags&quot;: [
-            &quot;중요인물&quot;
-          ]
         }
       ],
       &quot;links&quot;: [],
       &quot;entities&quot;: [
         &quot;에러&quot;,
-        &quot;중요인물&quot;,
-        &quot;확인필요&quot;
+        &quot;확인필요&quot;,
+        &quot;중요인물&quot;
       ]
     },
     &quot;youtube&quot;: {
-      &quot;summary&quot;: &quot;@JulianGoldieSEO New Google Gemini Update / @fahdmirza DeepSeek V4 Pro + OpenCl / @JulianGoldieSEO Hermes Agent v0.11.0: NE&quot;,
+      &quot;summary&quot;: &quot;@JulianGoldieSEO Google Gemini Enterprise / @JulianGoldieSEO DeepSeek V4: Automate &amp;  / @JulianGoldieSEO Hunyuan3 Preview: NEW Ch&quot;,
       &quot;take&quot;: &quot;업로드 속도가 빠른 채널은 오늘도 여러 편이 들어왔습니다. 중요한 주제부터 2~3개만 골라 보면 효율이 좋습니다.&quot;,
       &quot;items&quot;: [
         {
           &quot;channel&quot;: &quot;@JulianGoldieSEO&quot;,
-          &quot;title&quot;: &quot;New Google Gemini Update is INSANE!&quot;,
-          &quot;published&quot;: &quot;04-25 06:00&quot;,
-          &quot;published_dt&quot;: &quot;2026-04-25T06:00:52+09:00&quot;,
-          &quot;url&quot;: &quot;https://www.youtube.com/watch?v=q07qVi4ewDs&quot;,
-          &quot;thumbnail&quot;: &quot;https://i.ytimg.com/vi/q07qVi4ewDs/hqdefault.jpg&quot;,
-          &quot;summary&quot;: &quot;New Google Gemini 업데이트 is INSANE! 내용을 다루는 영상입니다. 핵심은 Gemini 관련 변화나 활용 포인트를 소개하는 것입니다.&quot;,
-          &quot;transcript_excerpt&quot;: &quot;&quot;,
-          &quot;shorts&quot;: false
-        },
-        {
-          &quot;channel&quot;: &quot;@fahdmirza&quot;,
-          &quot;title&quot;: &quot;DeepSeek V4 Pro + OpenClaw: Full-Stack Agentic Coding on a Real Broken App&quot;,
-          &quot;published&quot;: &quot;04-25 05:20&quot;,
-          &quot;published_dt&quot;: &quot;2026-04-25T05:20:27+09:00&quot;,
-          &quot;url&quot;: &quot;https://www.youtube.com/watch?v=Wtvlsu0iZBM&quot;,
-          &quot;thumbnail&quot;: &quot;https://i.ytimg.com/vi/Wtvlsu0iZBM/hqdefault.jpg&quot;,
-          &quot;summary&quot;: &quot;DeepSeek V4 Pro + OpenClaw: Full-Stack Agentic Coding on a Real Broken App 내용을 다루는 영상입니다. 핵심은 에이전트 관련 변화나 활용 포인트를 소개하는 것입니다.&quot;,
+          &quot;title&quot;: &quot;Google Gemini Enterprise Agent Platform Update&quot;,
+          &quot;published&quot;: &quot;04-25 17:01&quot;,
+          &quot;published_dt&quot;: &quot;2026-04-25T17:01:01+09:00&quot;,
+          &quot;url&quot;: &quot;https://www.youtube.com/watch?v=tZb2V1ULYPc&quot;,
+          &quot;thumbnail&quot;: &quot;https://i.ytimg.com/vi/tZb2V1ULYPc/hqdefault.jpg&quot;,
+          &quot;summary&quot;: &quot;이 영상은 모델/LLM, 에이전트/자동화, 튜토리얼/설정 중심 내용입니다. 구성은 Intro – Why your AI agents are falling behind, Who Is This For? – Platform overview &amp; what changed, Why Vertex AI Had to Go – The old system&#x27;s limits, Build – Agent Studio vs. Agent Development Kit 순서로 이어집니다.&quot;,
+          &quot;description_excerpt&quot;: &quot;00:00 Intro – Why your AI agents are falling behind 00:29 Who Is This For? – Platform overview &amp; what changed 01:44 Why Vertex AI Had to Go – The old system&#x27;s limits 02:15 Build – Agent Studio vs. Agent Development Kit 02:52 Graph-Based Agent Networks – Delegating tasks across sub-agents 03:07 Agent Garden – Pre-built templates to skip the setup 03:33 Scale &quot;,
           &quot;transcript_excerpt&quot;: &quot;&quot;,
           &quot;shorts&quot;: false
         },
         {
           &quot;channel&quot;: &quot;@JulianGoldieSEO&quot;,
-          &quot;title&quot;: &quot;Hermes Agent v0.11.0: NEW Update is INSANE!&quot;,
-          &quot;published&quot;: &quot;04-25 04:00&quot;,
-          &quot;published_dt&quot;: &quot;2026-04-25T04:00:07+09:00&quot;,
-          &quot;url&quot;: &quot;https://www.youtube.com/watch?v=6ijzsyzx9U4&quot;,
-          &quot;thumbnail&quot;: &quot;https://i.ytimg.com/vi/6ijzsyzx9U4/hqdefault.jpg&quot;,
-          &quot;summary&quot;: &quot;Hermes 에이전트 v0.11.0: NEW 업데이트 is INSANE! 내용을 다루는 영상입니다. 핵심은 에이전트 관련 변화나 활용 포인트를 소개하는 것입니다.&quot;,
+          &quot;title&quot;: &quot;DeepSeek V4: Automate &amp; Build ANYTHING!&quot;,
+          &quot;published&quot;: &quot;04-25 16:45&quot;,
+          &quot;published_dt&quot;: &quot;2026-04-25T16:45:01+09:00&quot;,
+          &quot;url&quot;: &quot;https://www.youtube.com/watch?v=9hJOx_f-F5I&quot;,
+          &quot;thumbnail&quot;: &quot;https://i.ytimg.com/vi/9hJOx_f-F5I/hqdefault_live.jpg&quot;,
+          &quot;summary&quot;: &quot;DeepSeek V4: Automate &amp; Build ANYTHING! 주제를 중심으로 무엇이 새로 나왔는지, 또는 어떻게 활용하는지를 설명하는 영상입니다.&quot;,
+          &quot;description_excerpt&quot;: &quot;&quot;,
           &quot;transcript_excerpt&quot;: &quot;&quot;,
           &quot;shorts&quot;: false
         },
         {
           &quot;channel&quot;: &quot;@JulianGoldieSEO&quot;,
-          &quot;title&quot;: &quot;NEW Gemma 4 26B A4B Update&quot;,
-          &quot;published&quot;: &quot;04-25 02:00&quot;,
-          &quot;published_dt&quot;: &quot;2026-04-25T02:00:48+09:00&quot;,
-          &quot;url&quot;: &quot;https://www.youtube.com/watch?v=WLh6SIi4FoE&quot;,
-          &quot;thumbnail&quot;: &quot;https://i.ytimg.com/vi/WLh6SIi4FoE/hqdefault.jpg&quot;,
-          &quot;summary&quot;: &quot;NEW Gemma 4 26B A4B 업데이트 주제를 중심으로 무엇이 새로 나왔는지, 또는 어떻게 활용하는지를 설명하는 영상입니다.&quot;,
+          &quot;title&quot;: &quot;Hunyuan3 Preview: NEW Chinese AI DESTROYS Kimi K2?&quot;,
+          &quot;published&quot;: &quot;04-25 15:00&quot;,
+          &quot;published_dt&quot;: &quot;2026-04-25T15:00:40+09:00&quot;,
+          &quot;url&quot;: &quot;https://www.youtube.com/watch?v=qqSDkTy6VgU&quot;,
+          &quot;thumbnail&quot;: &quot;https://i.ytimg.com/vi/qqSDkTy6VgU/hqdefault.jpg&quot;,
+          &quot;summary&quot;: &quot;이 영상은 모델/LLM, 에이전트/자동화 중심 내용입니다. 구성은 Intro – The Chinese AI everyone&#x27;s missing, What It Is – Open-source MoE model, 295B params, 128K context, Why Smaller Is Better – Efficiency over raw size, Built From Scratch – New infrastructure, hybrid fast/slow thinking 순서로 이어집니다.&quot;,
+          &quot;description_excerpt&quot;: &quot;00:00 Intro – The Chinese AI everyone&#x27;s missing 00:39 What It Is – Open-source MoE model, 295B params, 128K context 01:04 Why Smaller Is Better – Efficiency over raw size 01:37 Built From Scratch – New infrastructure, hybrid fast/slow thinking 01:51 Benchmarks – Reasoning, coding, and agent performance 02:07 Coding Leap – 53% → 74.4% on SWE-bench in one gene&quot;,
           &quot;transcript_excerpt&quot;: &quot;&quot;,
           &quot;shorts&quot;: false
         },
         {
           &quot;channel&quot;: &quot;@JulianGoldieSEO&quot;,
-          &quot;title&quot;: &quot;LIVE: China&#x27;s DeepSeek V4 is HERE!&quot;,
-          &quot;published&quot;: &quot;04-25 01:34&quot;,
-          &quot;published_dt&quot;: &quot;2026-04-25T01:34:29+09:00&quot;,
-          &quot;url&quot;: &quot;https://www.youtube.com/watch?v=b8gTYPBZ-UA&quot;,
-          &quot;thumbnail&quot;: &quot;https://i.ytimg.com/vi/b8gTYPBZ-UA/hqdefault.jpg&quot;,
-          &quot;summary&quot;: &quot;LIVE: China&#x27;s DeepSeek V4 is HERE! 주제를 중심으로 무엇이 새로 나왔는지, 또는 어떻게 활용하는지를 설명하는 영상입니다.&quot;,
+          &quot;title&quot;: &quot;OpenClaw 4.23 + GPT-5.5 AI Just Changed Everything&quot;,
+          &quot;published&quot;: &quot;04-25 14:28&quot;,
+          &quot;published_dt&quot;: &quot;2026-04-25T14:28:48+09:00&quot;,
+          &quot;url&quot;: &quot;https://www.youtube.com/watch?v=Y3Qc4F3Gl1A&quot;,
+          &quot;thumbnail&quot;: &quot;https://i.ytimg.com/vi/Y3Qc4F3Gl1A/hqdefault.jpg&quot;,
+          &quot;summary&quot;: &quot;이 영상은 모델/LLM, 에이전트/자동화 중심 내용입니다. 구성은 OpenClaw 4.23 Overview, GPT 5.5 Built In, Easier Image Generation, Smarter Image Control 순서로 이어집니다.&quot;,
+          &quot;description_excerpt&quot;: &quot;00:00 OpenClaw 4.23 Overview 00:23 GPT 5.5 Built In 01:10 Easier Image Generation 01:56 Smarter Image Control 02:58 Subagents Context 04:30 Courses and Plug 05:05 WhatsApp Telegram Slack Fixes 06:24 Browser Reliability Updates 07:10 Performance and Memory Tweaks 08:03 Security and Plugin Fixes 09:22 Bigger Picture and Backups 10:55 Final Invite and Wrap Up&quot;,
+          &quot;transcript_excerpt&quot;: &quot;&quot;,
+          &quot;shorts&quot;: false
+        },
+        {
+          &quot;channel&quot;: &quot;@JulianGoldieSEO&quot;,
+          &quot;title&quot;: &quot;NEW NanoClaw v2 Update is WILD!&quot;,
+          &quot;published&quot;: &quot;04-25 13:00&quot;,
+          &quot;published_dt&quot;: &quot;2026-04-25T13:00:13+09:00&quot;,
+          &quot;url&quot;: &quot;https://www.youtube.com/watch?v=DWDcllh-9OU&quot;,
+          &quot;thumbnail&quot;: &quot;https://i.ytimg.com/vi/DWDcllh-9OU/hqdefault.jpg&quot;,
+          &quot;summary&quot;: &quot;이 영상은 에이전트/자동화, 튜토리얼/설정 중심 내용입니다. 구성은 Intro – AI agents with zero guardrails, What Is Nanoclaw?, Core Architecture – Isolated containers &amp; permissions, The Problem V2 Solves 순서로 이어집니다.&quot;,
+          &quot;description_excerpt&quot;: &quot;00:00 Intro – AI agents with zero guardrails 00:51 What Is Nanoclaw? 01:28 Core Architecture – Isolated containers &amp; permissions 01:56 The Problem V2 Solves 03:07 Human-in-the-Loop Approval System 03:39 Vercel Integration – Approval cards in your messaging app 04:11 Agent-to-Agent Communication 04:46 15 Messaging Platforms Supported 05:09 Real Use Cases 06:1&quot;,
           &quot;transcript_excerpt&quot;: &quot;&quot;,
           &quot;shorts&quot;: false
         }
       ],
       &quot;links&quot;: [
         {
-          &quot;label&quot;: &quot;@JulianGoldieSEO · 04-25 06:00&quot;,
-          &quot;url&quot;: &quot;https://www.youtube.com/watch?v=q07qVi4ewDs&quot;,
-          &quot;thumbnail&quot;: &quot;https://i.ytimg.com/vi/q07qVi4ewDs/hqdefault.jpg&quot;
+          &quot;label&quot;: &quot;@JulianGoldieSEO · 04-25 17:01&quot;,
+          &quot;url&quot;: &quot;https://www.youtube.com/watch?v=tZb2V1ULYPc&quot;,
+          &quot;thumbnail&quot;: &quot;https://i.ytimg.com/vi/tZb2V1ULYPc/hqdefault.jpg&quot;
         },
         {
-          &quot;label&quot;: &quot;@fahdmirza · 04-25 05:20&quot;,
-          &quot;url&quot;: &quot;https://www.youtube.com/watch?v=Wtvlsu0iZBM&quot;,
-          &quot;thumbnail&quot;: &quot;https://i.ytimg.com/vi/Wtvlsu0iZBM/hqdefault.jpg&quot;
+          &quot;label&quot;: &quot;@JulianGoldieSEO · 04-25 16:45&quot;,
+          &quot;url&quot;: &quot;https://www.youtube.com/watch?v=9hJOx_f-F5I&quot;,
+          &quot;thumbnail&quot;: &quot;https://i.ytimg.com/vi/9hJOx_f-F5I/hqdefault_live.jpg&quot;
         },
         {
-          &quot;label&quot;: &quot;@JulianGoldieSEO · 04-25 04:00&quot;,
-          &quot;url&quot;: &quot;https://www.youtube.com/watch?v=6ijzsyzx9U4&quot;,
-          &quot;thumbnail&quot;: &quot;https://i.ytimg.com/vi/6ijzsyzx9U4/hqdefault.jpg&quot;
+          &quot;label&quot;: &quot;@JulianGoldieSEO · 04-25 15:00&quot;,
+          &quot;url&quot;: &quot;https://www.youtube.com/watch?v=qqSDkTy6VgU&quot;,
+          &quot;thumbnail&quot;: &quot;https://i.ytimg.com/vi/qqSDkTy6VgU/hqdefault.jpg&quot;
         }
       ],
       &quot;entities&quot;: [
         &quot;@JulianGoldieSEO&quot;,
-        &quot;@fahdmirza&quot;,
+        &quot;@JulianGoldieSEO&quot;,
         &quot;@JulianGoldieSEO&quot;,
         &quot;@JulianGoldieSEO&quot;
       ]
     },
     &quot;system&quot;: {
-      &quot;summary&quot;: &quot;CPU 26.5 % 사용 / 클럭 806.4 MHz / RAM 10.0GB 사용, 총 15.8GB (63%) / SSD 288.1GB 사용, 총 476.0GB (60%)&quot;,
-      &quot;take&quot;: &quot;CPU는 현재 26.5 % 사용 중이고 클럭은 806.4 MHz, 버스 스피드는 100.8 MHz, RAM은 총 15.8GB 중 10.0GB 사용 (63%), SSD는 총 476.0GB 중 288.1GB 사용 (60%), 여유 187.9GB입니다. 네트워크 인터페이스는 Ethernet, Ethernet 2, Wi-Fi 기준입니다.&quot;,
+      &quot;summary&quot;: &quot;CPU 46.1 % 사용 / 클럭 1915.2 MHz / RAM 10.9GB 사용, 총 15.8GB (69%) / SSD 281.6GB 사용, 총 476.0GB (59%)&quot;,
+      &quot;take&quot;: &quot;CPU는 현재 46.1 % 사용 중이고 클럭은 1915.2 MHz, 버스 스피드는 100.8 MHz, RAM은 총 15.8GB 중 10.9GB 사용 (69%), SSD는 총 476.0GB 중 281.6GB 사용 (59%), 여유 194.4GB입니다. 네트워크 인터페이스는 Ethernet, Ethernet 2, Wi-Fi 기준입니다.&quot;,
       &quot;metrics&quot;: [
         {
           &quot;label&quot;: &quot;CPU 사용률&quot;,
-          &quot;value&quot;: &quot;26.5 %&quot;,
-          &quot;pct&quot;: 26.5,
+          &quot;value&quot;: &quot;46.1 %&quot;,
+          &quot;pct&quot;: 46.1,
           &quot;tone&quot;: &quot;normal&quot;
         },
         {
           &quot;label&quot;: &quot;CPU 클럭&quot;,
-          &quot;value&quot;: &quot;806.4 MHz&quot;,
-          &quot;pct&quot;: 23.04,
+          &quot;value&quot;: &quot;1915.2 MHz&quot;,
+          &quot;pct&quot;: 54.72,
           &quot;tone&quot;: &quot;normal&quot;
         },
         {
@@ -304,26 +302,26 @@
         },
         {
           &quot;label&quot;: &quot;CPU 온도&quot;,
-          &quot;value&quot;: &quot;44.0 °C&quot;,
-          &quot;pct&quot;: 44.0,
+          &quot;value&quot;: &quot;58.0 °C&quot;,
+          &quot;pct&quot;: 58.0,
           &quot;tone&quot;: &quot;normal&quot;
         },
         {
           &quot;label&quot;: &quot;RAM 사용량&quot;,
-          &quot;value&quot;: &quot;10.0 / 15.8 GB (63%)&quot;,
-          &quot;pct&quot;: 63.0,
+          &quot;value&quot;: &quot;10.9 / 15.8 GB (69%)&quot;,
+          &quot;pct&quot;: 68.9,
           &quot;tone&quot;: &quot;normal&quot;
         },
         {
           &quot;label&quot;: &quot;SSD 사용량&quot;,
-          &quot;value&quot;: &quot;288.1 / 476.0 GB (60%)&quot;,
-          &quot;pct&quot;: 60.5,
+          &quot;value&quot;: &quot;281.6 / 476.0 GB (59%)&quot;,
+          &quot;pct&quot;: 59.2,
           &quot;tone&quot;: &quot;normal&quot;
         },
         {
           &quot;label&quot;: &quot;SSD 여유 공간&quot;,
-          &quot;value&quot;: &quot;187.9 / 476.0 GB&quot;,
-          &quot;pct&quot;: 39.5,
+          &quot;value&quot;: &quot;194.4 / 476.0 GB&quot;,
+          &quot;pct&quot;: 40.8,
           &quot;tone&quot;: &quot;normal&quot;
         },
         {
@@ -334,27 +332,27 @@
         },
         {
           &quot;label&quot;: &quot;업타임&quot;,
-          &quot;value&quot;: &quot;87시간 50분&quot;,
+          &quot;value&quot;: &quot;98시간 57분&quot;,
           &quot;pct&quot;: 100,
           &quot;tone&quot;: &quot;normal&quot;
         },
         {
           &quot;label&quot;: &quot;네트워크 수신&quot;,
-          &quot;value&quot;: &quot;2905.5 MB&quot;,
+          &quot;value&quot;: &quot;3391.4 MB&quot;,
           &quot;pct&quot;: 100,
           &quot;tone&quot;: &quot;normal&quot;
         },
         {
           &quot;label&quot;: &quot;네트워크 송신&quot;,
-          &quot;value&quot;: &quot;1374.6 MB&quot;,
+          &quot;value&quot;: &quot;1464.6 MB&quot;,
           &quot;pct&quot;: 100,
           &quot;tone&quot;: &quot;normal&quot;
         }
       ]
     },
     &quot;openclaw&quot;: {
-      &quot;summary&quot;: &quot;OpenClaw 2026.4.22 (00bd2cf)&quot;,
-      &quot;take&quot;: &quot;Runtime: running (pid 28832, Verified gateway listener detected on port 18789 even though schtasks did not report a running task.) | Listening: 127.0.0.1:18789&quot;,
+      &quot;summary&quot;: &quot;OpenClaw 2026.4.23 (a979721)&quot;,
+      &quot;take&quot;: &quot;Runtime: running (pid 21536, Verified gateway listener detected on port 18789 even though schtasks did not report a running task.) | Listening: 127.0.0.1:18789&quot;,
       &quot;metrics&quot;: [
         {
           &quot;label&quot;: &quot;Gateway&quot;,
@@ -370,7 +368,7 @@
         },
         {
           &quot;label&quot;: &quot;Runtime&quot;,
-          &quot;value&quot;: &quot;running (pid 28832, Verified gateway listener detected on port 18789 even though schtasks did not report a running task.)&quot;,
+          &quot;value&quot;: &quot;running (pid 21536, Verified gateway listener detected on port 18789 even though schtasks did not report a running task.)&quot;,
           &quot;pct&quot;: 100,
           &quot;tone&quot;: &quot;good&quot;
         },
@@ -426,7 +424,7 @@
     },
     {
       &quot;title&quot;: &quot;주요 메일 / 중요 알림&quot;,
-      &quot;summary&quot;: &quot;[중요인물,에러] 보안 알림 / [확인필요] [Action required] Update n / [중요인물] [Product Update] Name upda&quot;,
+      &quot;summary&quot;: &quot;[중요인물,에러] 보안 알림 / [중요인물,에러] 보안 알림 / [확인필요] [Action required] Update n&quot;,
       &quot;take&quot;: &quot;지금 확인할 만한 메일만 추렸습니다. 결제, 업무, 보안성 알림 위주로 먼저 보면 됩니다.&quot;,
       &quot;meta&quot;: [
         &quot;메일&quot;,
@@ -435,8 +433,8 @@
       ],
       &quot;entities&quot;: [
         &quot;에러&quot;,
-        &quot;중요인물&quot;,
-        &quot;확인필요&quot;
+        &quot;확인필요&quot;,
+        &quot;중요인물&quot;
       ],
       &quot;keywords&quot;: [
         &quot;gmail&quot;,
@@ -446,7 +444,7 @@
     },
     {
       &quot;title&quot;: &quot;유튜브 업데이트&quot;,
-      &quot;summary&quot;: &quot;@JulianGoldieSEO New Google Gemini Update / @fahdmirza DeepSeek V4 Pro + OpenCl / @JulianGoldieSEO Hermes Agent v0.11.0: NE&quot;,
+      &quot;summary&quot;: &quot;@JulianGoldieSEO Google Gemini Enterprise / @JulianGoldieSEO DeepSeek V4: Automate &amp;  / @JulianGoldieSEO Hunyuan3 Preview: NEW Ch&quot;,
       &quot;take&quot;: &quot;업로드 속도가 빠른 채널은 오늘도 여러 편이 들어왔습니다. 중요한 주제부터 2~3개만 골라 보면 효율이 좋습니다.&quot;,
       &quot;meta&quot;: [
         &quot;유튜브&quot;,
@@ -455,7 +453,7 @@
       ],
       &quot;entities&quot;: [
         &quot;@JulianGoldieSEO&quot;,
-        &quot;@fahdmirza&quot;,
+        &quot;@JulianGoldieSEO&quot;,
         &quot;@JulianGoldieSEO&quot;,
         &quot;@JulianGoldieSEO&quot;
       ],
@@ -466,26 +464,26 @@
       ],
       &quot;links&quot;: [
         {
-          &quot;label&quot;: &quot;@JulianGoldieSEO · 04-25 06:00&quot;,
-          &quot;url&quot;: &quot;https://www.youtube.com/watch?v=q07qVi4ewDs&quot;,
-          &quot;thumbnail&quot;: &quot;https://i.ytimg.com/vi/q07qVi4ewDs/hqdefault.jpg&quot;
+          &quot;label&quot;: &quot;@JulianGoldieSEO · 04-25 17:01&quot;,
+          &quot;url&quot;: &quot;https://www.youtube.com/watch?v=tZb2V1ULYPc&quot;,
+          &quot;thumbnail&quot;: &quot;https://i.ytimg.com/vi/tZb2V1ULYPc/hqdefault.jpg&quot;
         },
         {
-          &quot;label&quot;: &quot;@fahdmirza · 04-25 05:20&quot;,
-          &quot;url&quot;: &quot;https://www.youtube.com/watch?v=Wtvlsu0iZBM&quot;,
-          &quot;thumbnail&quot;: &quot;https://i.ytimg.com/vi/Wtvlsu0iZBM/hqdefault.jpg&quot;
+          &quot;label&quot;: &quot;@JulianGoldieSEO · 04-25 16:45&quot;,
+          &quot;url&quot;: &quot;https://www.youtube.com/watch?v=9hJOx_f-F5I&quot;,
+          &quot;thumbnail&quot;: &quot;https://i.ytimg.com/vi/9hJOx_f-F5I/hqdefault_live.jpg&quot;
         },
         {
-          &quot;label&quot;: &quot;@JulianGoldieSEO · 04-25 04:00&quot;,
-          &quot;url&quot;: &quot;https://www.youtube.com/watch?v=6ijzsyzx9U4&quot;,
-          &quot;thumbnail&quot;: &quot;https://i.ytimg.com/vi/6ijzsyzx9U4/hqdefault.jpg&quot;
+          &quot;label&quot;: &quot;@JulianGoldieSEO · 04-25 15:00&quot;,
+          &quot;url&quot;: &quot;https://www.youtube.com/watch?v=qqSDkTy6VgU&quot;,
+          &quot;thumbnail&quot;: &quot;https://i.ytimg.com/vi/qqSDkTy6VgU/hqdefault.jpg&quot;
         }
       ]
     },
     {
       &quot;title&quot;: &quot;시스템 상태 요약&quot;,
-      &quot;summary&quot;: &quot;CPU 26.5 % 사용 / 클럭 806.4 MHz / RAM 10.0GB 사용, 총 15.8GB (63%) / SSD 288.1GB 사용, 총 476.0GB (60%)&quot;,
-      &quot;take&quot;: &quot;CPU는 현재 26.5 % 사용 중이고 클럭은 806.4 MHz, 버스 스피드는 100.8 MHz, RAM은 총 15.8GB 중 10.0GB 사용 (63%), SSD는 총 476.0GB 중 288.1GB 사용 (60%), 여유 187.9GB입니다. 네트워크 인터페이스는 Ethernet, Ethernet 2, Wi-Fi 기준입니다.&quot;,
+      &quot;summary&quot;: &quot;CPU 46.1 % 사용 / 클럭 1915.2 MHz / RAM 10.9GB 사용, 총 15.8GB (69%) / SSD 281.6GB 사용, 총 476.0GB (59%)&quot;,
+      &quot;take&quot;: &quot;CPU는 현재 46.1 % 사용 중이고 클럭은 1915.2 MHz, 버스 스피드는 100.8 MHz, RAM은 총 15.8GB 중 10.9GB 사용 (69%), SSD는 총 476.0GB 중 281.6GB 사용 (59%), 여유 194.4GB입니다. 네트워크 인터페이스는 Ethernet, Ethernet 2, Wi-Fi 기준입니다.&quot;,
       &quot;meta&quot;: [
         &quot;시스템&quot;,
         &quot;LHM&quot;
@@ -504,8 +502,8 @@
     },
     {
       &quot;title&quot;: &quot;OpenClaw 상태 요약&quot;,
-      &quot;summary&quot;: &quot;OpenClaw 2026.4.22 (00bd2cf)&quot;,
-      &quot;take&quot;: &quot;Runtime: running (pid 28832, Verified gateway listener detected on port 18789 even though schtasks did not report a running task.) | Listening: 127.0.0.1:18789&quot;,
+      &quot;summary&quot;: &quot;OpenClaw 2026.4.23 (a979721)&quot;,
+      &quot;take&quot;: &quot;Runtime: running (pid 21536, Verified gateway listener detected on port 18789 even though schtasks did not report a running task.) | Listening: 127.0.0.1:18789&quot;,
       &quot;meta&quot;: [
         &quot;OpenClaw&quot;,
         &quot;Gateway&quot;
