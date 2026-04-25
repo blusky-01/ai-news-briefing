@@ -1,0 +1,392 @@
+{
+  "date": "2026-04-26 07:00",
+  "title": "아침 브리핑",
+  "subtitle": "날씨 · 응원 · 일정 · 메일 · 유튜브 · 시스템 · OpenClaw",
+  "summary": "오늘은 18:00 무조건 걷기 운동부터 시작됩니다. 첫 흐름만 안정적으로 잡으면 오늘 전체 리듬이 훨씬 부드럽게 이어질 겁니다.",
+  "summary_box": "오늘은 우산을 챙겨두는 게 좋겠습니다. 비 맞으면 컨디션이 금방 떨어집니다. 일정이 있는 날일수록 처음 두 개를 완벽하게 하려 하기보다, 팀장님 페이스를 끝까지 유지하는 쪽이 더 강합니다. 무리하지 말고 호흡을 길게 가져가시면 됩니다.",
+  "weather": {
+    "loc": "김해",
+    "temp": "9°C",
+    "desc": "Sunny",
+    "icon": "⛅",
+    "badges": [
+      "체감 9°C",
+      "습도 66%",
+      "강수확률 81%",
+      "풍속 4km/h",
+      "UV 0",
+      "미세먼지 정보 연동 예정"
+    ],
+    "detail": {
+      "feels_like": "9",
+      "humidity": "66",
+      "rain_chance": "81",
+      "wind_kmph": "4",
+      "uv": "0",
+      "pm": "미세먼지 정보 연동 예정"
+    },
+    "life_comment": "오늘은 우산을 챙겨두는 게 좋겠습니다. 비 맞으면 컨디션이 금방 떨어집니다."
+  },
+  "sections": {
+    "calendar": {
+      "summary": "18:00 무조건 걷기 운동",
+      "take": "오늘은 일정 흐름이 보이는 날입니다. 시작 전에 우선순위만 정리하면 훨씬 가볍게 밀 수 있습니다.",
+      "items": [
+        {
+          "shown": "18:00",
+          "summary": "무조건 걷기 운동",
+          "htmlLink": "https://www.google.com/calendar/event?eid=bGdib2VxZGRtbG9rcGlhdjNqbGYyMXZtb3NfMjAyNjA0MjZUMDkwMDAwWiBibHVhcmFvbjIwQG0"
+        }
+      ],
+      "links": [
+        {
+          "label": "18:00 · 무조건 걷기 운동",
+          "url": "https://www.google.com/calendar/event?eid=bGdib2VxZGRtbG9rcGlhdjNqbGYyMXZtb3NfMjAyNjA0MjZUMDkwMDAwWiBibHVhcmFvbjIwQG0"
+        }
+      ],
+      "entities": [
+        "calendar"
+      ]
+    },
+    "mail": {
+      "summary": "[중요인물,에러] 보안 알림 / [중요인물,에러] 보안 알림 / [확인필요] [Action required] Update n",
+      "take": "지금 확인할 만한 메일만 추렸습니다. 결제, 업무, 보안성 알림 위주로 먼저 보면 됩니다.",
+      "items": [
+        {
+          "date": "2026-04-25 16:38",
+          "from": "Google <no-reply@accounts.google.com>",
+          "subject": "보안 알림",
+          "tags": [
+            "중요인물",
+            "에러"
+          ]
+        },
+        {
+          "date": "2026-04-25 02:13",
+          "from": "Google <no-reply@accounts.google.com>",
+          "subject": "보안 알림",
+          "tags": [
+            "중요인물",
+            "에러"
+          ]
+        },
+        {
+          "date": "2026-04-24 18:45",
+          "from": "Cloudflare <noreply@notify.cloudflare.com>",
+          "subject": "[Action required] Update nameservers for smartvalve.com",
+          "tags": [
+            "확인필요"
+          ]
+        }
+      ],
+      "links": [],
+      "entities": [
+        "확인필요",
+        "중요인물",
+        "에러"
+      ]
+    },
+    "youtube": {
+      "summary": "@JulianGoldieSEO DeepSeek-V4 Preview Upda / @JulianGoldieSEO DeepSeek V4: Automate &  / @JulianGoldieSEO New Google NotebookLM Up",
+      "take": "업로드 속도가 빠른 채널은 오늘도 여러 편이 들어왔습니다. 중요한 주제부터 2~3개만 골라 보면 효율이 좋습니다.",
+      "items": [
+        {
+          "channel": "@JulianGoldieSEO",
+          "title": "DeepSeek-V4 Preview Update is INSANE",
+          "published": "04-26 07:00",
+          "published_dt": "2026-04-26T07:00:25+09:00",
+          "url": "https://www.youtube.com/watch?v=Tq1ool1N2PM",
+          "thumbnail": "https://i.ytimg.com/vi/Tq1ool1N2PM/hqdefault.jpg",
+          "summary": "이 영상은 모델/LLM, 에이전트/자동화, 튜토리얼/설정 중심 내용입니다. 구성은 Intro – Why DeepSeek V4 is the biggest open-source AI drop of the year, Who Is This Channel? – AI tools for smarter workflows, V4 Model Overview – V4 Pro vs. V4 Flash explained, Mixture of Experts – How 1.6T parameters stay efficient 순서로 이어집니다.",
+          "description_excerpt": "00:00 Intro – Why DeepSeek V4 is the biggest open-source AI drop of the year 00:18 Who Is This Channel? – AI tools for smarter workflows 00:36 V4 Model Overview – V4 Pro vs. V4 Flash explained 00:54 Mixture of Experts – How 1.6T parameters stay efficient 01:18 V4 Flash & Reasoning – When Flash matches Pro performance 01:32 1 Million Token Context – What it m",
+          "transcript_excerpt": "",
+          "shorts": false
+        },
+        {
+          "channel": "@JulianGoldieSEO",
+          "title": "DeepSeek V4: Automate & Build ANYTHING!",
+          "published": "04-26 06:29",
+          "published_dt": "2026-04-26T06:29:20+09:00",
+          "url": "https://www.youtube.com/watch?v=9hJOx_f-F5I",
+          "thumbnail": "https://i.ytimg.com/vi/9hJOx_f-F5I/hqdefault.jpg",
+          "summary": "DeepSeek V4: Automate & Build ANYTHING! 주제를 중심으로 무엇이 새로 나왔는지, 또는 어떻게 활용하는지를 설명하는 영상입니다.",
+          "description_excerpt": "",
+          "transcript_excerpt": "",
+          "shorts": false
+        },
+        {
+          "channel": "@JulianGoldieSEO",
+          "title": "New Google NotebookLM Update Is INSANE (FREE!) 🤯",
+          "published": "04-26 06:00",
+          "published_dt": "2026-04-26T06:00:06+09:00",
+          "url": "https://www.youtube.com/watch?v=56YcawW-F34",
+          "thumbnail": "https://i.ytimg.com/vi/56YcawW-F34/hqdefault.jpg",
+          "summary": "이 영상은 모델/LLM, 에이전트/자동화, 수익화/마케팅 중심 내용입니다. 구성은 Intro: The Insane New Update, How New Auto-Categorization Works, Organizing Business Workflows, NotebookLM vs. ChatGPT & Notion 순서로 이어집니다.",
+          "description_excerpt": "00:00 - Intro: The Insane New Update 01:10 - How New Auto-Categorization Works 02:02 - Organizing Business Workflows 03:37 - NotebookLM vs. ChatGPT & Notion 04:16 - Top 3 Use Cases for Growth 05:11 - Using NotebookLM for SEO Strategy 05:51 - Content Repurposing Secret Sauce 07:14 - Mastering Your AI Second Brain",
+          "transcript_excerpt": "",
+          "shorts": false
+        },
+        {
+          "channel": "@fahdmirza",
+          "title": "Google Released TIPSv2 - Beats Others at Their Own Game - Run Locally",
+          "published": "04-26 05:16",
+          "published_dt": "2026-04-26T05:16:39+09:00",
+          "url": "https://www.youtube.com/watch?v=saH_QmbYt1c",
+          "thumbnail": "https://i.ytimg.com/vi/saH_QmbYt1c/hqdefault.jpg",
+          "summary": "이 영상은 튜토리얼/설정 중심 내용입니다. 구성은 This video locally installs and tests TIPSv2 for spatial awareness 순서로 이어집니다. This video locally installs and tests TIPSv2 for spatial awareness 🔥 Get 50% Discount on any A6000 or A5000 GPU rental, use following link and coupon: Coupon code: FahdMirza 🔥 Buy Me a Coffee to support t...",
+          "description_excerpt": "This video locally installs and tests TIPSv2 for spatial awareness. 🔥 Get 50% Discount on any A6000 or A5000 GPU rental, use following link and coupon: Coupon code: FahdMirza 🔥 Buy Me a Coffee to support the channel: PLEASE FOLLOW ME: ▶ LinkedIn: ▶ YouTube: ▶ Blog: RESOURCES: ▶ All rights reserved © Fahd Mirza",
+          "transcript_excerpt": "",
+          "shorts": false
+        },
+        {
+          "channel": "@JulianGoldieSEO",
+          "title": "Grok Voice Think Fast 1.0 Update",
+          "published": "04-26 05:00",
+          "published_dt": "2026-04-26T05:00:28+09:00",
+          "url": "https://www.youtube.com/watch?v=PofRhBWwIqM",
+          "thumbnail": "https://i.ytimg.com/vi/PofRhBWwIqM/hqdefault.jpg",
+          "summary": "이 영상은 모델/LLM 중심 내용입니다. 구성은 Intro – Why voice AI fails at real work, What is Grok Voice ThinkFast 1.0?, Beats GPT & Gemini on global leaderboard, Background reasoning – Fast, smart responses 순서로 이어집니다.",
+          "description_excerpt": "00:00 Intro – Why voice AI fails at real work 01:01 What is Grok Voice ThinkFast 1.0? 01:26 Beats GPT & Gemini on global leaderboard 02:00 Background reasoning – Fast, smart responses 02:23 Accuracy test – Where rivals get it wrong 02:51 25+ languages, auto-detected 03:15 Starlink real-world deployment results 04:30 API access & getting started 04:45 5 voice",
+          "transcript_excerpt": "",
+          "shorts": false
+        }
+      ],
+      "links": [
+        {
+          "label": "@JulianGoldieSEO · 04-26 07:00",
+          "url": "https://www.youtube.com/watch?v=Tq1ool1N2PM",
+          "thumbnail": "https://i.ytimg.com/vi/Tq1ool1N2PM/hqdefault.jpg"
+        },
+        {
+          "label": "@JulianGoldieSEO · 04-26 06:29",
+          "url": "https://www.youtube.com/watch?v=9hJOx_f-F5I",
+          "thumbnail": "https://i.ytimg.com/vi/9hJOx_f-F5I/hqdefault.jpg"
+        },
+        {
+          "label": "@JulianGoldieSEO · 04-26 06:00",
+          "url": "https://www.youtube.com/watch?v=56YcawW-F34",
+          "thumbnail": "https://i.ytimg.com/vi/56YcawW-F34/hqdefault.jpg"
+        }
+      ],
+      "entities": [
+        "@JulianGoldieSEO",
+        "@JulianGoldieSEO",
+        "@JulianGoldieSEO",
+        "@fahdmirza"
+      ]
+    },
+    "system": {
+      "summary": "CPU 14.5 % 사용 / 클럭 1209.6 MHz / RAM 13.8GB 사용, 총 15.8GB (87%) / SSD 282.4GB 사용, 총 476.0GB (59%)",
+      "take": "CPU는 현재 14.5 % 사용 중이고 클럭은 1209.6 MHz, 버스 스피드는 100.8 MHz, RAM은 총 15.8GB 중 13.8GB 사용 (87%), SSD는 총 476.0GB 중 282.4GB 사용 (59%), 여유 193.6GB입니다. 네트워크 인터페이스는 Ethernet, Ethernet 2, Wi-Fi 기준입니다.",
+      "metrics": [
+        {
+          "label": "CPU 사용률",
+          "value": "14.5 %",
+          "pct": 14.5,
+          "tone": "normal"
+        },
+        {
+          "label": "CPU 클럭",
+          "value": "1209.6 MHz",
+          "pct": 34.559999999999995,
+          "tone": "normal"
+        },
+        {
+          "label": "버스 스피드",
+          "value": "100.8 MHz",
+          "pct": 100,
+          "tone": "normal"
+        },
+        {
+          "label": "CPU 온도",
+          "value": "54.0 °C",
+          "pct": 54.0,
+          "tone": "normal"
+        },
+        {
+          "label": "RAM 사용량",
+          "value": "13.8 / 15.8 GB (87%)",
+          "pct": 87.4,
+          "tone": "warm"
+        },
+        {
+          "label": "SSD 사용량",
+          "value": "282.4 / 476.0 GB (59%)",
+          "pct": 59.3,
+          "tone": "normal"
+        },
+        {
+          "label": "SSD 여유 공간",
+          "value": "193.6 / 476.0 GB",
+          "pct": 40.7,
+          "tone": "normal"
+        },
+        {
+          "label": "SSD 온도",
+          "value": "40.0 °C",
+          "pct": 40.0,
+          "tone": "normal"
+        },
+        {
+          "label": "업타임",
+          "value": "111시간 48분",
+          "pct": 100,
+          "tone": "normal"
+        },
+        {
+          "label": "네트워크 수신",
+          "value": "3658.7 MB",
+          "pct": 100,
+          "tone": "normal"
+        },
+        {
+          "label": "네트워크 송신",
+          "value": "1550.2 MB",
+          "pct": 100,
+          "tone": "normal"
+        }
+      ]
+    },
+    "openclaw": {
+      "summary": "OpenClaw 2026.4.23 (a979721)",
+      "take": "게이트웨이 상태 확인 실패",
+      "metrics": []
+    }
+  },
+  "cards": [
+    {
+      "title": "오늘의 한마디",
+      "summary": "오늘은 18:00 무조건 걷기 운동부터 시작됩니다. 첫 흐름만 안정적으로 잡으면 오늘 전체 리듬이 훨씬 부드럽게 이어질 겁니다.",
+      "take": "오늘은 우산을 챙겨두는 게 좋겠습니다. 비 맞으면 컨디션이 금방 떨어집니다. 일정이 있는 날일수록 처음 두 개를 완벽하게 하려 하기보다, 팀장님 페이스를 끝까지 유지하는 쪽이 더 강합니다. 무리하지 말고 호흡을 길게 가져가시면 됩니다.",
+      "meta": [
+        "응원",
+        "중간 길이"
+      ],
+      "entities": [],
+      "keywords": [
+        "아침",
+        "집중"
+      ],
+      "links": []
+    },
+    {
+      "title": "오늘 일정",
+      "summary": "18:00 무조건 걷기 운동",
+      "take": "오늘은 일정 흐름이 보이는 날입니다. 시작 전에 우선순위만 정리하면 훨씬 가볍게 밀 수 있습니다.",
+      "meta": [
+        "일정",
+        "calendar"
+      ],
+      "entities": [
+        "calendar"
+      ],
+      "keywords": [
+        "calendar"
+      ],
+      "links": [
+        {
+          "label": "18:00 · 무조건 걷기 운동",
+          "url": "https://www.google.com/calendar/event?eid=bGdib2VxZGRtbG9rcGlhdjNqbGYyMXZtb3NfMjAyNjA0MjZUMDkwMDAwWiBibHVhcmFvbjIwQG0"
+        }
+      ]
+    },
+    {
+      "title": "주요 메일 / 중요 알림",
+      "summary": "[중요인물,에러] 보안 알림 / [중요인물,에러] 보안 알림 / [확인필요] [Action required] Update n",
+      "take": "지금 확인할 만한 메일만 추렸습니다. 결제, 업무, 보안성 알림 위주로 먼저 보면 됩니다.",
+      "meta": [
+        "메일",
+        "gmail",
+        "중요 알림"
+      ],
+      "entities": [
+        "확인필요",
+        "중요인물",
+        "에러"
+      ],
+      "keywords": [
+        "gmail",
+        "alert"
+      ],
+      "links": []
+    },
+    {
+      "title": "유튜브 업데이트",
+      "summary": "@JulianGoldieSEO DeepSeek-V4 Preview Upda / @JulianGoldieSEO DeepSeek V4: Automate &  / @JulianGoldieSEO New Google NotebookLM Up",
+      "take": "업로드 속도가 빠른 채널은 오늘도 여러 편이 들어왔습니다. 중요한 주제부터 2~3개만 골라 보면 효율이 좋습니다.",
+      "meta": [
+        "유튜브",
+        "AI 채널",
+        "중간 길이"
+      ],
+      "entities": [
+        "@JulianGoldieSEO",
+        "@JulianGoldieSEO",
+        "@JulianGoldieSEO",
+        "@fahdmirza"
+      ],
+      "keywords": [
+        "youtube",
+        "update",
+        "thumbnail"
+      ],
+      "links": [
+        {
+          "label": "@JulianGoldieSEO · 04-26 07:00",
+          "url": "https://www.youtube.com/watch?v=Tq1ool1N2PM",
+          "thumbnail": "https://i.ytimg.com/vi/Tq1ool1N2PM/hqdefault.jpg"
+        },
+        {
+          "label": "@JulianGoldieSEO · 04-26 06:29",
+          "url": "https://www.youtube.com/watch?v=9hJOx_f-F5I",
+          "thumbnail": "https://i.ytimg.com/vi/9hJOx_f-F5I/hqdefault.jpg"
+        },
+        {
+          "label": "@JulianGoldieSEO · 04-26 06:00",
+          "url": "https://www.youtube.com/watch?v=56YcawW-F34",
+          "thumbnail": "https://i.ytimg.com/vi/56YcawW-F34/hqdefault.jpg"
+        }
+      ]
+    },
+    {
+      "title": "시스템 상태 요약",
+      "summary": "CPU 14.5 % 사용 / 클럭 1209.6 MHz / RAM 13.8GB 사용, 총 15.8GB (87%) / SSD 282.4GB 사용, 총 476.0GB (59%)",
+      "take": "CPU는 현재 14.5 % 사용 중이고 클럭은 1209.6 MHz, 버스 스피드는 100.8 MHz, RAM은 총 15.8GB 중 13.8GB 사용 (87%), SSD는 총 476.0GB 중 282.4GB 사용 (59%), 여유 193.6GB입니다. 네트워크 인터페이스는 Ethernet, Ethernet 2, Wi-Fi 기준입니다.",
+      "meta": [
+        "시스템",
+        "LHM"
+      ],
+      "entities": [
+        "Intel N100",
+        "RAM",
+        "SSD"
+      ],
+      "keywords": [
+        "temperature",
+        "load",
+        "memory"
+      ],
+      "links": []
+    },
+    {
+      "title": "OpenClaw 상태 요약",
+      "summary": "OpenClaw 2026.4.23 (a979721)",
+      "take": "게이트웨이 상태 확인 실패",
+      "meta": [
+        "OpenClaw",
+        "Gateway"
+      ],
+      "entities": [
+        "main",
+        "gateway"
+      ],
+      "keywords": [
+        "version",
+        "rpc",
+        "status"
+      ],
+      "links": []
+    }
+  ],
+  "footer": "AI-assisted morning briefing, unified data structure ready for stage 2"
+}
