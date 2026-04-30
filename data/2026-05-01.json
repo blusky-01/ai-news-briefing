@@ -1,0 +1,403 @@
+{
+  "date": "2026-05-01 07:00",
+  "title": "아침 브리핑",
+  "subtitle": "날씨 · 응원 · 일정 · 메일 · 유튜브 · 시스템 · OpenClaw",
+  "summary": "오늘은 18:00 무조건 걷기 운동부터 시작됩니다. 첫 흐름만 안정적으로 잡으면 오늘 전체 리듬이 훨씬 부드럽게 이어질 겁니다.",
+  "summary_box": "큰 변수 없이 움직이기 좋은 날씨입니다. 일정만 잘 잡으면 리듬 있게 가기 좋겠습니다. 일정이 있는 날일수록 처음 두 개를 완벽하게 하려 하기보다, 팀장님 페이스를 끝까지 유지하는 쪽이 더 강합니다. 무리하지 말고 호흡을 길게 가져가시면 됩니다.",
+  "weather": {
+    "loc": "김해",
+    "temp": "12°C",
+    "desc": "Light rain",
+    "icon": "⛅",
+    "badges": [
+      "체감 11°C",
+      "습도 77%",
+      "강수확률 0%",
+      "풍속 15km/h",
+      "UV 0",
+      "미세먼지 정보 연동 예정"
+    ],
+    "detail": {
+      "feels_like": "11",
+      "humidity": "77",
+      "rain_chance": "0",
+      "wind_kmph": "15",
+      "uv": "0",
+      "pm": "미세먼지 정보 연동 예정"
+    },
+    "life_comment": "큰 변수 없이 움직이기 좋은 날씨입니다. 일정만 잘 잡으면 리듬 있게 가기 좋겠습니다."
+  },
+  "sections": {
+    "calendar": {
+      "summary": "18:00 무조건 걷기 운동",
+      "take": "오늘은 일정 흐름이 보이는 날입니다. 시작 전에 우선순위만 정리하면 훨씬 가볍게 밀 수 있습니다.",
+      "items": [
+        {
+          "shown": "18:00",
+          "summary": "무조건 걷기 운동",
+          "htmlLink": "https://www.google.com/calendar/event?eid=bGdib2VxZGRtbG9rcGlhdjNqbGYyMXZtb3NfMjAyNjA1MDFUMDkwMDAwWiBibHVhcmFvbjIwQG0"
+        }
+      ],
+      "links": [
+        {
+          "label": "18:00 · 무조건 걷기 운동",
+          "url": "https://www.google.com/calendar/event?eid=bGdib2VxZGRtbG9rcGlhdjNqbGYyMXZtb3NfMjAyNjA1MDFUMDkwMDAwWiBibHVhcmFvbjIwQG0"
+        }
+      ],
+      "entities": [
+        "calendar"
+      ]
+    },
+    "mail": {
+      "summary": "[확인필요] Workspaces are live / [확인필요] YouTube의 PIP 모드 사용에 관한 업데이",
+      "take": "지금 확인할 만한 메일만 추렸습니다. 결제, 업무, 보안성 알림 위주로 먼저 보면 됩니다.",
+      "items": [
+        {
+          "date": "2026-04-30 23:07",
+          "from": "OpenRouter Team <welcome@openrouter.ai>",
+          "subject": "Workspaces are live",
+          "tags": [
+            "확인필요"
+          ]
+        },
+        {
+          "date": "2026-04-30 04:04",
+          "from": "YouTube Premium <no-reply@youtube.com>",
+          "subject": "YouTube의 PIP 모드 사용에 관한 업데이트",
+          "tags": [
+            "확인필요"
+          ]
+        }
+      ],
+      "links": [],
+      "entities": [
+        "확인필요"
+      ]
+    },
+    "youtube": {
+      "summary": "@JulianGoldieSEO New Google Gemini Update / @fahdmirza MiMo-V2.5-ASR: Xiaomi Ju / @JulianGoldieSEO NEW Gemini Update is INS",
+      "take": "업로드 속도가 빠른 채널은 오늘도 여러 편이 들어왔습니다. 중요한 주제부터 2~3개만 골라 보면 효율이 좋습니다.",
+      "items": [
+        {
+          "channel": "@JulianGoldieSEO",
+          "title": "New Google Gemini Update is INSANE! (FREE)",
+          "published": "05-01 07:00",
+          "published_dt": "2026-05-01T07:00:01+09:00",
+          "url": "https://www.youtube.com/watch?v=1NmErs65J90",
+          "thumbnail": "https://i.ytimg.com/vi/1NmErs65J90/hqdefault.jpg",
+          "summary": "이 영상은 모델/LLM, 에이전트/자동화, 수익화/마케팅 중심 내용입니다. 구성은 Intro: Gemini's Game-Changing Update, How Gemini Generates Ready-to-Use Files, Creating PDF Lead Magnets and Slides, Automated SEO Content Calendars 순서로 이어집니다.",
+          "description_excerpt": "00:00 - Intro: Gemini's Game-Changing Update 01:08 - How Gemini Generates Ready-to-Use Files 01:56 - Creating PDF Lead Magnets and Slides 02:50 - Automated SEO Content Calendars 03:51 - Fill with Gemini and Smart Sheets 04:58 - Agentic Workflows and SEO Reports 05:55 - SEO Checklist and FAQ Automation 06:30 - The Future of AI-Driven SEO",
+          "transcript_excerpt": "",
+          "shorts": false
+        },
+        {
+          "channel": "@fahdmirza",
+          "title": "MiMo-V2.5-ASR: Xiaomi Just Silenced Everyone With This Free Speech AI",
+          "published": "05-01 05:24",
+          "published_dt": "2026-05-01T05:24:22+09:00",
+          "url": "https://www.youtube.com/watch?v=3lXBYgXM090",
+          "thumbnail": "https://i.ytimg.com/vi/3lXBYgXM090/hqdefault.jpg",
+          "summary": "이 영상은 모델/LLM, 튜토리얼/설정 중심 내용입니다. 구성은 This video locally installs MiMo-V2.5-ASR which end-to-end automatic speech recognition (ASR) model 순서로 이어지며, 제목만으로는 보이지 않는 변화 배경·핵심 기능·실제 활용 포인트를 짚어보는 영상입니다.",
+          "description_excerpt": "This video locally installs MiMo-V2.5-ASR which end-to-end automatic speech recognition (ASR) model. 🔥 Get 50% Discount on any A6000 or A5000 GPU rental, use following link and coupon: Coupon code: FahdMirza 🔥 Buy Me a Coffee to support the channel: PLEASE FOLLOW ME: ▶ LinkedIn: ▶ YouTube: ▶ Blog: RESOURCES: ▶ ▶ Thanks ElevenLabs for first audio sample All r",
+          "transcript_excerpt": "",
+          "shorts": false
+        },
+        {
+          "channel": "@JulianGoldieSEO",
+          "title": "NEW Gemini Update is INSANE! 🤯",
+          "published": "05-01 05:00",
+          "published_dt": "2026-05-01T05:00:40+09:00",
+          "url": "https://www.youtube.com/watch?v=mfxwpDIsYHc",
+          "thumbnail": "https://i.ytimg.com/vi/mfxwpDIsYHc/hqdefault.jpg",
+          "summary": "이 영상은 모델/LLM, 에이전트/자동화 중심 내용입니다. 구성은 Intro: Gemini’s Insane Update, Gemini Projects Explained, From Chatbots to AI Agents, Real-World Workflow Example 순서로 이어집니다.",
+          "description_excerpt": "00:00 - Intro: Gemini’s Insane Update 00:26 - Gemini Projects Explained 01:47 - From Chatbots to AI Agents 02:26 - Real-World Workflow Example 03:20 - Gemini Enterprise for Teams 04:11 - Workspace Intelligence & Memory 06:04 - Humans vs. AI Agents 06:32 - The Future of AI Workflows",
+          "transcript_excerpt": "",
+          "shorts": false
+        },
+        {
+          "channel": "@JulianGoldieSEO",
+          "title": "New Claude Code Update is INSANE!",
+          "published": "05-01 03:00",
+          "published_dt": "2026-05-01T03:00:34+09:00",
+          "url": "https://www.youtube.com/watch?v=VLwX8bHdUVA",
+          "thumbnail": "https://i.ytimg.com/vi/VLwX8bHdUVA/hqdefault.jpg",
+          "summary": "이 영상은 모델/LLM, 에이전트/자동화 중심 내용입니다. 구성은 Intro: The Game-Changing Claude Update, Automated API Migrations, What the Claude API Skill Does, Migrating to Opus 4.7 순서로 이어집니다.",
+          "description_excerpt": "00:00 - Intro: The Game-Changing Claude Update 00:07 - Automated API Migrations 01:00 - What the Claude API Skill Does 01:23 - Migrating to Opus 4.7 01:50 - Anthropic Managed Agents Explained 03:35 - Prompt-Based Skills vs. Scripts 04:25 - Opus 4.7 Breaking Changes to Watch 06:45 - Mastering Prompt Caching 07:55 - The Future of Open Source Skills",
+          "transcript_excerpt": "",
+          "shorts": false
+        },
+        {
+          "channel": "@JulianGoldieSEO",
+          "title": "Build Anything with GPT 5.5, Here's How...",
+          "published": "05-01 01:00",
+          "published_dt": "2026-05-01T01:00:13+09:00",
+          "url": "https://www.youtube.com/watch?v=8cuJgtVZFiY",
+          "thumbnail": "https://i.ytimg.com/vi/8cuJgtVZFiY/hqdefault.jpg",
+          "summary": "이 영상은 모델/LLM, 에이전트/자동화 중심 내용입니다. 구성은 Intro: GPT-5.5 is Genuinely Different, Benchmarking Agentic Performance, Automating Workflows with Codeex, Real World Case Study: NVIDIA 순서로 이어집니다.",
+          "description_excerpt": "00:00 - Intro: GPT-5.5 is Genuinely Different 00:47 - Benchmarking Agentic Performance 01:55 - Automating Workflows with Codeex 02:16 - Real World Case Study: NVIDIA 03:23 - Breakthrough: Computer Use Capability 05:03 - Messy Inputs to Organized Plans 07:01 - 4 Steps to Start Using GPT-5.5",
+          "transcript_excerpt": "",
+          "shorts": false
+        }
+      ],
+      "links": [
+        {
+          "label": "@JulianGoldieSEO · 05-01 07:00",
+          "url": "https://www.youtube.com/watch?v=1NmErs65J90",
+          "thumbnail": "https://i.ytimg.com/vi/1NmErs65J90/hqdefault.jpg"
+        },
+        {
+          "label": "@fahdmirza · 05-01 05:24",
+          "url": "https://www.youtube.com/watch?v=3lXBYgXM090",
+          "thumbnail": "https://i.ytimg.com/vi/3lXBYgXM090/hqdefault.jpg"
+        },
+        {
+          "label": "@JulianGoldieSEO · 05-01 05:00",
+          "url": "https://www.youtube.com/watch?v=mfxwpDIsYHc",
+          "thumbnail": "https://i.ytimg.com/vi/mfxwpDIsYHc/hqdefault.jpg"
+        }
+      ],
+      "entities": [
+        "@JulianGoldieSEO",
+        "@fahdmirza",
+        "@JulianGoldieSEO",
+        "@JulianGoldieSEO"
+      ]
+    },
+    "system": {
+      "summary": "CPU 36.5 % 사용 / 클럭 604.8 MHz / RAM 11.0GB 사용, 총 15.8GB (70%) / SSD 290.9GB 사용, 총 476.0GB (61%)",
+      "take": "CPU는 현재 36.5 % 사용 중이고 클럭은 604.8 MHz, 버스 스피드는 100.8 MHz, RAM은 총 15.8GB 중 11.0GB 사용 (70%), SSD는 총 476.0GB 중 290.9GB 사용 (61%), 여유 185.1GB입니다. 네트워크 인터페이스는 Ethernet, Ethernet 2, Wi-Fi 기준입니다.",
+      "metrics": [
+        {
+          "label": "CPU 사용률",
+          "value": "36.5 %",
+          "pct": 36.5,
+          "tone": "normal"
+        },
+        {
+          "label": "CPU 클럭",
+          "value": "604.8 MHz",
+          "pct": 17.279999999999998,
+          "tone": "normal"
+        },
+        {
+          "label": "버스 스피드",
+          "value": "100.8 MHz",
+          "pct": 100,
+          "tone": "normal"
+        },
+        {
+          "label": "CPU 온도",
+          "value": "48.0 °C",
+          "pct": 48.0,
+          "tone": "normal"
+        },
+        {
+          "label": "RAM 사용량",
+          "value": "11.0 / 15.8 GB (70%)",
+          "pct": 69.5,
+          "tone": "normal"
+        },
+        {
+          "label": "SSD 사용량",
+          "value": "290.9 / 476.0 GB (61%)",
+          "pct": 61.1,
+          "tone": "normal"
+        },
+        {
+          "label": "SSD 여유 공간",
+          "value": "185.1 / 476.0 GB",
+          "pct": 38.9,
+          "tone": "normal"
+        },
+        {
+          "label": "SSD 온도",
+          "value": "40.0 °C",
+          "pct": 40.0,
+          "tone": "normal"
+        },
+        {
+          "label": "업타임",
+          "value": "108시간 31분",
+          "pct": 100,
+          "tone": "normal"
+        },
+        {
+          "label": "네트워크 수신",
+          "value": "6752.9 MB",
+          "pct": 100,
+          "tone": "normal"
+        },
+        {
+          "label": "네트워크 송신",
+          "value": "3116.0 MB",
+          "pct": 100,
+          "tone": "normal"
+        }
+      ]
+    },
+    "openclaw": {
+      "summary": "OpenClaw 2026.4.27 (cbc2ba0)",
+      "take": "Runtime: running (pid 18524, Verified gateway listener detected on port 18789 even though schtasks did not report a running task.) | Listening: 127.0.0.1:18789",
+      "metrics": [
+        {
+          "label": "Gateway",
+          "value": "bind=loopback (127.0.0.1), port=18789 (service args)",
+          "pct": 100,
+          "tone": "normal"
+        },
+        {
+          "label": "Probe note",
+          "value": "Loopback-only gateway; only local clients can connect.",
+          "pct": 100,
+          "tone": "normal"
+        },
+        {
+          "label": "Runtime",
+          "value": "running (pid 18524, Verified gateway listener detected on port 18789 even though schtasks did not report a running task.)",
+          "pct": 100,
+          "tone": "good"
+        },
+        {
+          "label": "Listening",
+          "value": "127.0.0.1:18789",
+          "pct": 100,
+          "tone": "good"
+        }
+      ]
+    }
+  },
+  "cards": [
+    {
+      "title": "오늘의 한마디",
+      "summary": "오늘은 18:00 무조건 걷기 운동부터 시작됩니다. 첫 흐름만 안정적으로 잡으면 오늘 전체 리듬이 훨씬 부드럽게 이어질 겁니다.",
+      "take": "큰 변수 없이 움직이기 좋은 날씨입니다. 일정만 잘 잡으면 리듬 있게 가기 좋겠습니다. 일정이 있는 날일수록 처음 두 개를 완벽하게 하려 하기보다, 팀장님 페이스를 끝까지 유지하는 쪽이 더 강합니다. 무리하지 말고 호흡을 길게 가져가시면 됩니다.",
+      "meta": [
+        "응원",
+        "중간 길이"
+      ],
+      "entities": [],
+      "keywords": [
+        "아침",
+        "집중"
+      ],
+      "links": []
+    },
+    {
+      "title": "오늘 일정",
+      "summary": "18:00 무조건 걷기 운동",
+      "take": "오늘은 일정 흐름이 보이는 날입니다. 시작 전에 우선순위만 정리하면 훨씬 가볍게 밀 수 있습니다.",
+      "meta": [
+        "일정",
+        "calendar"
+      ],
+      "entities": [
+        "calendar"
+      ],
+      "keywords": [
+        "calendar"
+      ],
+      "links": [
+        {
+          "label": "18:00 · 무조건 걷기 운동",
+          "url": "https://www.google.com/calendar/event?eid=bGdib2VxZGRtbG9rcGlhdjNqbGYyMXZtb3NfMjAyNjA1MDFUMDkwMDAwWiBibHVhcmFvbjIwQG0"
+        }
+      ]
+    },
+    {
+      "title": "주요 메일 / 중요 알림",
+      "summary": "[확인필요] Workspaces are live / [확인필요] YouTube의 PIP 모드 사용에 관한 업데이",
+      "take": "지금 확인할 만한 메일만 추렸습니다. 결제, 업무, 보안성 알림 위주로 먼저 보면 됩니다.",
+      "meta": [
+        "메일",
+        "gmail",
+        "중요 알림"
+      ],
+      "entities": [
+        "확인필요"
+      ],
+      "keywords": [
+        "gmail",
+        "alert"
+      ],
+      "links": []
+    },
+    {
+      "title": "유튜브 업데이트",
+      "summary": "@JulianGoldieSEO New Google Gemini Update / @fahdmirza MiMo-V2.5-ASR: Xiaomi Ju / @JulianGoldieSEO NEW Gemini Update is INS",
+      "take": "업로드 속도가 빠른 채널은 오늘도 여러 편이 들어왔습니다. 중요한 주제부터 2~3개만 골라 보면 효율이 좋습니다.",
+      "meta": [
+        "유튜브",
+        "AI 채널",
+        "중간 길이"
+      ],
+      "entities": [
+        "@JulianGoldieSEO",
+        "@fahdmirza",
+        "@JulianGoldieSEO",
+        "@JulianGoldieSEO"
+      ],
+      "keywords": [
+        "youtube",
+        "update",
+        "thumbnail"
+      ],
+      "links": [
+        {
+          "label": "@JulianGoldieSEO · 05-01 07:00",
+          "url": "https://www.youtube.com/watch?v=1NmErs65J90",
+          "thumbnail": "https://i.ytimg.com/vi/1NmErs65J90/hqdefault.jpg"
+        },
+        {
+          "label": "@fahdmirza · 05-01 05:24",
+          "url": "https://www.youtube.com/watch?v=3lXBYgXM090",
+          "thumbnail": "https://i.ytimg.com/vi/3lXBYgXM090/hqdefault.jpg"
+        },
+        {
+          "label": "@JulianGoldieSEO · 05-01 05:00",
+          "url": "https://www.youtube.com/watch?v=mfxwpDIsYHc",
+          "thumbnail": "https://i.ytimg.com/vi/mfxwpDIsYHc/hqdefault.jpg"
+        }
+      ]
+    },
+    {
+      "title": "시스템 상태 요약",
+      "summary": "CPU 36.5 % 사용 / 클럭 604.8 MHz / RAM 11.0GB 사용, 총 15.8GB (70%) / SSD 290.9GB 사용, 총 476.0GB (61%)",
+      "take": "CPU는 현재 36.5 % 사용 중이고 클럭은 604.8 MHz, 버스 스피드는 100.8 MHz, RAM은 총 15.8GB 중 11.0GB 사용 (70%), SSD는 총 476.0GB 중 290.9GB 사용 (61%), 여유 185.1GB입니다. 네트워크 인터페이스는 Ethernet, Ethernet 2, Wi-Fi 기준입니다.",
+      "meta": [
+        "시스템",
+        "LHM"
+      ],
+      "entities": [
+        "Intel N100",
+        "RAM",
+        "SSD"
+      ],
+      "keywords": [
+        "temperature",
+        "load",
+        "memory"
+      ],
+      "links": []
+    },
+    {
+      "title": "OpenClaw 상태 요약",
+      "summary": "OpenClaw 2026.4.27 (cbc2ba0)",
+      "take": "Runtime: running (pid 18524, Verified gateway listener detected on port 18789 even though schtasks did not report a running task.) | Listening: 127.0.0.1:18789",
+      "meta": [
+        "OpenClaw",
+        "Gateway"
+      ],
+      "entities": [
+        "main",
+        "gateway"
+      ],
+      "keywords": [
+        "version",
+        "rpc",
+        "status"
+      ],
+      "links": []
+    }
+  ],
+  "footer": "AI-assisted morning briefing, unified data structure ready for stage 2"
+}
