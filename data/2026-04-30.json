@@ -1,31 +1,31 @@
 {
-  "date": "2026-04-30 07:01",
-  "title": "아침 브리핑",
-  "subtitle": "날씨 · 응원 · 일정 · 메일 · 유튜브 · 시스템 · OpenClaw",
+  "date": "2026-04-30 14:32",
+  "title": "오후 브리핑",
+  "subtitle": "오후 리듬 점검 · 남은 일정 · 메일 · 유튜브 · 시스템",
   "summary": "오늘은 18:00 무조건 걷기 운동부터 시작됩니다. 첫 흐름만 안정적으로 잡으면 오늘 전체 리듬이 훨씬 부드럽게 이어질 겁니다.",
-  "summary_box": "습도가 높아 체감이 더 무겁습니다. 물을 자주 마시며 리듬을 유지하면 좋겠습니다. 일정이 있는 날일수록 처음 두 개를 완벽하게 하려 하기보다, 팀장님 페이스를 끝까지 유지하는 쪽이 더 강합니다. 무리하지 말고 호흡을 길게 가져가시면 됩니다.",
+  "summary_box": "큰 변수 없이 움직이기 좋은 날씨입니다. 일정만 잘 잡으면 리듬 있게 가기 좋겠습니다. 일정이 있는 날일수록 처음 두 개를 완벽하게 하려 하기보다, 팀장님 페이스를 끝까지 유지하는 쪽이 더 강합니다. 무리하지 말고 호흡을 길게 가져가시면 됩니다.",
   "weather": {
     "loc": "김해",
-    "temp": "13°C",
-    "desc": "Light rain",
+    "temp": "17°C",
+    "desc": "Partly cloudy",
     "icon": "⛅",
     "badges": [
-      "체감 13°C",
-      "습도 82%",
+      "체감 17°C",
+      "습도 52%",
       "강수확률 0%",
-      "풍속 7km/h",
-      "UV 0",
+      "풍속 14km/h",
+      "UV 5",
       "미세먼지 정보 연동 예정"
     ],
     "detail": {
-      "feels_like": "13",
-      "humidity": "82",
+      "feels_like": "17",
+      "humidity": "52",
       "rain_chance": "0",
-      "wind_kmph": "7",
-      "uv": "0",
+      "wind_kmph": "14",
+      "uv": "5",
       "pm": "미세먼지 정보 연동 예정"
     },
-    "life_comment": "습도가 높아 체감이 더 무겁습니다. 물을 자주 마시며 리듬을 유지하면 좋겠습니다."
+    "life_comment": "큰 변수 없이 움직이기 좋은 날씨입니다. 일정만 잘 잡으면 리듬 있게 가기 좋겠습니다."
   },
   "sections": {
     "calendar": {
@@ -67,130 +67,108 @@
       ]
     },
     "youtube": {
-      "summary": "유튜브 새 영상 목록을 아직 불러오지 못했습니다",
-      "take": "search 호출은 제거했고, quota를 아끼는 구조로 정리했습니다. 현재는 채널 목록만 우선 표시합니다.",
+      "summary": "@JulianGoldieSEO Lobster Father: New Tele / @진바이브 바이브코딩으로 만든 사이트가 월 천만 원을  / @JulianGoldieSEO China’s NEW Xiaomi MiMo-",
+      "take": "업로드 속도가 빠른 채널은 오늘도 여러 편이 들어왔습니다. 중요한 주제부터 2~3개만 골라 보면 효율이 좋습니다.",
       "items": [
         {
-          "channel": "@success_wiki",
-          "title": "채널 바로가기",
-          "published": "",
-          "url": "https://www.youtube.com/@success_wiki",
-          "thumbnail": "",
-          "summary": "이 채널의 최신 영상을 직접 열어 확인할 수 있습니다."
-        },
-        {
           "channel": "@JulianGoldieSEO",
-          "title": "채널 바로가기",
-          "published": "",
-          "url": "https://www.youtube.com/@JulianGoldieSEO",
-          "thumbnail": "",
-          "summary": "이 채널의 최신 영상을 직접 열어 확인할 수 있습니다."
-        },
-        {
-          "channel": "@fahdmirza",
-          "title": "채널 바로가기",
-          "published": "",
-          "url": "https://www.youtube.com/@fahdmirza",
-          "thumbnail": "",
-          "summary": "이 채널의 최신 영상을 직접 열어 확인할 수 있습니다."
-        },
-        {
-          "channel": "@zerochotv",
-          "title": "채널 바로가기",
-          "published": "",
-          "url": "https://www.youtube.com/@zerochotv",
-          "thumbnail": "",
-          "summary": "이 채널의 최신 영상을 직접 열어 확인할 수 있습니다."
-        },
-        {
-          "channel": "@codefundkimflip",
-          "title": "채널 바로가기",
-          "published": "",
-          "url": "https://www.youtube.com/@codefundkimflip",
-          "thumbnail": "",
-          "summary": "이 채널의 최신 영상을 직접 열어 확인할 수 있습니다."
-        },
-        {
-          "channel": "@dante-labs",
-          "title": "채널 바로가기",
-          "published": "",
-          "url": "https://www.youtube.com/@dante-labs",
-          "thumbnail": "",
-          "summary": "이 채널의 최신 영상을 직접 열어 확인할 수 있습니다."
+          "title": "Lobster Father: New Telegram AI Agent is INSANE!",
+          "published": "04-30 14:00",
+          "published_dt": "2026-04-30T14:00:16+09:00",
+          "url": "https://www.youtube.com/watch?v=LqnWvpuoZ2M",
+          "thumbnail": "https://i.ytimg.com/vi/LqnWvpuoZ2M/hqdefault.jpg",
+          "summary": "이 영상은 에이전트/자동화, 튜토리얼/설정 중심 내용입니다. 구성은 Intro – Why 2 taps beats 2 hours of setup, Telegram's New AI Agent Infrastructure, What Is Lobster Father?, Master Agent System Explained 순서로 이어집니다.",
+          "description_excerpt": "00:00 Intro – Why 2 taps beats 2 hours of setup 00:34 Telegram's New AI Agent Infrastructure 01:20 What Is Lobster Father? 02:00 Master Agent System Explained 02:33 Telegram Business Automation 04:21 How to Use It the Right Way 04:57 Bonus AI Updates in April 2026 05:54 Why This Matters Now 06:48 How to Get Started",
+          "transcript_excerpt": "",
+          "shorts": false
         },
         {
           "channel": "@진바이브",
-          "title": "채널 바로가기",
-          "published": "",
-          "url": "https://www.youtube.com/@진바이브",
-          "thumbnail": "",
-          "summary": "이 채널의 최신 영상을 직접 열어 확인할 수 있습니다."
+          "title": "바이브코딩으로 만든 사이트가 월 천만 원을 벌어줍니다  | 수익인증",
+          "published": "04-30 13:40",
+          "published_dt": "2026-04-30T13:40:09+09:00",
+          "url": "https://www.youtube.com/watch?v=pz9BiwcUBgo",
+          "thumbnail": "https://i.ytimg.com/vi/pz9BiwcUBgo/hqdefault.jpg",
+          "summary": "바이브코딩으로 만든 사이트가 월 천만 원을 벌어줍니다 | 수익인증 주제를 중심으로 무엇이 새로 나왔는지, 또는 어떻게 활용하는지를 설명하는 영상입니다.",
+          "description_excerpt": "바이브비즈니스 하세요:",
+          "transcript_excerpt": "",
+          "shorts": false
         },
         {
-          "channel": "@jocoding",
-          "title": "채널 바로가기",
-          "published": "",
-          "url": "https://www.youtube.com/@jocoding",
-          "thumbnail": "",
-          "summary": "이 채널의 최신 영상을 직접 열어 확인할 수 있습니다."
+          "channel": "@JulianGoldieSEO",
+          "title": "China’s NEW Xiaomi MiMo-V2.5 is INSANE!",
+          "published": "04-30 12:00",
+          "published_dt": "2026-04-30T12:00:43+09:00",
+          "url": "https://www.youtube.com/watch?v=d4YXxTeUirE",
+          "thumbnail": "https://i.ytimg.com/vi/d4YXxTeUirE/hqdefault.jpg",
+          "summary": "이 영상은 모델/LLM, 개발도구 중심 내용입니다. 구성은 Intro – Why this open-source drop changes everything, What Is MiMo V2.5 – Two models, MIT license, MiMo V2.5 Pro – Built for autonomous coding, What's New – 1M token context unlocked 순서로 이어집니다.",
+          "description_excerpt": "00:00 Intro – Why this open-source drop changes everything 00:36 What Is MiMo V2.5 – Two models, MIT license 01:37 MiMo V2.5 Pro – Built for autonomous coding 02:03 What's New – 1M token context unlocked 03:38 Benchmarks – Beats top closed models with fewer tokens 04:20 Real Tests – Compiler, video editor, circuit design 06:04 Tips to Get Started – Pick the ",
+          "transcript_excerpt": "",
+          "shorts": false
+        },
+        {
+          "channel": "@JulianGoldieSEO",
+          "title": "NEW Google Browser Use AI Agent is INSANE!",
+          "published": "04-30 11:00",
+          "published_dt": "2026-04-30T11:00:39+09:00",
+          "url": "https://www.youtube.com/watch?v=jB3yKR6bOjQ",
+          "thumbnail": "https://i.ytimg.com/vi/jB3yKR6bOjQ/hqdefault.jpg",
+          "summary": "이 영상은 모델/LLM, 튜토리얼/설정 중심 내용입니다. 구성은 Intro – The browser problem AI just solved, What dropped & why it matters, Google Gemma 4 explained, Open weights, no gatekeeping – what that means for you 순서로 이어집니다.",
+          "description_excerpt": "00:00 Intro – The browser problem AI just solved 00:26 What dropped & why it matters 00:39 Google Gemma 4 explained 01:09 Open weights, no gatekeeping – what that means for you 01:30 Why the numbers are actually impressive 02:11 Edge models: running AI on your laptop or phone 02:48 The free Chrome extension – how it works 03:12 Your data stays on your device",
+          "transcript_excerpt": "",
+          "shorts": false
+        },
+        {
+          "channel": "@zerochotv",
+          "title": "ZeroCho의 하네스엔지니어링 라이브 - OpenAI Codex + GPT-5.5로 AI 조련하기",
+          "published": "04-30 10:19",
+          "published_dt": "2026-04-30T10:19:39+09:00",
+          "url": "https://www.youtube.com/watch?v=th6s1VonsaI",
+          "thumbnail": "https://i.ytimg.com/vi/th6s1VonsaI/hqdefault.jpg",
+          "summary": "이 영상은 모델/LLM 중심 내용입니다. 구성은 \"본 라이브 방송은 OpenAI Codex의 제작 지원을 받아 진행됩니다.\" 바로 사용해보기 : 요즘 가장 핫한 조합이죠?, OpenAI Codex + GPT-5.5로 코드 최대한 치지 않고 프로그램을 만들어봅니다, 제 하네스 엔지니어링 세팅 한번 구경하러 오세요! 순서로 이어집니다. \"본 라이브 방송은 OpenAI Codex의 제작 지원을 받아 진행됩니다.\" 바로 사용해보기 : 요즘 가장 핫한 조합이죠? OpenAI Codex + GPT-5.5로 코드 최대한 치지 않고 프로그램을 만들어봅니다",
+          "description_excerpt": "\"본 라이브 방송은 OpenAI Codex의 제작 지원을 받아 진행됩니다.\" 바로 사용해보기 : 요즘 가장 핫한 조합이죠? OpenAI Codex + GPT-5.5로 코드 최대한 치지 않고 프로그램을 만들어봅니다. 제 하네스 엔지니어링 세팅 한번 구경하러 오세요!",
+          "transcript_excerpt": "",
+          "shorts": false
         }
       ],
       "links": [
         {
-          "label": "@success_wiki",
-          "url": "https://www.youtube.com/@success_wiki"
+          "label": "@JulianGoldieSEO · 04-30 14:00",
+          "url": "https://www.youtube.com/watch?v=LqnWvpuoZ2M",
+          "thumbnail": "https://i.ytimg.com/vi/LqnWvpuoZ2M/hqdefault.jpg"
         },
         {
-          "label": "@JulianGoldieSEO",
-          "url": "https://www.youtube.com/@JulianGoldieSEO"
+          "label": "@진바이브 · 04-30 13:40",
+          "url": "https://www.youtube.com/watch?v=pz9BiwcUBgo",
+          "thumbnail": "https://i.ytimg.com/vi/pz9BiwcUBgo/hqdefault.jpg"
         },
         {
-          "label": "@fahdmirza",
-          "url": "https://www.youtube.com/@fahdmirza"
-        },
-        {
-          "label": "@zerochotv",
-          "url": "https://www.youtube.com/@zerochotv"
-        },
-        {
-          "label": "@codefundkimflip",
-          "url": "https://www.youtube.com/@codefundkimflip"
-        },
-        {
-          "label": "@dante-labs",
-          "url": "https://www.youtube.com/@dante-labs"
-        },
-        {
-          "label": "@진바이브",
-          "url": "https://www.youtube.com/@진바이브"
-        },
-        {
-          "label": "@jocoding",
-          "url": "https://www.youtube.com/@jocoding"
+          "label": "@JulianGoldieSEO · 04-30 12:00",
+          "url": "https://www.youtube.com/watch?v=d4YXxTeUirE",
+          "thumbnail": "https://i.ytimg.com/vi/d4YXxTeUirE/hqdefault.jpg"
         }
       ],
       "entities": [
-        "@success_wiki",
         "@JulianGoldieSEO",
-        "@fahdmirza",
-        "@zerochotv",
-        "@codefundkimflip"
+        "@진바이브",
+        "@JulianGoldieSEO",
+        "@JulianGoldieSEO"
       ]
     },
     "system": {
-      "summary": "CPU 17.9 % 사용 / 클럭 1612.8 MHz / RAM 11.1GB 사용, 총 15.8GB (71%) / SSD 284.5GB 사용, 총 476.0GB (60%)",
-      "take": "CPU는 현재 17.9 % 사용 중이고 클럭은 1612.8 MHz, 버스 스피드는 100.8 MHz, RAM은 총 15.8GB 중 11.1GB 사용 (71%), SSD는 총 476.0GB 중 284.5GB 사용 (60%), 여유 191.5GB입니다. 네트워크 인터페이스는 Ethernet, Ethernet 2, Wi-Fi 기준입니다.",
+      "summary": "CPU 28.9 % 사용 / 클럭 1310.4 MHz / RAM 10.5GB 사용, 총 15.8GB (66%) / SSD 284.6GB 사용, 총 476.0GB (60%)",
+      "take": "CPU는 현재 28.9 % 사용 중이고 클럭은 1310.4 MHz, 버스 스피드는 100.8 MHz, RAM은 총 15.8GB 중 10.5GB 사용 (66%), SSD는 총 476.0GB 중 284.6GB 사용 (60%), 여유 191.4GB입니다. 네트워크 인터페이스는 Ethernet, Ethernet 2, Wi-Fi 기준입니다.",
       "metrics": [
         {
           "label": "CPU 사용률",
-          "value": "17.9 %",
-          "pct": 17.9,
+          "value": "28.9 %",
+          "pct": 28.9,
           "tone": "normal"
         },
         {
           "label": "CPU 클럭",
-          "value": "1612.8 MHz",
-          "pct": 46.08,
+          "value": "1310.4 MHz",
+          "pct": 37.440000000000005,
           "tone": "normal"
         },
         {
@@ -201,25 +179,25 @@
         },
         {
           "label": "CPU 온도",
-          "value": "59.0 °C",
-          "pct": 59.0,
+          "value": "51.0 °C",
+          "pct": 51.0,
           "tone": "normal"
         },
         {
           "label": "RAM 사용량",
-          "value": "11.1 / 15.8 GB (71%)",
-          "pct": 70.6,
+          "value": "10.5 / 15.8 GB (66%)",
+          "pct": 66.5,
           "tone": "normal"
         },
         {
           "label": "SSD 사용량",
-          "value": "284.5 / 476.0 GB (60%)",
+          "value": "284.6 / 476.0 GB (60%)",
           "pct": 59.8,
           "tone": "normal"
         },
         {
           "label": "SSD 여유 공간",
-          "value": "191.5 / 476.0 GB",
+          "value": "191.4 / 476.0 GB",
           "pct": 40.2,
           "tone": "normal"
         },
@@ -231,19 +209,19 @@
         },
         {
           "label": "업타임",
-          "value": "84시간 32분",
+          "value": "92시간 3분",
           "pct": 100,
           "tone": "normal"
         },
         {
           "label": "네트워크 수신",
-          "value": "6311.5 MB",
+          "value": "6443.0 MB",
           "pct": 100,
           "tone": "normal"
         },
         {
           "label": "네트워크 송신",
-          "value": "2852.8 MB",
+          "value": "3041.4 MB",
           "pct": 100,
           "tone": "normal"
         }
@@ -251,7 +229,7 @@
     },
     "openclaw": {
       "summary": "OpenClaw 2026.4.24 (cbcfdf6)",
-      "take": "Runtime: running (pid 7140, Verified gateway listener detected on port 18789 even though schtasks did not report a running task.) | Listening: 127.0.0.1:18789",
+      "take": "Runtime: running (pid 1760, Verified gateway listener detected on port 18789 even though schtasks did not report a running task.) | Listening: 127.0.0.1:18789",
       "metrics": [
         {
           "label": "Gateway",
@@ -267,7 +245,7 @@
         },
         {
           "label": "Runtime",
-          "value": "running (pid 7140, Verified gateway listener detected on port 18789 even though schtasks did not report a running task.)",
+          "value": "running (pid 1760, Verified gateway listener detected on port 18789 even though schtasks did not report a running task.)",
           "pct": 100,
           "tone": "good"
         },
@@ -284,7 +262,7 @@
     {
       "title": "오늘의 한마디",
       "summary": "오늘은 18:00 무조건 걷기 운동부터 시작됩니다. 첫 흐름만 안정적으로 잡으면 오늘 전체 리듬이 훨씬 부드럽게 이어질 겁니다.",
-      "take": "습도가 높아 체감이 더 무겁습니다. 물을 자주 마시며 리듬을 유지하면 좋겠습니다. 일정이 있는 날일수록 처음 두 개를 완벽하게 하려 하기보다, 팀장님 페이스를 끝까지 유지하는 쪽이 더 강합니다. 무리하지 말고 호흡을 길게 가져가시면 됩니다.",
+      "take": "큰 변수 없이 움직이기 좋은 날씨입니다. 일정만 잘 잡으면 리듬 있게 가기 좋겠습니다. 일정이 있는 날일수록 처음 두 개를 완벽하게 하려 하기보다, 팀장님 페이스를 끝까지 유지하는 쪽이 더 강합니다. 무리하지 말고 호흡을 길게 가져가시면 됩니다.",
       "meta": [
         "응원",
         "중간 길이"
@@ -337,19 +315,18 @@
     },
     {
       "title": "유튜브 업데이트",
-      "summary": "유튜브 새 영상 목록을 아직 불러오지 못했습니다",
-      "take": "search 호출은 제거했고, quota를 아끼는 구조로 정리했습니다. 현재는 채널 목록만 우선 표시합니다.",
+      "summary": "@JulianGoldieSEO Lobster Father: New Tele / @진바이브 바이브코딩으로 만든 사이트가 월 천만 원을  / @JulianGoldieSEO China’s NEW Xiaomi MiMo-",
+      "take": "업로드 속도가 빠른 채널은 오늘도 여러 편이 들어왔습니다. 중요한 주제부터 2~3개만 골라 보면 효율이 좋습니다.",
       "meta": [
         "유튜브",
         "AI 채널",
         "중간 길이"
       ],
       "entities": [
-        "@success_wiki",
         "@JulianGoldieSEO",
-        "@fahdmirza",
-        "@zerochotv",
-        "@codefundkimflip"
+        "@진바이브",
+        "@JulianGoldieSEO",
+        "@JulianGoldieSEO"
       ],
       "keywords": [
         "youtube",
@@ -358,43 +335,26 @@
       ],
       "links": [
         {
-          "label": "@success_wiki",
-          "url": "https://www.youtube.com/@success_wiki"
+          "label": "@JulianGoldieSEO · 04-30 14:00",
+          "url": "https://www.youtube.com/watch?v=LqnWvpuoZ2M",
+          "thumbnail": "https://i.ytimg.com/vi/LqnWvpuoZ2M/hqdefault.jpg"
         },
         {
-          "label": "@JulianGoldieSEO",
-          "url": "https://www.youtube.com/@JulianGoldieSEO"
+          "label": "@진바이브 · 04-30 13:40",
+          "url": "https://www.youtube.com/watch?v=pz9BiwcUBgo",
+          "thumbnail": "https://i.ytimg.com/vi/pz9BiwcUBgo/hqdefault.jpg"
         },
         {
-          "label": "@fahdmirza",
-          "url": "https://www.youtube.com/@fahdmirza"
-        },
-        {
-          "label": "@zerochotv",
-          "url": "https://www.youtube.com/@zerochotv"
-        },
-        {
-          "label": "@codefundkimflip",
-          "url": "https://www.youtube.com/@codefundkimflip"
-        },
-        {
-          "label": "@dante-labs",
-          "url": "https://www.youtube.com/@dante-labs"
-        },
-        {
-          "label": "@진바이브",
-          "url": "https://www.youtube.com/@진바이브"
-        },
-        {
-          "label": "@jocoding",
-          "url": "https://www.youtube.com/@jocoding"
+          "label": "@JulianGoldieSEO · 04-30 12:00",
+          "url": "https://www.youtube.com/watch?v=d4YXxTeUirE",
+          "thumbnail": "https://i.ytimg.com/vi/d4YXxTeUirE/hqdefault.jpg"
         }
       ]
     },
     {
       "title": "시스템 상태 요약",
-      "summary": "CPU 17.9 % 사용 / 클럭 1612.8 MHz / RAM 11.1GB 사용, 총 15.8GB (71%) / SSD 284.5GB 사용, 총 476.0GB (60%)",
-      "take": "CPU는 현재 17.9 % 사용 중이고 클럭은 1612.8 MHz, 버스 스피드는 100.8 MHz, RAM은 총 15.8GB 중 11.1GB 사용 (71%), SSD는 총 476.0GB 중 284.5GB 사용 (60%), 여유 191.5GB입니다. 네트워크 인터페이스는 Ethernet, Ethernet 2, Wi-Fi 기준입니다.",
+      "summary": "CPU 28.9 % 사용 / 클럭 1310.4 MHz / RAM 10.5GB 사용, 총 15.8GB (66%) / SSD 284.6GB 사용, 총 476.0GB (60%)",
+      "take": "CPU는 현재 28.9 % 사용 중이고 클럭은 1310.4 MHz, 버스 스피드는 100.8 MHz, RAM은 총 15.8GB 중 10.5GB 사용 (66%), SSD는 총 476.0GB 중 284.6GB 사용 (60%), 여유 191.4GB입니다. 네트워크 인터페이스는 Ethernet, Ethernet 2, Wi-Fi 기준입니다.",
       "meta": [
         "시스템",
         "LHM"
@@ -414,7 +374,7 @@
     {
       "title": "OpenClaw 상태 요약",
       "summary": "OpenClaw 2026.4.24 (cbcfdf6)",
-      "take": "Runtime: running (pid 7140, Verified gateway listener detected on port 18789 even though schtasks did not report a running task.) | Listening: 127.0.0.1:18789",
+      "take": "Runtime: running (pid 1760, Verified gateway listener detected on port 18789 even though schtasks did not report a running task.) | Listening: 127.0.0.1:18789",
       "meta": [
         "OpenClaw",
         "Gateway"
