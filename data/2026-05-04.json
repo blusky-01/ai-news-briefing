@@ -1,0 +1,382 @@
+{
+  "date": "2026-05-04 07:00",
+  "title": "아침 브리핑",
+  "subtitle": "날씨 · 응원 · 일정 · 메일 · 유튜브 · 시스템 · OpenClaw",
+  "summary": "오늘은 18:00 무조건 걷기 운동부터 시작됩니다. 첫 흐름만 안정적으로 잡으면 오늘 전체 리듬이 훨씬 부드럽게 이어질 겁니다.",
+  "summary_box": "큰 변수 없이 움직이기 좋은 날씨입니다. 일정만 잘 잡으면 리듬 있게 가기 좋겠습니다. 일정이 있는 날일수록 처음 두 개를 완벽하게 하려 하기보다, 팀장님 페이스를 끝까지 유지하는 쪽이 더 강합니다. 무리하지 말고 호흡을 길게 가져가시면 됩니다.",
+  "weather": {
+    "loc": "김해",
+    "temp": "13°C",
+    "desc": "Partly cloudy",
+    "icon": "⛅",
+    "badges": [
+      "체감 10°C",
+      "습도 54%",
+      "강수확률 0%",
+      "풍속 31km/h",
+      "UV 0",
+      "미세먼지 정보 연동 예정"
+    ],
+    "detail": {
+      "feels_like": "10",
+      "humidity": "54",
+      "rain_chance": "0",
+      "wind_kmph": "31",
+      "uv": "0",
+      "pm": "미세먼지 정보 연동 예정"
+    },
+    "life_comment": "큰 변수 없이 움직이기 좋은 날씨입니다. 일정만 잘 잡으면 리듬 있게 가기 좋겠습니다."
+  },
+  "sections": {
+    "calendar": {
+      "summary": "18:00 무조건 걷기 운동",
+      "take": "오늘은 일정 흐름이 보이는 날입니다. 시작 전에 우선순위만 정리하면 훨씬 가볍게 밀 수 있습니다.",
+      "items": [
+        {
+          "shown": "18:00",
+          "summary": "무조건 걷기 운동",
+          "htmlLink": "https://www.google.com/calendar/event?eid=bGdib2VxZGRtbG9rcGlhdjNqbGYyMXZtb3NfMjAyNjA1MDRUMDkwMDAwWiBibHVhcmFvbjIwQG0"
+        }
+      ],
+      "links": [
+        {
+          "label": "18:00 · 무조건 걷기 운동",
+          "url": "https://www.google.com/calendar/event?eid=bGdib2VxZGRtbG9rcGlhdjNqbGYyMXZtb3NfMjAyNjA1MDRUMDkwMDAwWiBibHVhcmFvbjIwQG0"
+        }
+      ],
+      "entities": [
+        "calendar"
+      ]
+    },
+    "mail": {
+      "summary": "주요 메일 없음",
+      "take": "최근 2일 기준 광고성 제외 후 결제·업무·중요인물·에러 메일이 감지되지 않았습니다.",
+      "items": [],
+      "links": [],
+      "entities": []
+    },
+    "youtube": {
+      "summary": "@fahdmirza IBM Granite 4.1 8B - Ope / @JulianGoldieSEO New FREE OpenAI Symphony / @JulianGoldieSEO Google Gemini Gems + Not",
+      "take": "업로드 속도가 빠른 채널은 오늘도 여러 편이 들어왔습니다. 중요한 주제부터 2~3개만 골라 보면 효율이 좋습니다.",
+      "items": [
+        {
+          "channel": "@fahdmirza",
+          "title": "IBM Granite 4.1 8B - Open Source AI That Actually Surprised Me: Run Locally",
+          "published": "05-04 06:16",
+          "published_dt": "2026-05-04T06:16:40+09:00",
+          "url": "https://www.youtube.com/watch?v=6OakkhKhZLA",
+          "thumbnail": "https://i.ytimg.com/vi/6OakkhKhZLA/hqdefault.jpg",
+          "summary": "이 영상은 모델/LLM, 튜토리얼/설정 중심 내용입니다. 구성은 This video locally installs Granite-4.1-8B which is a 8B parameter long-context instruct model finetuned 순서로 이어지며, 제목만으로는 보이지 않는 변화 배경·핵심 기능·실제 활용 포인트를 짚어보는 영상입니다.",
+          "description_excerpt": "This video locally installs Granite-4.1-8B which is a 8B parameter long-context instruct model finetuned. 🔥 Get 50% Discount on any A6000 or A5000 GPU rental, use following link and coupon: Coupon code: FahdMirza 🔥 Buy Me a Coffee to support the channel: PLEASE FOLLOW ME: ▶ LinkedIn: ▶ YouTube: ▶ Blog: RESOURCES: ▶ All rights reserved © Fahd Mirza",
+          "transcript_excerpt": "",
+          "shorts": false
+        },
+        {
+          "channel": "@JulianGoldieSEO",
+          "title": "New FREE OpenAI Symphony Update is INSANE!",
+          "published": "05-04 05:00",
+          "published_dt": "2026-05-04T05:00:24+09:00",
+          "url": "https://www.youtube.com/watch?v=hWzFRN7t4R0",
+          "thumbnail": "https://i.ytimg.com/vi/hWzFRN7t4R0/hqdefault.jpg",
+          "summary": "이 영상은 에이전트/자동화, 튜토리얼/설정 중심 내용입니다. 구성은 What is OpenAI Symphony?, The 3-Part Pro Setup, Using Workflow Files, Why Boot Skills Matter 순서로 이어집니다.",
+          "description_excerpt": "00:00 - Intro 00:33 - What is OpenAI Symphony? 01:41 - The 3-Part Pro Setup 02:30 - Using Workflow Files 04:49 - Why Boot Skills Matter 06:47 - Step-by-Step Setup Guide 08:14 - Why Symphony is a Game-Changer",
+          "transcript_excerpt": "",
+          "shorts": false
+        },
+        {
+          "channel": "@JulianGoldieSEO",
+          "title": "Google Gemini Gems + NotebookLM is INSANE!",
+          "published": "05-04 03:00",
+          "published_dt": "2026-05-04T03:00:36+09:00",
+          "url": "https://www.youtube.com/watch?v=_6noh8pzosE",
+          "thumbnail": "https://i.ytimg.com/vi/_6noh8pzosE/hqdefault.jpg",
+          "summary": "이 영상은 모델/LLM, 에이전트/자동화, 튜토리얼/설정 중심 내용입니다. 구성은 Intro: The Ultimate AI Setup, What are Gemini Gems?, The PACK Formula for Instructions, Fact-Checking with Notebook LM 순서로 이어집니다.",
+          "description_excerpt": "00:00 - Intro: The Ultimate AI Setup 00:47 - What are Gemini Gems? 01:13 - The PACK Formula for Instructions 02:07 - Fact-Checking with Notebook LM 02:37 - System 1: Content Writing Workflow 04:32 - System 2: Proposal Writing Automation 05:56 - System 3: Customer Support Systems 07:11 - How to Get Started",
+          "transcript_excerpt": "",
+          "shorts": false
+        },
+        {
+          "channel": "@진바이브",
+          "title": "한국인 맞춤형 AI 스킬이 나왔습니다: K-Skill",
+          "published": "05-04 01:38",
+          "published_dt": "2026-05-04T01:38:20+09:00",
+          "url": "https://www.youtube.com/watch?v=bmsQtsvJNaY",
+          "thumbnail": "https://i.ytimg.com/vi/bmsQtsvJNaY/hqdefault.jpg",
+          "summary": "한국인 맞춤형 AI 스킬이 나왔습니다: K-Skill 내용을 다루는 영상입니다. 핵심은 AI 관련 변화나 활용 포인트를 소개하는 것입니다.",
+          "description_excerpt": "",
+          "transcript_excerpt": "",
+          "shorts": false
+        },
+        {
+          "channel": "@JulianGoldieSEO",
+          "title": "Build Anything with Owl Alpha: Here's How",
+          "published": "05-04 01:01",
+          "published_dt": "2026-05-04T01:01:03+09:00",
+          "url": "https://www.youtube.com/watch?v=fWWQn8gmMIo",
+          "thumbnail": "https://i.ytimg.com/vi/fWWQn8gmMIo/hqdefault.jpg",
+          "summary": "이 영상은 에이전트/자동화 중심 내용입니다. 구성은 Intro to the Owl Alpha Stealth Launch, 1 Million Tokens & Agentic Features, How the OWL Architecture Works, Automated Lead Generation Example 순서로 이어집니다.",
+          "description_excerpt": "00:00 - Intro to the Owl Alpha Stealth Launch 00:45 - 1 Million Tokens & Agentic Features 01:48 - How the OWL Architecture Works 02:53 - Automated Lead Generation Example 04:01 - Real-World Business Use Cases 04:55 - How to Access Owl Alpha Today 05:59 - Visualizing 1 Million Tokens 07:08 - Building Agentic Workflow Strategies",
+          "transcript_excerpt": "",
+          "shorts": false
+        }
+      ],
+      "links": [
+        {
+          "label": "@fahdmirza · 05-04 06:16",
+          "url": "https://www.youtube.com/watch?v=6OakkhKhZLA",
+          "thumbnail": "https://i.ytimg.com/vi/6OakkhKhZLA/hqdefault.jpg"
+        },
+        {
+          "label": "@JulianGoldieSEO · 05-04 05:00",
+          "url": "https://www.youtube.com/watch?v=hWzFRN7t4R0",
+          "thumbnail": "https://i.ytimg.com/vi/hWzFRN7t4R0/hqdefault.jpg"
+        },
+        {
+          "label": "@JulianGoldieSEO · 05-04 03:00",
+          "url": "https://www.youtube.com/watch?v=_6noh8pzosE",
+          "thumbnail": "https://i.ytimg.com/vi/_6noh8pzosE/hqdefault.jpg"
+        }
+      ],
+      "entities": [
+        "@fahdmirza",
+        "@JulianGoldieSEO",
+        "@JulianGoldieSEO",
+        "@진바이브"
+      ]
+    },
+    "system": {
+      "summary": "CPU 15.6 % 사용 / 클럭 2318.4 MHz / RAM 10.7GB 사용, 총 15.8GB (68%) / SSD 296.4GB 사용, 총 476.0GB (62%)",
+      "take": "CPU는 현재 15.6 % 사용 중이고 클럭은 2318.4 MHz, 버스 스피드는 100.8 MHz, RAM은 총 15.8GB 중 10.7GB 사용 (68%), SSD는 총 476.0GB 중 296.4GB 사용 (62%), 여유 179.5GB입니다. 네트워크 인터페이스는 Ethernet, Ethernet 2, Wi-Fi 기준입니다.",
+      "metrics": [
+        {
+          "label": "CPU 사용률",
+          "value": "15.6 %",
+          "pct": 15.6,
+          "tone": "normal"
+        },
+        {
+          "label": "CPU 클럭",
+          "value": "2318.4 MHz",
+          "pct": 66.24000000000001,
+          "tone": "normal"
+        },
+        {
+          "label": "버스 스피드",
+          "value": "100.8 MHz",
+          "pct": 100,
+          "tone": "normal"
+        },
+        {
+          "label": "CPU 온도",
+          "value": "49.0 °C",
+          "pct": 49.0,
+          "tone": "normal"
+        },
+        {
+          "label": "RAM 사용량",
+          "value": "10.7 / 15.8 GB (68%)",
+          "pct": 67.9,
+          "tone": "normal"
+        },
+        {
+          "label": "SSD 사용량",
+          "value": "296.4 / 476.0 GB (62%)",
+          "pct": 62.3,
+          "tone": "normal"
+        },
+        {
+          "label": "SSD 여유 공간",
+          "value": "179.5 / 476.0 GB",
+          "pct": 37.7,
+          "tone": "normal"
+        },
+        {
+          "label": "SSD 온도",
+          "value": "40.0 °C",
+          "pct": 40.0,
+          "tone": "normal"
+        },
+        {
+          "label": "업타임",
+          "value": "180시간 31분",
+          "pct": 100,
+          "tone": "normal"
+        },
+        {
+          "label": "네트워크 수신",
+          "value": "12534.0 MB",
+          "pct": 100,
+          "tone": "normal"
+        },
+        {
+          "label": "네트워크 송신",
+          "value": "3792.5 MB",
+          "pct": 100,
+          "tone": "normal"
+        }
+      ]
+    },
+    "openclaw": {
+      "summary": "OpenClaw 2026.5.2 (8b2a6e5)",
+      "take": "Runtime: running (pid 3316, Verified gateway listener detected on port 18789 even though schtasks did not report a running task.) | Listening: 127.0.0.1:18789",
+      "metrics": [
+        {
+          "label": "Gateway",
+          "value": "bind=loopback (127.0.0.1), port=18789 (service args)",
+          "pct": 100,
+          "tone": "normal"
+        },
+        {
+          "label": "Probe note",
+          "value": "Loopback-only gateway; only local clients can connect.",
+          "pct": 100,
+          "tone": "normal"
+        },
+        {
+          "label": "Runtime",
+          "value": "running (pid 3316, Verified gateway listener detected on port 18789 even though schtasks did not report a running task.)",
+          "pct": 100,
+          "tone": "good"
+        },
+        {
+          "label": "Listening",
+          "value": "127.0.0.1:18789",
+          "pct": 100,
+          "tone": "good"
+        }
+      ]
+    }
+  },
+  "cards": [
+    {
+      "title": "오늘의 한마디",
+      "summary": "오늘은 18:00 무조건 걷기 운동부터 시작됩니다. 첫 흐름만 안정적으로 잡으면 오늘 전체 리듬이 훨씬 부드럽게 이어질 겁니다.",
+      "take": "큰 변수 없이 움직이기 좋은 날씨입니다. 일정만 잘 잡으면 리듬 있게 가기 좋겠습니다. 일정이 있는 날일수록 처음 두 개를 완벽하게 하려 하기보다, 팀장님 페이스를 끝까지 유지하는 쪽이 더 강합니다. 무리하지 말고 호흡을 길게 가져가시면 됩니다.",
+      "meta": [
+        "응원",
+        "중간 길이"
+      ],
+      "entities": [],
+      "keywords": [
+        "아침",
+        "집중"
+      ],
+      "links": []
+    },
+    {
+      "title": "오늘 일정",
+      "summary": "18:00 무조건 걷기 운동",
+      "take": "오늘은 일정 흐름이 보이는 날입니다. 시작 전에 우선순위만 정리하면 훨씬 가볍게 밀 수 있습니다.",
+      "meta": [
+        "일정",
+        "calendar"
+      ],
+      "entities": [
+        "calendar"
+      ],
+      "keywords": [
+        "calendar"
+      ],
+      "links": [
+        {
+          "label": "18:00 · 무조건 걷기 운동",
+          "url": "https://www.google.com/calendar/event?eid=bGdib2VxZGRtbG9rcGlhdjNqbGYyMXZtb3NfMjAyNjA1MDRUMDkwMDAwWiBibHVhcmFvbjIwQG0"
+        }
+      ]
+    },
+    {
+      "title": "주요 메일 / 중요 알림",
+      "summary": "주요 메일 없음",
+      "take": "최근 2일 기준 광고성 제외 후 결제·업무·중요인물·에러 메일이 감지되지 않았습니다.",
+      "meta": [
+        "메일",
+        "gmail",
+        "중요 알림"
+      ],
+      "entities": [],
+      "keywords": [
+        "gmail",
+        "alert"
+      ],
+      "links": []
+    },
+    {
+      "title": "유튜브 업데이트",
+      "summary": "@fahdmirza IBM Granite 4.1 8B - Ope / @JulianGoldieSEO New FREE OpenAI Symphony / @JulianGoldieSEO Google Gemini Gems + Not",
+      "take": "업로드 속도가 빠른 채널은 오늘도 여러 편이 들어왔습니다. 중요한 주제부터 2~3개만 골라 보면 효율이 좋습니다.",
+      "meta": [
+        "유튜브",
+        "AI 채널",
+        "중간 길이"
+      ],
+      "entities": [
+        "@fahdmirza",
+        "@JulianGoldieSEO",
+        "@JulianGoldieSEO",
+        "@진바이브"
+      ],
+      "keywords": [
+        "youtube",
+        "update",
+        "thumbnail"
+      ],
+      "links": [
+        {
+          "label": "@fahdmirza · 05-04 06:16",
+          "url": "https://www.youtube.com/watch?v=6OakkhKhZLA",
+          "thumbnail": "https://i.ytimg.com/vi/6OakkhKhZLA/hqdefault.jpg"
+        },
+        {
+          "label": "@JulianGoldieSEO · 05-04 05:00",
+          "url": "https://www.youtube.com/watch?v=hWzFRN7t4R0",
+          "thumbnail": "https://i.ytimg.com/vi/hWzFRN7t4R0/hqdefault.jpg"
+        },
+        {
+          "label": "@JulianGoldieSEO · 05-04 03:00",
+          "url": "https://www.youtube.com/watch?v=_6noh8pzosE",
+          "thumbnail": "https://i.ytimg.com/vi/_6noh8pzosE/hqdefault.jpg"
+        }
+      ]
+    },
+    {
+      "title": "시스템 상태 요약",
+      "summary": "CPU 15.6 % 사용 / 클럭 2318.4 MHz / RAM 10.7GB 사용, 총 15.8GB (68%) / SSD 296.4GB 사용, 총 476.0GB (62%)",
+      "take": "CPU는 현재 15.6 % 사용 중이고 클럭은 2318.4 MHz, 버스 스피드는 100.8 MHz, RAM은 총 15.8GB 중 10.7GB 사용 (68%), SSD는 총 476.0GB 중 296.4GB 사용 (62%), 여유 179.5GB입니다. 네트워크 인터페이스는 Ethernet, Ethernet 2, Wi-Fi 기준입니다.",
+      "meta": [
+        "시스템",
+        "LHM"
+      ],
+      "entities": [
+        "Intel N100",
+        "RAM",
+        "SSD"
+      ],
+      "keywords": [
+        "temperature",
+        "load",
+        "memory"
+      ],
+      "links": []
+    },
+    {
+      "title": "OpenClaw 상태 요약",
+      "summary": "OpenClaw 2026.5.2 (8b2a6e5)",
+      "take": "Runtime: running (pid 3316, Verified gateway listener detected on port 18789 even though schtasks did not report a running task.) | Listening: 127.0.0.1:18789",
+      "meta": [
+        "OpenClaw",
+        "Gateway"
+      ],
+      "entities": [
+        "main",
+        "gateway"
+      ],
+      "keywords": [
+        "version",
+        "rpc",
+        "status"
+      ],
+      "links": []
+    }
+  ],
+  "footer": "AI-assisted morning briefing, unified data structure ready for stage 2"
+}
