@@ -1,0 +1,382 @@
+{
+  "date": "2026-05-05 07:00",
+  "title": "아침 브리핑",
+  "subtitle": "날씨 · 응원 · 일정 · 메일 · 유튜브 · 시스템 · OpenClaw",
+  "summary": "오늘은 18:00 무조건 걷기 운동부터 시작됩니다. 첫 흐름만 안정적으로 잡으면 오늘 전체 리듬이 훨씬 부드럽게 이어질 겁니다.",
+  "summary_box": "큰 변수 없이 움직이기 좋은 날씨입니다. 일정만 잘 잡으면 리듬 있게 가기 좋겠습니다. 일정이 있는 날일수록 처음 두 개를 완벽하게 하려 하기보다, 팀장님 페이스를 끝까지 유지하는 쪽이 더 강합니다. 무리하지 말고 호흡을 길게 가져가시면 됩니다.",
+  "weather": {
+    "loc": "김해",
+    "temp": "8°C",
+    "desc": "Sunny",
+    "icon": "⛅",
+    "badges": [
+      "체감 8°C",
+      "습도 71%",
+      "강수확률 0%",
+      "풍속 4km/h",
+      "UV 0",
+      "미세먼지 정보 연동 예정"
+    ],
+    "detail": {
+      "feels_like": "8",
+      "humidity": "71",
+      "rain_chance": "0",
+      "wind_kmph": "4",
+      "uv": "0",
+      "pm": "미세먼지 정보 연동 예정"
+    },
+    "life_comment": "큰 변수 없이 움직이기 좋은 날씨입니다. 일정만 잘 잡으면 리듬 있게 가기 좋겠습니다."
+  },
+  "sections": {
+    "calendar": {
+      "summary": "18:00 무조건 걷기 운동",
+      "take": "오늘은 일정 흐름이 보이는 날입니다. 시작 전에 우선순위만 정리하면 훨씬 가볍게 밀 수 있습니다.",
+      "items": [
+        {
+          "shown": "18:00",
+          "summary": "무조건 걷기 운동",
+          "htmlLink": "https://www.google.com/calendar/event?eid=bGdib2VxZGRtbG9rcGlhdjNqbGYyMXZtb3NfMjAyNjA1MDVUMDkwMDAwWiBibHVhcmFvbjIwQG0"
+        }
+      ],
+      "links": [
+        {
+          "label": "18:00 · 무조건 걷기 운동",
+          "url": "https://www.google.com/calendar/event?eid=bGdib2VxZGRtbG9rcGlhdjNqbGYyMXZtb3NfMjAyNjA1MDVUMDkwMDAwWiBibHVhcmFvbjIwQG0"
+        }
+      ],
+      "entities": [
+        "calendar"
+      ]
+    },
+    "mail": {
+      "summary": "주요 메일 없음",
+      "take": "최근 2일 기준 광고성 제외 후 결제·업무·중요인물·에러 메일이 감지되지 않았습니다.",
+      "items": [],
+      "links": [],
+      "entities": []
+    },
+    "youtube": {
+      "summary": "@JulianGoldieSEO New FREE Deepseek-V4 PRO / @fahdmirza Ling-2.6-1T: Open Source / @JulianGoldieSEO NEW OpenClaw 5.3 Update ",
+      "take": "업로드 속도가 빠른 채널은 오늘도 여러 편이 들어왔습니다. 중요한 주제부터 2~3개만 골라 보면 효율이 좋습니다.",
+      "items": [
+        {
+          "channel": "@JulianGoldieSEO",
+          "title": "New FREE Deepseek-V4 PRO AI Coder is INSANE!",
+          "published": "05-05 06:00",
+          "published_dt": "2026-05-05T06:00:30+09:00",
+          "url": "https://www.youtube.com/watch?v=DAg8fvdSB0s",
+          "thumbnail": "https://i.ytimg.com/vi/DAg8fvdSB0s/hqdefault.jpg",
+          "summary": "이 영상은 모델/LLM 중심 내용입니다. 구성은 Intro: The New AI Coding King, What is Deepseek V4 Pro?, Benchmarks vs GPT-5 & Claude, V4 Pro vs. V4 Flash 순서로 이어집니다.",
+          "description_excerpt": "00:00 - Intro: The New AI Coding King 00:48 - What is Deepseek V4 Pro? 01:20 - Benchmarks vs GPT-5 & Claude 02:38 - V4 Pro vs. V4 Flash 03:24 - How to Access for Free (Nvidia API) 04:10 - Advanced Settings & Limits 05:15 - Cost Efficiency & Economics 06:41 - Security & Self-Hosting 08:02 - Summary & Final Thoughts",
+          "transcript_excerpt": "",
+          "shorts": false
+        },
+        {
+          "channel": "@fahdmirza",
+          "title": "Ling-2.6-1T: Open Source Trillion-Parameter AI with 109 Tokens/sec for FREE",
+          "published": "05-05 04:55",
+          "published_dt": "2026-05-05T04:55:43+09:00",
+          "url": "https://www.youtube.com/watch?v=rTAFDGRWqmc",
+          "thumbnail": "https://i.ytimg.com/vi/rTAFDGRWqmc/hqdefault.jpg",
+          "summary": "구성은 This video tests Ling-2.6-1T which is tailored for real–world, complex scenarios 순서로 이어집니다. This video tests Ling-2.6-1T which is tailored for real–world, complex scenarios 🔥 Get 50% Discount on any A6000 or A5000 GPU rental, use following link and coupon: Coupon code: FahdMirza 🔥 Buy Me a Coffee to support t...",
+          "description_excerpt": "This video tests Ling-2.6-1T which is tailored for real–world, complex scenarios. 🔥 Get 50% Discount on any A6000 or A5000 GPU rental, use following link and coupon: Coupon code: FahdMirza 🔥 Buy Me a Coffee to support the channel: PLEASE FOLLOW ME: ▶ LinkedIn: ▶ YouTube: ▶ Blog: RESOURCES: ▶ All rights reserved © Fahd Mirza",
+          "transcript_excerpt": "",
+          "shorts": false
+        },
+        {
+          "channel": "@JulianGoldieSEO",
+          "title": "NEW OpenClaw 5.3 Update Is INSANE!",
+          "published": "05-05 02:10",
+          "published_dt": "2026-05-05T02:10:07+09:00",
+          "url": "https://www.youtube.com/watch?v=0d8b7jFzhd8",
+          "thumbnail": "https://i.ytimg.com/vi/0d8b7jFzhd8/hqdefault.jpg",
+          "summary": "이 영상은 모델/LLM, 튜토리얼/설정 중심 내용입니다. 구성은 OpenClaw 5.3: The Biggest Leap Yet, Speed Upgrades & Faster Booting, New File Transfer Plugin, Real-time Task Steering (/steer) 순서로 이어집니다.",
+          "description_excerpt": "00:00 - OpenClaw 5.3: The Biggest Leap Yet 00:33 - Speed Upgrades & Faster Booting 01:04 - New File Transfer Plugin 01:46 - Real-time Task Steering (/steer) 02:54 - Advanced Memory & People Wiki 04:47 - The New Model Lineup 05:19 - Google Meet Integration 07:55 - How to Install 5.3 & Setup",
+          "transcript_excerpt": "",
+          "shorts": false
+        },
+        {
+          "channel": "@JulianGoldieSEO",
+          "title": "New Google Cosmo is INSANE!",
+          "published": "05-05 00:00",
+          "published_dt": "2026-05-05T00:00:29+09:00",
+          "url": "https://www.youtube.com/watch?v=KpoTg3xKqMs",
+          "thumbnail": "https://i.ytimg.com/vi/KpoTg3xKqMs/hqdefault.jpg",
+          "summary": "이 영상은 모델/LLM, 에이전트/자동화 중심 내용입니다. 구성은 Intro – Google's secret AI app that vanished from the Play Store, Who Is This? – What Julian covers & why Cosmo matters, Why It Was Pulled – The leak timeline & what it revealed, Massive App Size Explained – Why 1.13 GB signals something big 순서로 이어집니다.",
+          "description_excerpt": "00:00 Intro – Google's secret AI app that vanished from the Play Store 00:15 Who Is This? – What Julian covers & why Cosmo matters 00:32 Why It Was Pulled – The leak timeline & what it revealed 01:08 Massive App Size Explained – Why 1.13 GB signals something big 01:15 Gemini Nano On-Device – AI that works without the cloud 01:48 Hybrid vs. Local vs. Cloud – ",
+          "transcript_excerpt": "",
+          "shorts": false
+        },
+        {
+          "channel": "@jocoding",
+          "title": "AI뉴스 - Google 신모델, COSMO, Claude 요금 논란, Codex goal, Grok 4.3 API, Stripe AI Agent 지갑, HappyHorse 등",
+          "published": "05-04 22:47",
+          "published_dt": "2026-05-04T22:47:09+09:00",
+          "url": "https://www.youtube.com/watch?v=WWw_s07IYh8",
+          "thumbnail": "https://i.ytimg.com/vi/WWw_s07IYh8/hqdefault.jpg",
+          "summary": "이 영상은 모델/LLM, 에이전트/자동화, 개발도구 중심 내용입니다. 구성은 구글 Gemini Flash 새로운 모델, 구글 Omni 비디오 모델 테스트, 구글 코스모 앱 유출, 제미나이 파일 생성 기능 순서로 이어집니다. 매주 최신 AI 뉴스를 전달드립니다 조코딩 뉴스레터 조코레터: AI 손금, 관상 등: 대신 콜: AgentWatch: ✅조코딩 바이브 코딩 1인 창업 무료 강의: 🛠️조코딩 프로덕트 빌더 서비스: AX 문의: 📰영상 속 소식 모아보기: 🕖목차 0...",
+          "description_excerpt": "매주 최신 AI 뉴스를 전달드립니다 조코딩 뉴스레터 조코레터: AI 손금, 관상 등: 대신 콜: AgentWatch: ✅조코딩 바이브 코딩 1인 창업 무료 강의: 🛠️조코딩 프로덕트 빌더 서비스: AX 문의: 📰영상 속 소식 모아보기: 🕖목차 00:00 구글 Gemini Flash 새로운 모델 01:08 구글 Omni 비디오 모델 테스트 01:52 구글 코스모 앱 유출 02:20 제미나이 파일 생성 기능 03:14 딥마인드 AI 공동 임상의 04:35 데미스 하사비스 방한 AI 캠퍼스 05:05 구글 포토 가상 피팅 05:41 클로드 크리에이티브 툴 연동 07:03 클로드 추가 과금 논란 08:45 오픈AI 코덱스 전환 공세 09:58 ",
+          "transcript_excerpt": "",
+          "shorts": false
+        }
+      ],
+      "links": [
+        {
+          "label": "@JulianGoldieSEO · 05-05 06:00",
+          "url": "https://www.youtube.com/watch?v=DAg8fvdSB0s",
+          "thumbnail": "https://i.ytimg.com/vi/DAg8fvdSB0s/hqdefault.jpg"
+        },
+        {
+          "label": "@fahdmirza · 05-05 04:55",
+          "url": "https://www.youtube.com/watch?v=rTAFDGRWqmc",
+          "thumbnail": "https://i.ytimg.com/vi/rTAFDGRWqmc/hqdefault.jpg"
+        },
+        {
+          "label": "@JulianGoldieSEO · 05-05 02:10",
+          "url": "https://www.youtube.com/watch?v=0d8b7jFzhd8",
+          "thumbnail": "https://i.ytimg.com/vi/0d8b7jFzhd8/hqdefault.jpg"
+        }
+      ],
+      "entities": [
+        "@JulianGoldieSEO",
+        "@fahdmirza",
+        "@JulianGoldieSEO",
+        "@JulianGoldieSEO"
+      ]
+    },
+    "system": {
+      "summary": "CPU 11.0 % 사용 / 클럭 705.6 MHz / RAM 10.7GB 사용, 총 15.8GB (68%) / SSD 296.9GB 사용, 총 476.0GB (62%)",
+      "take": "CPU는 현재 11.0 % 사용 중이고 클럭은 705.6 MHz, 버스 스피드는 100.8 MHz, RAM은 총 15.8GB 중 10.7GB 사용 (68%), SSD는 총 476.0GB 중 296.9GB 사용 (62%), 여유 179.0GB입니다. 네트워크 인터페이스는 Ethernet, Ethernet 2, Wi-Fi 기준입니다.",
+      "metrics": [
+        {
+          "label": "CPU 사용률",
+          "value": "11.0 %",
+          "pct": 11.0,
+          "tone": "normal"
+        },
+        {
+          "label": "CPU 클럭",
+          "value": "705.6 MHz",
+          "pct": 20.16,
+          "tone": "normal"
+        },
+        {
+          "label": "버스 스피드",
+          "value": "100.8 MHz",
+          "pct": 100,
+          "tone": "normal"
+        },
+        {
+          "label": "CPU 온도",
+          "value": "48.0 °C",
+          "pct": 48.0,
+          "tone": "normal"
+        },
+        {
+          "label": "RAM 사용량",
+          "value": "10.7 / 15.8 GB (68%)",
+          "pct": 68.1,
+          "tone": "normal"
+        },
+        {
+          "label": "SSD 사용량",
+          "value": "296.9 / 476.0 GB (62%)",
+          "pct": 62.4,
+          "tone": "normal"
+        },
+        {
+          "label": "SSD 여유 공간",
+          "value": "179.0 / 476.0 GB",
+          "pct": 37.6,
+          "tone": "normal"
+        },
+        {
+          "label": "SSD 온도",
+          "value": "40.0 °C",
+          "pct": 40.0,
+          "tone": "normal"
+        },
+        {
+          "label": "업타임",
+          "value": "204시간 31분",
+          "pct": 100,
+          "tone": "normal"
+        },
+        {
+          "label": "네트워크 수신",
+          "value": "13029.8 MB",
+          "pct": 100,
+          "tone": "normal"
+        },
+        {
+          "label": "네트워크 송신",
+          "value": "3898.0 MB",
+          "pct": 100,
+          "tone": "normal"
+        }
+      ]
+    },
+    "openclaw": {
+      "summary": "OpenClaw 2026.5.2 (8b2a6e5)",
+      "take": "Runtime: running (pid 3316, Verified gateway listener detected on port 18789 even though schtasks did not report a running task.) | Listening: 127.0.0.1:18789",
+      "metrics": [
+        {
+          "label": "Gateway",
+          "value": "bind=loopback (127.0.0.1), port=18789 (service args)",
+          "pct": 100,
+          "tone": "normal"
+        },
+        {
+          "label": "Probe note",
+          "value": "Loopback-only gateway; only local clients can connect.",
+          "pct": 100,
+          "tone": "normal"
+        },
+        {
+          "label": "Runtime",
+          "value": "running (pid 3316, Verified gateway listener detected on port 18789 even though schtasks did not report a running task.)",
+          "pct": 100,
+          "tone": "good"
+        },
+        {
+          "label": "Listening",
+          "value": "127.0.0.1:18789",
+          "pct": 100,
+          "tone": "good"
+        }
+      ]
+    }
+  },
+  "cards": [
+    {
+      "title": "오늘의 한마디",
+      "summary": "오늘은 18:00 무조건 걷기 운동부터 시작됩니다. 첫 흐름만 안정적으로 잡으면 오늘 전체 리듬이 훨씬 부드럽게 이어질 겁니다.",
+      "take": "큰 변수 없이 움직이기 좋은 날씨입니다. 일정만 잘 잡으면 리듬 있게 가기 좋겠습니다. 일정이 있는 날일수록 처음 두 개를 완벽하게 하려 하기보다, 팀장님 페이스를 끝까지 유지하는 쪽이 더 강합니다. 무리하지 말고 호흡을 길게 가져가시면 됩니다.",
+      "meta": [
+        "응원",
+        "중간 길이"
+      ],
+      "entities": [],
+      "keywords": [
+        "아침",
+        "집중"
+      ],
+      "links": []
+    },
+    {
+      "title": "오늘 일정",
+      "summary": "18:00 무조건 걷기 운동",
+      "take": "오늘은 일정 흐름이 보이는 날입니다. 시작 전에 우선순위만 정리하면 훨씬 가볍게 밀 수 있습니다.",
+      "meta": [
+        "일정",
+        "calendar"
+      ],
+      "entities": [
+        "calendar"
+      ],
+      "keywords": [
+        "calendar"
+      ],
+      "links": [
+        {
+          "label": "18:00 · 무조건 걷기 운동",
+          "url": "https://www.google.com/calendar/event?eid=bGdib2VxZGRtbG9rcGlhdjNqbGYyMXZtb3NfMjAyNjA1MDVUMDkwMDAwWiBibHVhcmFvbjIwQG0"
+        }
+      ]
+    },
+    {
+      "title": "주요 메일 / 중요 알림",
+      "summary": "주요 메일 없음",
+      "take": "최근 2일 기준 광고성 제외 후 결제·업무·중요인물·에러 메일이 감지되지 않았습니다.",
+      "meta": [
+        "메일",
+        "gmail",
+        "중요 알림"
+      ],
+      "entities": [],
+      "keywords": [
+        "gmail",
+        "alert"
+      ],
+      "links": []
+    },
+    {
+      "title": "유튜브 업데이트",
+      "summary": "@JulianGoldieSEO New FREE Deepseek-V4 PRO / @fahdmirza Ling-2.6-1T: Open Source / @JulianGoldieSEO NEW OpenClaw 5.3 Update ",
+      "take": "업로드 속도가 빠른 채널은 오늘도 여러 편이 들어왔습니다. 중요한 주제부터 2~3개만 골라 보면 효율이 좋습니다.",
+      "meta": [
+        "유튜브",
+        "AI 채널",
+        "중간 길이"
+      ],
+      "entities": [
+        "@JulianGoldieSEO",
+        "@fahdmirza",
+        "@JulianGoldieSEO",
+        "@JulianGoldieSEO"
+      ],
+      "keywords": [
+        "youtube",
+        "update",
+        "thumbnail"
+      ],
+      "links": [
+        {
+          "label": "@JulianGoldieSEO · 05-05 06:00",
+          "url": "https://www.youtube.com/watch?v=DAg8fvdSB0s",
+          "thumbnail": "https://i.ytimg.com/vi/DAg8fvdSB0s/hqdefault.jpg"
+        },
+        {
+          "label": "@fahdmirza · 05-05 04:55",
+          "url": "https://www.youtube.com/watch?v=rTAFDGRWqmc",
+          "thumbnail": "https://i.ytimg.com/vi/rTAFDGRWqmc/hqdefault.jpg"
+        },
+        {
+          "label": "@JulianGoldieSEO · 05-05 02:10",
+          "url": "https://www.youtube.com/watch?v=0d8b7jFzhd8",
+          "thumbnail": "https://i.ytimg.com/vi/0d8b7jFzhd8/hqdefault.jpg"
+        }
+      ]
+    },
+    {
+      "title": "시스템 상태 요약",
+      "summary": "CPU 11.0 % 사용 / 클럭 705.6 MHz / RAM 10.7GB 사용, 총 15.8GB (68%) / SSD 296.9GB 사용, 총 476.0GB (62%)",
+      "take": "CPU는 현재 11.0 % 사용 중이고 클럭은 705.6 MHz, 버스 스피드는 100.8 MHz, RAM은 총 15.8GB 중 10.7GB 사용 (68%), SSD는 총 476.0GB 중 296.9GB 사용 (62%), 여유 179.0GB입니다. 네트워크 인터페이스는 Ethernet, Ethernet 2, Wi-Fi 기준입니다.",
+      "meta": [
+        "시스템",
+        "LHM"
+      ],
+      "entities": [
+        "Intel N100",
+        "RAM",
+        "SSD"
+      ],
+      "keywords": [
+        "temperature",
+        "load",
+        "memory"
+      ],
+      "links": []
+    },
+    {
+      "title": "OpenClaw 상태 요약",
+      "summary": "OpenClaw 2026.5.2 (8b2a6e5)",
+      "take": "Runtime: running (pid 3316, Verified gateway listener detected on port 18789 even though schtasks did not report a running task.) | Listening: 127.0.0.1:18789",
+      "meta": [
+        "OpenClaw",
+        "Gateway"
+      ],
+      "entities": [
+        "main",
+        "gateway"
+      ],
+      "keywords": [
+        "version",
+        "rpc",
+        "status"
+      ],
+      "links": []
+    }
+  ],
+  "footer": "AI-assisted morning briefing, unified data structure ready for stage 2"
+}
