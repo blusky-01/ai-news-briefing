@@ -1,0 +1,382 @@
+{
+  "date": "2026-05-06 07:00",
+  "title": "아침 브리핑",
+  "subtitle": "날씨 · 응원 · 일정 · 메일 · 유튜브 · 시스템 · OpenClaw",
+  "summary": "오늘은 18:00 무조건 걷기 운동부터 시작됩니다. 첫 흐름만 안정적으로 잡으면 오늘 전체 리듬이 훨씬 부드럽게 이어질 겁니다.",
+  "summary_box": "습도가 높아 체감이 더 무겁습니다. 물을 자주 마시며 리듬을 유지하면 좋겠습니다. 일정이 있는 날일수록 처음 두 개를 완벽하게 하려 하기보다, 팀장님 페이스를 끝까지 유지하는 쪽이 더 강합니다. 무리하지 말고 호흡을 길게 가져가시면 됩니다.",
+  "weather": {
+    "loc": "김해",
+    "temp": "9°C",
+    "desc": "Sunny",
+    "icon": "⛅",
+    "badges": [
+      "체감 9°C",
+      "습도 81%",
+      "강수확률 0%",
+      "풍속 5km/h",
+      "UV 0",
+      "미세먼지 정보 연동 예정"
+    ],
+    "detail": {
+      "feels_like": "9",
+      "humidity": "81",
+      "rain_chance": "0",
+      "wind_kmph": "5",
+      "uv": "0",
+      "pm": "미세먼지 정보 연동 예정"
+    },
+    "life_comment": "습도가 높아 체감이 더 무겁습니다. 물을 자주 마시며 리듬을 유지하면 좋겠습니다."
+  },
+  "sections": {
+    "calendar": {
+      "summary": "18:00 무조건 걷기 운동",
+      "take": "오늘은 일정 흐름이 보이는 날입니다. 시작 전에 우선순위만 정리하면 훨씬 가볍게 밀 수 있습니다.",
+      "items": [
+        {
+          "shown": "18:00",
+          "summary": "무조건 걷기 운동",
+          "htmlLink": "https://www.google.com/calendar/event?eid=bGdib2VxZGRtbG9rcGlhdjNqbGYyMXZtb3NfMjAyNjA1MDZUMDkwMDAwWiBibHVhcmFvbjIwQG0"
+        }
+      ],
+      "links": [
+        {
+          "label": "18:00 · 무조건 걷기 운동",
+          "url": "https://www.google.com/calendar/event?eid=bGdib2VxZGRtbG9rcGlhdjNqbGYyMXZtb3NfMjAyNjA1MDZUMDkwMDAwWiBibHVhcmFvbjIwQG0"
+        }
+      ],
+      "entities": [
+        "calendar"
+      ]
+    },
+    "mail": {
+      "summary": "주요 메일 없음",
+      "take": "최근 2일 기준 광고성 제외 후 결제·업무·중요인물·에러 메일이 감지되지 않았습니다.",
+      "items": [],
+      "links": [],
+      "entities": []
+    },
+    "youtube": {
+      "summary": "@JulianGoldieSEO Claude Opus 4.7 + Notebo / @fahdmirza Google Releases Gemma 4  / @JulianGoldieSEO New Google Gemini 3.2 + ",
+      "take": "업로드 속도가 빠른 채널은 오늘도 여러 편이 들어왔습니다. 중요한 주제부터 2~3개만 골라 보면 효율이 좋습니다.",
+      "items": [
+        {
+          "channel": "@JulianGoldieSEO",
+          "title": "Claude Opus 4.7 + NotebookLM is INSANE!",
+          "published": "05-06 07:00",
+          "published_dt": "2026-05-06T07:00:02+09:00",
+          "url": "https://www.youtube.com/watch?v=1SXXpcJA2DA",
+          "thumbnail": "https://i.ytimg.com/vi/1SXXpcJA2DA/hqdefault.jpg",
+          "summary": "이 영상은 모델/LLM, 수익화/마케팅 중심 내용입니다. 구성은 Intro: The Craziest AI Trick, Why Claude 4.7 & NotebookLM?, Step 1: Research with Claude, Step 2: Prompting NotebookLM 순서로 이어집니다. Claude Opus 4.7 plus Notebook LM is insane Today, I'm going to show you the craziest AI trick I found this year It's new, stupid simple, and almost nobody is using it yet",
+          "description_excerpt": "00:00 - Intro: The Craziest AI Trick 00:39 - Why Claude 4.7 & NotebookLM? 01:32 - Step 1: Research with Claude 02:44 - Step 2: Prompting NotebookLM 04:31 - Step 3: Building the App 05:19 - System vs. Single Prompting 06:02 - Pro Tips for Better Results",
+          "transcript_excerpt": "Claude Opus 4.7 plus Notebook LM is insane. Today, I'm going to show you the craziest AI trick I found this year. Two tools, two prompts, one full app built in minutes. It's new, stupid simple, and almost nobody is using it yet. Stick aroun",
+          "shorts": false
+        },
+        {
+          "channel": "@fahdmirza",
+          "title": "Google Releases Gemma 4 MTP Drafters - Run Locally and DFlash Comparison",
+          "published": "05-06 06:19",
+          "published_dt": "2026-05-06T06:19:00+09:00",
+          "url": "https://www.youtube.com/watch?v=ak4OUOoOV08",
+          "thumbnail": "https://i.ytimg.com/vi/ak4OUOoOV08/hqdefault.jpg",
+          "summary": "이 영상은 모델/LLM, 튜토리얼/설정 중심 내용입니다. 구성은 Installation, What is MTP and Speculative Decoding, Speed Comparison Chart, Code Walkthrough 순서로 이어지며, 제목만으로는 보이지 않는 변화 배경·핵심 기능·실제 활용 포인트를 짚어보는 영상입니다.",
+          "description_excerpt": "Google just released the official MTP Drafter models for the Gemma 4 family today. In this video we run Gemma 4 31B locally on H100 with the new MTP drafter enabled and compare it with DFlash. 🔥 Get 50% Discount on any A6000 or A5000 GPU rental, use following link and coupon: Coupon code: FahdMirza 🔥 Buy Me a Coffee to support the channel: PLEASE FOLLOW ME: ",
+          "transcript_excerpt": "Google has just released the official MTP draft model for the Gemma 4 family today. If you remember when Gemma 4 launched a few weeks ago, one of the biggest complaints from the community was that it was painfully slow compared to other mod",
+          "shorts": false
+        },
+        {
+          "channel": "@JulianGoldieSEO",
+          "title": "New Google Gemini 3.2 + Omni LEAKS!",
+          "published": "05-06 05:00",
+          "published_dt": "2026-05-06T05:00:08+09:00",
+          "url": "https://www.youtube.com/watch?v=ESJy8yRxSiU",
+          "thumbnail": "https://i.ytimg.com/vi/ESJy8yRxSiU/hqdefault.jpg",
+          "summary": "이 영상은 모델/LLM 중심 내용입니다. 구성은 The Gemini Omni Leak Explained, Unified AI: One Model for Everything, Project Jarvis: AI Controls Your Screen, 4 Game-Changing Omni Features 순서로 이어집니다. New Google Gemini 3.2 plus Omni leaks New Google Gemini 3.2 plus Omni just leaked and this one is bigger than people think One line [music] of text, just one",
+          "description_excerpt": "00:00 - Intro 00:05 - The Gemini Omni Leak Explained 01:12 - Unified AI: One Model for Everything 02:00 - Project Jarvis: AI Controls Your Screen 03:02 - 4 Game-Changing Omni Features 04:16 - Gemini 3.2 Performance & Benchmarks 05:36 - Why Google Chrome Integration is Key 08:00 - Preparing for the Google I/O Launch",
+          "transcript_excerpt": "New Google Gemini 3.2 plus Omni leaks. New Google Gemini 3.2 plus Omni just leaked and this one is bigger than people think. Two weeks before Google IO 2026, a screenshot showed up inside the Gemini app. One line [music] of text, just one. ",
+          "shorts": false
+        },
+        {
+          "channel": "@JulianGoldieSEO",
+          "title": "Google Gemini New Updates Are INSANE!",
+          "published": "05-06 03:00",
+          "published_dt": "2026-05-06T03:00:34+09:00",
+          "url": "https://www.youtube.com/watch?v=W7nS4-hOaqU",
+          "thumbnail": "https://i.ytimg.com/vi/W7nS4-hOaqU/hqdefault.jpg",
+          "summary": "이 영상은 모델/LLM, 에이전트/자동화, 수익화/마케팅 중심 내용입니다. 구성은 Intro: Google Gemini's Insane Updates, The Rise of the Agentic Era, 1. Gemini Enterprise Agent Platform, 2. Google Vids: Free AI Video 순서로 이어지며, 제목만으로는 보이지 않는 변화 배경·핵심 기능·실제 활용 포인트를 짚어보는 영상입니다.",
+          "description_excerpt": "00:00 - Intro: Google Gemini's Insane Updates 01:03 - The Rise of the Agentic Era 01:26 - 1. Gemini Enterprise Agent Platform 02:02 - 2. Google Vids: Free AI Video 02:40 - 3. Deep Research Max 03:50 - 4. Gemma 4: Open Source Power 04:29 - 5. Learn Mode: Your Coding Teacher 05:53 - How to Use These Updates Today",
+          "transcript_excerpt": "Google Gemini new updates are insane. Google just dropped free AI video, a research robot that does your homework, and an AI that writes code for you. Most people miss this, but by the end of this video, you won't. Let's go. Okay, so listen",
+          "shorts": false
+        },
+        {
+          "channel": "@JulianGoldieSEO",
+          "title": "New FREE Kimi K2.6 AI Coder is INSANE!",
+          "published": "05-06 01:00",
+          "published_dt": "2026-05-06T01:00:17+09:00",
+          "url": "https://www.youtube.com/watch?v=C07CHirM80g",
+          "thumbnail": "https://i.ytimg.com/vi/C07CHirM80g/hqdefault.jpg",
+          "summary": "이 영상은 모델/LLM, 튜토리얼/설정 중심 내용입니다. 구성은 Free Access via NVIDIA, Specs That Matter, K2.6 vs K2.5, How to Set It Up 순서로 이어집니다. New free Kimmy K2.6 AI coder is insane What if I told you the best open source coder right now is fully free to use? And it's running on Nvidia's own servers",
+          "description_excerpt": "00:00 Intro 00:17 Free Access via NVIDIA 01:25 Specs That Matter 02:06 K2.6 vs K2.5 02:56 How to Set It Up 04:01 Top Features 05:23 Real Use Cases 07:03 Pro Tips",
+          "transcript_excerpt": "New free Kimmy K2.6 AI coder is insane. What if I told you the best open source coder right now is fully free to use? No subscription, no credit card, catch. And it's running on Nvidia's own servers. Most people have no idea this even exist",
+          "shorts": false
+        }
+      ],
+      "links": [
+        {
+          "label": "@JulianGoldieSEO · 05-06 07:00",
+          "url": "https://www.youtube.com/watch?v=1SXXpcJA2DA",
+          "thumbnail": "https://i.ytimg.com/vi/1SXXpcJA2DA/hqdefault.jpg"
+        },
+        {
+          "label": "@fahdmirza · 05-06 06:19",
+          "url": "https://www.youtube.com/watch?v=ak4OUOoOV08",
+          "thumbnail": "https://i.ytimg.com/vi/ak4OUOoOV08/hqdefault.jpg"
+        },
+        {
+          "label": "@JulianGoldieSEO · 05-06 05:00",
+          "url": "https://www.youtube.com/watch?v=ESJy8yRxSiU",
+          "thumbnail": "https://i.ytimg.com/vi/ESJy8yRxSiU/hqdefault.jpg"
+        }
+      ],
+      "entities": [
+        "@JulianGoldieSEO",
+        "@fahdmirza",
+        "@JulianGoldieSEO",
+        "@JulianGoldieSEO"
+      ]
+    },
+    "system": {
+      "summary": "CPU 15.6 % 사용 / 클럭 806.4 MHz / RAM 10.4GB 사용, 총 15.8GB (66%) / SSD 298.1GB 사용, 총 476.0GB (63%)",
+      "take": "CPU는 현재 15.6 % 사용 중이고 클럭은 806.4 MHz, 버스 스피드는 100.8 MHz, RAM은 총 15.8GB 중 10.4GB 사용 (66%), SSD는 총 476.0GB 중 298.1GB 사용 (63%), 여유 177.9GB입니다. 네트워크 인터페이스는 Ethernet, Ethernet 2, Wi-Fi 기준입니다.",
+      "metrics": [
+        {
+          "label": "CPU 사용률",
+          "value": "15.6 %",
+          "pct": 15.6,
+          "tone": "normal"
+        },
+        {
+          "label": "CPU 클럭",
+          "value": "806.4 MHz",
+          "pct": 23.04,
+          "tone": "normal"
+        },
+        {
+          "label": "버스 스피드",
+          "value": "100.8 MHz",
+          "pct": 100,
+          "tone": "normal"
+        },
+        {
+          "label": "CPU 온도",
+          "value": "49.0 °C",
+          "pct": 49.0,
+          "tone": "normal"
+        },
+        {
+          "label": "RAM 사용량",
+          "value": "10.4 / 15.8 GB (66%)",
+          "pct": 66.0,
+          "tone": "normal"
+        },
+        {
+          "label": "SSD 사용량",
+          "value": "298.1 / 476.0 GB (63%)",
+          "pct": 62.6,
+          "tone": "normal"
+        },
+        {
+          "label": "SSD 여유 공간",
+          "value": "177.9 / 476.0 GB",
+          "pct": 37.4,
+          "tone": "normal"
+        },
+        {
+          "label": "SSD 온도",
+          "value": "40.0 °C",
+          "pct": 40.0,
+          "tone": "normal"
+        },
+        {
+          "label": "업타임",
+          "value": "228시간 31분",
+          "pct": 100,
+          "tone": "normal"
+        },
+        {
+          "label": "네트워크 수신",
+          "value": "13439.7 MB",
+          "pct": 100,
+          "tone": "normal"
+        },
+        {
+          "label": "네트워크 송신",
+          "value": "3995.4 MB",
+          "pct": 100,
+          "tone": "normal"
+        }
+      ]
+    },
+    "openclaw": {
+      "summary": "OpenClaw 2026.5.2 (8b2a6e5)",
+      "take": "Runtime: running (pid 3316, Verified gateway listener detected on port 18789 even though schtasks did not report a running task.) | Listening: 127.0.0.1:18789",
+      "metrics": [
+        {
+          "label": "Gateway",
+          "value": "bind=loopback (127.0.0.1), port=18789 (service args)",
+          "pct": 100,
+          "tone": "normal"
+        },
+        {
+          "label": "Probe note",
+          "value": "Loopback-only gateway; only local clients can connect.",
+          "pct": 100,
+          "tone": "normal"
+        },
+        {
+          "label": "Runtime",
+          "value": "running (pid 3316, Verified gateway listener detected on port 18789 even though schtasks did not report a running task.)",
+          "pct": 100,
+          "tone": "good"
+        },
+        {
+          "label": "Listening",
+          "value": "127.0.0.1:18789",
+          "pct": 100,
+          "tone": "good"
+        }
+      ]
+    }
+  },
+  "cards": [
+    {
+      "title": "오늘의 한마디",
+      "summary": "오늘은 18:00 무조건 걷기 운동부터 시작됩니다. 첫 흐름만 안정적으로 잡으면 오늘 전체 리듬이 훨씬 부드럽게 이어질 겁니다.",
+      "take": "습도가 높아 체감이 더 무겁습니다. 물을 자주 마시며 리듬을 유지하면 좋겠습니다. 일정이 있는 날일수록 처음 두 개를 완벽하게 하려 하기보다, 팀장님 페이스를 끝까지 유지하는 쪽이 더 강합니다. 무리하지 말고 호흡을 길게 가져가시면 됩니다.",
+      "meta": [
+        "응원",
+        "중간 길이"
+      ],
+      "entities": [],
+      "keywords": [
+        "아침",
+        "집중"
+      ],
+      "links": []
+    },
+    {
+      "title": "오늘 일정",
+      "summary": "18:00 무조건 걷기 운동",
+      "take": "오늘은 일정 흐름이 보이는 날입니다. 시작 전에 우선순위만 정리하면 훨씬 가볍게 밀 수 있습니다.",
+      "meta": [
+        "일정",
+        "calendar"
+      ],
+      "entities": [
+        "calendar"
+      ],
+      "keywords": [
+        "calendar"
+      ],
+      "links": [
+        {
+          "label": "18:00 · 무조건 걷기 운동",
+          "url": "https://www.google.com/calendar/event?eid=bGdib2VxZGRtbG9rcGlhdjNqbGYyMXZtb3NfMjAyNjA1MDZUMDkwMDAwWiBibHVhcmFvbjIwQG0"
+        }
+      ]
+    },
+    {
+      "title": "주요 메일 / 중요 알림",
+      "summary": "주요 메일 없음",
+      "take": "최근 2일 기준 광고성 제외 후 결제·업무·중요인물·에러 메일이 감지되지 않았습니다.",
+      "meta": [
+        "메일",
+        "gmail",
+        "중요 알림"
+      ],
+      "entities": [],
+      "keywords": [
+        "gmail",
+        "alert"
+      ],
+      "links": []
+    },
+    {
+      "title": "유튜브 업데이트",
+      "summary": "@JulianGoldieSEO Claude Opus 4.7 + Notebo / @fahdmirza Google Releases Gemma 4  / @JulianGoldieSEO New Google Gemini 3.2 + ",
+      "take": "업로드 속도가 빠른 채널은 오늘도 여러 편이 들어왔습니다. 중요한 주제부터 2~3개만 골라 보면 효율이 좋습니다.",
+      "meta": [
+        "유튜브",
+        "AI 채널",
+        "중간 길이"
+      ],
+      "entities": [
+        "@JulianGoldieSEO",
+        "@fahdmirza",
+        "@JulianGoldieSEO",
+        "@JulianGoldieSEO"
+      ],
+      "keywords": [
+        "youtube",
+        "update",
+        "thumbnail"
+      ],
+      "links": [
+        {
+          "label": "@JulianGoldieSEO · 05-06 07:00",
+          "url": "https://www.youtube.com/watch?v=1SXXpcJA2DA",
+          "thumbnail": "https://i.ytimg.com/vi/1SXXpcJA2DA/hqdefault.jpg"
+        },
+        {
+          "label": "@fahdmirza · 05-06 06:19",
+          "url": "https://www.youtube.com/watch?v=ak4OUOoOV08",
+          "thumbnail": "https://i.ytimg.com/vi/ak4OUOoOV08/hqdefault.jpg"
+        },
+        {
+          "label": "@JulianGoldieSEO · 05-06 05:00",
+          "url": "https://www.youtube.com/watch?v=ESJy8yRxSiU",
+          "thumbnail": "https://i.ytimg.com/vi/ESJy8yRxSiU/hqdefault.jpg"
+        }
+      ]
+    },
+    {
+      "title": "시스템 상태 요약",
+      "summary": "CPU 15.6 % 사용 / 클럭 806.4 MHz / RAM 10.4GB 사용, 총 15.8GB (66%) / SSD 298.1GB 사용, 총 476.0GB (63%)",
+      "take": "CPU는 현재 15.6 % 사용 중이고 클럭은 806.4 MHz, 버스 스피드는 100.8 MHz, RAM은 총 15.8GB 중 10.4GB 사용 (66%), SSD는 총 476.0GB 중 298.1GB 사용 (63%), 여유 177.9GB입니다. 네트워크 인터페이스는 Ethernet, Ethernet 2, Wi-Fi 기준입니다.",
+      "meta": [
+        "시스템",
+        "LHM"
+      ],
+      "entities": [
+        "Intel N100",
+        "RAM",
+        "SSD"
+      ],
+      "keywords": [
+        "temperature",
+        "load",
+        "memory"
+      ],
+      "links": []
+    },
+    {
+      "title": "OpenClaw 상태 요약",
+      "summary": "OpenClaw 2026.5.2 (8b2a6e5)",
+      "take": "Runtime: running (pid 3316, Verified gateway listener detected on port 18789 even though schtasks did not report a running task.) | Listening: 127.0.0.1:18789",
+      "meta": [
+        "OpenClaw",
+        "Gateway"
+      ],
+      "entities": [
+        "main",
+        "gateway"
+      ],
+      "keywords": [
+        "version",
+        "rpc",
+        "status"
+      ],
+      "links": []
+    }
+  ],
+  "footer": "AI-assisted morning briefing, unified data structure ready for stage 2"
+}
