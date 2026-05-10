@@ -1,0 +1,398 @@
+{
+  "date": "2026-05-11 07:00",
+  "title": "아침 브리핑",
+  "subtitle": "날씨 · 응원 · 일정 · 메일 · 유튜브 · 시스템 · OpenClaw",
+  "summary": "오늘은 18:00 무조건 걷기 운동부터 시작됩니다. 첫 흐름만 안정적으로 잡으면 오늘 전체 리듬이 훨씬 부드럽게 이어질 겁니다.",
+  "summary_box": "오늘은 우산을 챙겨두는 게 좋겠습니다. 비 맞으면 컨디션이 금방 떨어집니다. 습도가 높아 체감이 더 무겁습니다. 물을 자주 마시며 리듬을 유지하면 좋겠습니다. 일정이 있는 날일수록 처음 두 개를 완벽하게 하려 하기보다, 팀장님 페이스를 끝까지 유지하는 쪽이 더 강합니다. 무리하지 말고 호흡을 길게 가져가시면 됩니다.",
+  "weather": {
+    "loc": "김해",
+    "temp": "13°C",
+    "desc": "Partly cloudy",
+    "icon": "⛅",
+    "badges": [
+      "체감 14°C",
+      "습도 82%",
+      "강수확률 61%",
+      "풍속 4km/h",
+      "UV 0",
+      "미세먼지 정보 연동 예정"
+    ],
+    "detail": {
+      "feels_like": "14",
+      "humidity": "82",
+      "rain_chance": "61",
+      "wind_kmph": "4",
+      "uv": "0",
+      "pm": "미세먼지 정보 연동 예정"
+    },
+    "life_comment": "오늘은 우산을 챙겨두는 게 좋겠습니다. 비 맞으면 컨디션이 금방 떨어집니다. 습도가 높아 체감이 더 무겁습니다. 물을 자주 마시며 리듬을 유지하면 좋겠습니다."
+  },
+  "sections": {
+    "calendar": {
+      "summary": "18:00 무조건 걷기 운동",
+      "take": "오늘은 일정 흐름이 보이는 날입니다. 시작 전에 우선순위만 정리하면 훨씬 가볍게 밀 수 있습니다.",
+      "items": [
+        {
+          "shown": "18:00",
+          "summary": "무조건 걷기 운동",
+          "htmlLink": "https://www.google.com/calendar/event?eid=bGdib2VxZGRtbG9rcGlhdjNqbGYyMXZtb3NfMjAyNjA1MTFUMDkwMDAwWiBibHVhcmFvbjIwQG0"
+        }
+      ],
+      "links": [
+        {
+          "label": "18:00 · 무조건 걷기 운동",
+          "url": "https://www.google.com/calendar/event?eid=bGdib2VxZGRtbG9rcGlhdjNqbGYyMXZtb3NfMjAyNjA1MTFUMDkwMDAwWiBibHVhcmFvbjIwQG0"
+        }
+      ],
+      "entities": [
+        "calendar"
+      ]
+    },
+    "mail": {
+      "summary": "[중요인물,에러] 보안 알림",
+      "take": "지금 확인할 만한 메일만 추렸습니다. 결제, 업무, 보안성 알림 위주로 먼저 보면 됩니다.",
+      "items": [
+        {
+          "date": "2026-05-11 04:21",
+          "from": "Google <no-reply@accounts.google.com>",
+          "subject": "보안 알림",
+          "tags": [
+            "중요인물",
+            "에러"
+          ]
+        }
+      ],
+      "links": [],
+      "entities": [
+        "에러",
+        "중요인물"
+      ]
+    },
+    "youtube": {
+      "summary": "@JulianGoldieSEO holaOS is Insane! 🤯 (Age / @fahdmirza NVIDIA Nemotron Elastic: / @JulianGoldieSEO Claude Code + NotebookLM",
+      "take": "업로드 속도가 빠른 채널은 오늘도 여러 편이 들어왔습니다. 중요한 주제부터 2~3개만 골라 보면 효율이 좋습니다.",
+      "items": [
+        {
+          "channel": "@JulianGoldieSEO",
+          "title": "holaOS is Insane! 🤯 (Agents Run For WEEKS)",
+          "published": "05-11 06:00",
+          "published_dt": "2026-05-11T06:00:09+09:00",
+          "url": "https://www.youtube.com/watch?v=DWtNHhSCwLA",
+          "thumbnail": "https://i.ytimg.com/vi/DWtNHhSCwLA/hqdefault.jpg",
+          "summary": "이 영상은 에이전트/자동화, 튜토리얼/설정 중심 내용입니다. 구성은 Intro – Why most AI agents fail, What Is Holo OS – Open-source agent OS, Persistent Memory – Agents that remember, Workspaces – Separate setups per project 순서로 이어집니다.",
+          "description_excerpt": "00:00 Intro – Why most AI agents fail 00:22 What Is Holo OS – Open-source agent OS 01:42 Persistent Memory – Agents that remember 02:15 Workspaces – Separate setups per project 03:35 One-Line Install – Full setup in one command 05:05 Holo OS vs Other Tools – What makes it different 05:46 Real Use Cases – Content, inbox, research 06:28 Pro Tips – Get the most",
+          "transcript_excerpt": "",
+          "shorts": false
+        },
+        {
+          "channel": "@fahdmirza",
+          "title": "NVIDIA Nemotron Elastic: 3-in-1 Elastic LLM Like Russian Dolls in One File",
+          "published": "05-11 05:59",
+          "published_dt": "2026-05-11T05:59:50+09:00",
+          "url": "https://www.youtube.com/watch?v=-3SXz1_nbvc",
+          "thumbnail": "https://i.ytimg.com/vi/-3SXz1_nbvc/hqdefault.jpg",
+          "summary": "이 영상은 모델/LLM, 튜토리얼/설정 중심 내용입니다. 구성은 This video locally installs and tests NVIDIA-Nemotron-Labs-3-Elastic-30B-A3B-BF16, a 3-in-1 elastic LLM developed by NVIDIA, 🔥 Buy Me a Coffee to support the channel: PLEASE FOLLOW ME: ▶ LinkedIn: ▶ YouTube: ▶ Blog: RESOURCES: ▶ All rights reserved © Fahd Mirza 순서로 이어지며, 제목만으로는 보이지 않는 변화 배경·핵심 기능·실제 활용 포인트를 짚어보는 영상입니다.",
+          "description_excerpt": "This video locally installs and tests NVIDIA-Nemotron-Labs-3-Elastic-30B-A3B-BF16, a 3-in-1 elastic LLM developed by NVIDIA. 🔥 Buy Me a Coffee to support the channel: PLEASE FOLLOW ME: ▶ LinkedIn: ▶ YouTube: ▶ Blog: RESOURCES: ▶ All rights reserved © Fahd Mirza",
+          "transcript_excerpt": "",
+          "shorts": false
+        },
+        {
+          "channel": "@JulianGoldieSEO",
+          "title": "Claude Code + NotebookLM is INSANE!",
+          "published": "05-11 04:00",
+          "published_dt": "2026-05-11T04:00:30+09:00",
+          "url": "https://www.youtube.com/watch?v=gSzejA6oXJY",
+          "thumbnail": "https://i.ytimg.com/vi/gSzejA6oXJY/hqdefault.jpg",
+          "summary": "이 영상은 모델/LLM, 수익화/마케팅 중심 내용입니다. 구성은 What are Claude Code & NotebookLM?, Researching with NotebookLM, Building with Claude Code, Advanced SEO Schema & Links 순서로 이어집니다.",
+          "description_excerpt": "00:00 - Intro 00:10 - What are Claude Code & NotebookLM? 01:23 - Researching with NotebookLM 02:52 - Building with Claude Code 03:38 - Advanced SEO Schema & Links 04:20 - The Future of SEO in 2026 05:10 - Winning Featured Snippets 06:03 - Building SEO Systems That Scale",
+          "transcript_excerpt": "",
+          "shorts": false
+        },
+        {
+          "channel": "@JulianGoldieSEO",
+          "title": "New Neo Browser Update Is INSANE!",
+          "published": "05-11 02:00",
+          "published_dt": "2026-05-11T02:00:42+09:00",
+          "url": "https://www.youtube.com/watch?v=Ypl1S9slJic",
+          "thumbnail": "https://i.ytimg.com/vi/Ypl1S9slJic/hqdefault.jpg",
+          "summary": "이 영상은 튜토리얼/설정 중심 내용입니다. 구성은 Intro: Why Neo is a Game Changer, The Magic Box: Search Meets AI, AI Side Panel & Reasoning Modes, Peek, Summarize & Writing Tools 순서로 이어지며, 제목만으로는 보이지 않는 변화 배경·핵심 기능·실제 활용 포인트를 짚어보는 영상입니다.",
+          "description_excerpt": "👉 Try Neo Browser here: 🚨 Sponsored by Neo Browser 🚨 The new Neo Browser update is absolutely INSANE. 🤯 This isn’t just another browser with AI slapped onto it… Neo is built from the ground up with AI baked into every click, tab, and search. New Neo Browser Update: The Smartest AI Workspace Ever? The new Neo browser update transforms your productivity with A",
+          "transcript_excerpt": "",
+          "shorts": false
+        },
+        {
+          "channel": "@JulianGoldieSEO",
+          "title": "LIVE: Building Custom AI Agents FREE with Hermes Agent",
+          "published": "05-11 01:32",
+          "published_dt": "2026-05-11T01:32:27+09:00",
+          "url": "https://www.youtube.com/watch?v=g83TyybwsCE",
+          "thumbnail": "https://i.ytimg.com/vi/g83TyybwsCE/hqdefault.jpg",
+          "summary": "LIVE: Building Custom AI Agents FREE with Hermes 에이전트 내용을 다루는 영상입니다. 핵심은 AI, 에이전트 관련 변화나 활용 포인트를 소개하는 것입니다.",
+          "description_excerpt": "",
+          "transcript_excerpt": "",
+          "shorts": false
+        }
+      ],
+      "links": [
+        {
+          "label": "@JulianGoldieSEO · 05-11 06:00",
+          "url": "https://www.youtube.com/watch?v=DWtNHhSCwLA",
+          "thumbnail": "https://i.ytimg.com/vi/DWtNHhSCwLA/hqdefault.jpg"
+        },
+        {
+          "label": "@fahdmirza · 05-11 05:59",
+          "url": "https://www.youtube.com/watch?v=-3SXz1_nbvc",
+          "thumbnail": "https://i.ytimg.com/vi/-3SXz1_nbvc/hqdefault.jpg"
+        },
+        {
+          "label": "@JulianGoldieSEO · 05-11 04:00",
+          "url": "https://www.youtube.com/watch?v=gSzejA6oXJY",
+          "thumbnail": "https://i.ytimg.com/vi/gSzejA6oXJY/hqdefault.jpg"
+        }
+      ],
+      "entities": [
+        "@JulianGoldieSEO",
+        "@fahdmirza",
+        "@JulianGoldieSEO",
+        "@JulianGoldieSEO"
+      ]
+    },
+    "system": {
+      "summary": "CPU 23.9 % 사용 / 클럭 907.2 MHz / RAM 10.4GB 사용, 총 15.8GB (66%) / SSD 299.8GB 사용, 총 476.0GB (63%)",
+      "take": "CPU는 현재 23.9 % 사용 중이고 클럭은 907.2 MHz, 버스 스피드는 100.8 MHz, RAM은 총 15.8GB 중 10.4GB 사용 (66%), SSD는 총 476.0GB 중 299.8GB 사용 (63%), 여유 176.1GB입니다. 네트워크 인터페이스는 Ethernet, Ethernet 2, Wi-Fi 기준입니다.",
+      "metrics": [
+        {
+          "label": "CPU 사용률",
+          "value": "23.9 %",
+          "pct": 23.9,
+          "tone": "normal"
+        },
+        {
+          "label": "CPU 클럭",
+          "value": "907.2 MHz",
+          "pct": 25.92,
+          "tone": "normal"
+        },
+        {
+          "label": "버스 스피드",
+          "value": "100.8 MHz",
+          "pct": 100,
+          "tone": "normal"
+        },
+        {
+          "label": "CPU 온도",
+          "value": "49.0 °C",
+          "pct": 49.0,
+          "tone": "normal"
+        },
+        {
+          "label": "RAM 사용량",
+          "value": "10.4 / 15.8 GB (66%)",
+          "pct": 65.7,
+          "tone": "normal"
+        },
+        {
+          "label": "SSD 사용량",
+          "value": "299.8 / 476.0 GB (63%)",
+          "pct": 63.0,
+          "tone": "normal"
+        },
+        {
+          "label": "SSD 여유 공간",
+          "value": "176.1 / 476.0 GB",
+          "pct": 37.0,
+          "tone": "normal"
+        },
+        {
+          "label": "SSD 온도",
+          "value": "40.0 °C",
+          "pct": 40.0,
+          "tone": "normal"
+        },
+        {
+          "label": "업타임",
+          "value": "348시간 31분",
+          "pct": 100,
+          "tone": "normal"
+        },
+        {
+          "label": "네트워크 수신",
+          "value": "18032.5 MB",
+          "pct": 100,
+          "tone": "normal"
+        },
+        {
+          "label": "네트워크 송신",
+          "value": "4955.7 MB",
+          "pct": 100,
+          "tone": "normal"
+        }
+      ]
+    },
+    "openclaw": {
+      "summary": "OpenClaw 2026.5.7 (eeef486)",
+      "take": "Runtime: running (pid 8272, Verified gateway listener detected on port 18789 even though schtasks did not report a running task.) | Listening: 127.0.0.1:18789",
+      "metrics": [
+        {
+          "label": "Gateway",
+          "value": "bind=loopback (127.0.0.1), port=18789 (service args)",
+          "pct": 100,
+          "tone": "normal"
+        },
+        {
+          "label": "Probe note",
+          "value": "Loopback-only gateway; only local clients can connect.",
+          "pct": 100,
+          "tone": "normal"
+        },
+        {
+          "label": "Runtime",
+          "value": "running (pid 8272, Verified gateway listener detected on port 18789 even though schtasks did not report a running task.)",
+          "pct": 100,
+          "tone": "good"
+        },
+        {
+          "label": "Listening",
+          "value": "127.0.0.1:18789",
+          "pct": 100,
+          "tone": "good"
+        }
+      ]
+    }
+  },
+  "cards": [
+    {
+      "title": "오늘의 한마디",
+      "summary": "오늘은 18:00 무조건 걷기 운동부터 시작됩니다. 첫 흐름만 안정적으로 잡으면 오늘 전체 리듬이 훨씬 부드럽게 이어질 겁니다.",
+      "take": "오늘은 우산을 챙겨두는 게 좋겠습니다. 비 맞으면 컨디션이 금방 떨어집니다. 습도가 높아 체감이 더 무겁습니다. 물을 자주 마시며 리듬을 유지하면 좋겠습니다. 일정이 있는 날일수록 처음 두 개를 완벽하게 하려 하기보다, 팀장님 페이스를 끝까지 유지하는 쪽이 더 강합니다. 무리하지 말고 호흡을 길게 가져가시면 됩니다.",
+      "meta": [
+        "응원",
+        "중간 길이"
+      ],
+      "entities": [],
+      "keywords": [
+        "아침",
+        "집중"
+      ],
+      "links": []
+    },
+    {
+      "title": "오늘 일정",
+      "summary": "18:00 무조건 걷기 운동",
+      "take": "오늘은 일정 흐름이 보이는 날입니다. 시작 전에 우선순위만 정리하면 훨씬 가볍게 밀 수 있습니다.",
+      "meta": [
+        "일정",
+        "calendar"
+      ],
+      "entities": [
+        "calendar"
+      ],
+      "keywords": [
+        "calendar"
+      ],
+      "links": [
+        {
+          "label": "18:00 · 무조건 걷기 운동",
+          "url": "https://www.google.com/calendar/event?eid=bGdib2VxZGRtbG9rcGlhdjNqbGYyMXZtb3NfMjAyNjA1MTFUMDkwMDAwWiBibHVhcmFvbjIwQG0"
+        }
+      ]
+    },
+    {
+      "title": "주요 메일 / 중요 알림",
+      "summary": "[중요인물,에러] 보안 알림",
+      "take": "지금 확인할 만한 메일만 추렸습니다. 결제, 업무, 보안성 알림 위주로 먼저 보면 됩니다.",
+      "meta": [
+        "메일",
+        "gmail",
+        "중요 알림"
+      ],
+      "entities": [
+        "에러",
+        "중요인물"
+      ],
+      "keywords": [
+        "gmail",
+        "alert"
+      ],
+      "links": []
+    },
+    {
+      "title": "유튜브 업데이트",
+      "summary": "@JulianGoldieSEO holaOS is Insane! 🤯 (Age / @fahdmirza NVIDIA Nemotron Elastic: / @JulianGoldieSEO Claude Code + NotebookLM",
+      "take": "업로드 속도가 빠른 채널은 오늘도 여러 편이 들어왔습니다. 중요한 주제부터 2~3개만 골라 보면 효율이 좋습니다.",
+      "meta": [
+        "유튜브",
+        "AI 채널",
+        "중간 길이"
+      ],
+      "entities": [
+        "@JulianGoldieSEO",
+        "@fahdmirza",
+        "@JulianGoldieSEO",
+        "@JulianGoldieSEO"
+      ],
+      "keywords": [
+        "youtube",
+        "update",
+        "thumbnail"
+      ],
+      "links": [
+        {
+          "label": "@JulianGoldieSEO · 05-11 06:00",
+          "url": "https://www.youtube.com/watch?v=DWtNHhSCwLA",
+          "thumbnail": "https://i.ytimg.com/vi/DWtNHhSCwLA/hqdefault.jpg"
+        },
+        {
+          "label": "@fahdmirza · 05-11 05:59",
+          "url": "https://www.youtube.com/watch?v=-3SXz1_nbvc",
+          "thumbnail": "https://i.ytimg.com/vi/-3SXz1_nbvc/hqdefault.jpg"
+        },
+        {
+          "label": "@JulianGoldieSEO · 05-11 04:00",
+          "url": "https://www.youtube.com/watch?v=gSzejA6oXJY",
+          "thumbnail": "https://i.ytimg.com/vi/gSzejA6oXJY/hqdefault.jpg"
+        }
+      ]
+    },
+    {
+      "title": "시스템 상태 요약",
+      "summary": "CPU 23.9 % 사용 / 클럭 907.2 MHz / RAM 10.4GB 사용, 총 15.8GB (66%) / SSD 299.8GB 사용, 총 476.0GB (63%)",
+      "take": "CPU는 현재 23.9 % 사용 중이고 클럭은 907.2 MHz, 버스 스피드는 100.8 MHz, RAM은 총 15.8GB 중 10.4GB 사용 (66%), SSD는 총 476.0GB 중 299.8GB 사용 (63%), 여유 176.1GB입니다. 네트워크 인터페이스는 Ethernet, Ethernet 2, Wi-Fi 기준입니다.",
+      "meta": [
+        "시스템",
+        "LHM"
+      ],
+      "entities": [
+        "Intel N100",
+        "RAM",
+        "SSD"
+      ],
+      "keywords": [
+        "temperature",
+        "load",
+        "memory"
+      ],
+      "links": []
+    },
+    {
+      "title": "OpenClaw 상태 요약",
+      "summary": "OpenClaw 2026.5.7 (eeef486)",
+      "take": "Runtime: running (pid 8272, Verified gateway listener detected on port 18789 even though schtasks did not report a running task.) | Listening: 127.0.0.1:18789",
+      "meta": [
+        "OpenClaw",
+        "Gateway"
+      ],
+      "entities": [
+        "main",
+        "gateway"
+      ],
+      "keywords": [
+        "version",
+        "rpc",
+        "status"
+      ],
+      "links": []
+    }
+  ],
+  "footer": "AI-assisted morning briefing, unified data structure ready for stage 2"
+}
