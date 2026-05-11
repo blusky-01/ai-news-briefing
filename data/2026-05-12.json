@@ -1,0 +1,398 @@
+{
+  "date": "2026-05-12 07:00",
+  "title": "아침 브리핑",
+  "subtitle": "날씨 · 응원 · 일정 · 메일 · 유튜브 · 시스템 · OpenClaw",
+  "summary": "오늘은 18:00 무조건 걷기 운동부터 시작됩니다. 첫 흐름만 안정적으로 잡으면 오늘 전체 리듬이 훨씬 부드럽게 이어질 겁니다.",
+  "summary_box": "오늘은 우산을 챙겨두는 게 좋겠습니다. 비 맞으면 컨디션이 금방 떨어집니다. 습도가 높아 체감이 더 무겁습니다. 물을 자주 마시며 리듬을 유지하면 좋겠습니다. 일정이 있는 날일수록 처음 두 개를 완벽하게 하려 하기보다, 팀장님 페이스를 끝까지 유지하는 쪽이 더 강합니다. 무리하지 말고 호흡을 길게 가져가시면 됩니다.",
+  "weather": {
+    "loc": "김해",
+    "temp": "15°C",
+    "desc": "Mist",
+    "icon": "⛅",
+    "badges": [
+      "체감 15°C",
+      "습도 82%",
+      "강수확률 100%",
+      "풍속 4km/h",
+      "UV 0",
+      "미세먼지 정보 연동 예정"
+    ],
+    "detail": {
+      "feels_like": "15",
+      "humidity": "82",
+      "rain_chance": "100",
+      "wind_kmph": "4",
+      "uv": "0",
+      "pm": "미세먼지 정보 연동 예정"
+    },
+    "life_comment": "오늘은 우산을 챙겨두는 게 좋겠습니다. 비 맞으면 컨디션이 금방 떨어집니다. 습도가 높아 체감이 더 무겁습니다. 물을 자주 마시며 리듬을 유지하면 좋겠습니다."
+  },
+  "sections": {
+    "calendar": {
+      "summary": "18:00 무조건 걷기 운동",
+      "take": "오늘은 일정 흐름이 보이는 날입니다. 시작 전에 우선순위만 정리하면 훨씬 가볍게 밀 수 있습니다.",
+      "items": [
+        {
+          "shown": "18:00",
+          "summary": "무조건 걷기 운동",
+          "htmlLink": "https://www.google.com/calendar/event?eid=bGdib2VxZGRtbG9rcGlhdjNqbGYyMXZtb3NfMjAyNjA1MTJUMDkwMDAwWiBibHVhcmFvbjIwQG0"
+        }
+      ],
+      "links": [
+        {
+          "label": "18:00 · 무조건 걷기 운동",
+          "url": "https://www.google.com/calendar/event?eid=bGdib2VxZGRtbG9rcGlhdjNqbGYyMXZtb3NfMjAyNjA1MTJUMDkwMDAwWiBibHVhcmFvbjIwQG0"
+        }
+      ],
+      "entities": [
+        "calendar"
+      ]
+    },
+    "mail": {
+      "summary": "[중요인물,에러] 보안 알림",
+      "take": "지금 확인할 만한 메일만 추렸습니다. 결제, 업무, 보안성 알림 위주로 먼저 보면 됩니다.",
+      "items": [
+        {
+          "date": "2026-05-11 04:21",
+          "from": "Google <no-reply@accounts.google.com>",
+          "subject": "보안 알림",
+          "tags": [
+            "중요인물",
+            "에러"
+          ]
+        }
+      ],
+      "links": [],
+      "entities": [
+        "중요인물",
+        "에러"
+      ]
+    },
+    "youtube": {
+      "summary": "@fahdmirza MiniCPM-V 4.6: Most Edge / @JulianGoldieSEO Hermes Agent + Pareto Co / @JulianGoldieSEO Hermes Agent + AionUi is",
+      "take": "업로드 속도가 빠른 채널은 오늘도 여러 편이 들어왔습니다. 중요한 주제부터 2~3개만 골라 보면 효율이 좋습니다.",
+      "items": [
+        {
+          "channel": "@fahdmirza",
+          "title": "MiniCPM-V 4.6: Most Edge-Friendly Vision Model from OpenBMB - Test Locally",
+          "published": "05-12 06:10",
+          "published_dt": "2026-05-12T06:10:10+09:00",
+          "url": "https://www.youtube.com/watch?v=EA4MBQ2UN3M",
+          "thumbnail": "https://i.ytimg.com/vi/EA4MBQ2UN3M/hqdefault.jpg",
+          "summary": "이 영상은 모델/LLM, 튜토리얼/설정 중심 내용입니다. 구성은 This video locally installs and tests theMiniCPM-V 4.6, which is their most edge-deployment-friendly model to date 순서로 이어지며, 제목만으로는 보이지 않는 변화 배경·핵심 기능·실제 활용 포인트를 짚어보는 영상입니다.",
+          "description_excerpt": "This video locally installs and tests theMiniCPM-V 4.6, which is their most edge-deployment-friendly model to date. 🔥 Get 50% Discount on any A6000 or A5000 GPU rental, use following link and coupon: Coupon code: FahdMirza 🔥 Buy Me a Coffee to support the channel: PLEASE FOLLOW ME: ▶ LinkedIn: ▶ YouTube: ▶ Blog: RESOURCES: ▶ All rights reserved © Fahd Mirza",
+          "transcript_excerpt": "",
+          "shorts": false
+        },
+        {
+          "channel": "@JulianGoldieSEO",
+          "title": "Hermes Agent + Pareto Code is Insane (FREE!)",
+          "published": "05-12 05:00",
+          "published_dt": "2026-05-12T05:00:26+09:00",
+          "url": "https://www.youtube.com/watch?v=kQHi_dXugbI",
+          "thumbnail": "https://i.ytimg.com/vi/kQHi_dXugbI/hqdefault.jpg",
+          "summary": "이 영상은 모델/LLM, 에이전트/자동화 중심 내용입니다. 구성은 The Model Problem, Parto Code Explained, Hermes Agent Breakdown, How They Work Together 순서로 이어집니다.",
+          "description_excerpt": "00:00 Intro 00:52 The Model Problem 01:15 Parto Code Explained 02:50 Hermes Agent Breakdown 05:00 How They Work Together 05:50 Real Use Cases 07:00 Pro Tips",
+          "transcript_excerpt": "",
+          "shorts": false
+        },
+        {
+          "channel": "@JulianGoldieSEO",
+          "title": "Hermes Agent + AionUi is INSANE!",
+          "published": "05-12 02:00",
+          "published_dt": "2026-05-12T02:00:49+09:00",
+          "url": "https://www.youtube.com/watch?v=_bMkorMBL6E",
+          "thumbnail": "https://i.ytimg.com/vi/_bMkorMBL6E/hqdefault.jpg",
+          "summary": "이 영상은 모델/LLM, 에이전트/자동화, 튜토리얼/설정 중심 내용입니다. 구성은 The Brain: Hermes Agent, The Interface: Ioni, Building an AI Agent Team, Agents vs. Chatbots 순서로 이어집니다.",
+          "description_excerpt": "00:00 - 00:00 - Intro 00:43 - The Brain: Hermes Agent 01:10 - The Interface: Ioni 02:03 - Building an AI Agent Team 03:22 - Agents vs. Chatbots 04:52 - Loops and Local Memory 06:16 - Privacy and Data Security 06:46 - Step-by-Step Setup Guide",
+          "transcript_excerpt": "",
+          "shorts": false
+        },
+        {
+          "channel": "@진바이브",
+          "title": "OpenAI 직원들이 440억원씩 벌었습니다",
+          "published": "05-12 00:22",
+          "published_dt": "2026-05-12T00:22:54+09:00",
+          "url": "https://www.youtube.com/watch?v=MPT9KWzBOhg",
+          "thumbnail": "https://i.ytimg.com/vi/MPT9KWzBOhg/hqdefault.jpg",
+          "summary": "OpenAI 직원들이 440억원씩 벌었습니다 내용을 다루는 영상입니다. 핵심은 AI, OpenAI 관련 변화나 활용 포인트를 소개하는 것입니다.",
+          "description_excerpt": "",
+          "transcript_excerpt": "",
+          "shorts": false
+        },
+        {
+          "channel": "@JulianGoldieSEO",
+          "title": "Grok 4.3 + Claude Opus 4.7 Is INSANE! 🤯",
+          "published": "05-12 00:01",
+          "published_dt": "2026-05-12T00:01:42+09:00",
+          "url": "https://www.youtube.com/watch?v=yPHoV-la3Fk",
+          "thumbnail": "https://i.ytimg.com/vi/yPHoV-la3Fk/hqdefault.jpg",
+          "summary": "이 영상은 모델/LLM, 에이전트/자동화 중심 내용입니다. 구성은 Intro: The AI Landscape Shift, Claude Opus 4.7 Benchmarks, Grok 4.3 Price & Features, The Rise of Agentic AI 순서로 이어집니다.",
+          "description_excerpt": "00:00 - Intro: The AI Landscape Shift 00:16 - Claude Opus 4.7 Benchmarks 00:56 - Grok 4.3 Price & Features 01:41 - The Rise of Agentic AI 03:24 - Practical Workflows & Use Cases 04:39 - 1 Million Token Context Window 06:12 - Real-World Business Impact 07:13 - Claude vs Grok: Which to Use?",
+          "transcript_excerpt": "",
+          "shorts": false
+        }
+      ],
+      "links": [
+        {
+          "label": "@fahdmirza · 05-12 06:10",
+          "url": "https://www.youtube.com/watch?v=EA4MBQ2UN3M",
+          "thumbnail": "https://i.ytimg.com/vi/EA4MBQ2UN3M/hqdefault.jpg"
+        },
+        {
+          "label": "@JulianGoldieSEO · 05-12 05:00",
+          "url": "https://www.youtube.com/watch?v=kQHi_dXugbI",
+          "thumbnail": "https://i.ytimg.com/vi/kQHi_dXugbI/hqdefault.jpg"
+        },
+        {
+          "label": "@JulianGoldieSEO · 05-12 02:00",
+          "url": "https://www.youtube.com/watch?v=_bMkorMBL6E",
+          "thumbnail": "https://i.ytimg.com/vi/_bMkorMBL6E/hqdefault.jpg"
+        }
+      ],
+      "entities": [
+        "@fahdmirza",
+        "@JulianGoldieSEO",
+        "@JulianGoldieSEO",
+        "@진바이브"
+      ]
+    },
+    "system": {
+      "summary": "CPU 4.0 % 사용 / 클럭 1310.4 MHz / RAM 11.7GB 사용, 총 15.8GB (74%) / SSD 301.4GB 사용, 총 476.0GB (63%)",
+      "take": "CPU는 현재 4.0 % 사용 중이고 클럭은 1310.4 MHz, 버스 스피드는 100.8 MHz, RAM은 총 15.8GB 중 11.7GB 사용 (74%), SSD는 총 476.0GB 중 301.4GB 사용 (63%), 여유 174.6GB입니다. 네트워크 인터페이스는 Ethernet, Ethernet 2, Wi-Fi 기준입니다.",
+      "metrics": [
+        {
+          "label": "CPU 사용률",
+          "value": "4.0 %",
+          "pct": 4.0,
+          "tone": "normal"
+        },
+        {
+          "label": "CPU 클럭",
+          "value": "1310.4 MHz",
+          "pct": 37.440000000000005,
+          "tone": "normal"
+        },
+        {
+          "label": "버스 스피드",
+          "value": "100.8 MHz",
+          "pct": 100,
+          "tone": "normal"
+        },
+        {
+          "label": "CPU 온도",
+          "value": "46.0 °C",
+          "pct": 46.0,
+          "tone": "normal"
+        },
+        {
+          "label": "RAM 사용량",
+          "value": "11.7 / 15.8 GB (74%)",
+          "pct": 74.2,
+          "tone": "normal"
+        },
+        {
+          "label": "SSD 사용량",
+          "value": "301.4 / 476.0 GB (63%)",
+          "pct": 63.3,
+          "tone": "normal"
+        },
+        {
+          "label": "SSD 여유 공간",
+          "value": "174.6 / 476.0 GB",
+          "pct": 36.7,
+          "tone": "normal"
+        },
+        {
+          "label": "SSD 온도",
+          "value": "40.0 °C",
+          "pct": 40.0,
+          "tone": "normal"
+        },
+        {
+          "label": "업타임",
+          "value": "372시간 31분",
+          "pct": 100,
+          "tone": "normal"
+        },
+        {
+          "label": "네트워크 수신",
+          "value": "18263.7 MB",
+          "pct": 100,
+          "tone": "normal"
+        },
+        {
+          "label": "네트워크 송신",
+          "value": "5134.7 MB",
+          "pct": 100,
+          "tone": "normal"
+        }
+      ]
+    },
+    "openclaw": {
+      "summary": "OpenClaw 2026.5.7 (eeef486)",
+      "take": "Runtime: running (pid 8272, Verified gateway listener detected on port 18789 even though schtasks did not report a running task.) | Listening: 127.0.0.1:18789",
+      "metrics": [
+        {
+          "label": "Gateway",
+          "value": "bind=loopback (127.0.0.1), port=18789 (service args)",
+          "pct": 100,
+          "tone": "normal"
+        },
+        {
+          "label": "Probe note",
+          "value": "Loopback-only gateway; only local clients can connect.",
+          "pct": 100,
+          "tone": "normal"
+        },
+        {
+          "label": "Runtime",
+          "value": "running (pid 8272, Verified gateway listener detected on port 18789 even though schtasks did not report a running task.)",
+          "pct": 100,
+          "tone": "good"
+        },
+        {
+          "label": "Listening",
+          "value": "127.0.0.1:18789",
+          "pct": 100,
+          "tone": "good"
+        }
+      ]
+    }
+  },
+  "cards": [
+    {
+      "title": "오늘의 한마디",
+      "summary": "오늘은 18:00 무조건 걷기 운동부터 시작됩니다. 첫 흐름만 안정적으로 잡으면 오늘 전체 리듬이 훨씬 부드럽게 이어질 겁니다.",
+      "take": "오늘은 우산을 챙겨두는 게 좋겠습니다. 비 맞으면 컨디션이 금방 떨어집니다. 습도가 높아 체감이 더 무겁습니다. 물을 자주 마시며 리듬을 유지하면 좋겠습니다. 일정이 있는 날일수록 처음 두 개를 완벽하게 하려 하기보다, 팀장님 페이스를 끝까지 유지하는 쪽이 더 강합니다. 무리하지 말고 호흡을 길게 가져가시면 됩니다.",
+      "meta": [
+        "응원",
+        "중간 길이"
+      ],
+      "entities": [],
+      "keywords": [
+        "아침",
+        "집중"
+      ],
+      "links": []
+    },
+    {
+      "title": "오늘 일정",
+      "summary": "18:00 무조건 걷기 운동",
+      "take": "오늘은 일정 흐름이 보이는 날입니다. 시작 전에 우선순위만 정리하면 훨씬 가볍게 밀 수 있습니다.",
+      "meta": [
+        "일정",
+        "calendar"
+      ],
+      "entities": [
+        "calendar"
+      ],
+      "keywords": [
+        "calendar"
+      ],
+      "links": [
+        {
+          "label": "18:00 · 무조건 걷기 운동",
+          "url": "https://www.google.com/calendar/event?eid=bGdib2VxZGRtbG9rcGlhdjNqbGYyMXZtb3NfMjAyNjA1MTJUMDkwMDAwWiBibHVhcmFvbjIwQG0"
+        }
+      ]
+    },
+    {
+      "title": "주요 메일 / 중요 알림",
+      "summary": "[중요인물,에러] 보안 알림",
+      "take": "지금 확인할 만한 메일만 추렸습니다. 결제, 업무, 보안성 알림 위주로 먼저 보면 됩니다.",
+      "meta": [
+        "메일",
+        "gmail",
+        "중요 알림"
+      ],
+      "entities": [
+        "중요인물",
+        "에러"
+      ],
+      "keywords": [
+        "gmail",
+        "alert"
+      ],
+      "links": []
+    },
+    {
+      "title": "유튜브 업데이트",
+      "summary": "@fahdmirza MiniCPM-V 4.6: Most Edge / @JulianGoldieSEO Hermes Agent + Pareto Co / @JulianGoldieSEO Hermes Agent + AionUi is",
+      "take": "업로드 속도가 빠른 채널은 오늘도 여러 편이 들어왔습니다. 중요한 주제부터 2~3개만 골라 보면 효율이 좋습니다.",
+      "meta": [
+        "유튜브",
+        "AI 채널",
+        "중간 길이"
+      ],
+      "entities": [
+        "@fahdmirza",
+        "@JulianGoldieSEO",
+        "@JulianGoldieSEO",
+        "@진바이브"
+      ],
+      "keywords": [
+        "youtube",
+        "update",
+        "thumbnail"
+      ],
+      "links": [
+        {
+          "label": "@fahdmirza · 05-12 06:10",
+          "url": "https://www.youtube.com/watch?v=EA4MBQ2UN3M",
+          "thumbnail": "https://i.ytimg.com/vi/EA4MBQ2UN3M/hqdefault.jpg"
+        },
+        {
+          "label": "@JulianGoldieSEO · 05-12 05:00",
+          "url": "https://www.youtube.com/watch?v=kQHi_dXugbI",
+          "thumbnail": "https://i.ytimg.com/vi/kQHi_dXugbI/hqdefault.jpg"
+        },
+        {
+          "label": "@JulianGoldieSEO · 05-12 02:00",
+          "url": "https://www.youtube.com/watch?v=_bMkorMBL6E",
+          "thumbnail": "https://i.ytimg.com/vi/_bMkorMBL6E/hqdefault.jpg"
+        }
+      ]
+    },
+    {
+      "title": "시스템 상태 요약",
+      "summary": "CPU 4.0 % 사용 / 클럭 1310.4 MHz / RAM 11.7GB 사용, 총 15.8GB (74%) / SSD 301.4GB 사용, 총 476.0GB (63%)",
+      "take": "CPU는 현재 4.0 % 사용 중이고 클럭은 1310.4 MHz, 버스 스피드는 100.8 MHz, RAM은 총 15.8GB 중 11.7GB 사용 (74%), SSD는 총 476.0GB 중 301.4GB 사용 (63%), 여유 174.6GB입니다. 네트워크 인터페이스는 Ethernet, Ethernet 2, Wi-Fi 기준입니다.",
+      "meta": [
+        "시스템",
+        "LHM"
+      ],
+      "entities": [
+        "Intel N100",
+        "RAM",
+        "SSD"
+      ],
+      "keywords": [
+        "temperature",
+        "load",
+        "memory"
+      ],
+      "links": []
+    },
+    {
+      "title": "OpenClaw 상태 요약",
+      "summary": "OpenClaw 2026.5.7 (eeef486)",
+      "take": "Runtime: running (pid 8272, Verified gateway listener detected on port 18789 even though schtasks did not report a running task.) | Listening: 127.0.0.1:18789",
+      "meta": [
+        "OpenClaw",
+        "Gateway"
+      ],
+      "entities": [
+        "main",
+        "gateway"
+      ],
+      "keywords": [
+        "version",
+        "rpc",
+        "status"
+      ],
+      "links": []
+    }
+  ],
+  "footer": "AI-assisted morning briefing, unified data structure ready for stage 2"
+}
