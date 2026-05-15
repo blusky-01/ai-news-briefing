@@ -1,0 +1,408 @@
+{
+  "date": "2026-05-16 07:00",
+  "title": "아침 브리핑",
+  "subtitle": "날씨 · 응원 · 일정 · 메일 · 유튜브 · 시스템 · OpenClaw",
+  "summary": "오늘은 18:00 무조건 걷기 운동부터 시작됩니다. 첫 흐름만 안정적으로 잡으면 오늘 전체 리듬이 훨씬 부드럽게 이어질 겁니다.",
+  "summary_box": "큰 변수 없이 움직이기 좋은 날씨입니다. 일정만 잘 잡으면 리듬 있게 가기 좋겠습니다. 일정이 있는 날일수록 처음 두 개를 완벽하게 하려 하기보다, 팀장님 페이스를 끝까지 유지하는 쪽이 더 강합니다. 무리하지 말고 호흡을 길게 가져가시면 됩니다.",
+  "weather": {
+    "loc": "김해",
+    "temp": "11°C",
+    "desc": "Sunny",
+    "icon": "⛅",
+    "badges": [
+      "체감 11°C",
+      "습도 66%",
+      "강수확률 0%",
+      "풍속 5km/h",
+      "UV 0",
+      "미세먼지 정보 연동 예정"
+    ],
+    "detail": {
+      "feels_like": "11",
+      "humidity": "66",
+      "rain_chance": "0",
+      "wind_kmph": "5",
+      "uv": "0",
+      "pm": "미세먼지 정보 연동 예정"
+    },
+    "life_comment": "큰 변수 없이 움직이기 좋은 날씨입니다. 일정만 잘 잡으면 리듬 있게 가기 좋겠습니다."
+  },
+  "sections": {
+    "calendar": {
+      "summary": "18:00 무조건 걷기 운동",
+      "take": "오늘은 일정 흐름이 보이는 날입니다. 시작 전에 우선순위만 정리하면 훨씬 가볍게 밀 수 있습니다.",
+      "items": [
+        {
+          "shown": "18:00",
+          "summary": "무조건 걷기 운동",
+          "htmlLink": "https://www.google.com/calendar/event?eid=bGdib2VxZGRtbG9rcGlhdjNqbGYyMXZtb3NfMjAyNjA1MTZUMDkwMDAwWiBibHVhcmFvbjIwQG0"
+        }
+      ],
+      "links": [
+        {
+          "label": "18:00 · 무조건 걷기 운동",
+          "url": "https://www.google.com/calendar/event?eid=bGdib2VxZGRtbG9rcGlhdjNqbGYyMXZtb3NfMjAyNjA1MTZUMDkwMDAwWiBibHVhcmFvbjIwQG0"
+        }
+      ],
+      "entities": [
+        "calendar"
+      ]
+    },
+    "mail": {
+      "summary": "[결제,중요인물] \nGoogle One 정기 결제 혜택이 곧 종료 / [확인필요] 무료 웨비나에 참여하세요! 5월 20일 공개합니",
+      "take": "지금 확인할 만한 메일만 추렸습니다. 결제, 업무, 보안성 알림 위주로 먼저 보면 됩니다.",
+      "items": [
+        {
+          "date": "2026-05-15 07:00",
+          "from": "Google Play <googleplay-noreply@google.com>",
+          "subject": "\nGoogle One 정기 결제 혜택이 곧 종료됩니다",
+          "tags": [
+            "결제",
+            "중요인물"
+          ]
+        },
+        {
+          "date": "2026-05-14 21:37",
+          "from": "Manus <info@admin.manus.im>",
+          "subject": "무료 웨비나에 참여하세요! 5월 20일 공개합니다",
+          "tags": [
+            "확인필요"
+          ]
+        }
+      ],
+      "links": [],
+      "entities": [
+        "확인필요",
+        "중요인물",
+        "결제"
+      ]
+    },
+    "youtube": {
+      "summary": "@JulianGoldieSEO Google Stitch VS Claude  / @fahdmirza Luce Megakernel — 25x Fa / @JulianGoldieSEO Gemini Gems + NotebookLM",
+      "take": "업로드 속도가 빠른 채널은 오늘도 여러 편이 들어왔습니다. 중요한 주제부터 2~3개만 골라 보면 효율이 좋습니다.",
+      "items": [
+        {
+          "channel": "@JulianGoldieSEO",
+          "title": "Google Stitch VS Claude Design: Who Wins?",
+          "published": "05-16 06:00",
+          "published_dt": "2026-05-16T06:00:01+09:00",
+          "url": "https://www.youtube.com/watch?v=0DzQx1BrPhc",
+          "thumbnail": "https://i.ytimg.com/vi/0DzQx1BrPhc/hqdefault.jpg",
+          "summary": "이 영상은 모델/LLM, 에이전트/자동화, 개발도구 중심 내용입니다. 구성은 Intro: The AI Design Revolution, Google Stitch: High-Speed UI Prototyping, Stitch Pricing and Target Users, Claude Design: Code-First Collaboration 순서로 이어지며, 제목만으로는 보이지 않는 변화 배경·핵심 기능·실제 활용 포인트를 짚어보는 영상입니다.",
+          "description_excerpt": "00:00 - Intro: The AI Design Revolution 00:30 - Google Stitch: High-Speed UI Prototyping 01:43 - Stitch Pricing and Target Users 02:50 - Claude Design: Code-First Collaboration 04:05 - Advanced Claude Features & Credit Usage 04:49 - Comparison: Which Tool Wins? 06:06 - Why Figma Stock is Dropping 07:14 - The Future of Fast Launch Workflows",
+          "transcript_excerpt": "Google Stitch vs. Claude Design, who wins? [music] Two AI tools both just dropped and Figma stock fell 35% this year because of them. Let's find out which one actually wins. Here's the thing, two of the biggest AI design tools ever built ju",
+          "shorts": false
+        },
+        {
+          "channel": "@fahdmirza",
+          "title": "Luce Megakernel — 25x Faster Than PyTorch on a Single GPU - Test Locally",
+          "published": "05-16 05:29",
+          "published_dt": "2026-05-16T05:29:00+09:00",
+          "url": "https://www.youtube.com/watch?v=e6jY4goVIu0",
+          "thumbnail": "https://i.ytimg.com/vi/e6jY4goVIu0/hqdefault.jpg",
+          "summary": "이 영상은 모델/LLM, 튜토리얼/설정 중심 내용입니다. 구성은 Luce Megakernel hits 340 tok/s on a single GPU — 25x faster than PyTorch, matching Apple M5 Max efficiency with a 2020 NVIDIA card 순서로 이어지며, 제목만으로는 보이지 않는 변화 배경·핵심 기능·실제 활용 포인트를 짚어보는 영상입니다.",
+          "description_excerpt": "Luce Megakernel hits 340 tok/s on a single GPU — 25x faster than PyTorch, matching Apple M5 Max efficiency with a 2020 NVIDIA card. 🔥 Get 50% Discount on any A6000 or A5000 GPU rental, use following link and coupon: Coupon code: FahdMirza 🔥 Buy Me a Coffee to support the channel: PLEASE FOLLOW ME: ▶ LinkedIn: ▶ YouTube: ▶ Blog: RESOURCES: ▶ All rights reserv",
+          "transcript_excerpt": "There is a belief in the local AI community that Nvidia GPUs are fast but power hungry and Apple silicon is slower but efficient. You pick your trade-off and live with it. This belief has shaped how people buy hardware, how they run models ",
+          "shorts": false
+        },
+        {
+          "channel": "@JulianGoldieSEO",
+          "title": "Gemini Gems + NotebookLM Just Changed EVERYTHING!",
+          "published": "05-16 04:00",
+          "published_dt": "2026-05-16T04:00:08+09:00",
+          "url": "https://www.youtube.com/watch?v=A_YG6r-YE4A",
+          "thumbnail": "https://i.ytimg.com/vi/A_YG6r-YE4A/hqdefault.jpg",
+          "summary": "이 영상은 모델/LLM, 수익화/마케팅, 튜토리얼/설정 중심 내용입니다. 구성은 Intro: The Ultimate AI Combo, Building Custom Gemini Gems, How Notebook LM Guarantees Accuracy, Setup 1: The Research & Writing System 순서로 이어지며, 제목만으로는 보이지 않는 변화 배경·핵심 기능·실제 활용 포인트를 짚어보는 영상입니다.",
+          "description_excerpt": "00:00 - Intro: The Ultimate AI Combo 01:14 - Building Custom Gemini Gems 03:03 - How Notebook LM Guarantees Accuracy 04:03 - Setup 1: The Research & Writing System 06:15 - Setup 2: Automated Business Proposals 08:15 - Setup 3: Scaling Customer Support 10:11 - New Features: Studio Panel & Audio 11:31 - Why This Setup Beats All Other Tools",
+          "transcript_excerpt": "Gemini Gems plus Notebook LM just changed everything and most people have no idea this combo exists. I'm going to show you why this Google setup is now beating the AI tools everyone else is using. Here's the problem every AI user runs into.",
+          "shorts": false
+        },
+        {
+          "channel": "@JulianGoldieSEO",
+          "title": "NEW Hermes Agent OS is INSANE 🤯 (FREE!)",
+          "published": "05-16 03:00",
+          "published_dt": "2026-05-16T03:00:12+09:00",
+          "url": "https://www.youtube.com/watch?v=EaxDiF7EJTk",
+          "thumbnail": "https://i.ytimg.com/vi/EaxDiF7EJTk/hqdefault.jpg",
+          "summary": "이 영상은 모델/LLM, 에이전트/자동화, 수익화/마케팅 중심 내용입니다. New free Hermes agent OS is insane Breaking news, Hermes agent OS just dropped and it can automate anything for you Need a travel agent?",
+          "description_excerpt": "",
+          "transcript_excerpt": "New free Hermes agent OS is insane. Breaking news, Hermes agent OS just dropped and it can automate anything for you. Here's how. With Hermes agent, you can take any task eating up your time and turn it into a fully automated AI agent in un",
+          "shorts": false
+        },
+        {
+          "channel": "@JulianGoldieSEO",
+          "title": "New Perplexity AI Computer Update Is INSANE!",
+          "published": "05-16 03:00",
+          "published_dt": "2026-05-16T03:00:05+09:00",
+          "url": "https://www.youtube.com/watch?v=4i2a0dVQvsc",
+          "thumbnail": "https://i.ytimg.com/vi/4i2a0dVQvsc/hqdefault.jpg",
+          "summary": "이 영상은 에이전트/자동화 중심 내용입니다. 구성은 Intro: Perplexity AI's Insane New Update, The Secret Sauce: AI Data Mapping, Real-World Business Use Cases, Taking on Microsoft & Salesforce 순서로 이어집니다. New Perplexity AI computer update is insane Perplexity computer just connected to Snowflake Here's what just happened",
+          "description_excerpt": "00:00 - Intro: Perplexity AI's Insane New Update 00:42 - The Secret Sauce: AI Data Mapping 01:08 - Real-World Business Use Cases 02:38 - Taking on Microsoft & Salesforce 03:32 - Why Most AI Data Queries Fail 04:55 - Automating Reports in Slack 06:37 - The Future: 24/7 Background AI 07:32 - Setup Guide: Connecting Your Data",
+          "transcript_excerpt": "New Perplexity AI computer update is insane. Perplexity computer just connected to Snowflake. And if you store any kind of business data anywhere, this is one of the most useful AI updates you'll hear about this year. Here's what just happe",
+          "shorts": false
+        }
+      ],
+      "links": [
+        {
+          "label": "@JulianGoldieSEO · 05-16 06:00",
+          "url": "https://www.youtube.com/watch?v=0DzQx1BrPhc",
+          "thumbnail": "https://i.ytimg.com/vi/0DzQx1BrPhc/hqdefault.jpg"
+        },
+        {
+          "label": "@fahdmirza · 05-16 05:29",
+          "url": "https://www.youtube.com/watch?v=e6jY4goVIu0",
+          "thumbnail": "https://i.ytimg.com/vi/e6jY4goVIu0/hqdefault.jpg"
+        },
+        {
+          "label": "@JulianGoldieSEO · 05-16 04:00",
+          "url": "https://www.youtube.com/watch?v=A_YG6r-YE4A",
+          "thumbnail": "https://i.ytimg.com/vi/A_YG6r-YE4A/hqdefault.jpg"
+        }
+      ],
+      "entities": [
+        "@JulianGoldieSEO",
+        "@fahdmirza",
+        "@JulianGoldieSEO",
+        "@JulianGoldieSEO"
+      ]
+    },
+    "system": {
+      "summary": "CPU 7.0 % 사용 / 클럭 806.4 MHz / RAM 9.0GB 사용, 총 15.8GB (57%) / SSD 297.9GB 사용, 총 476.0GB (63%)",
+      "take": "CPU는 현재 7.0 % 사용 중이고 클럭은 806.4 MHz, 버스 스피드는 100.8 MHz, RAM은 총 15.8GB 중 9.0GB 사용 (57%), SSD는 총 476.0GB 중 297.9GB 사용 (63%), 여유 178.1GB입니다. 네트워크 인터페이스는 Ethernet, Ethernet 2, Wi-Fi 기준입니다.",
+      "metrics": [
+        {
+          "label": "CPU 사용률",
+          "value": "7.0 %",
+          "pct": 7.0,
+          "tone": "normal"
+        },
+        {
+          "label": "CPU 클럭",
+          "value": "806.4 MHz",
+          "pct": 23.04,
+          "tone": "normal"
+        },
+        {
+          "label": "버스 스피드",
+          "value": "100.8 MHz",
+          "pct": 100,
+          "tone": "normal"
+        },
+        {
+          "label": "CPU 온도",
+          "value": "44.0 °C",
+          "pct": 44.0,
+          "tone": "normal"
+        },
+        {
+          "label": "RAM 사용량",
+          "value": "9.0 / 15.8 GB (57%)",
+          "pct": 57.0,
+          "tone": "normal"
+        },
+        {
+          "label": "SSD 사용량",
+          "value": "297.9 / 476.0 GB (63%)",
+          "pct": 62.6,
+          "tone": "normal"
+        },
+        {
+          "label": "SSD 여유 공간",
+          "value": "178.1 / 476.0 GB",
+          "pct": 37.4,
+          "tone": "normal"
+        },
+        {
+          "label": "SSD 온도",
+          "value": "40.0 °C",
+          "pct": 40.0,
+          "tone": "normal"
+        },
+        {
+          "label": "업타임",
+          "value": "50시간 24분",
+          "pct": 100,
+          "tone": "normal"
+        },
+        {
+          "label": "네트워크 수신",
+          "value": "592.1 MB",
+          "pct": 100,
+          "tone": "normal"
+        },
+        {
+          "label": "네트워크 송신",
+          "value": "130.3 MB",
+          "pct": 100,
+          "tone": "normal"
+        }
+      ]
+    },
+    "openclaw": {
+      "summary": "OpenClaw 2026.5.12 (f066dd2)",
+      "take": "Runtime: running (pid 16640, Verified gateway listener detected on port 18789 even though schtasks did not report a running task.) | Listening: 127.0.0.1:18789",
+      "metrics": [
+        {
+          "label": "Gateway",
+          "value": "bind=loopback (127.0.0.1), port=18789 (service args)",
+          "pct": 100,
+          "tone": "normal"
+        },
+        {
+          "label": "Probe note",
+          "value": "Loopback-only gateway; only local clients can connect.",
+          "pct": 100,
+          "tone": "normal"
+        },
+        {
+          "label": "Runtime",
+          "value": "running (pid 16640, Verified gateway listener detected on port 18789 even though schtasks did not report a running task.)",
+          "pct": 100,
+          "tone": "good"
+        },
+        {
+          "label": "Listening",
+          "value": "127.0.0.1:18789",
+          "pct": 100,
+          "tone": "good"
+        }
+      ]
+    }
+  },
+  "cards": [
+    {
+      "title": "오늘의 한마디",
+      "summary": "오늘은 18:00 무조건 걷기 운동부터 시작됩니다. 첫 흐름만 안정적으로 잡으면 오늘 전체 리듬이 훨씬 부드럽게 이어질 겁니다.",
+      "take": "큰 변수 없이 움직이기 좋은 날씨입니다. 일정만 잘 잡으면 리듬 있게 가기 좋겠습니다. 일정이 있는 날일수록 처음 두 개를 완벽하게 하려 하기보다, 팀장님 페이스를 끝까지 유지하는 쪽이 더 강합니다. 무리하지 말고 호흡을 길게 가져가시면 됩니다.",
+      "meta": [
+        "응원",
+        "중간 길이"
+      ],
+      "entities": [],
+      "keywords": [
+        "아침",
+        "집중"
+      ],
+      "links": []
+    },
+    {
+      "title": "오늘 일정",
+      "summary": "18:00 무조건 걷기 운동",
+      "take": "오늘은 일정 흐름이 보이는 날입니다. 시작 전에 우선순위만 정리하면 훨씬 가볍게 밀 수 있습니다.",
+      "meta": [
+        "일정",
+        "calendar"
+      ],
+      "entities": [
+        "calendar"
+      ],
+      "keywords": [
+        "calendar"
+      ],
+      "links": [
+        {
+          "label": "18:00 · 무조건 걷기 운동",
+          "url": "https://www.google.com/calendar/event?eid=bGdib2VxZGRtbG9rcGlhdjNqbGYyMXZtb3NfMjAyNjA1MTZUMDkwMDAwWiBibHVhcmFvbjIwQG0"
+        }
+      ]
+    },
+    {
+      "title": "주요 메일 / 중요 알림",
+      "summary": "[결제,중요인물] \nGoogle One 정기 결제 혜택이 곧 종료 / [확인필요] 무료 웨비나에 참여하세요! 5월 20일 공개합니",
+      "take": "지금 확인할 만한 메일만 추렸습니다. 결제, 업무, 보안성 알림 위주로 먼저 보면 됩니다.",
+      "meta": [
+        "메일",
+        "gmail",
+        "중요 알림"
+      ],
+      "entities": [
+        "확인필요",
+        "중요인물",
+        "결제"
+      ],
+      "keywords": [
+        "gmail",
+        "alert"
+      ],
+      "links": []
+    },
+    {
+      "title": "유튜브 업데이트",
+      "summary": "@JulianGoldieSEO Google Stitch VS Claude  / @fahdmirza Luce Megakernel — 25x Fa / @JulianGoldieSEO Gemini Gems + NotebookLM",
+      "take": "업로드 속도가 빠른 채널은 오늘도 여러 편이 들어왔습니다. 중요한 주제부터 2~3개만 골라 보면 효율이 좋습니다.",
+      "meta": [
+        "유튜브",
+        "AI 채널",
+        "중간 길이"
+      ],
+      "entities": [
+        "@JulianGoldieSEO",
+        "@fahdmirza",
+        "@JulianGoldieSEO",
+        "@JulianGoldieSEO"
+      ],
+      "keywords": [
+        "youtube",
+        "update",
+        "thumbnail"
+      ],
+      "links": [
+        {
+          "label": "@JulianGoldieSEO · 05-16 06:00",
+          "url": "https://www.youtube.com/watch?v=0DzQx1BrPhc",
+          "thumbnail": "https://i.ytimg.com/vi/0DzQx1BrPhc/hqdefault.jpg"
+        },
+        {
+          "label": "@fahdmirza · 05-16 05:29",
+          "url": "https://www.youtube.com/watch?v=e6jY4goVIu0",
+          "thumbnail": "https://i.ytimg.com/vi/e6jY4goVIu0/hqdefault.jpg"
+        },
+        {
+          "label": "@JulianGoldieSEO · 05-16 04:00",
+          "url": "https://www.youtube.com/watch?v=A_YG6r-YE4A",
+          "thumbnail": "https://i.ytimg.com/vi/A_YG6r-YE4A/hqdefault.jpg"
+        }
+      ]
+    },
+    {
+      "title": "시스템 상태 요약",
+      "summary": "CPU 7.0 % 사용 / 클럭 806.4 MHz / RAM 9.0GB 사용, 총 15.8GB (57%) / SSD 297.9GB 사용, 총 476.0GB (63%)",
+      "take": "CPU는 현재 7.0 % 사용 중이고 클럭은 806.4 MHz, 버스 스피드는 100.8 MHz, RAM은 총 15.8GB 중 9.0GB 사용 (57%), SSD는 총 476.0GB 중 297.9GB 사용 (63%), 여유 178.1GB입니다. 네트워크 인터페이스는 Ethernet, Ethernet 2, Wi-Fi 기준입니다.",
+      "meta": [
+        "시스템",
+        "LHM"
+      ],
+      "entities": [
+        "Intel N100",
+        "RAM",
+        "SSD"
+      ],
+      "keywords": [
+        "temperature",
+        "load",
+        "memory"
+      ],
+      "links": []
+    },
+    {
+      "title": "OpenClaw 상태 요약",
+      "summary": "OpenClaw 2026.5.12 (f066dd2)",
+      "take": "Runtime: running (pid 16640, Verified gateway listener detected on port 18789 even though schtasks did not report a running task.) | Listening: 127.0.0.1:18789",
+      "meta": [
+        "OpenClaw",
+        "Gateway"
+      ],
+      "entities": [
+        "main",
+        "gateway"
+      ],
+      "keywords": [
+        "version",
+        "rpc",
+        "status"
+      ],
+      "links": []
+    }
+  ],
+  "footer": "AI-assisted morning briefing, unified data structure ready for stage 2"
+}
