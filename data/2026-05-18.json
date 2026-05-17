@@ -1,0 +1,382 @@
+{
+  "date": "2026-05-18 07:00",
+  "title": "아침 브리핑",
+  "subtitle": "날씨 · 응원 · 일정 · 메일 · 유튜브 · 시스템 · OpenClaw",
+  "summary": "오늘은 18:00 무조건 걷기 운동부터 시작됩니다. 첫 흐름만 안정적으로 잡으면 오늘 전체 리듬이 훨씬 부드럽게 이어질 겁니다.",
+  "summary_box": "습도가 높아 체감이 더 무겁습니다. 물을 자주 마시며 리듬을 유지하면 좋겠습니다. 일정이 있는 날일수록 처음 두 개를 완벽하게 하려 하기보다, 팀장님 페이스를 끝까지 유지하는 쪽이 더 강합니다. 무리하지 말고 호흡을 길게 가져가시면 됩니다.",
+  "weather": {
+    "loc": "김해",
+    "temp": "14°C",
+    "desc": "Sunny",
+    "icon": "⛅",
+    "badges": [
+      "체감 15°C",
+      "습도 82%",
+      "강수확률 0%",
+      "풍속 4km/h",
+      "UV 0",
+      "미세먼지 정보 연동 예정"
+    ],
+    "detail": {
+      "feels_like": "15",
+      "humidity": "82",
+      "rain_chance": "0",
+      "wind_kmph": "4",
+      "uv": "0",
+      "pm": "미세먼지 정보 연동 예정"
+    },
+    "life_comment": "습도가 높아 체감이 더 무겁습니다. 물을 자주 마시며 리듬을 유지하면 좋겠습니다."
+  },
+  "sections": {
+    "calendar": {
+      "summary": "18:00 무조건 걷기 운동",
+      "take": "오늘은 일정 흐름이 보이는 날입니다. 시작 전에 우선순위만 정리하면 훨씬 가볍게 밀 수 있습니다.",
+      "items": [
+        {
+          "shown": "18:00",
+          "summary": "무조건 걷기 운동",
+          "htmlLink": "https://www.google.com/calendar/event?eid=bGdib2VxZGRtbG9rcGlhdjNqbGYyMXZtb3NfMjAyNjA1MThUMDkwMDAwWiBibHVhcmFvbjIwQG0"
+        }
+      ],
+      "links": [
+        {
+          "label": "18:00 · 무조건 걷기 운동",
+          "url": "https://www.google.com/calendar/event?eid=bGdib2VxZGRtbG9rcGlhdjNqbGYyMXZtb3NfMjAyNjA1MThUMDkwMDAwWiBibHVhcmFvbjIwQG0"
+        }
+      ],
+      "entities": [
+        "calendar"
+      ]
+    },
+    "mail": {
+      "summary": "주요 메일 없음",
+      "take": "최근 2일 기준 광고성 제외 후 결제·업무·중요인물·에러 메일이 감지되지 않았습니다.",
+      "items": [],
+      "links": [],
+      "entities": []
+    },
+    "youtube": {
+      "summary": "@JulianGoldieSEO NEW Kimi AI Browser is I / @JulianGoldieSEO Hermes Agent + SuperGrok / @fahdmirza MTP vs DFlash — Speculat",
+      "take": "업로드 속도가 빠른 채널은 오늘도 여러 편이 들어왔습니다. 중요한 주제부터 2~3개만 골라 보면 효율이 좋습니다.",
+      "items": [
+        {
+          "channel": "@JulianGoldieSEO",
+          "title": "NEW Kimi AI Browser is INSANE (FREE!)",
+          "published": "05-18 06:30",
+          "published_dt": "2026-05-18T06:30:04+09:00",
+          "url": "https://www.youtube.com/watch?v=VFrqPnZvIEA",
+          "thumbnail": "https://i.ytimg.com/vi/VFrqPnZvIEA/hqdefault.jpg",
+          "summary": "NEW Kimi AI Browser is INSANE (FREE!) 내용을 다루는 영상입니다. 핵심은 AI 관련 변화나 활용 포인트를 소개하는 것입니다.",
+          "description_excerpt": "",
+          "transcript_excerpt": "",
+          "shorts": false
+        },
+        {
+          "channel": "@JulianGoldieSEO",
+          "title": "Hermes Agent + SuperGrok: Build ANYTHING!",
+          "published": "05-18 06:01",
+          "published_dt": "2026-05-18T06:01:00+09:00",
+          "url": "https://www.youtube.com/watch?v=yza5fNa9OfI",
+          "thumbnail": "https://i.ytimg.com/vi/yza5fNa9OfI/hqdefault.jpg",
+          "summary": "이 영상은 모델/LLM, 에이전트/자동화, 튜토리얼/설정 중심 내용입니다. 구성은 Intro – Why this combo changes everything, What Is Hermes Agent – The AI that never forgets, Super Grok Inside Hermes – The game-changer, Top Features – Reasoning, voice & image generation 순서로 이어집니다.",
+          "description_excerpt": "00:00 Intro – Why this combo changes everything 00:42 What Is Hermes Agent – The AI that never forgets 01:28 Super Grok Inside Hermes – The game-changer 02:29 Top Features – Reasoning, voice & image generation 03:06 Key Benefits – Persistent memory, anywhere access 04:28 Install Walkthrough – 4 commands, no friction 05:11 Connect Grok – OAuth login, no API k",
+          "transcript_excerpt": "",
+          "shorts": false
+        },
+        {
+          "channel": "@fahdmirza",
+          "title": "MTP vs DFlash — Speculative Decoding Explained Simply",
+          "published": "05-18 04:17",
+          "published_dt": "2026-05-18T04:17:40+09:00",
+          "url": "https://www.youtube.com/watch?v=-7xQqlsrc5M",
+          "thumbnail": "https://i.ytimg.com/vi/-7xQqlsrc5M/hqdefault.jpg",
+          "summary": "이 영상은 업데이트/튜토리얼 중심 내용입니다. 구성은 Two ways to make your local AI faster with no quality loss — here is what makes them different and which one you should actually use, 🔥 Buy Me a Coffee to support the channel: PLEASE FOLLOW ME: ▶ LinkedIn: ▶ YouTube: ▶ Blog: RESOURCES: ▶ All rights reserved © Fahd Mirza 순서로 이어지며, 제목만으로는 보이지 않는 변화 배경·핵심 기능·실제 활용 포인트를 짚어보는 영상입니다.",
+          "description_excerpt": "Two ways to make your local AI faster with no quality loss — here is what makes them different and which one you should actually use. 🔥 Buy Me a Coffee to support the channel: PLEASE FOLLOW ME: ▶ LinkedIn: ▶ YouTube: ▶ Blog: RESOURCES: ▶ All rights reserved © Fahd Mirza",
+          "transcript_excerpt": "",
+          "shorts": false
+        },
+        {
+          "channel": "@JulianGoldieSEO",
+          "title": "NEW MiniMax AGENT Update is INSANE!  🤯",
+          "published": "05-18 04:00",
+          "published_dt": "2026-05-18T04:00:01+09:00",
+          "url": "https://www.youtube.com/watch?v=3pFGX9cCOws",
+          "thumbnail": "https://i.ytimg.com/vi/3pFGX9cCOws/hqdefault.jpg",
+          "summary": "NEW MiniMax 에이전트 업데이트 is INSANE! 🤯 내용을 다루는 영상입니다. 핵심은 에이전트 관련 변화나 활용 포인트를 소개하는 것입니다.",
+          "description_excerpt": "",
+          "transcript_excerpt": "",
+          "shorts": false
+        },
+        {
+          "channel": "@JulianGoldieSEO",
+          "title": "New Google Intelligence Update Just Shocked The World! 🤯",
+          "published": "05-18 02:01",
+          "published_dt": "2026-05-18T02:01:00+09:00",
+          "url": "https://www.youtube.com/watch?v=uwYAI34zUoA",
+          "thumbnail": "https://i.ytimg.com/vi/uwYAI34zUoA/hqdefault.jpg",
+          "summary": "이 영상은 모델/LLM, 에이전트/자동화 중심 내용입니다. 구성은 Intro: What is Gemini Intelligence?, Multi-Step Automation Explained, Chrome Auto Browse & Web Actions, Intelligent Autofill & Rambler Voice 순서로 이어집니다.",
+          "description_excerpt": "00:00 - Intro: What is Gemini Intelligence? 01:02 - Multi-Step Automation Explained 02:09 - Chrome Auto Browse & Web Actions 03:29 - Intelligent Autofill & Rambler Voice 04:40 - Custom AI Widgets & Magic Q 05:57 - The New Google Book Laptop 06:45 - Summary: AI as the Operating Layer",
+          "transcript_excerpt": "",
+          "shorts": false
+        }
+      ],
+      "links": [
+        {
+          "label": "@JulianGoldieSEO · 05-18 06:30",
+          "url": "https://www.youtube.com/watch?v=VFrqPnZvIEA",
+          "thumbnail": "https://i.ytimg.com/vi/VFrqPnZvIEA/hqdefault.jpg"
+        },
+        {
+          "label": "@JulianGoldieSEO · 05-18 06:01",
+          "url": "https://www.youtube.com/watch?v=yza5fNa9OfI",
+          "thumbnail": "https://i.ytimg.com/vi/yza5fNa9OfI/hqdefault.jpg"
+        },
+        {
+          "label": "@fahdmirza · 05-18 04:17",
+          "url": "https://www.youtube.com/watch?v=-7xQqlsrc5M",
+          "thumbnail": "https://i.ytimg.com/vi/-7xQqlsrc5M/hqdefault.jpg"
+        }
+      ],
+      "entities": [
+        "@JulianGoldieSEO",
+        "@JulianGoldieSEO",
+        "@fahdmirza",
+        "@JulianGoldieSEO"
+      ]
+    },
+    "system": {
+      "summary": "CPU 14.8 % 사용 / 클럭 1008.0 MHz / RAM 9.1GB 사용, 총 15.8GB (58%) / SSD 291.3GB 사용, 총 476.0GB (61%)",
+      "take": "CPU는 현재 14.8 % 사용 중이고 클럭은 1008.0 MHz, 버스 스피드는 100.8 MHz, RAM은 총 15.8GB 중 9.1GB 사용 (58%), SSD는 총 476.0GB 중 291.3GB 사용 (61%), 여유 184.6GB입니다. 네트워크 인터페이스는 Ethernet, Ethernet 2, Wi-Fi 기준입니다.",
+      "metrics": [
+        {
+          "label": "CPU 사용률",
+          "value": "14.8 %",
+          "pct": 14.8,
+          "tone": "normal"
+        },
+        {
+          "label": "CPU 클럭",
+          "value": "1008.0 MHz",
+          "pct": 28.8,
+          "tone": "normal"
+        },
+        {
+          "label": "버스 스피드",
+          "value": "100.8 MHz",
+          "pct": 100,
+          "tone": "normal"
+        },
+        {
+          "label": "CPU 온도",
+          "value": "46.0 °C",
+          "pct": 46.0,
+          "tone": "normal"
+        },
+        {
+          "label": "RAM 사용량",
+          "value": "9.1 / 15.8 GB (58%)",
+          "pct": 57.7,
+          "tone": "normal"
+        },
+        {
+          "label": "SSD 사용량",
+          "value": "291.3 / 476.0 GB (61%)",
+          "pct": 61.2,
+          "tone": "normal"
+        },
+        {
+          "label": "SSD 여유 공간",
+          "value": "184.6 / 476.0 GB",
+          "pct": 38.8,
+          "tone": "normal"
+        },
+        {
+          "label": "SSD 온도",
+          "value": "40.0 °C",
+          "pct": 40.0,
+          "tone": "normal"
+        },
+        {
+          "label": "업타임",
+          "value": "98시간 24분",
+          "pct": 100,
+          "tone": "normal"
+        },
+        {
+          "label": "네트워크 수신",
+          "value": "1188.4 MB",
+          "pct": 100,
+          "tone": "normal"
+        },
+        {
+          "label": "네트워크 송신",
+          "value": "278.0 MB",
+          "pct": 100,
+          "tone": "normal"
+        }
+      ]
+    },
+    "openclaw": {
+      "summary": "OpenClaw 2026.5.12 (f066dd2)",
+      "take": "Runtime: running (pid 16640, Verified gateway listener detected on port 18789 even though schtasks did not report a running task.) | Listening: 127.0.0.1:18789",
+      "metrics": [
+        {
+          "label": "Gateway",
+          "value": "bind=loopback (127.0.0.1), port=18789 (service args)",
+          "pct": 100,
+          "tone": "normal"
+        },
+        {
+          "label": "Probe note",
+          "value": "Loopback-only gateway; only local clients can connect.",
+          "pct": 100,
+          "tone": "normal"
+        },
+        {
+          "label": "Runtime",
+          "value": "running (pid 16640, Verified gateway listener detected on port 18789 even though schtasks did not report a running task.)",
+          "pct": 100,
+          "tone": "good"
+        },
+        {
+          "label": "Listening",
+          "value": "127.0.0.1:18789",
+          "pct": 100,
+          "tone": "good"
+        }
+      ]
+    }
+  },
+  "cards": [
+    {
+      "title": "오늘의 한마디",
+      "summary": "오늘은 18:00 무조건 걷기 운동부터 시작됩니다. 첫 흐름만 안정적으로 잡으면 오늘 전체 리듬이 훨씬 부드럽게 이어질 겁니다.",
+      "take": "습도가 높아 체감이 더 무겁습니다. 물을 자주 마시며 리듬을 유지하면 좋겠습니다. 일정이 있는 날일수록 처음 두 개를 완벽하게 하려 하기보다, 팀장님 페이스를 끝까지 유지하는 쪽이 더 강합니다. 무리하지 말고 호흡을 길게 가져가시면 됩니다.",
+      "meta": [
+        "응원",
+        "중간 길이"
+      ],
+      "entities": [],
+      "keywords": [
+        "아침",
+        "집중"
+      ],
+      "links": []
+    },
+    {
+      "title": "오늘 일정",
+      "summary": "18:00 무조건 걷기 운동",
+      "take": "오늘은 일정 흐름이 보이는 날입니다. 시작 전에 우선순위만 정리하면 훨씬 가볍게 밀 수 있습니다.",
+      "meta": [
+        "일정",
+        "calendar"
+      ],
+      "entities": [
+        "calendar"
+      ],
+      "keywords": [
+        "calendar"
+      ],
+      "links": [
+        {
+          "label": "18:00 · 무조건 걷기 운동",
+          "url": "https://www.google.com/calendar/event?eid=bGdib2VxZGRtbG9rcGlhdjNqbGYyMXZtb3NfMjAyNjA1MThUMDkwMDAwWiBibHVhcmFvbjIwQG0"
+        }
+      ]
+    },
+    {
+      "title": "주요 메일 / 중요 알림",
+      "summary": "주요 메일 없음",
+      "take": "최근 2일 기준 광고성 제외 후 결제·업무·중요인물·에러 메일이 감지되지 않았습니다.",
+      "meta": [
+        "메일",
+        "gmail",
+        "중요 알림"
+      ],
+      "entities": [],
+      "keywords": [
+        "gmail",
+        "alert"
+      ],
+      "links": []
+    },
+    {
+      "title": "유튜브 업데이트",
+      "summary": "@JulianGoldieSEO NEW Kimi AI Browser is I / @JulianGoldieSEO Hermes Agent + SuperGrok / @fahdmirza MTP vs DFlash — Speculat",
+      "take": "업로드 속도가 빠른 채널은 오늘도 여러 편이 들어왔습니다. 중요한 주제부터 2~3개만 골라 보면 효율이 좋습니다.",
+      "meta": [
+        "유튜브",
+        "AI 채널",
+        "중간 길이"
+      ],
+      "entities": [
+        "@JulianGoldieSEO",
+        "@JulianGoldieSEO",
+        "@fahdmirza",
+        "@JulianGoldieSEO"
+      ],
+      "keywords": [
+        "youtube",
+        "update",
+        "thumbnail"
+      ],
+      "links": [
+        {
+          "label": "@JulianGoldieSEO · 05-18 06:30",
+          "url": "https://www.youtube.com/watch?v=VFrqPnZvIEA",
+          "thumbnail": "https://i.ytimg.com/vi/VFrqPnZvIEA/hqdefault.jpg"
+        },
+        {
+          "label": "@JulianGoldieSEO · 05-18 06:01",
+          "url": "https://www.youtube.com/watch?v=yza5fNa9OfI",
+          "thumbnail": "https://i.ytimg.com/vi/yza5fNa9OfI/hqdefault.jpg"
+        },
+        {
+          "label": "@fahdmirza · 05-18 04:17",
+          "url": "https://www.youtube.com/watch?v=-7xQqlsrc5M",
+          "thumbnail": "https://i.ytimg.com/vi/-7xQqlsrc5M/hqdefault.jpg"
+        }
+      ]
+    },
+    {
+      "title": "시스템 상태 요약",
+      "summary": "CPU 14.8 % 사용 / 클럭 1008.0 MHz / RAM 9.1GB 사용, 총 15.8GB (58%) / SSD 291.3GB 사용, 총 476.0GB (61%)",
+      "take": "CPU는 현재 14.8 % 사용 중이고 클럭은 1008.0 MHz, 버스 스피드는 100.8 MHz, RAM은 총 15.8GB 중 9.1GB 사용 (58%), SSD는 총 476.0GB 중 291.3GB 사용 (61%), 여유 184.6GB입니다. 네트워크 인터페이스는 Ethernet, Ethernet 2, Wi-Fi 기준입니다.",
+      "meta": [
+        "시스템",
+        "LHM"
+      ],
+      "entities": [
+        "Intel N100",
+        "RAM",
+        "SSD"
+      ],
+      "keywords": [
+        "temperature",
+        "load",
+        "memory"
+      ],
+      "links": []
+    },
+    {
+      "title": "OpenClaw 상태 요약",
+      "summary": "OpenClaw 2026.5.12 (f066dd2)",
+      "take": "Runtime: running (pid 16640, Verified gateway listener detected on port 18789 even though schtasks did not report a running task.) | Listening: 127.0.0.1:18789",
+      "meta": [
+        "OpenClaw",
+        "Gateway"
+      ],
+      "entities": [
+        "main",
+        "gateway"
+      ],
+      "keywords": [
+        "version",
+        "rpc",
+        "status"
+      ],
+      "links": []
+    }
+  ],
+  "footer": "AI-assisted morning briefing, unified data structure ready for stage 2"
+}
