@@ -1,0 +1,422 @@
+{
+  "date": "2026-05-19 07:00",
+  "title": "아침 브리핑",
+  "subtitle": "날씨 · 응원 · 일정 · 메일 · 유튜브 · 시스템 · OpenClaw",
+  "summary": "오늘은 18:00 무조건 걷기 운동부터 시작됩니다. 첫 흐름만 안정적으로 잡으면 오늘 전체 리듬이 훨씬 부드럽게 이어질 겁니다.",
+  "summary_box": "큰 변수 없이 움직이기 좋은 날씨입니다. 일정만 잘 잡으면 리듬 있게 가기 좋겠습니다. 일정이 있는 날일수록 처음 두 개를 완벽하게 하려 하기보다, 팀장님 페이스를 끝까지 유지하는 쪽이 더 강합니다. 무리하지 말고 호흡을 길게 가져가시면 됩니다.",
+  "weather": {
+    "loc": "김해",
+    "temp": "16°C",
+    "desc": "Sunny",
+    "icon": "⛅",
+    "badges": [
+      "체감 16°C",
+      "습도 77%",
+      "강수확률 0%",
+      "풍속 4km/h",
+      "UV 1",
+      "미세먼지 정보 연동 예정"
+    ],
+    "detail": {
+      "feels_like": "16",
+      "humidity": "77",
+      "rain_chance": "0",
+      "wind_kmph": "4",
+      "uv": "1",
+      "pm": "미세먼지 정보 연동 예정"
+    },
+    "life_comment": "큰 변수 없이 움직이기 좋은 날씨입니다. 일정만 잘 잡으면 리듬 있게 가기 좋겠습니다."
+  },
+  "sections": {
+    "calendar": {
+      "summary": "18:00 무조건 걷기 운동",
+      "take": "오늘은 일정 흐름이 보이는 날입니다. 시작 전에 우선순위만 정리하면 훨씬 가볍게 밀 수 있습니다.",
+      "items": [
+        {
+          "shown": "18:00",
+          "summary": "무조건 걷기 운동",
+          "htmlLink": "https://www.google.com/calendar/event?eid=bGdib2VxZGRtbG9rcGlhdjNqbGYyMXZtb3NfMjAyNjA1MTlUMDkwMDAwWiBibHVhcmFvbjIwQG0"
+        }
+      ],
+      "links": [
+        {
+          "label": "18:00 · 무조건 걷기 운동",
+          "url": "https://www.google.com/calendar/event?eid=bGdib2VxZGRtbG9rcGlhdjNqbGYyMXZtb3NfMjAyNjA1MTlUMDkwMDAwWiBibHVhcmFvbjIwQG0"
+        }
+      ],
+      "entities": [
+        "calendar"
+      ]
+    },
+    "mail": {
+      "summary": "[중요인물]  Pro의 Gemini 앱 요금제를 계속 이용하 / [중요인물] 새로운 가족 그룹 구성원 / [중요인물] 가족 그룹이 변경됨",
+      "take": "지금 확인할 만한 메일만 추렸습니다. 결제, 업무, 보안성 알림 위주로 먼저 보면 됩니다.",
+      "items": [
+        {
+          "date": "2026-05-19 01:39",
+          "from": "Google One <googleone-noreply@google.com>",
+          "subject": " Pro의 Gemini 앱 요금제를 계속 이용하려면 갱신하세요",
+          "tags": [
+            "중요인물"
+          ]
+        },
+        {
+          "date": "2026-05-19 01:04",
+          "from": "Google <families-noreply@google.com>",
+          "subject": "새로운 가족 그룹 구성원",
+          "tags": [
+            "중요인물"
+          ]
+        },
+        {
+          "date": "2026-05-19 01:03",
+          "from": "Google <families-noreply@google.com>",
+          "subject": "가족 그룹이 변경됨",
+          "tags": [
+            "중요인물"
+          ]
+        },
+        {
+          "date": "2026-05-19 01:02",
+          "from": "Google <no-reply@accounts.google.com>",
+          "subject": "bluaraon07@gmail.com 관련 보안 경고",
+          "tags": [
+            "중요인물",
+            "에러"
+          ]
+        }
+      ],
+      "links": [],
+      "entities": [
+        "중요인물",
+        "에러"
+      ]
+    },
+    "youtube": {
+      "summary": "@fahdmirza Qwen3.7 Has Arrived - An / @JulianGoldieSEO New Google Gemini Update / @JulianGoldieSEO NEW Claude Mythos Leaks ",
+      "take": "업로드 속도가 빠른 채널은 오늘도 여러 편이 들어왔습니다. 중요한 주제부터 2~3개만 골라 보면 효율이 좋습니다.",
+      "items": [
+        {
+          "channel": "@fahdmirza",
+          "title": "Qwen3.7 Has Arrived - And It's Already Beating GPT-5.2 & Grok-4.20",
+          "published": "05-19 06:15",
+          "published_dt": "2026-05-19T06:15:25+09:00",
+          "url": "https://www.youtube.com/watch?v=vhlpyOPeE7I",
+          "thumbnail": "https://i.ytimg.com/vi/vhlpyOPeE7I/hqdefault.jpg",
+          "summary": "이 영상은 모델/LLM 중심 내용입니다. Testing Qwen3.7-Max-Preview and Qwen3.7-Plus-Preview, Alibaba's newest flagship models that just landed on Qwen Chat and are already shak... 🔥 Get 50% Discount on any A6000 or A5000 GPU rental, use following link and coupon: Coupon code: FahdMirza 🔥 Buy Me a Coffee to support t...",
+          "description_excerpt": "Testing Qwen3.7-Max-Preview and Qwen3.7-Plus-Preview, Alibaba's newest flagship models that just landed on Qwen Chat and are already shaking up the Arena leaderboard. 🔥 Get 50% Discount on any A6000 or A5000 GPU rental, use following link and coupon: Coupon code: FahdMirza 🔥 Buy Me a Coffee to support the channel: PLEASE FOLLOW ME: ▶ LinkedIn: / fahdmirza ▶ ",
+          "transcript_excerpt": "",
+          "shorts": false
+        },
+        {
+          "channel": "@JulianGoldieSEO",
+          "title": "New Google Gemini Update Is INSANE",
+          "published": "05-19 06:00",
+          "published_dt": "2026-05-19T06:00:27+09:00",
+          "url": "https://www.youtube.com/watch?v=VTVRTN8nkxM",
+          "thumbnail": "https://i.ytimg.com/vi/VTVRTN8nkxM/hqdefault.jpg",
+          "summary": "이 영상은 모델/LLM, 에이전트/자동화 중심 내용입니다. 구성은 New UI & Pill-Shaped Design, Hidden Gemini 3.2 Flash Model, Flash vs. Pro: Performance Comparison, Deep Thinking & Extended Reasoning 순서로 이어집니다.",
+          "description_excerpt": "00:00 - Intro 00:34 - New UI & Pill-Shaped Design 02:04 - Hidden Gemini 3.2 Flash Model 02:51 - Flash vs. Pro: Performance Comparison 04:43 - Deep Thinking & Extended Reasoning 05:51 - Leaked AI Agents Tab 07:22 - Google's New Release Cadence 09:00 - Setting Up Gemini Notebooks",
+          "transcript_excerpt": "",
+          "shorts": false
+        },
+        {
+          "channel": "@JulianGoldieSEO",
+          "title": "NEW Claude Mythos Leaks are INSANE!",
+          "published": "05-19 04:00",
+          "published_dt": "2026-05-19T04:00:35+09:00",
+          "url": "https://www.youtube.com/watch?v=geXDxeNY1aA",
+          "thumbnail": "https://i.ytimg.com/vi/geXDxeNY1aA/hqdefault.jpg",
+          "summary": "구성은 Intro: The Secret Mythos Leak, How the Leak Happened, Autonomous Coding & Reasoning, Project Glasswing Revealed 순서로 이어집니다.",
+          "description_excerpt": "00:00 - Intro: The Secret Mythos Leak 00:44 - How the Leak Happened 01:15 - Autonomous Coding & Reasoning 02:01 - Project Glasswing Revealed 03:29 - Signs of a Public Launch 04:23 - The Capybara Codename 05:00 - A Step Change in AI Power 06:14 - The AI Safety Debate",
+          "transcript_excerpt": "",
+          "shorts": false
+        },
+        {
+          "channel": "@JulianGoldieSEO",
+          "title": "NEW NVIDIA Palm Sized AI Computer is INSANE!",
+          "published": "05-19 03:30",
+          "published_dt": "2026-05-19T03:30:32+09:00",
+          "url": "https://www.youtube.com/watch?v=Oim_uND2mMA",
+          "thumbnail": "https://i.ytimg.com/vi/Oim_uND2mMA/hqdefault.jpg",
+          "summary": "NEW NVIDIA Palm Sized AI Computer is INSANE! 내용을 다루는 영상입니다. 핵심은 AI 관련 변화나 활용 포인트를 소개하는 것입니다.",
+          "description_excerpt": "",
+          "transcript_excerpt": "",
+          "shorts": false
+        },
+        {
+          "channel": "@JulianGoldieSEO",
+          "title": "NEW Claude Code Update is INSANE! 🤯",
+          "published": "05-19 02:00",
+          "published_dt": "2026-05-19T02:00:53+09:00",
+          "url": "https://www.youtube.com/watch?v=oCOsgt9Hyac",
+          "thumbnail": "https://i.ytimg.com/vi/oCOsgt9Hyac/hqdefault.jpg",
+          "summary": "이 영상은 모델/LLM, 에이전트/자동화 중심 내용입니다. 구성은 Intro: The Claude Code Revolution, Fine-Grained Agent Control, Faster Search with RIP GREP, Persistent Background Agents 순서로 이어집니다.",
+          "description_excerpt": "00:00 - Intro: The Claude Code Revolution 00:42 - Fine-Grained Agent Control 01:48 - Faster Search with RIP GREP 02:32 - Persistent Background Agents 03:38 - Opus 4.7 & Improved Fast Mode 04:48 - Parallel Work Tree Isolation 05:24 - HTTP Hooks & System Integration 07:03 - Why Claude Code is Now Infrastructure",
+          "transcript_excerpt": "",
+          "shorts": false
+        }
+      ],
+      "links": [
+        {
+          "label": "@fahdmirza · 05-19 06:15",
+          "url": "https://www.youtube.com/watch?v=vhlpyOPeE7I",
+          "thumbnail": "https://i.ytimg.com/vi/vhlpyOPeE7I/hqdefault.jpg"
+        },
+        {
+          "label": "@JulianGoldieSEO · 05-19 06:00",
+          "url": "https://www.youtube.com/watch?v=VTVRTN8nkxM",
+          "thumbnail": "https://i.ytimg.com/vi/VTVRTN8nkxM/hqdefault.jpg"
+        },
+        {
+          "label": "@JulianGoldieSEO · 05-19 04:00",
+          "url": "https://www.youtube.com/watch?v=geXDxeNY1aA",
+          "thumbnail": "https://i.ytimg.com/vi/geXDxeNY1aA/hqdefault.jpg"
+        }
+      ],
+      "entities": [
+        "@fahdmirza",
+        "@JulianGoldieSEO",
+        "@JulianGoldieSEO",
+        "@JulianGoldieSEO"
+      ]
+    },
+    "system": {
+      "summary": "CPU 45.9 % 사용 / 클럭 3124.8 MHz / RAM 11.1GB 사용, 총 15.8GB (70%) / SSD 289.9GB 사용, 총 476.0GB (61%)",
+      "take": "CPU는 현재 45.9 % 사용 중이고 클럭은 3124.8 MHz, 버스 스피드는 100.8 MHz, RAM은 총 15.8GB 중 11.1GB 사용 (70%), SSD는 총 476.0GB 중 289.9GB 사용 (61%), 여유 186.1GB입니다. 네트워크 인터페이스는 Ethernet, Ethernet 2, Wi-Fi 기준입니다.",
+      "metrics": [
+        {
+          "label": "CPU 사용률",
+          "value": "45.9 %",
+          "pct": 45.9,
+          "tone": "normal"
+        },
+        {
+          "label": "CPU 클럭",
+          "value": "3124.8 MHz",
+          "pct": 89.28,
+          "tone": "normal"
+        },
+        {
+          "label": "버스 스피드",
+          "value": "100.8 MHz",
+          "pct": 100,
+          "tone": "normal"
+        },
+        {
+          "label": "CPU 온도",
+          "value": "74.0 °C",
+          "pct": 74.0,
+          "tone": "normal"
+        },
+        {
+          "label": "RAM 사용량",
+          "value": "11.1 / 15.8 GB (70%)",
+          "pct": 70.2,
+          "tone": "normal"
+        },
+        {
+          "label": "SSD 사용량",
+          "value": "289.9 / 476.0 GB (61%)",
+          "pct": 60.9,
+          "tone": "normal"
+        },
+        {
+          "label": "SSD 여유 공간",
+          "value": "186.1 / 476.0 GB",
+          "pct": 39.1,
+          "tone": "normal"
+        },
+        {
+          "label": "SSD 온도",
+          "value": "40.0 °C",
+          "pct": 40.0,
+          "tone": "normal"
+        },
+        {
+          "label": "업타임",
+          "value": "122시간 24분",
+          "pct": 100,
+          "tone": "normal"
+        },
+        {
+          "label": "네트워크 수신",
+          "value": "1322.6 MB",
+          "pct": 100,
+          "tone": "normal"
+        },
+        {
+          "label": "네트워크 송신",
+          "value": "372.2 MB",
+          "pct": 100,
+          "tone": "normal"
+        }
+      ]
+    },
+    "openclaw": {
+      "summary": "OpenClaw 2026.5.12 (f066dd2)",
+      "take": "Runtime: running (pid 16640, Verified gateway listener detected on port 18789 even though schtasks did not report a running task.) | Listening: 127.0.0.1:18789",
+      "metrics": [
+        {
+          "label": "Gateway",
+          "value": "bind=loopback (127.0.0.1), port=18789 (service args)",
+          "pct": 100,
+          "tone": "normal"
+        },
+        {
+          "label": "Probe note",
+          "value": "Loopback-only gateway; only local clients can connect.",
+          "pct": 100,
+          "tone": "normal"
+        },
+        {
+          "label": "Runtime",
+          "value": "running (pid 16640, Verified gateway listener detected on port 18789 even though schtasks did not report a running task.)",
+          "pct": 100,
+          "tone": "good"
+        },
+        {
+          "label": "Listening",
+          "value": "127.0.0.1:18789",
+          "pct": 100,
+          "tone": "good"
+        }
+      ]
+    }
+  },
+  "cards": [
+    {
+      "title": "오늘의 한마디",
+      "summary": "오늘은 18:00 무조건 걷기 운동부터 시작됩니다. 첫 흐름만 안정적으로 잡으면 오늘 전체 리듬이 훨씬 부드럽게 이어질 겁니다.",
+      "take": "큰 변수 없이 움직이기 좋은 날씨입니다. 일정만 잘 잡으면 리듬 있게 가기 좋겠습니다. 일정이 있는 날일수록 처음 두 개를 완벽하게 하려 하기보다, 팀장님 페이스를 끝까지 유지하는 쪽이 더 강합니다. 무리하지 말고 호흡을 길게 가져가시면 됩니다.",
+      "meta": [
+        "응원",
+        "중간 길이"
+      ],
+      "entities": [],
+      "keywords": [
+        "아침",
+        "집중"
+      ],
+      "links": []
+    },
+    {
+      "title": "오늘 일정",
+      "summary": "18:00 무조건 걷기 운동",
+      "take": "오늘은 일정 흐름이 보이는 날입니다. 시작 전에 우선순위만 정리하면 훨씬 가볍게 밀 수 있습니다.",
+      "meta": [
+        "일정",
+        "calendar"
+      ],
+      "entities": [
+        "calendar"
+      ],
+      "keywords": [
+        "calendar"
+      ],
+      "links": [
+        {
+          "label": "18:00 · 무조건 걷기 운동",
+          "url": "https://www.google.com/calendar/event?eid=bGdib2VxZGRtbG9rcGlhdjNqbGYyMXZtb3NfMjAyNjA1MTlUMDkwMDAwWiBibHVhcmFvbjIwQG0"
+        }
+      ]
+    },
+    {
+      "title": "주요 메일 / 중요 알림",
+      "summary": "[중요인물]  Pro의 Gemini 앱 요금제를 계속 이용하 / [중요인물] 새로운 가족 그룹 구성원 / [중요인물] 가족 그룹이 변경됨",
+      "take": "지금 확인할 만한 메일만 추렸습니다. 결제, 업무, 보안성 알림 위주로 먼저 보면 됩니다.",
+      "meta": [
+        "메일",
+        "gmail",
+        "중요 알림"
+      ],
+      "entities": [
+        "중요인물",
+        "에러"
+      ],
+      "keywords": [
+        "gmail",
+        "alert"
+      ],
+      "links": []
+    },
+    {
+      "title": "유튜브 업데이트",
+      "summary": "@fahdmirza Qwen3.7 Has Arrived - An / @JulianGoldieSEO New Google Gemini Update / @JulianGoldieSEO NEW Claude Mythos Leaks ",
+      "take": "업로드 속도가 빠른 채널은 오늘도 여러 편이 들어왔습니다. 중요한 주제부터 2~3개만 골라 보면 효율이 좋습니다.",
+      "meta": [
+        "유튜브",
+        "AI 채널",
+        "중간 길이"
+      ],
+      "entities": [
+        "@fahdmirza",
+        "@JulianGoldieSEO",
+        "@JulianGoldieSEO",
+        "@JulianGoldieSEO"
+      ],
+      "keywords": [
+        "youtube",
+        "update",
+        "thumbnail"
+      ],
+      "links": [
+        {
+          "label": "@fahdmirza · 05-19 06:15",
+          "url": "https://www.youtube.com/watch?v=vhlpyOPeE7I",
+          "thumbnail": "https://i.ytimg.com/vi/vhlpyOPeE7I/hqdefault.jpg"
+        },
+        {
+          "label": "@JulianGoldieSEO · 05-19 06:00",
+          "url": "https://www.youtube.com/watch?v=VTVRTN8nkxM",
+          "thumbnail": "https://i.ytimg.com/vi/VTVRTN8nkxM/hqdefault.jpg"
+        },
+        {
+          "label": "@JulianGoldieSEO · 05-19 04:00",
+          "url": "https://www.youtube.com/watch?v=geXDxeNY1aA",
+          "thumbnail": "https://i.ytimg.com/vi/geXDxeNY1aA/hqdefault.jpg"
+        }
+      ]
+    },
+    {
+      "title": "시스템 상태 요약",
+      "summary": "CPU 45.9 % 사용 / 클럭 3124.8 MHz / RAM 11.1GB 사용, 총 15.8GB (70%) / SSD 289.9GB 사용, 총 476.0GB (61%)",
+      "take": "CPU는 현재 45.9 % 사용 중이고 클럭은 3124.8 MHz, 버스 스피드는 100.8 MHz, RAM은 총 15.8GB 중 11.1GB 사용 (70%), SSD는 총 476.0GB 중 289.9GB 사용 (61%), 여유 186.1GB입니다. 네트워크 인터페이스는 Ethernet, Ethernet 2, Wi-Fi 기준입니다.",
+      "meta": [
+        "시스템",
+        "LHM"
+      ],
+      "entities": [
+        "Intel N100",
+        "RAM",
+        "SSD"
+      ],
+      "keywords": [
+        "temperature",
+        "load",
+        "memory"
+      ],
+      "links": []
+    },
+    {
+      "title": "OpenClaw 상태 요약",
+      "summary": "OpenClaw 2026.5.12 (f066dd2)",
+      "take": "Runtime: running (pid 16640, Verified gateway listener detected on port 18789 even though schtasks did not report a running task.) | Listening: 127.0.0.1:18789",
+      "meta": [
+        "OpenClaw",
+        "Gateway"
+      ],
+      "entities": [
+        "main",
+        "gateway"
+      ],
+      "keywords": [
+        "version",
+        "rpc",
+        "status"
+      ],
+      "links": []
+    }
+  ],
+  "footer": "AI-assisted morning briefing, unified data structure ready for stage 2"
+}
