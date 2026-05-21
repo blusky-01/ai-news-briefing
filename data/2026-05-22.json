@@ -1,0 +1,421 @@
+{
+  "date": "2026-05-22 07:00",
+  "title": "아침 브리핑",
+  "subtitle": "날씨 · 응원 · 일정 · 메일 · 유튜브 · 시스템 · OpenClaw",
+  "summary": "오늘은 18:00 무조건 걷기 운동부터 시작됩니다. 첫 흐름만 안정적으로 잡으면 오늘 전체 리듬이 훨씬 부드럽게 이어질 겁니다.",
+  "summary_box": "큰 변수 없이 움직이기 좋은 날씨입니다. 일정만 잘 잡으면 리듬 있게 가기 좋겠습니다. 일정이 있는 날일수록 처음 두 개를 완벽하게 하려 하기보다, 팀장님 페이스를 끝까지 유지하는 쪽이 더 강합니다. 무리하지 말고 호흡을 길게 가져가시면 됩니다.",
+  "weather": {
+    "loc": "김해",
+    "temp": "18°C",
+    "desc": "Partly cloudy",
+    "icon": "⛅",
+    "badges": [
+      "체감 18°C",
+      "습도 77%",
+      "강수확률 0%",
+      "풍속 13km/h",
+      "UV 4",
+      "미세먼지 정보 연동 예정"
+    ],
+    "detail": {
+      "feels_like": "18",
+      "humidity": "77",
+      "rain_chance": "0",
+      "wind_kmph": "13",
+      "uv": "4",
+      "pm": "미세먼지 정보 연동 예정"
+    },
+    "life_comment": "큰 변수 없이 움직이기 좋은 날씨입니다. 일정만 잘 잡으면 리듬 있게 가기 좋겠습니다."
+  },
+  "sections": {
+    "calendar": {
+      "summary": "18:00 무조건 걷기 운동",
+      "take": "오늘은 일정 흐름이 보이는 날입니다. 시작 전에 우선순위만 정리하면 훨씬 가볍게 밀 수 있습니다.",
+      "items": [
+        {
+          "shown": "18:00",
+          "summary": "무조건 걷기 운동",
+          "htmlLink": "https://www.google.com/calendar/event?eid=bGdib2VxZGRtbG9rcGlhdjNqbGYyMXZtb3NfMjAyNjA1MjJUMDkwMDAwWiBibHVhcmFvbjIwQG0"
+        }
+      ],
+      "links": [
+        {
+          "label": "18:00 · 무조건 걷기 운동",
+          "url": "https://www.google.com/calendar/event?eid=bGdib2VxZGRtbG9rcGlhdjNqbGYyMXZtb3NfMjAyNjA1MjJUMDkwMDAwWiBibHVhcmFvbjIwQG0"
+        }
+      ],
+      "entities": [
+        "calendar"
+      ]
+    },
+    "mail": {
+      "summary": "[확인필요] Gemini 3.5 출시, 더욱 빠르고 자연스러 / [중요인물] [Gemini API] Build product / [중요인물] Google AI Pro 구독 변경사항 안내",
+      "take": "지금 확인할 만한 메일만 추렸습니다. 결제, 업무, 보안성 알림 위주로 먼저 보면 됩니다.",
+      "items": [
+        {
+          "date": "2026-05-21 18:59",
+          "from": "GamsGo Team <noreply@post.gamsgo.cc>",
+          "subject": "Gemini 3.5 출시, 더욱 빠르고 자연스러운 AI 경험을 만나보세요",
+          "tags": [
+            "확인필요"
+          ]
+        },
+        {
+          "date": "2026-05-21 14:18",
+          "from": "Google AI Studio <googleaistudio-noreply@google.com>",
+          "subject": "[Gemini API] Build production ready managed agents with a single API call",
+          "tags": [
+            "중요인물"
+          ]
+        },
+        {
+          "date": "2026-05-21 13:15",
+          "from": "Google One <googleone-noreply@google.com>",
+          "subject": "Google AI Pro 구독 변경사항 안내",
+          "tags": [
+            "중요인물"
+          ]
+        },
+        {
+          "date": "2026-05-20 18:24",
+          "from": "Cloudflare <noreply@notify.cloudflare.com>",
+          "subject": "smartvalve.com removed from Cloudflare - incomplete setup",
+          "tags": [
+            "확인필요"
+          ]
+        }
+      ],
+      "links": [],
+      "entities": [
+        "확인필요",
+        "중요인물"
+      ]
+    },
+    "youtube": {
+      "summary": "@JulianGoldieSEO NEW Google AI Updates ar / @fahdmirza ByteDance Lance 3B: 1 Mo / @JulianGoldieSEO Hermes + OpenClaw + Clau",
+      "take": "업로드 속도가 빠른 채널은 오늘도 여러 편이 들어왔습니다. 중요한 주제부터 2~3개만 골라 보면 효율이 좋습니다.",
+      "items": [
+        {
+          "channel": "@JulianGoldieSEO",
+          "title": "NEW Google AI Updates are WILD!",
+          "published": "05-22 06:00",
+          "published_dt": "2026-05-22T06:00:27+09:00",
+          "url": "https://www.youtube.com/watch?v=9UWHgu9EtlE",
+          "thumbnail": "https://i.ytimg.com/vi/9UWHgu9EtlE/hqdefault.jpg",
+          "summary": "이 영상은 모델/LLM, 에이전트/자동화 중심 내용입니다. 구성은 Google I/O 2026 Overview, Neural Express: Gemini's New Look, Gemini Spark: Your AI Agent, Daily Brief: Your Morning Summary 순서로 이어집니다.",
+          "description_excerpt": "Get the Google AI Masterclass : 00:00 - Google I/O 2026 Overview 00:29 - Neural Express: Gemini's New Look 01:03 - Gemini Spark: Your AI Agent 02:13 - Daily Brief: Your Morning Summary 03:22 - Gemini Omni: Text-to-Video 04:38 - Gemini 3.5 Flash: Pure Speed 05:13 - The AI Operating System 06:20 - How to Start Using Google AI",
+          "transcript_excerpt": "",
+          "shorts": false
+        },
+        {
+          "channel": "@fahdmirza",
+          "title": "ByteDance Lance 3B: 1 Model for Image & Video Generation, Editing and Understanding: Run Locally",
+          "published": "05-22 05:17",
+          "published_dt": "2026-05-22T05:17:11+09:00",
+          "url": "https://www.youtube.com/watch?v=gNAKoT02JKM",
+          "thumbnail": "https://i.ytimg.com/vi/gNAKoT02JKM/hqdefault.jpg",
+          "summary": "이 영상은 모델/LLM, 튜토리얼/설정 중심 내용입니다. This video locally installs and tests Lance, a lightweight native unified multimodal model that supports image and video understanding, g... 🔥 Get 50% Discount on any A6000 or A5000 GPU rental, use following link and coupon: Coupon code: FahdMirza 🔥 Buy Me a Coffee to support t...",
+          "description_excerpt": "This video locally installs and tests Lance, a lightweight native unified multimodal model that supports image and video understanding, generation, and editing within a single framework. 🔥 Get 50% Discount on any A6000 or A5000 GPU rental, use following link and coupon: Coupon code: FahdMirza 🔥 Buy Me a Coffee to support the channel: PLEASE FOLLOW ME: ▶ Link",
+          "transcript_excerpt": "",
+          "shorts": false
+        },
+        {
+          "channel": "@JulianGoldieSEO",
+          "title": "Hermes + OpenClaw + Claude is INSANE!",
+          "published": "05-22 05:00",
+          "published_dt": "2026-05-22T05:00:19+09:00",
+          "url": "https://www.youtube.com/watch?v=p3mb1Ch9gxA",
+          "thumbnail": "https://i.ytimg.com/vi/p3mb1Ch9gxA/hqdefault.jpg",
+          "summary": "이 영상은 모델/LLM, 에이전트/자동화 중심 내용입니다. 구성은 Intro – Why one chatbot is holding you back, The Stack – Claude + OpenClaw + Hermes explained, Mission Control – One dashboard for every agent, Build It Yourself – Ship your own agent OS in 1 hour 순서로 이어집니다.",
+          "description_excerpt": "Get Hermes + OpenClaw + Claude Masterclass: 00:00 Intro – Why one chatbot is holding you back 00:54 The Stack – Claude + OpenClaw + Hermes explained 02:23 Mission Control – One dashboard for every agent 02:46 Build It Yourself – Ship your own agent OS in 1 hour 03:33 Dashboard Tour – Agents, workspace, goals, memory 04:14 Memory Layer – Why Obsidian makes it",
+          "transcript_excerpt": "",
+          "shorts": false
+        },
+        {
+          "channel": "@JulianGoldieSEO",
+          "title": "Build Anything With Gemini 3.5 Flash, Here's How..",
+          "published": "05-22 04:00",
+          "published_dt": "2026-05-22T04:00:02+09:00",
+          "url": "https://www.youtube.com/watch?v=QvH5EGQkG1o",
+          "thumbnail": "https://i.ytimg.com/vi/QvH5EGQkG1o/hqdefault.jpg",
+          "summary": "이 영상은 모델/LLM, 에이전트/자동화, 수익화/마케팅 중심 내용입니다. 구성은 Intro: Gemini 3.5 Flash for SEO, What is Gemini 3.5 Flash?, Build SEO Landing Pages, Automating Blog Posts 순서로 이어집니다.",
+          "description_excerpt": "Get the Gemini Masterclass : 00:00 - Intro: Gemini 3.5 Flash for SEO 00:21 - What is Gemini 3.5 Flash? 01:34 - Build SEO Landing Pages 02:21 - Automating Blog Posts 03:40 - Build Your Own SEO Tools 04:22 - AI SEO Agent Workflows 05:04 - Link Building Strategies 06:21 - Scaling Local SEO",
+          "transcript_excerpt": "",
+          "shorts": false
+        },
+        {
+          "channel": "@JulianGoldieSEO",
+          "title": "Claude Code for FREE + Hermes AI Browser Agent",
+          "published": "05-22 03:14",
+          "published_dt": "2026-05-22T03:14:43+09:00",
+          "url": "https://www.youtube.com/watch?v=-eNlRcTmpHs",
+          "thumbnail": "https://i.ytimg.com/vi/-eNlRcTmpHs/hqdefault.jpg",
+          "summary": "Claude Code for FREE + Hermes AI Browser 에이전트 내용을 다루는 영상입니다. 핵심은 AI, 에이전트, Claude 관련 변화나 활용 포인트를 소개하는 것입니다. 영상 설명 기준으로는 Get the Agent OS 👉",
+          "description_excerpt": "Get the Agent OS 👉",
+          "transcript_excerpt": "",
+          "shorts": false
+        }
+      ],
+      "links": [
+        {
+          "label": "@JulianGoldieSEO · 05-22 06:00",
+          "url": "https://www.youtube.com/watch?v=9UWHgu9EtlE",
+          "thumbnail": "https://i.ytimg.com/vi/9UWHgu9EtlE/hqdefault.jpg"
+        },
+        {
+          "label": "@fahdmirza · 05-22 05:17",
+          "url": "https://www.youtube.com/watch?v=gNAKoT02JKM",
+          "thumbnail": "https://i.ytimg.com/vi/gNAKoT02JKM/hqdefault.jpg"
+        },
+        {
+          "label": "@JulianGoldieSEO · 05-22 05:00",
+          "url": "https://www.youtube.com/watch?v=p3mb1Ch9gxA",
+          "thumbnail": "https://i.ytimg.com/vi/p3mb1Ch9gxA/hqdefault.jpg"
+        }
+      ],
+      "entities": [
+        "@JulianGoldieSEO",
+        "@fahdmirza",
+        "@JulianGoldieSEO",
+        "@JulianGoldieSEO"
+      ]
+    },
+    "system": {
+      "summary": "CPU 50.4 % 사용 / 클럭 2923.2 MHz / RAM 11.6GB 사용, 총 15.8GB (73%) / SSD 291.6GB 사용, 총 476.0GB (61%)",
+      "take": "CPU는 현재 50.4 % 사용 중이고 클럭은 2923.2 MHz, 버스 스피드는 100.8 MHz, RAM은 총 15.8GB 중 11.6GB 사용 (73%), SSD는 총 476.0GB 중 291.6GB 사용 (61%), 여유 184.4GB입니다. 네트워크 인터페이스는 Ethernet, Ethernet 2, Wi-Fi 기준입니다.",
+      "metrics": [
+        {
+          "label": "CPU 사용률",
+          "value": "50.4 %",
+          "pct": 50.4,
+          "tone": "normal"
+        },
+        {
+          "label": "CPU 클럭",
+          "value": "2923.2 MHz",
+          "pct": 83.52,
+          "tone": "normal"
+        },
+        {
+          "label": "버스 스피드",
+          "value": "100.8 MHz",
+          "pct": 100,
+          "tone": "normal"
+        },
+        {
+          "label": "CPU 온도",
+          "value": "80.0 °C",
+          "pct": 80.0,
+          "tone": "warm"
+        },
+        {
+          "label": "RAM 사용량",
+          "value": "11.6 / 15.8 GB (73%)",
+          "pct": 73.2,
+          "tone": "normal"
+        },
+        {
+          "label": "SSD 사용량",
+          "value": "291.6 / 476.0 GB (61%)",
+          "pct": 61.3,
+          "tone": "normal"
+        },
+        {
+          "label": "SSD 여유 공간",
+          "value": "184.4 / 476.0 GB",
+          "pct": 38.7,
+          "tone": "normal"
+        },
+        {
+          "label": "SSD 온도",
+          "value": "40.0 °C",
+          "pct": 40.0,
+          "tone": "normal"
+        },
+        {
+          "label": "업타임",
+          "value": "194시간 24분",
+          "pct": 100,
+          "tone": "normal"
+        },
+        {
+          "label": "네트워크 수신",
+          "value": "2364.3 MB",
+          "pct": 100,
+          "tone": "normal"
+        },
+        {
+          "label": "네트워크 송신",
+          "value": "804.9 MB",
+          "pct": 100,
+          "tone": "normal"
+        }
+      ]
+    },
+    "openclaw": {
+      "summary": "OpenClaw 2026.5.12 (f066dd2)",
+      "take": "Runtime: running (pid 16640, Verified gateway listener detected on port 18789 even though schtasks did not report a running task.) | Listening: 127.0.0.1:18789",
+      "metrics": [
+        {
+          "label": "Gateway",
+          "value": "bind=loopback (127.0.0.1), port=18789 (service args)",
+          "pct": 100,
+          "tone": "normal"
+        },
+        {
+          "label": "Probe note",
+          "value": "Loopback-only gateway; only local clients can connect.",
+          "pct": 100,
+          "tone": "normal"
+        },
+        {
+          "label": "Runtime",
+          "value": "running (pid 16640, Verified gateway listener detected on port 18789 even though schtasks did not report a running task.)",
+          "pct": 100,
+          "tone": "good"
+        },
+        {
+          "label": "Listening",
+          "value": "127.0.0.1:18789",
+          "pct": 100,
+          "tone": "good"
+        }
+      ]
+    }
+  },
+  "cards": [
+    {
+      "title": "오늘의 한마디",
+      "summary": "오늘은 18:00 무조건 걷기 운동부터 시작됩니다. 첫 흐름만 안정적으로 잡으면 오늘 전체 리듬이 훨씬 부드럽게 이어질 겁니다.",
+      "take": "큰 변수 없이 움직이기 좋은 날씨입니다. 일정만 잘 잡으면 리듬 있게 가기 좋겠습니다. 일정이 있는 날일수록 처음 두 개를 완벽하게 하려 하기보다, 팀장님 페이스를 끝까지 유지하는 쪽이 더 강합니다. 무리하지 말고 호흡을 길게 가져가시면 됩니다.",
+      "meta": [
+        "응원",
+        "중간 길이"
+      ],
+      "entities": [],
+      "keywords": [
+        "아침",
+        "집중"
+      ],
+      "links": []
+    },
+    {
+      "title": "오늘 일정",
+      "summary": "18:00 무조건 걷기 운동",
+      "take": "오늘은 일정 흐름이 보이는 날입니다. 시작 전에 우선순위만 정리하면 훨씬 가볍게 밀 수 있습니다.",
+      "meta": [
+        "일정",
+        "calendar"
+      ],
+      "entities": [
+        "calendar"
+      ],
+      "keywords": [
+        "calendar"
+      ],
+      "links": [
+        {
+          "label": "18:00 · 무조건 걷기 운동",
+          "url": "https://www.google.com/calendar/event?eid=bGdib2VxZGRtbG9rcGlhdjNqbGYyMXZtb3NfMjAyNjA1MjJUMDkwMDAwWiBibHVhcmFvbjIwQG0"
+        }
+      ]
+    },
+    {
+      "title": "주요 메일 / 중요 알림",
+      "summary": "[확인필요] Gemini 3.5 출시, 더욱 빠르고 자연스러 / [중요인물] [Gemini API] Build product / [중요인물] Google AI Pro 구독 변경사항 안내",
+      "take": "지금 확인할 만한 메일만 추렸습니다. 결제, 업무, 보안성 알림 위주로 먼저 보면 됩니다.",
+      "meta": [
+        "메일",
+        "gmail",
+        "중요 알림"
+      ],
+      "entities": [
+        "확인필요",
+        "중요인물"
+      ],
+      "keywords": [
+        "gmail",
+        "alert"
+      ],
+      "links": []
+    },
+    {
+      "title": "유튜브 업데이트",
+      "summary": "@JulianGoldieSEO NEW Google AI Updates ar / @fahdmirza ByteDance Lance 3B: 1 Mo / @JulianGoldieSEO Hermes + OpenClaw + Clau",
+      "take": "업로드 속도가 빠른 채널은 오늘도 여러 편이 들어왔습니다. 중요한 주제부터 2~3개만 골라 보면 효율이 좋습니다.",
+      "meta": [
+        "유튜브",
+        "AI 채널",
+        "중간 길이"
+      ],
+      "entities": [
+        "@JulianGoldieSEO",
+        "@fahdmirza",
+        "@JulianGoldieSEO",
+        "@JulianGoldieSEO"
+      ],
+      "keywords": [
+        "youtube",
+        "update",
+        "thumbnail"
+      ],
+      "links": [
+        {
+          "label": "@JulianGoldieSEO · 05-22 06:00",
+          "url": "https://www.youtube.com/watch?v=9UWHgu9EtlE",
+          "thumbnail": "https://i.ytimg.com/vi/9UWHgu9EtlE/hqdefault.jpg"
+        },
+        {
+          "label": "@fahdmirza · 05-22 05:17",
+          "url": "https://www.youtube.com/watch?v=gNAKoT02JKM",
+          "thumbnail": "https://i.ytimg.com/vi/gNAKoT02JKM/hqdefault.jpg"
+        },
+        {
+          "label": "@JulianGoldieSEO · 05-22 05:00",
+          "url": "https://www.youtube.com/watch?v=p3mb1Ch9gxA",
+          "thumbnail": "https://i.ytimg.com/vi/p3mb1Ch9gxA/hqdefault.jpg"
+        }
+      ]
+    },
+    {
+      "title": "시스템 상태 요약",
+      "summary": "CPU 50.4 % 사용 / 클럭 2923.2 MHz / RAM 11.6GB 사용, 총 15.8GB (73%) / SSD 291.6GB 사용, 총 476.0GB (61%)",
+      "take": "CPU는 현재 50.4 % 사용 중이고 클럭은 2923.2 MHz, 버스 스피드는 100.8 MHz, RAM은 총 15.8GB 중 11.6GB 사용 (73%), SSD는 총 476.0GB 중 291.6GB 사용 (61%), 여유 184.4GB입니다. 네트워크 인터페이스는 Ethernet, Ethernet 2, Wi-Fi 기준입니다.",
+      "meta": [
+        "시스템",
+        "LHM"
+      ],
+      "entities": [
+        "Intel N100",
+        "RAM",
+        "SSD"
+      ],
+      "keywords": [
+        "temperature",
+        "load",
+        "memory"
+      ],
+      "links": []
+    },
+    {
+      "title": "OpenClaw 상태 요약",
+      "summary": "OpenClaw 2026.5.12 (f066dd2)",
+      "take": "Runtime: running (pid 16640, Verified gateway listener detected on port 18789 even though schtasks did not report a running task.) | Listening: 127.0.0.1:18789",
+      "meta": [
+        "OpenClaw",
+        "Gateway"
+      ],
+      "entities": [
+        "main",
+        "gateway"
+      ],
+      "keywords": [
+        "version",
+        "rpc",
+        "status"
+      ],
+      "links": []
+    }
+  ],
+  "footer": "AI-assisted morning briefing, unified data structure ready for stage 2"
+}
