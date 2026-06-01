@@ -1,0 +1,366 @@
+{
+  "date": "2026-06-02 07:00",
+  "title": "아침 브리핑",
+  "subtitle": "날씨 · 응원 · 일정 · 메일 · 유튜브 · 시스템 · OpenClaw",
+  "summary": "비어 있는 하루는 느슨한 하루가 아니라, 진짜 필요한 걸 선명하게 끝낼 수 있는 하루입니다.",
+  "summary_box": "오늘은 우산을 챙겨두는 게 좋겠습니다. 비 맞으면 컨디션이 금방 떨어집니다. 습도가 높아 체감이 더 무겁습니다. 물을 자주 마시며 리듬을 유지하면 좋겠습니다. 오늘은 마음을 급하게 쓰지 말고, 가장 아쉬웠던 한 가지를 먼저 정리해 보시면 좋겠습니다. 그런 작은 정리가 하루의 기분을 꽤 크게 바꿉니다.",
+  "weather": {
+    "loc": "김해",
+    "temp": "18°C",
+    "desc": "Light rain",
+    "icon": "⛅",
+    "badges": [
+      "체감 13°C",
+      "습도 94%",
+      "강수확률 73%",
+      "풍속 8km/h",
+      "UV 0",
+      "미세먼지 정보 연동 예정"
+    ],
+    "detail": {
+      "feels_like": "13",
+      "humidity": "94",
+      "rain_chance": "73",
+      "wind_kmph": "8",
+      "uv": "0",
+      "pm": "미세먼지 정보 연동 예정"
+    },
+    "life_comment": "오늘은 우산을 챙겨두는 게 좋겠습니다. 비 맞으면 컨디션이 금방 떨어집니다. 습도가 높아 체감이 더 무겁습니다. 물을 자주 마시며 리듬을 유지하면 좋겠습니다."
+  },
+  "sections": {
+    "calendar": {
+      "summary": "오늘 일정 없음",
+      "take": "오늘 등록된 일정이 없습니다. 이럴 때는 중요한 정리 한두 개만 분명하게 끝내도 충분합니다.",
+      "items": [],
+      "links": [],
+      "entities": [
+        "calendar"
+      ]
+    },
+    "mail": {
+      "summary": "메일 조회 실패 또는 계정 연결 확인 필요",
+      "take": "광고성 제외, 결제·업무·중요인물·에러 메일 필터 연결 단계입니다.",
+      "items": [],
+      "links": [],
+      "entities": []
+    },
+    "youtube": {
+      "summary": "@JulianGoldieSEO Claude Opus 4.8 Dynamic  / @jocoding 레드불 베이스먼트 해커톤 결승 현장에 왔습니 / @fahdmirza LocateAnything: NVIDIA’s",
+      "take": "업로드 속도가 빠른 채널은 오늘도 여러 편이 들어왔습니다. 중요한 주제부터 2~3개만 골라 보면 효율이 좋습니다.",
+      "items": [
+        {
+          "channel": "@JulianGoldieSEO",
+          "title": "Claude Opus 4.8 Dynamic Workflows is INSANE!",
+          "published": "06-02 07:00",
+          "published_dt": "2026-06-02T07:00:00+09:00",
+          "url": "https://www.youtube.com/watch?v=DzYqfC5cP4I",
+          "thumbnail": "https://i.ytimg.com/vi/DzYqfC5cP4I/hqdefault.jpg",
+          "summary": "이 영상은 모델/LLM, 에이전트/자동화, 튜토리얼/설정 중심 내용입니다. 구성은 The Biggest AI Change This Year, What are Dynamic Workflows?, How the AI Swarm Fact-Checks Itself, The Secret Word to Trigger Workflows 순서로 이어집니다.",
+          "description_excerpt": "If you want my setup/Agent Operating System, the AI Profit Boardroom: Get the Agent OS 👉 00:00 - The Biggest AI Change This Year 00:59 - What are Dynamic Workflows? 02:24 - How the AI Swarm Fact-Checks Itself 03:26 - The Secret Word to Trigger Workflows 04:04 - Case Study: 14 Months of Work in 11 Days 05:01 - Why Claude is Now 4x More Honest 06:43 - Your Fir",
+          "transcript_excerpt": "",
+          "shorts": false
+        },
+        {
+          "channel": "@jocoding",
+          "title": "레드불 베이스먼트 해커톤 결승 현장에 왔습니다! #redbull #redbullbasement @redbull",
+          "published": "06-02 06:34",
+          "published_dt": "2026-06-02T06:34:10+09:00",
+          "url": "https://www.youtube.com/watch?v=dXiIZfCz_0E",
+          "thumbnail": "https://i.ytimg.com/vi/dXiIZfCz_0E/hqdefault.jpg",
+          "summary": "구성은 전 세계 40개국 이상 참여하는 레드불 베이스먼트 해커톤 결승 현장에 왔습니다! 순서로 이어집니다. 전 세계 40개국 이상 참여하는 레드불 베이스먼트 해커톤 결승 현장에 왔습니다!",
+          "description_excerpt": "전 세계 40개국 이상 참여하는 레드불 베이스먼트 해커톤 결승 현장에 왔습니다! ​⁠",
+          "transcript_excerpt": "",
+          "shorts": false
+        },
+        {
+          "channel": "@fahdmirza",
+          "title": "LocateAnything: NVIDIA’s New AI Sees EVERYTHING: Run Locally",
+          "published": "06-02 05:58",
+          "published_dt": "2026-06-02T05:58:01+09:00",
+          "url": "https://www.youtube.com/watch?v=KunLvC1GAFI",
+          "thumbnail": "https://i.ytimg.com/vi/KunLvC1GAFI/hqdefault.jpg",
+          "summary": "이 영상은 튜토리얼/설정 중심 내용입니다. This video locally installs and tests LocateAnything, a VLM for high-quality visual grounding, precise object localization, dense detecti... 🔥 Get 50% Discount on any A6000 or A5000 GPU rental, use following link and coupon: Coupon code: FahdMirza 🔥 Buy Me a Coffee to support t...",
+          "description_excerpt": "This video locally installs and tests LocateAnything, a VLM for high-quality visual grounding, precise object localization, dense detection, and point-based localization. 🔥 Get 50% Discount on any A6000 or A5000 GPU rental, use following link and coupon: Coupon code: FahdMirza 🔥 Buy Me a Coffee to support the channel: PLEASE FOLLOW ME: ▶ LinkedIn: / fahdmirz",
+          "transcript_excerpt": "",
+          "shorts": false
+        },
+        {
+          "channel": "@JulianGoldieSEO",
+          "title": "Google's New AI Glasses Are Wild!",
+          "published": "06-02 05:00",
+          "published_dt": "2026-06-02T05:00:16+09:00",
+          "url": "https://www.youtube.com/watch?v=q6cdQhlByoI",
+          "thumbnail": "https://i.ytimg.com/vi/q6cdQhlByoI/hqdefault.jpg",
+          "summary": "이 영상은 모델/LLM, 에이전트/자동화 중심 내용입니다. 구성은 Intro: Google's Big AI Glasses Reveal, Google Glass: Why 2015 Failed, Powered by Gemini AI, Audio vs. Display Glasses 순서로 이어집니다.",
+          "description_excerpt": "Get the Agent OS 👉 00:00 - Intro: Google's Big AI Glasses Reveal 01:40 - Google Glass: Why 2015 Failed 02:08 - Powered by Gemini AI 02:32 - Audio vs. Display Glasses 03:10 - Voice and Vision Features 03:42 - Real-Time Live Translation 04:55 - iPhone Support & Competition 06:05 - Release Date & Design Partners",
+          "transcript_excerpt": "",
+          "shorts": false
+        },
+        {
+          "channel": "@JulianGoldieSEO",
+          "title": "Hermes Agent v0.15.0 Velocity Update is INSANE",
+          "published": "06-02 04:00",
+          "published_dt": "2026-06-02T04:00:10+09:00",
+          "url": "https://www.youtube.com/watch?v=0MlwUUuf_Xc",
+          "thumbnail": "https://i.ytimg.com/vi/0MlwUUuf_Xc/hqdefault.jpg",
+          "summary": "Hermes 에이전트 v0.15.0 Velocity 업데이트 is INSANE 내용을 다루는 영상입니다. 핵심은 에이전트 관련 변화나 활용 포인트를 소개하는 것입니다. 영상 설명 기준으로는 Get the Agent OS 👉",
+          "description_excerpt": "Get the Agent OS 👉",
+          "transcript_excerpt": "",
+          "shorts": false
+        }
+      ],
+      "links": [
+        {
+          "label": "@JulianGoldieSEO · 06-02 07:00",
+          "url": "https://www.youtube.com/watch?v=DzYqfC5cP4I",
+          "thumbnail": "https://i.ytimg.com/vi/DzYqfC5cP4I/hqdefault.jpg"
+        },
+        {
+          "label": "@jocoding · 06-02 06:34",
+          "url": "https://www.youtube.com/watch?v=dXiIZfCz_0E",
+          "thumbnail": "https://i.ytimg.com/vi/dXiIZfCz_0E/hqdefault.jpg"
+        },
+        {
+          "label": "@fahdmirza · 06-02 05:58",
+          "url": "https://www.youtube.com/watch?v=KunLvC1GAFI",
+          "thumbnail": "https://i.ytimg.com/vi/KunLvC1GAFI/hqdefault.jpg"
+        }
+      ],
+      "entities": [
+        "@JulianGoldieSEO",
+        "@jocoding",
+        "@fahdmirza",
+        "@JulianGoldieSEO"
+      ]
+    },
+    "system": {
+      "summary": "CPU 16.0 % 사용 / 클럭 1008.0 MHz / RAM 10.5GB 사용, 총 15.8GB (66%) / SSD 300.4GB 사용, 총 476.0GB (63%)",
+      "take": "CPU는 현재 16.0 % 사용 중이고 클럭은 1008.0 MHz, 버스 스피드는 100.8 MHz, RAM은 총 15.8GB 중 10.5GB 사용 (66%), SSD는 총 476.0GB 중 300.4GB 사용 (63%), 여유 175.5GB입니다. 네트워크 인터페이스는 Ethernet, Ethernet 2, Wi-Fi 기준입니다.",
+      "metrics": [
+        {
+          "label": "CPU 사용률",
+          "value": "16.0 %",
+          "pct": 16.0,
+          "tone": "normal"
+        },
+        {
+          "label": "CPU 클럭",
+          "value": "1008.0 MHz",
+          "pct": 28.8,
+          "tone": "normal"
+        },
+        {
+          "label": "버스 스피드",
+          "value": "100.8 MHz",
+          "pct": 100,
+          "tone": "normal"
+        },
+        {
+          "label": "CPU 온도",
+          "value": "47.0 °C",
+          "pct": 47.0,
+          "tone": "normal"
+        },
+        {
+          "label": "RAM 사용량",
+          "value": "10.5 / 15.8 GB (66%)",
+          "pct": 66.5,
+          "tone": "normal"
+        },
+        {
+          "label": "SSD 사용량",
+          "value": "300.4 / 476.0 GB (63%)",
+          "pct": 63.1,
+          "tone": "normal"
+        },
+        {
+          "label": "SSD 여유 공간",
+          "value": "175.5 / 476.0 GB",
+          "pct": 36.9,
+          "tone": "normal"
+        },
+        {
+          "label": "SSD 온도",
+          "value": "40.0 °C",
+          "pct": 40.0,
+          "tone": "normal"
+        },
+        {
+          "label": "업타임",
+          "value": "458시간 25분",
+          "pct": 100,
+          "tone": "normal"
+        },
+        {
+          "label": "네트워크 수신",
+          "value": "5644.6 MB",
+          "pct": 100,
+          "tone": "normal"
+        },
+        {
+          "label": "네트워크 송신",
+          "value": "2112.9 MB",
+          "pct": 100,
+          "tone": "normal"
+        }
+      ]
+    },
+    "openclaw": {
+      "summary": "OpenClaw 2026.5.12 (f066dd2)",
+      "take": "Runtime: running (pid 43472, state Ready, last run 267014, last run time 05-23(토) 오후 3:59:51, Verified gateway listener detected on port 18789 even though schtasks did not report a running task.) | Listening: 127.0.0.1:18789",
+      "metrics": [
+        {
+          "label": "Gateway",
+          "value": "bind=loopback (127.0.0.1), port=18789 (env/config)",
+          "pct": 100,
+          "tone": "normal"
+        },
+        {
+          "label": "Probe note",
+          "value": "Loopback-only gateway; only local clients can connect.",
+          "pct": 100,
+          "tone": "normal"
+        },
+        {
+          "label": "Runtime",
+          "value": "running (pid 43472, state Ready, last run 267014, last run time 05-23(토) 오후 3:59:51, Verified gateway listener detected on port 18789 even though schtasks did not report a running task.)",
+          "pct": 100,
+          "tone": "good"
+        },
+        {
+          "label": "Listening",
+          "value": "127.0.0.1:18789",
+          "pct": 100,
+          "tone": "good"
+        }
+      ]
+    }
+  },
+  "cards": [
+    {
+      "title": "오늘의 한마디",
+      "summary": "비어 있는 하루는 느슨한 하루가 아니라, 진짜 필요한 걸 선명하게 끝낼 수 있는 하루입니다.",
+      "take": "오늘은 우산을 챙겨두는 게 좋겠습니다. 비 맞으면 컨디션이 금방 떨어집니다. 습도가 높아 체감이 더 무겁습니다. 물을 자주 마시며 리듬을 유지하면 좋겠습니다. 오늘은 마음을 급하게 쓰지 말고, 가장 아쉬웠던 한 가지를 먼저 정리해 보시면 좋겠습니다. 그런 작은 정리가 하루의 기분을 꽤 크게 바꿉니다.",
+      "meta": [
+        "응원",
+        "중간 길이"
+      ],
+      "entities": [],
+      "keywords": [
+        "아침",
+        "집중"
+      ],
+      "links": []
+    },
+    {
+      "title": "오늘 일정",
+      "summary": "오늘 일정 없음",
+      "take": "오늘 등록된 일정이 없습니다. 이럴 때는 중요한 정리 한두 개만 분명하게 끝내도 충분합니다.",
+      "meta": [
+        "일정",
+        "calendar"
+      ],
+      "entities": [
+        "calendar"
+      ],
+      "keywords": [
+        "calendar"
+      ],
+      "links": []
+    },
+    {
+      "title": "주요 메일 / 중요 알림",
+      "summary": "메일 조회 실패 또는 계정 연결 확인 필요",
+      "take": "광고성 제외, 결제·업무·중요인물·에러 메일 필터 연결 단계입니다.",
+      "meta": [
+        "메일",
+        "gmail",
+        "중요 알림"
+      ],
+      "entities": [],
+      "keywords": [
+        "gmail",
+        "alert"
+      ],
+      "links": []
+    },
+    {
+      "title": "유튜브 업데이트",
+      "summary": "@JulianGoldieSEO Claude Opus 4.8 Dynamic  / @jocoding 레드불 베이스먼트 해커톤 결승 현장에 왔습니 / @fahdmirza LocateAnything: NVIDIA’s",
+      "take": "업로드 속도가 빠른 채널은 오늘도 여러 편이 들어왔습니다. 중요한 주제부터 2~3개만 골라 보면 효율이 좋습니다.",
+      "meta": [
+        "유튜브",
+        "AI 채널",
+        "중간 길이"
+      ],
+      "entities": [
+        "@JulianGoldieSEO",
+        "@jocoding",
+        "@fahdmirza",
+        "@JulianGoldieSEO"
+      ],
+      "keywords": [
+        "youtube",
+        "update",
+        "thumbnail"
+      ],
+      "links": [
+        {
+          "label": "@JulianGoldieSEO · 06-02 07:00",
+          "url": "https://www.youtube.com/watch?v=DzYqfC5cP4I",
+          "thumbnail": "https://i.ytimg.com/vi/DzYqfC5cP4I/hqdefault.jpg"
+        },
+        {
+          "label": "@jocoding · 06-02 06:34",
+          "url": "https://www.youtube.com/watch?v=dXiIZfCz_0E",
+          "thumbnail": "https://i.ytimg.com/vi/dXiIZfCz_0E/hqdefault.jpg"
+        },
+        {
+          "label": "@fahdmirza · 06-02 05:58",
+          "url": "https://www.youtube.com/watch?v=KunLvC1GAFI",
+          "thumbnail": "https://i.ytimg.com/vi/KunLvC1GAFI/hqdefault.jpg"
+        }
+      ]
+    },
+    {
+      "title": "시스템 상태 요약",
+      "summary": "CPU 16.0 % 사용 / 클럭 1008.0 MHz / RAM 10.5GB 사용, 총 15.8GB (66%) / SSD 300.4GB 사용, 총 476.0GB (63%)",
+      "take": "CPU는 현재 16.0 % 사용 중이고 클럭은 1008.0 MHz, 버스 스피드는 100.8 MHz, RAM은 총 15.8GB 중 10.5GB 사용 (66%), SSD는 총 476.0GB 중 300.4GB 사용 (63%), 여유 175.5GB입니다. 네트워크 인터페이스는 Ethernet, Ethernet 2, Wi-Fi 기준입니다.",
+      "meta": [
+        "시스템",
+        "LHM"
+      ],
+      "entities": [
+        "Intel N100",
+        "RAM",
+        "SSD"
+      ],
+      "keywords": [
+        "temperature",
+        "load",
+        "memory"
+      ],
+      "links": []
+    },
+    {
+      "title": "OpenClaw 상태 요약",
+      "summary": "OpenClaw 2026.5.12 (f066dd2)",
+      "take": "Runtime: running (pid 43472, state Ready, last run 267014, last run time 05-23(토) 오후 3:59:51, Verified gateway listener detected on port 18789 even though schtasks did not report a running task.) | Listening: 127.0.0.1:18789",
+      "meta": [
+        "OpenClaw",
+        "Gateway"
+      ],
+      "entities": [
+        "main",
+        "gateway"
+      ],
+      "keywords": [
+        "version",
+        "rpc",
+        "status"
+      ],
+      "links": []
+    }
+  ],
+  "footer": "AI-assisted morning briefing, unified data structure ready for stage 2"
+}
