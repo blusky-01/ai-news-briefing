@@ -1,9 +1,9 @@
 {
-  "date": "2026-06-23 00:10",
+  "date": "2026-06-23 00:21",
   "title": "밤 브리핑",
   "subtitle": "마감 점검 · 남은 일 · 시스템 · OpenClaw",
-  "summary": "오늘은 18:00 무조건 걷기 운동부터 시작됩니다. 첫 흐름만 안정적으로 잡으면 오늘 전체 리듬이 훨씬 부드럽게 이어질 겁니다.",
-  "summary_box": "습도가 높아 체감이 더 무겁습니다. 물을 자주 마시며 리듬을 유지하면 좋겠습니다. 일정이 있는 날일수록 처음 두 개를 완벽하게 하려 하기보다, 팀장님 페이스를 끝까지 유지하는 쪽이 더 강합니다. 무리하지 말고 호흡을 길게 가져가시면 됩니다.",
+  "summary": "오늘 일정이 비어 있다면, 오히려 중요한 걸 조용히 정리할 수 있는 좋은 날입니다.",
+  "summary_box": "습도가 높아 체감이 더 무겁습니다. 물을 자주 마시며 리듬을 유지하면 좋겠습니다. 오늘은 마음을 급하게 쓰지 말고, 가장 아쉬웠던 한 가지를 먼저 정리해 보시면 좋겠습니다. 그런 작은 정리가 하루의 기분을 꽤 크게 바꿉니다.",
   "weather": {
     "loc": "김해",
     "temp": "20°C",
@@ -29,40 +29,49 @@
   },
   "sections": {
     "calendar": {
-      "summary": "18:00 무조건 걷기 운동",
-      "take": "오늘은 일정 흐름이 보이는 날입니다. 시작 전에 우선순위만 정리하면 훨씬 가볍게 밀 수 있습니다.",
-      "items": [
-        {
-          "shown": "18:00",
-          "summary": "무조건 걷기 운동",
-          "htmlLink": "https://www.google.com/calendar/event?eid=bGdib2VxZGRtbG9rcGlhdjNqbGYyMXZtb3NfMjAyNjA2MjNUMDkwMDAwWiBibHVhcmFvbjIwQG0"
-        }
-      ],
-      "links": [
-        {
-          "label": "18:00 · 무조건 걷기 운동",
-          "url": "https://www.google.com/calendar/event?eid=bGdib2VxZGRtbG9rcGlhdjNqbGYyMXZtb3NfMjAyNjA2MjNUMDkwMDAwWiBibHVhcmFvbjIwQG0"
-        }
-      ],
+      "summary": "오늘 일정 없음",
+      "take": "오늘 등록된 일정이 없습니다. 이럴 때는 중요한 정리 한두 개만 분명하게 끝내도 충분합니다.",
+      "items": [],
+      "links": [],
       "entities": [
         "calendar"
       ]
     },
     "mail": {
-      "summary": "[중요인물] ⛔ 더 이상 Gmail에서 이메일을 주고받을 수",
+      "summary": "[중요인물,에러] 보안 알림 / [중요인물,에러] 보안 알림 / [확인필요] Extra usage for Ollama’s P",
       "take": "지금 확인할 만한 메일만 추렸습니다. 결제, 업무, 보안성 알림 위주로 먼저 보면 됩니다.",
       "items": [
         {
-          "date": "2026-06-21 07:00",
-          "from": "Google <googleone-out-of-quota-noreply@google.com>",
-          "subject": "⛔ 더 이상 Gmail에서 이메일을 주고받을 수 없습니다",
+          "date": "2026-06-23 00:21",
+          "from": "Google <no-reply@accounts.google.com>",
+          "subject": "보안 알림",
           "tags": [
-            "중요인물"
+            "중요인물",
+            "에러"
+          ]
+        },
+        {
+          "date": "2026-06-22 02:58",
+          "from": "Google <no-reply@accounts.google.com>",
+          "subject": "보안 알림",
+          "tags": [
+            "중요인물",
+            "에러"
+          ]
+        },
+        {
+          "date": "2026-06-21 22:20",
+          "from": "Ollama <hello@ollama.com>",
+          "subject": "Extra usage for Ollama’s Pro and Max plans",
+          "tags": [
+            "확인필요"
           ]
         }
       ],
       "links": [],
       "entities": [
+        "확인필요",
+        "에러",
         "중요인물"
       ]
     },
@@ -77,9 +86,9 @@
           "published_dt": "2026-06-23T00:00:33+09:00",
           "url": "https://www.youtube.com/watch?v=PLJJbqqEUCE",
           "thumbnail": "https://i.ytimg.com/vi/PLJJbqqEUCE/hqdefault.jpg",
-          "summary": "이 영상은 에이전트/자동화, 튜토리얼/설정 중심 내용입니다. 구성은 Sakana vs Fusion Intro, How Panel APIs Work, Landing Page Showdown, Maze and Galaxy Tests 순서로 이어집니다.",
+          "summary": "이 영상은 모델/LLM, 튜토리얼/설정 중심 내용입니다. 구성은 Sakana vs Fusion Intro, How Panel APIs Work, Landing Page Showdown, Maze and Galaxy Tests 순서로 이어지며, 제목만으로는 보이지 않는 변화 배경·핵심 기능·실제 활용 포인트를 짚어보는 영상입니다.",
           "description_excerpt": "Get the Agent OS & Sakana + Fusion Setup 👉 00:00 Sakana vs Fusion Intro 00:32 How Panel APIs Work 01:35 Landing Page Showdown 02:17 Maze and Galaxy Tests 03:42 Solar System Quality Gap 04:10 Limits Pricing and Workflow 06:09 Fusion Open World Example 07:07 Fugu Mini Results 08:00 Liquid Simulation Comparison 08:55 Final Rankings and Tradeoffs 09:35 Agent OS ",
-          "transcript_excerpt": "",
+          "transcript_excerpt": "versus Fusion. Who wins? So, we have two different APIs that just got dropped and both of them are claiming that they're beating Fable 5 on the benchmarks and I'm actually testing them out side by side. If you don't understand what these AP",
           "shorts": false
         },
         {
@@ -101,9 +110,9 @@
           "published_dt": "2026-06-22T21:00:33+09:00",
           "url": "https://www.youtube.com/watch?v=i3EPe22zLBU",
           "thumbnail": "https://i.ytimg.com/vi/i3EPe22zLBU/hqdefault.jpg",
-          "summary": "이 영상은 모델/LLM, 에이전트/자동화, 수익화/마케팅 중심 내용입니다. 구성은 Intro – Why your AI agent is doing too much, What You'll Learn – New version + the setup mode everyone wants, What Is Hermes – The open-source agent that works across all your apps, The Reach Release – What 0.17.0 actually adds 순서로 이어집니다.",
+          "summary": "이 영상은 모델/LLM, 에이전트/자동화, 수익화/마케팅 중심 내용입니다. 구성은 Intro – Why your AI agent is doing too much, What You'll Learn – New version + the setup mode everyone wants, What Is Hermes – The open-source agent that works across all your apps, The Reach Release – What 0.17.0 actually adds 순서로 이어지며, 제목만으로는 보이지 않는 변화 배경·핵심 기능·실제 활용 포인트를 짚어보는 영상입니다.",
           "description_excerpt": "Get the Agent OS 👉 00:00 Intro – Why your AI agent is doing too much 00:21 What You'll Learn – New version + the setup mode everyone wants 00:39 What Is Hermes – The open-source agent that works across all your apps 01:07 The Reach Release – What 0.17.0 actually adds 01:21 New Features – iMessage, background sub-agents, desktop upgrades 02:10 Blank Slate Mod",
-          "transcript_excerpt": "",
+          "transcript_excerpt": "New Hermes Agent version 0.17.0 is insane. What if the AI agent everyone is using was already doing too much? What if all those tools you never touch were quietly slowing you down? Why are the smartest builders stripping their agents down t",
           "shorts": false
         },
         {
@@ -113,9 +122,9 @@
           "published_dt": "2026-06-22T19:15:02+09:00",
           "url": "https://www.youtube.com/watch?v=uqCWfJRi66U",
           "thumbnail": "https://i.ytimg.com/vi/uqCWfJRi66U/hqdefault.jpg",
-          "summary": "이 영상은 에이전트/자동화 중심 내용입니다. 구성은 Why Loops Beat Prompts, What Loop Engineering Means, Prompting vs Looping, Doer and Judge Framework 순서로 이어집니다. Get the Agent OS & AI Loop Systems!",
+          "summary": "이 영상은 모델/LLM, 에이전트/자동화 중심 내용입니다. 구성은 Why Loops Beat Prompts, What Loop Engineering Means, Prompting vs Looping, Doer and Judge Framework 순서로 이어지며, 제목만으로는 보이지 않는 변화 배경·핵심 기능·실제 활용 포인트를 짚어보는 영상입니다.",
           "description_excerpt": "Get the Agent OS & AI Loop Systems! 👉 00:00 Why Loops Beat Prompts 00:48 What Loop Engineering Means 03:39 Prompting vs Looping 04:44 Doer and Judge Framework 05:37 Fusion Loop Walkthrough 06:26 Agent Kanban Loops 07:21 Fusion Boardroom Method 08:31 Sakana Fugu Council 09:05 Agent OS Bundle Overview 10:01 Memory Feedback Loop 11:26 Getting Started and Proof ",
-          "transcript_excerpt": "",
+          "transcript_excerpt": "So, today I want to talk you through agent loops, how to use them, how I'm currently using them, the systems you can set up, and why you shouldn't be prompting and instead using loops and designing loops that prompt your agents for you. And",
           "shorts": false
         },
         {
@@ -156,19 +165,19 @@
       ]
     },
     "system": {
-      "summary": "CPU 35.0 % 사용 / 클럭 1814.4 MHz / RAM 9.1GB 사용, 총 15.8GB (58%) / SSD 346.3GB 사용, 총 476.0GB (73%)",
-      "take": "CPU는 현재 35.0 % 사용 중이고 클럭은 1814.4 MHz, 버스 스피드는 100.8 MHz, RAM은 총 15.8GB 중 9.1GB 사용 (58%), SSD는 총 476.0GB 중 346.3GB 사용 (73%), 여유 129.7GB입니다. 네트워크 인터페이스는 Ethernet, Ethernet 2, Wi-Fi 기준입니다.",
+      "summary": "CPU 34.0 % 사용 / 클럭 1108.8 MHz / RAM 9.0GB 사용, 총 15.8GB (57%) / SSD 346.2GB 사용, 총 476.0GB (73%)",
+      "take": "CPU는 현재 34.0 % 사용 중이고 클럭은 1108.8 MHz, 버스 스피드는 100.8 MHz, RAM은 총 15.8GB 중 9.0GB 사용 (57%), SSD는 총 476.0GB 중 346.2GB 사용 (73%), 여유 129.7GB입니다. 네트워크 인터페이스는 Ethernet, Ethernet 2, Wi-Fi 기준입니다.",
       "metrics": [
         {
           "label": "CPU 사용률",
-          "value": "35.0 %",
-          "pct": 35.0,
+          "value": "34.0 %",
+          "pct": 34.0,
           "tone": "normal"
         },
         {
           "label": "CPU 클럭",
-          "value": "1814.4 MHz",
-          "pct": 51.84,
+          "value": "1108.8 MHz",
+          "pct": 31.68,
           "tone": "normal"
         },
         {
@@ -179,19 +188,19 @@
         },
         {
           "label": "CPU 온도",
-          "value": "61.0 °C",
-          "pct": 61.0,
+          "value": "53.0 °C",
+          "pct": 53.0,
           "tone": "normal"
         },
         {
           "label": "RAM 사용량",
-          "value": "9.1 / 15.8 GB (58%)",
-          "pct": 57.5,
+          "value": "9.0 / 15.8 GB (57%)",
+          "pct": 57.0,
           "tone": "normal"
         },
         {
           "label": "SSD 사용량",
-          "value": "346.3 / 476.0 GB (73%)",
+          "value": "346.2 / 476.0 GB (73%)",
           "pct": 72.7,
           "tone": "normal"
         },
@@ -209,19 +218,19 @@
         },
         {
           "label": "업타임",
-          "value": "307시간 35분",
+          "value": "307시간 47분",
           "pct": 100,
           "tone": "normal"
         },
         {
           "label": "네트워크 수신",
-          "value": "10816.1 MB",
+          "value": "10835.5 MB",
           "pct": 100,
           "tone": "normal"
         },
         {
           "label": "네트워크 송신",
-          "value": "1533.6 MB",
+          "value": "1540.5 MB",
           "pct": 100,
           "tone": "normal"
         }
@@ -261,8 +270,8 @@
   "cards": [
     {
       "title": "오늘의 한마디",
-      "summary": "오늘은 18:00 무조건 걷기 운동부터 시작됩니다. 첫 흐름만 안정적으로 잡으면 오늘 전체 리듬이 훨씬 부드럽게 이어질 겁니다.",
-      "take": "습도가 높아 체감이 더 무겁습니다. 물을 자주 마시며 리듬을 유지하면 좋겠습니다. 일정이 있는 날일수록 처음 두 개를 완벽하게 하려 하기보다, 팀장님 페이스를 끝까지 유지하는 쪽이 더 강합니다. 무리하지 말고 호흡을 길게 가져가시면 됩니다.",
+      "summary": "오늘 일정이 비어 있다면, 오히려 중요한 걸 조용히 정리할 수 있는 좋은 날입니다.",
+      "take": "습도가 높아 체감이 더 무겁습니다. 물을 자주 마시며 리듬을 유지하면 좋겠습니다. 오늘은 마음을 급하게 쓰지 말고, 가장 아쉬웠던 한 가지를 먼저 정리해 보시면 좋겠습니다. 그런 작은 정리가 하루의 기분을 꽤 크게 바꿉니다.",
       "meta": [
         "응원",
         "중간 길이"
@@ -276,8 +285,8 @@
     },
     {
       "title": "오늘 일정",
-      "summary": "18:00 무조건 걷기 운동",
-      "take": "오늘은 일정 흐름이 보이는 날입니다. 시작 전에 우선순위만 정리하면 훨씬 가볍게 밀 수 있습니다.",
+      "summary": "오늘 일정 없음",
+      "take": "오늘 등록된 일정이 없습니다. 이럴 때는 중요한 정리 한두 개만 분명하게 끝내도 충분합니다.",
       "meta": [
         "일정",
         "calendar"
@@ -288,16 +297,11 @@
       "keywords": [
         "calendar"
       ],
-      "links": [
-        {
-          "label": "18:00 · 무조건 걷기 운동",
-          "url": "https://www.google.com/calendar/event?eid=bGdib2VxZGRtbG9rcGlhdjNqbGYyMXZtb3NfMjAyNjA2MjNUMDkwMDAwWiBibHVhcmFvbjIwQG0"
-        }
-      ]
+      "links": []
     },
     {
       "title": "주요 메일 / 중요 알림",
-      "summary": "[중요인물] ⛔ 더 이상 Gmail에서 이메일을 주고받을 수",
+      "summary": "[중요인물,에러] 보안 알림 / [중요인물,에러] 보안 알림 / [확인필요] Extra usage for Ollama’s P",
       "take": "지금 확인할 만한 메일만 추렸습니다. 결제, 업무, 보안성 알림 위주로 먼저 보면 됩니다.",
       "meta": [
         "메일",
@@ -305,6 +309,8 @@
         "중요 알림"
       ],
       "entities": [
+        "확인필요",
+        "에러",
         "중요인물"
       ],
       "keywords": [
@@ -353,8 +359,8 @@
     },
     {
       "title": "시스템 상태 요약",
-      "summary": "CPU 35.0 % 사용 / 클럭 1814.4 MHz / RAM 9.1GB 사용, 총 15.8GB (58%) / SSD 346.3GB 사용, 총 476.0GB (73%)",
-      "take": "CPU는 현재 35.0 % 사용 중이고 클럭은 1814.4 MHz, 버스 스피드는 100.8 MHz, RAM은 총 15.8GB 중 9.1GB 사용 (58%), SSD는 총 476.0GB 중 346.3GB 사용 (73%), 여유 129.7GB입니다. 네트워크 인터페이스는 Ethernet, Ethernet 2, Wi-Fi 기준입니다.",
+      "summary": "CPU 34.0 % 사용 / 클럭 1108.8 MHz / RAM 9.0GB 사용, 총 15.8GB (57%) / SSD 346.2GB 사용, 총 476.0GB (73%)",
+      "take": "CPU는 현재 34.0 % 사용 중이고 클럭은 1108.8 MHz, 버스 스피드는 100.8 MHz, RAM은 총 15.8GB 중 9.0GB 사용 (57%), SSD는 총 476.0GB 중 346.2GB 사용 (73%), 여유 129.7GB입니다. 네트워크 인터페이스는 Ethernet, Ethernet 2, Wi-Fi 기준입니다.",
       "meta": [
         "시스템",
         "LHM"
