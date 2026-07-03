@@ -1,8 +1,8 @@
 {
-  "date": "2026-07-03 15:55",
+  "date": "2026-07-03 16:02",
   "title": "오후 브리핑",
   "subtitle": "오후 리듬 점검 · 남은 일정 · 메일 · 유튜브 · 시스템",
-  "summary": "비어 있는 하루는 느슨한 하루가 아니라, 진짜 필요한 걸 선명하게 끝낼 수 있는 하루입니다.",
+  "summary": "오늘 일정이 비어 있다면, 오히려 중요한 걸 조용히 정리할 수 있는 좋은 날입니다.",
   "summary_box": "자외선이 강한 편입니다. 외출이 길다면 햇빛 대비를 해두는 편이 좋겠습니다. 오늘은 마음을 급하게 쓰지 말고, 가장 아쉬웠던 한 가지를 먼저 정리해 보시면 좋겠습니다. 그런 작은 정리가 하루의 기분을 꽤 크게 바꿉니다.",
   "weather": {
     "loc": "김해",
@@ -73,9 +73,21 @@
       ]
     },
     "youtube": {
-      "summary": "@fahdmirza DeepSeek DFlash on Gemma / @zerochotv 바이브코딩 보안을 올려주는 프롬프트 공개!  / @진바이브 바이브코딩 외주로 수익화, 바뀌었습니다",
+      "summary": "@JulianGoldieSEO How to Run Hermes FREE F / @fahdmirza DeepSeek DFlash on Gemma / @zerochotv 바이브코딩 보안을 올려주는 프롬프트 공개! ",
       "take": "업로드 속도가 빠른 채널은 오늘도 여러 편이 들어왔습니다. 중요한 주제부터 2~3개만 골라 보면 효율이 좋습니다.",
       "items": [
+        {
+          "channel": "@JulianGoldieSEO",
+          "title": "How to Run Hermes FREE Forever!",
+          "published": "07-03 16:00",
+          "published_dt": "2026-07-03T16:00:04+09:00",
+          "url": "https://www.youtube.com/watch?v=u_qZ5Q9jhYg",
+          "thumbnail": "https://i.ytimg.com/vi/u_qZ5Q9jhYg/hqdefault.jpg",
+          "summary": "이 영상은 모델/LLM, 에이전트/자동화, 튜토리얼/설정 중심 내용입니다. 구성은 Run Hermes Free Faster, Agent OS Demo Setup, Free API Alternative, Hermes Learn Skill 순서로 이어집니다.",
+          "description_excerpt": "Get the Agent OS & Hermes Setup 👉 00:00 Run Hermes Free Faster 00:33 Agent OS Demo Setup 01:14 Free API Alternative 02:08 Hermes Learn Skill 03:40 Install Ollama Gemma 05:20 Loops and Subagents 06:55 Local Loop Engine 08:05 Easy Commands Objections 08:58 Wrap Up and Offer 09:20 Boardroom Walkthrough 10:35 Final Thanks",
+          "transcript_excerpt": "",
+          "shorts": false
+        },
         {
           "channel": "@fahdmirza",
           "title": "DeepSeek DFlash on Gemma 12B Locally: Up To 5x Faster",
@@ -83,9 +95,9 @@
           "published_dt": "2026-07-03T15:55:29+09:00",
           "url": "https://www.youtube.com/watch?v=MHBMlXQkmVM",
           "thumbnail": "https://i.ytimg.com/vi/MHBMlXQkmVM/hqdefault.jpg",
-          "summary": "이 영상은 모델/LLM, 튜토리얼/설정 중심 내용입니다. 구성은 Setting up DeepSeek's DFlash drafter on Gemma 12B locally and measuring the accepted-length speedup on a single GPU 순서로 이어지며, 제목만으로는 보이지 않는 변화 배경·핵심 기능·실제 활용 포인트를 짚어보는 영상입니다.",
+          "summary": "이 영상은 모델/LLM 중심 내용입니다. 구성은 Setting up DeepSeek's DFlash drafter on Gemma 12B locally and measuring the accepted-length speedup on a single GPU 순서로 이어지며, 제목만으로는 보이지 않는 변화 배경·핵심 기능·실제 활용 포인트를 짚어보는 영상입니다.",
           "description_excerpt": "Setting up DeepSeek's DFlash drafter on Gemma 12B locally and measuring the accepted-length speedup on a single GPU. 🔥 Get 50% Discount on any A6000 or A5000 GPU rental, use following link and coupon: Coupon code: FahdMirza 🔥 Buy Me a Coffee to support the channel: PLEASE FOLLOW ME: ▶ LinkedIn: / fahdmirza ▶ YouTube: / ▶ Blog: RESOURCES: ▶ All rights reserve",
-          "transcript_excerpt": "Deep Seek recently open sourced DeepSeek, a full toolkit for making large language models generate text faster. Today, in this video, we are going to take one piece of it, a method called as D-Flash, and we are going to download the model r",
+          "transcript_excerpt": "",
           "shorts": false
         },
         {
@@ -123,21 +135,14 @@
           "description_excerpt": "✅ 조코딩과 코딩 공부하기 VVIP 멤버십 후원 그림자그림자님, 차딩Chading TV님, Sicongbabe님, 정진균님, Tae hwan Kim님, 시원-r9u님, YCN유림방송님, 그래머피티님, GomnaStudio님, violet8mira님, 천사슥님, jsp3356님, 예스타님, yubizen님, shintony667님 감사드립니다.",
           "transcript_excerpt": "",
           "shorts": false
-        },
-        {
-          "channel": "@JulianGoldieSEO",
-          "title": "This NEW Chinese AI is INSANE! (FREE + Open Source!)",
-          "published": "07-03 15:00",
-          "published_dt": "2026-07-03T15:00:30+09:00",
-          "url": "https://www.youtube.com/watch?v=MzkDIcNb67k",
-          "thumbnail": "https://i.ytimg.com/vi/MzkDIcNb67k/hqdefault.jpg",
-          "summary": "이 영상은 모델/LLM 중심 내용입니다. New free, plus open-source Chinese AI is insane This new Chinese AI has 1 million tokens of memory for free It ran anonymously on open router for 2 months under the code name Alpha, climbing the charts with nobody knowing who built it",
-          "description_excerpt": "Get the Agent OS 👉",
-          "transcript_excerpt": "New free, plus open-source Chinese AI is insane. This new Chinese AI has 1 million tokens of memory for free. This new Chinese AI is called Long Cap 2.0, and it just came from a food delivery app, not a tech giant. It ran anonymously on ope",
-          "shorts": false
         }
       ],
       "links": [
+        {
+          "label": "@JulianGoldieSEO · 07-03 16:00",
+          "url": "https://www.youtube.com/watch?v=u_qZ5Q9jhYg",
+          "thumbnail": "https://i.ytimg.com/vi/u_qZ5Q9jhYg/hqdefault.jpg"
+        },
         {
           "label": "@fahdmirza · 07-03 15:55",
           "url": "https://www.youtube.com/watch?v=MHBMlXQkmVM",
@@ -147,34 +152,29 @@
           "label": "@zerochotv · 07-03 15:15",
           "url": "https://www.youtube.com/watch?v=gaoAiEDkx_I",
           "thumbnail": "https://i.ytimg.com/vi/gaoAiEDkx_I/hqdefault.jpg"
-        },
-        {
-          "label": "@진바이브 · 07-03 15:06",
-          "url": "https://www.youtube.com/watch?v=ZQYFDMOflEI",
-          "thumbnail": "https://i.ytimg.com/vi/ZQYFDMOflEI/hqdefault.jpg"
         }
       ],
       "entities": [
+        "@JulianGoldieSEO",
         "@fahdmirza",
         "@zerochotv",
-        "@진바이브",
-        "@jocoding"
+        "@진바이브"
       ]
     },
     "system": {
-      "summary": "CPU 29.3 % 사용 / 클럭 1209.6 MHz / RAM 11.7GB 사용, 총 15.8GB (74%) / SSD 344.2GB 사용, 총 476.0GB (72%)",
-      "take": "CPU는 현재 29.3 % 사용 중이고 클럭은 1209.6 MHz, 버스 스피드는 100.8 MHz, RAM은 총 15.8GB 중 11.7GB 사용 (74%), SSD는 총 476.0GB 중 344.2GB 사용 (72%), 여유 131.8GB입니다. 네트워크 인터페이스는 Ethernet, Ethernet 2, Wi-Fi 기준입니다.",
+      "summary": "CPU 19.5 % 사용 / 클럭 1008.0 MHz / RAM 11.6GB 사용, 총 15.8GB (73%) / SSD 344.2GB 사용, 총 476.0GB (72%)",
+      "take": "CPU는 현재 19.5 % 사용 중이고 클럭은 1008.0 MHz, 버스 스피드는 100.8 MHz, RAM은 총 15.8GB 중 11.6GB 사용 (73%), SSD는 총 476.0GB 중 344.2GB 사용 (72%), 여유 131.8GB입니다. 네트워크 인터페이스는 Ethernet, Ethernet 2, Wi-Fi 기준입니다.",
       "metrics": [
         {
           "label": "CPU 사용률",
-          "value": "29.3 %",
-          "pct": 29.3,
+          "value": "19.5 %",
+          "pct": 19.5,
           "tone": "normal"
         },
         {
           "label": "CPU 클럭",
-          "value": "1209.6 MHz",
-          "pct": 34.559999999999995,
+          "value": "1008.0 MHz",
+          "pct": 28.8,
           "tone": "normal"
         },
         {
@@ -185,14 +185,14 @@
         },
         {
           "label": "CPU 온도",
-          "value": "54.0 °C",
-          "pct": 54.0,
+          "value": "52.0 °C",
+          "pct": 52.0,
           "tone": "normal"
         },
         {
           "label": "RAM 사용량",
-          "value": "11.7 / 15.8 GB (74%)",
-          "pct": 73.9,
+          "value": "11.6 / 15.8 GB (73%)",
+          "pct": 73.3,
           "tone": "normal"
         },
         {
@@ -215,19 +215,19 @@
         },
         {
           "label": "업타임",
-          "value": "563시간 20분",
+          "value": "563시간 28분",
           "pct": 100,
           "tone": "normal"
         },
         {
           "label": "네트워크 수신",
-          "value": "14294.3 MB",
+          "value": "14326.8 MB",
           "pct": 100,
           "tone": "normal"
         },
         {
           "label": "네트워크 송신",
-          "value": "2672.6 MB",
+          "value": "2674.8 MB",
           "pct": 100,
           "tone": "normal"
         }
@@ -267,7 +267,7 @@
   "cards": [
     {
       "title": "오늘의 한마디",
-      "summary": "비어 있는 하루는 느슨한 하루가 아니라, 진짜 필요한 걸 선명하게 끝낼 수 있는 하루입니다.",
+      "summary": "오늘 일정이 비어 있다면, 오히려 중요한 걸 조용히 정리할 수 있는 좋은 날입니다.",
       "take": "자외선이 강한 편입니다. 외출이 길다면 햇빛 대비를 해두는 편이 좋겠습니다. 오늘은 마음을 급하게 쓰지 말고, 가장 아쉬웠던 한 가지를 먼저 정리해 보시면 좋겠습니다. 그런 작은 정리가 하루의 기분을 꽤 크게 바꿉니다.",
       "meta": [
         "응원",
@@ -317,7 +317,7 @@
     },
     {
       "title": "유튜브 업데이트",
-      "summary": "@fahdmirza DeepSeek DFlash on Gemma / @zerochotv 바이브코딩 보안을 올려주는 프롬프트 공개!  / @진바이브 바이브코딩 외주로 수익화, 바뀌었습니다",
+      "summary": "@JulianGoldieSEO How to Run Hermes FREE F / @fahdmirza DeepSeek DFlash on Gemma / @zerochotv 바이브코딩 보안을 올려주는 프롬프트 공개! ",
       "take": "업로드 속도가 빠른 채널은 오늘도 여러 편이 들어왔습니다. 중요한 주제부터 2~3개만 골라 보면 효율이 좋습니다.",
       "meta": [
         "유튜브",
@@ -325,10 +325,10 @@
         "중간 길이"
       ],
       "entities": [
+        "@JulianGoldieSEO",
         "@fahdmirza",
         "@zerochotv",
-        "@진바이브",
-        "@jocoding"
+        "@진바이브"
       ],
       "keywords": [
         "youtube",
@@ -336,6 +336,11 @@
         "thumbnail"
       ],
       "links": [
+        {
+          "label": "@JulianGoldieSEO · 07-03 16:00",
+          "url": "https://www.youtube.com/watch?v=u_qZ5Q9jhYg",
+          "thumbnail": "https://i.ytimg.com/vi/u_qZ5Q9jhYg/hqdefault.jpg"
+        },
         {
           "label": "@fahdmirza · 07-03 15:55",
           "url": "https://www.youtube.com/watch?v=MHBMlXQkmVM",
@@ -345,18 +350,13 @@
           "label": "@zerochotv · 07-03 15:15",
           "url": "https://www.youtube.com/watch?v=gaoAiEDkx_I",
           "thumbnail": "https://i.ytimg.com/vi/gaoAiEDkx_I/hqdefault.jpg"
-        },
-        {
-          "label": "@진바이브 · 07-03 15:06",
-          "url": "https://www.youtube.com/watch?v=ZQYFDMOflEI",
-          "thumbnail": "https://i.ytimg.com/vi/ZQYFDMOflEI/hqdefault.jpg"
         }
       ]
     },
     {
       "title": "시스템 상태 요약",
-      "summary": "CPU 29.3 % 사용 / 클럭 1209.6 MHz / RAM 11.7GB 사용, 총 15.8GB (74%) / SSD 344.2GB 사용, 총 476.0GB (72%)",
-      "take": "CPU는 현재 29.3 % 사용 중이고 클럭은 1209.6 MHz, 버스 스피드는 100.8 MHz, RAM은 총 15.8GB 중 11.7GB 사용 (74%), SSD는 총 476.0GB 중 344.2GB 사용 (72%), 여유 131.8GB입니다. 네트워크 인터페이스는 Ethernet, Ethernet 2, Wi-Fi 기준입니다.",
+      "summary": "CPU 19.5 % 사용 / 클럭 1008.0 MHz / RAM 11.6GB 사용, 총 15.8GB (73%) / SSD 344.2GB 사용, 총 476.0GB (72%)",
+      "take": "CPU는 현재 19.5 % 사용 중이고 클럭은 1008.0 MHz, 버스 스피드는 100.8 MHz, RAM은 총 15.8GB 중 11.6GB 사용 (73%), SSD는 총 476.0GB 중 344.2GB 사용 (72%), 여유 131.8GB입니다. 네트워크 인터페이스는 Ethernet, Ethernet 2, Wi-Fi 기준입니다.",
       "meta": [
         "시스템",
         "LHM"
