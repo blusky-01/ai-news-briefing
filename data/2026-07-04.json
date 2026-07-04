@@ -1,0 +1,389 @@
+{
+  "date": "2026-07-04 13:52",
+  "title": "점심 브리핑",
+  "subtitle": "오전 흐름 점검 · 남은 일정 · 메일 · 유튜브 · 시스템",
+  "summary": "오늘은 누가 밀어붙이지 않아도 됩니다. 팀장님 리듬대로 중요한 것부터 차분히 끝내면 됩니다.",
+  "summary_box": "자외선이 강한 편입니다. 외출이 길다면 햇빛 대비를 해두는 편이 좋겠습니다. 오늘은 마음을 급하게 쓰지 말고, 가장 아쉬웠던 한 가지를 먼저 정리해 보시면 좋겠습니다. 그런 작은 정리가 하루의 기분을 꽤 크게 바꿉니다.",
+  "weather": {
+    "loc": "김해",
+    "temp": "27°C",
+    "desc": "Partly cloudy",
+    "icon": "⛅",
+    "badges": [
+      "체감 31°C",
+      "습도 74%",
+      "강수확률 16%",
+      "풍속 4km/h",
+      "UV 6",
+      "미세먼지 정보 연동 예정"
+    ],
+    "detail": {
+      "feels_like": "31",
+      "humidity": "74",
+      "rain_chance": "16",
+      "wind_kmph": "4",
+      "uv": "6",
+      "pm": "미세먼지 정보 연동 예정"
+    },
+    "life_comment": "자외선이 강한 편입니다. 외출이 길다면 햇빛 대비를 해두는 편이 좋겠습니다."
+  },
+  "sections": {
+    "calendar": {
+      "summary": "오늘 일정 없음",
+      "take": "오늘 등록된 일정이 없습니다. 이럴 때는 중요한 정리 한두 개만 분명하게 끝내도 충분합니다.",
+      "items": [],
+      "links": [],
+      "entities": [
+        "calendar"
+      ]
+    },
+    "mail": {
+      "summary": "[확인필요] New device signed in to yo / [중요인물] Google 계정 데이터 일부를 Higgsfie",
+      "take": "지금 확인할 만한 메일만 추렸습니다. 결제, 업무, 보안성 알림 위주로 먼저 보면 됩니다.",
+      "items": [
+        {
+          "date": "2026-07-03 03:01",
+          "from": "\"Higgsfield.AI\" <noreply@higgsfield.ai>",
+          "subject": "New device signed in to your Higgsfield.AI account",
+          "tags": [
+            "확인필요"
+          ]
+        },
+        {
+          "date": "2026-07-03 02:59",
+          "from": "Google <noreply-accounts@google.com>",
+          "subject": "Google 계정 데이터 일부를 Higgsfield AI에 공유하셨습니다",
+          "tags": [
+            "중요인물"
+          ]
+        }
+      ],
+      "links": [],
+      "entities": [
+        "확인필요",
+        "중요인물"
+      ]
+    },
+    "youtube": {
+      "summary": "@JulianGoldieSEO Fable 5 Disappears In 3  / @JulianGoldieSEO ZCode + GLM-5.2 Automate / @JulianGoldieSEO NEW NotebookLM Video AI ",
+      "take": "업로드 속도가 빠른 채널은 오늘도 여러 편이 들어왔습니다. 중요한 주제부터 2~3개만 골라 보면 효율이 좋습니다.",
+      "items": [
+        {
+          "channel": "@JulianGoldieSEO",
+          "title": "Fable 5 Disappears In 3 Days: Do THIS Now!",
+          "published": "07-04 11:01",
+          "published_dt": "2026-07-04T11:01:19+09:00",
+          "url": "https://www.youtube.com/watch?v=cQ00R8N2oCE",
+          "thumbnail": "https://i.ytimg.com/vi/cQ00R8N2oCE/hqdefault.jpg",
+          "summary": "이 영상은 에이전트/자동화 중심 내용입니다. 구성은 Fable 5 Deadline Warning, Reverse Engineer Your Work, Why Fable 5 Wins, Time Audit First 순서로 이어집니다.",
+          "description_excerpt": "Get the Agent OS 👉 00:00 Fable 5 Deadline Warning 00:20 Reverse Engineer Your Work 00:57 Why Fable 5 Wins 02:01 Time Audit First 02:28 Prompt Your First Tool 03:05 Test and Iterate Builds 03:37 Parallel Projects Mission Control 04:51 Plan With Fable 5 Build Cheap 07:25 Three Options Recap 07:59 Boardroom Offer and Outro",
+          "transcript_excerpt": "",
+          "shorts": false
+        },
+        {
+          "channel": "@JulianGoldieSEO",
+          "title": "ZCode + GLM-5.2 Automates Coding",
+          "published": "07-04 10:00",
+          "published_dt": "2026-07-04T10:00:17+09:00",
+          "url": "https://www.youtube.com/watch?v=E6n8UwM5Alo",
+          "thumbnail": "https://i.ytimg.com/vi/E6n8UwM5Alo/hqdefault.jpg",
+          "summary": "이 영상은 에이전트/자동화 중심 내용입니다. 구성은 Get the ZCode + GLM-5.2 Masterclass 👉 Get the Agent OS 👉 순서로 이어집니다. Get the ZCode + GLM-5.2 Masterclass 👉 Get the Agent OS 👉",
+          "description_excerpt": "Get the ZCode + GLM-5.2 Masterclass 👉 Get the Agent OS 👉",
+          "transcript_excerpt": "",
+          "shorts": false
+        },
+        {
+          "channel": "@JulianGoldieSEO",
+          "title": "NEW NotebookLM Video AI Agent Update!",
+          "published": "07-04 08:00",
+          "published_dt": "2026-07-04T08:00:39+09:00",
+          "url": "https://www.youtube.com/watch?v=w9PZRPQwz90",
+          "thumbnail": "https://i.ytimg.com/vi/w9PZRPQwz90/hqdefault.jpg",
+          "summary": "이 영상은 수익화/마케팅 중심 내용입니다. 구성은 Intro – Turn any PDF into a 60-second video you'll actually watch, What Is NotebookLM – The free Google tool that only knows your sources, The New Update – Short video overviews explained (June 2026), Real Example – Building an SEO roadmap notebook from scratch 순서로 이어집니다.",
+          "description_excerpt": "Get the NotebookLM Masterclass 👉 00:00 Intro – Turn any PDF into a 60-second video you'll actually watch 00:18 What Is NotebookLM – The free Google tool that only knows your sources 01:15 The New Update – Short video overviews explained (June 2026) 01:40 Real Example – Building an SEO roadmap notebook from scratch 01:55 Flashcards – Auto-made cards with prog",
+          "transcript_excerpt": "",
+          "shorts": false
+        },
+        {
+          "channel": "@dante-labs",
+          "title": "이거 모르고 장비 사면 돈 날립니다 | 로컬 LLM 현실 + 구축 가이드 (AMD R9700 + Hermes)",
+          "published": "07-04 04:47",
+          "published_dt": "2026-07-04T04:47:46+09:00",
+          "url": "https://www.youtube.com/watch?v=Rb0OVBaKYdQ",
+          "thumbnail": "https://i.ytimg.com/vi/Rb0OVBaKYdQ/hqdefault.jpg",
+          "summary": "이 영상은 모델/LLM, 에이전트/자동화, 튜토리얼/설정 중심 내용입니다. 구성은 오늘의 길잡이 3단계, 파라미터 'B'의 의미, VRAM 등급표, 가격 현실 & 장비 스펙 순서로 이어집니다. 클라우드 구독료도, 토큰비도, 데이터 유출 걱정도 없이, 워크스테이션 PC 한 대로 AI 에이전트를 완전히 로컬로 돌려봅니다 \"로컬 LLM, 뭐부터 시작하지?\" 노트북·미니PC로는 맛보기만 되고, 제대로 굴리려면 결국 전용 PC 한 대가 필요합니다 그리고 그 위에 Hermes 에이전트를 얹어, 웹 검색부터 파일 작성·편집까지 스스로 해내는 나만의 로컬 비서를 만들어 봅니다",
+          "description_excerpt": "클라우드 구독료도, 토큰비도, 데이터 유출 걱정도 없이, 워크스테이션 PC 한 대로 AI 에이전트를 완전히 로컬로 돌려봅니다. \"로컬 LLM, 뭐부터 시작하지?\" 노트북·미니PC로는 맛보기만 되고, 제대로 굴리려면 결국 전용 PC 한 대가 필요합니다. 이 영상은 입문자가 헤매지 않도록 ① 어떤 장비를 고르고 ② 어떤 기준으로 모델을 정하고 ③ 예산을 어떻게 키워 나갈지를, AMD Radeon AI PRO R9700 32GB 실측으로 정직하게 정리했습니다. 그리고 그 위에 Hermes 에이전트를 얹어, 웹 검색부터 파일 작성·편집까지 스스로 해내는 나만의 로컬 비서를 만들어 봅니다. ▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬ 🖥️ 오늘의 실측 장",
+          "transcript_excerpt": "",
+          "shorts": false
+        },
+        {
+          "channel": "@fahdmirza",
+          "title": "Needle: Finetune a 26M Tool-Calling Model Locally with Ollama",
+          "published": "07-04 04:00",
+          "published_dt": "2026-07-04T04:00:17+09:00",
+          "url": "https://www.youtube.com/watch?v=PxgqUFupxUw",
+          "thumbnail": "https://i.ytimg.com/vi/PxgqUFupxUw/hqdefault.jpg",
+          "summary": "이 영상은 튜토리얼/설정 중심 내용입니다. 구성은 This video installs and tests Needle which runs on Cactus at 6000 toks/sec prefill and 1200 decode speed 순서로 이어지며, 제목만으로는 보이지 않는 변화 배경·핵심 기능·실제 활용 포인트를 짚어보는 영상입니다.",
+          "description_excerpt": "This video installs and tests Needle which runs on Cactus at 6000 toks/sec prefill and 1200 decode speed. 🔥 Buy Me a Coffee to support the channel: 🔥 Get 50% Discount on any A6000 or A5000 GPU rental, use following link and coupon: Coupon code: FahdMirza 🔥 Buy Me a Coffee to support the channel: PLEASE FOLLOW ME: ▶ LinkedIn: / fahdmirza ▶ YouTube: / ▶ Blog: ",
+          "transcript_excerpt": "",
+          "shorts": false
+        }
+      ],
+      "links": [
+        {
+          "label": "@JulianGoldieSEO · 07-04 11:01",
+          "url": "https://www.youtube.com/watch?v=cQ00R8N2oCE",
+          "thumbnail": "https://i.ytimg.com/vi/cQ00R8N2oCE/hqdefault.jpg"
+        },
+        {
+          "label": "@JulianGoldieSEO · 07-04 10:00",
+          "url": "https://www.youtube.com/watch?v=E6n8UwM5Alo",
+          "thumbnail": "https://i.ytimg.com/vi/E6n8UwM5Alo/hqdefault.jpg"
+        },
+        {
+          "label": "@JulianGoldieSEO · 07-04 08:00",
+          "url": "https://www.youtube.com/watch?v=w9PZRPQwz90",
+          "thumbnail": "https://i.ytimg.com/vi/w9PZRPQwz90/hqdefault.jpg"
+        }
+      ],
+      "entities": [
+        "@JulianGoldieSEO",
+        "@JulianGoldieSEO",
+        "@JulianGoldieSEO",
+        "@dante-labs"
+      ]
+    },
+    "system": {
+      "summary": "CPU 21.5 % 사용 / 클럭 1310.4 MHz / RAM 12.0GB 사용, 총 15.8GB (76%) / SSD 344.6GB 사용, 총 476.0GB (72%)",
+      "take": "CPU는 현재 21.5 % 사용 중이고 클럭은 1310.4 MHz, 버스 스피드는 100.8 MHz, RAM은 총 15.8GB 중 12.0GB 사용 (76%), SSD는 총 476.0GB 중 344.6GB 사용 (72%), 여유 131.3GB입니다. 네트워크 인터페이스는 Ethernet, Ethernet 2, Wi-Fi 기준입니다.",
+      "metrics": [
+        {
+          "label": "CPU 사용률",
+          "value": "21.5 %",
+          "pct": 21.5,
+          "tone": "normal"
+        },
+        {
+          "label": "CPU 클럭",
+          "value": "1310.4 MHz",
+          "pct": 37.440000000000005,
+          "tone": "normal"
+        },
+        {
+          "label": "버스 스피드",
+          "value": "100.8 MHz",
+          "pct": 100,
+          "tone": "normal"
+        },
+        {
+          "label": "CPU 온도",
+          "value": "52.0 °C",
+          "pct": 52.0,
+          "tone": "normal"
+        },
+        {
+          "label": "RAM 사용량",
+          "value": "12.0 / 15.8 GB (76%)",
+          "pct": 75.9,
+          "tone": "normal"
+        },
+        {
+          "label": "SSD 사용량",
+          "value": "344.6 / 476.0 GB (72%)",
+          "pct": 72.4,
+          "tone": "normal"
+        },
+        {
+          "label": "SSD 여유 공간",
+          "value": "131.3 / 476.0 GB",
+          "pct": 27.599999999999994,
+          "tone": "normal"
+        },
+        {
+          "label": "SSD 온도",
+          "value": "40.0 °C",
+          "pct": 40.0,
+          "tone": "normal"
+        },
+        {
+          "label": "업타임",
+          "value": "585시간 17분",
+          "pct": 100,
+          "tone": "normal"
+        },
+        {
+          "label": "네트워크 수신",
+          "value": "14525.7 MB",
+          "pct": 100,
+          "tone": "normal"
+        },
+        {
+          "label": "네트워크 송신",
+          "value": "2741.6 MB",
+          "pct": 100,
+          "tone": "normal"
+        }
+      ]
+    },
+    "openclaw": {
+      "summary": "OpenClaw 2026.6.9 (c645ec4)",
+      "take": "Runtime: running (last run 267009, last run time 06-23(화) 오전 5:54:50) | Listening: 127.0.0.1:18789",
+      "metrics": [
+        {
+          "label": "Gateway",
+          "value": "bind=loopback (127.0.0.1), port=18789 (service args)",
+          "pct": 100,
+          "tone": "normal"
+        },
+        {
+          "label": "Probe note",
+          "value": "Loopback-only gateway; only local clients can connect.",
+          "pct": 100,
+          "tone": "normal"
+        },
+        {
+          "label": "Runtime",
+          "value": "running (last run 267009, last run time 06-23(화) 오전 5:54:50)",
+          "pct": 100,
+          "tone": "good"
+        },
+        {
+          "label": "Listening",
+          "value": "127.0.0.1:18789",
+          "pct": 100,
+          "tone": "good"
+        }
+      ]
+    }
+  },
+  "cards": [
+    {
+      "title": "오늘의 한마디",
+      "summary": "오늘은 누가 밀어붙이지 않아도 됩니다. 팀장님 리듬대로 중요한 것부터 차분히 끝내면 됩니다.",
+      "take": "자외선이 강한 편입니다. 외출이 길다면 햇빛 대비를 해두는 편이 좋겠습니다. 오늘은 마음을 급하게 쓰지 말고, 가장 아쉬웠던 한 가지를 먼저 정리해 보시면 좋겠습니다. 그런 작은 정리가 하루의 기분을 꽤 크게 바꿉니다.",
+      "meta": [
+        "응원",
+        "중간 길이"
+      ],
+      "entities": [],
+      "keywords": [
+        "아침",
+        "집중"
+      ],
+      "links": []
+    },
+    {
+      "title": "오늘 일정",
+      "summary": "오늘 일정 없음",
+      "take": "오늘 등록된 일정이 없습니다. 이럴 때는 중요한 정리 한두 개만 분명하게 끝내도 충분합니다.",
+      "meta": [
+        "일정",
+        "calendar"
+      ],
+      "entities": [
+        "calendar"
+      ],
+      "keywords": [
+        "calendar"
+      ],
+      "links": []
+    },
+    {
+      "title": "주요 메일 / 중요 알림",
+      "summary": "[확인필요] New device signed in to yo / [중요인물] Google 계정 데이터 일부를 Higgsfie",
+      "take": "지금 확인할 만한 메일만 추렸습니다. 결제, 업무, 보안성 알림 위주로 먼저 보면 됩니다.",
+      "meta": [
+        "메일",
+        "gmail",
+        "중요 알림"
+      ],
+      "entities": [
+        "확인필요",
+        "중요인물"
+      ],
+      "keywords": [
+        "gmail",
+        "alert"
+      ],
+      "links": []
+    },
+    {
+      "title": "유튜브 업데이트",
+      "summary": "@JulianGoldieSEO Fable 5 Disappears In 3  / @JulianGoldieSEO ZCode + GLM-5.2 Automate / @JulianGoldieSEO NEW NotebookLM Video AI ",
+      "take": "업로드 속도가 빠른 채널은 오늘도 여러 편이 들어왔습니다. 중요한 주제부터 2~3개만 골라 보면 효율이 좋습니다.",
+      "meta": [
+        "유튜브",
+        "AI 채널",
+        "중간 길이"
+      ],
+      "entities": [
+        "@JulianGoldieSEO",
+        "@JulianGoldieSEO",
+        "@JulianGoldieSEO",
+        "@dante-labs"
+      ],
+      "keywords": [
+        "youtube",
+        "update",
+        "thumbnail"
+      ],
+      "links": [
+        {
+          "label": "@JulianGoldieSEO · 07-04 11:01",
+          "url": "https://www.youtube.com/watch?v=cQ00R8N2oCE",
+          "thumbnail": "https://i.ytimg.com/vi/cQ00R8N2oCE/hqdefault.jpg"
+        },
+        {
+          "label": "@JulianGoldieSEO · 07-04 10:00",
+          "url": "https://www.youtube.com/watch?v=E6n8UwM5Alo",
+          "thumbnail": "https://i.ytimg.com/vi/E6n8UwM5Alo/hqdefault.jpg"
+        },
+        {
+          "label": "@JulianGoldieSEO · 07-04 08:00",
+          "url": "https://www.youtube.com/watch?v=w9PZRPQwz90",
+          "thumbnail": "https://i.ytimg.com/vi/w9PZRPQwz90/hqdefault.jpg"
+        }
+      ]
+    },
+    {
+      "title": "시스템 상태 요약",
+      "summary": "CPU 21.5 % 사용 / 클럭 1310.4 MHz / RAM 12.0GB 사용, 총 15.8GB (76%) / SSD 344.6GB 사용, 총 476.0GB (72%)",
+      "take": "CPU는 현재 21.5 % 사용 중이고 클럭은 1310.4 MHz, 버스 스피드는 100.8 MHz, RAM은 총 15.8GB 중 12.0GB 사용 (76%), SSD는 총 476.0GB 중 344.6GB 사용 (72%), 여유 131.3GB입니다. 네트워크 인터페이스는 Ethernet, Ethernet 2, Wi-Fi 기준입니다.",
+      "meta": [
+        "시스템",
+        "LHM"
+      ],
+      "entities": [
+        "Intel N100",
+        "RAM",
+        "SSD"
+      ],
+      "keywords": [
+        "temperature",
+        "load",
+        "memory"
+      ],
+      "links": []
+    },
+    {
+      "title": "OpenClaw 상태 요약",
+      "summary": "OpenClaw 2026.6.9 (c645ec4)",
+      "take": "Runtime: running (last run 267009, last run time 06-23(화) 오전 5:54:50) | Listening: 127.0.0.1:18789",
+      "meta": [
+        "OpenClaw",
+        "Gateway"
+      ],
+      "entities": [
+        "main",
+        "gateway"
+      ],
+      "keywords": [
+        "version",
+        "rpc",
+        "status"
+      ],
+      "links": []
+    }
+  ],
+  "footer": "AI-assisted morning briefing, unified data structure ready for stage 2"
+}
