@@ -1,0 +1,379 @@
+{
+  "date": "2026-07-07 07:00",
+  "title": "아침 브리핑",
+  "subtitle": "날씨 · 응원 · 일정 · 메일 · 유튜브 · 시스템 · OpenClaw",
+  "summary": "오늘은 누가 밀어붙이지 않아도 됩니다. 팀장님 리듬대로 중요한 것부터 차분히 끝내면 됩니다.",
+  "summary_box": "습도가 높아 체감이 더 무겁습니다. 물을 자주 마시며 리듬을 유지하면 좋겠습니다. 오늘은 마음을 급하게 쓰지 말고, 가장 아쉬웠던 한 가지를 먼저 정리해 보시면 좋겠습니다. 그런 작은 정리가 하루의 기분을 꽤 크게 바꿉니다.",
+  "weather": {
+    "loc": "김해",
+    "temp": "24°C",
+    "desc": "Partly cloudy",
+    "icon": "⛅",
+    "badges": [
+      "체감 27°C",
+      "습도 100%",
+      "강수확률 7%",
+      "풍속 6km/h",
+      "UV 0",
+      "미세먼지 정보 연동 예정"
+    ],
+    "detail": {
+      "feels_like": "27",
+      "humidity": "100",
+      "rain_chance": "7",
+      "wind_kmph": "6",
+      "uv": "0",
+      "pm": "미세먼지 정보 연동 예정"
+    },
+    "life_comment": "습도가 높아 체감이 더 무겁습니다. 물을 자주 마시며 리듬을 유지하면 좋겠습니다."
+  },
+  "sections": {
+    "calendar": {
+      "summary": "오늘 일정 없음",
+      "take": "오늘 등록된 일정이 없습니다. 이럴 때는 중요한 정리 한두 개만 분명하게 끝내도 충분합니다.",
+      "items": [],
+      "links": [],
+      "entities": [
+        "calendar"
+      ]
+    },
+    "mail": {
+      "summary": "[중요인물] Google 계정 데이터 일부를 Claude에 ",
+      "take": "지금 확인할 만한 메일만 추렸습니다. 결제, 업무, 보안성 알림 위주로 먼저 보면 됩니다.",
+      "items": [
+        {
+          "date": "2026-07-06 17:54",
+          "from": "Google <noreply-accounts@google.com>",
+          "subject": "Google 계정 데이터 일부를 Claude에 공유하셨습니다",
+          "tags": [
+            "중요인물"
+          ]
+        }
+      ],
+      "links": [],
+      "entities": [
+        "중요인물"
+      ]
+    },
+    "youtube": {
+      "summary": "@fahdmirza Hy3 - Tencent Says its B / @JulianGoldieSEO Fable 5 Is Gone in 24 Ho / @JulianGoldieSEO Claude AI SEO System Ran",
+      "take": "업로드 속도가 빠른 채널은 오늘도 여러 편이 들어왔습니다. 중요한 주제부터 2~3개만 골라 보면 효율이 좋습니다.",
+      "items": [
+        {
+          "channel": "@fahdmirza",
+          "title": "Hy3 - Tencent Says its Best Chinese Model - Let's Test",
+          "published": "07-07 06:16",
+          "published_dt": "2026-07-07T06:16:11+09:00",
+          "url": "https://www.youtube.com/watch?v=lR_ABiVX7_k",
+          "thumbnail": "https://i.ytimg.com/vi/lR_ABiVX7_k/hqdefault.jpg",
+          "summary": "이 영상은 모델/LLM, 에이전트/자동화 중심 내용입니다. 구성은 This video tests Hy3 which is a 295B MoE with 21B active parameters and 3.8B MTP layer parameters, 🔥 Buy Me a Coffee to support the channel: PLEASE FOLLOW ME: ▶ LinkedIn: ▶ YouTube: ▶ Blog: Resources: ▶ All rights reserved © Fahd Mirza 순서로 이어지며, 제목만으로는 보이지 않는 변화 배경·핵심 기능·실제 활용 포인트를 짚어보는 영상입니다.",
+          "description_excerpt": "This video tests Hy3 which is a 295B MoE with 21B active parameters and 3.8B MTP layer parameters. 🔥 Buy Me a Coffee to support the channel: PLEASE FOLLOW ME: ▶ LinkedIn: ▶ YouTube: ▶ Blog: Resources: ▶ All rights reserved © Fahd Mirza",
+          "transcript_excerpt": "10 cent says Hi3 is their best ever model and arguably the best Chinese model out there at the moment. Let's put it to test in their AI studio. I have just given it a very hard prompt in order to create me a simulation where physics needs t",
+          "shorts": false
+        },
+        {
+          "channel": "@JulianGoldieSEO",
+          "title": "Fable 5 Is Gone in 24 Hours... Do This First",
+          "published": "07-07 05:00",
+          "published_dt": "2026-07-07T05:00:31+09:00",
+          "url": "https://www.youtube.com/watch?v=qF2orJUM9GA",
+          "thumbnail": "https://i.ytimg.com/vi/qF2orJUM9GA/hqdefault.jpg",
+          "summary": "이 영상은 모델/LLM 중심 내용입니다. 구성은 Intro – One day left to try Fable 5 free, The Catch – Free access ends July 7, then credits, Full Backstory – Pulled, patched, back in 3 weeks, Why It's Strong – 1M context, runs for hours, self-tests 순서로 이어지며, 제목만으로는 보이지 않는 변화 배경·핵심 기능·실제 활용 포인트를 짚어보는 영상입니다.",
+          "description_excerpt": "Get the Claude Masterclass 👉 Get the Agent OS 👉 00:00 Intro – One day left to try Fable 5 free 00:40 The Catch – Free access ends July 7, then credits 01:14 Full Backstory – Pulled, patched, back in 3 weeks 01:37 Why It's Strong – 1M context, runs for hours, self-tests 02:08 4 Real Builds – Site, calculator, strategy, game 04:36 The Bigger Shift – Type it, A",
+          "transcript_excerpt": "Fable 5 is gone in 24 hours. Do this first. What if the strongest AI you can get your hands on right now is about to slip away? No big announcement, no warning. Most people won't even notice until it's gone. There's a clock ticking on this ",
+          "shorts": false
+        },
+        {
+          "channel": "@JulianGoldieSEO",
+          "title": "Claude AI SEO System Ranks Me #1 on Google",
+          "published": "07-07 03:00",
+          "published_dt": "2026-07-07T03:00:01+09:00",
+          "url": "https://www.youtube.com/watch?v=HLE8-Zi-v3I",
+          "thumbnail": "https://i.ytimg.com/vi/HLE8-Zi-v3I/hqdefault.jpg",
+          "summary": "이 영상은 에이전트/자동화, 수익화/마케팅 중심 내용입니다. 구성은 System Proof Rankings, Pipeline Overview, Video Agent Demo, Quality Control Steps 순서로 이어지며, 제목만으로는 보이지 않는 변화 배경·핵심 기능·실제 활용 포인트를 짚어보는 영상입니다.",
+          "description_excerpt": "00:00 System Proof Rankings 01:40 Pipeline Overview 02:21 Video Agent Demo 02:59 Quality Control Steps 03:45 Websites Automation 05:01 Information Gain Method 06:12 Tracking And Indexing 06:51 Keyword Loop Explained 07:45 Auto Publishing Workflow 08:13 Agent Swarms UltraCode 09:00 Get The Full System 09:46 Testimonials And Support 10:39 Strategy Call Offer 1",
+          "transcript_excerpt": "Today, I want to show you a powerful system that's working for us right now based on a a case study that I've been testing out. So, you can see for example this keyword best A E O experts, and we are actually ranking inside the AIO reviews ",
+          "shorts": false
+        },
+        {
+          "channel": "@JulianGoldieSEO",
+          "title": "Free Claude Code + Ominroute is INSANE!",
+          "published": "07-07 01:00",
+          "published_dt": "2026-07-07T01:00:07+09:00",
+          "url": "https://www.youtube.com/watch?v=YM3fZjHF5QU",
+          "thumbnail": "https://i.ytimg.com/vi/YM3fZjHF5QU/hqdefault.jpg",
+          "summary": "이 영상은 모델/LLM, 에이전트/자동화, 수익화/마케팅 중심 내용입니다. 구성은 Free Claude Code Setup, Agent OS Demo Builds, Using Omniroot in Codex, How Omniroot Works 순서로 이어지며, 제목만으로는 보이지 않는 변화 배경·핵심 기능·실제 활용 포인트를 짚어보는 영상입니다.",
+          "description_excerpt": "Get the Agent OS 👉 00:00 Free Claude Code Setup 00:35 Agent OS Demo Builds 01:28 Using Omniroot in Codex 01:46 How Omniroot Works 02:26 Token Savings Fallbacks 04:57 Live Preview Workflow 06:03 Memory Style Guidelines 07:51 Routing Modes Settings 08:41 Five Minute Install 09:48 Agent OS Boardroom Pitch 10:43 Training Support 11:20 Final Links Wrap Up",
+          "transcript_excerpt": "Today, I'm going to show you how to use free code for free forever. We have a new setup that's just dropped from Omni route. Omni route basically allows you to code with over 231 free providers with one single endpoint. And then you can plu",
+          "shorts": false
+        },
+        {
+          "channel": "@진바이브",
+          "title": "바이브코딩 수천만 원 외주, 월 500 서비스",
+          "published": "07-06 23:44",
+          "published_dt": "2026-07-06T23:44:14+09:00",
+          "url": "https://www.youtube.com/watch?v=mebON6tZJig",
+          "thumbnail": "https://i.ytimg.com/vi/mebON6tZJig/hqdefault.jpg",
+          "summary": "바이브코딩 수천만 원 외주, 월 500 서비스 주제를 중심으로 무엇이 새로 나왔는지, 또는 어떻게 활용하는지를 설명하는 영상입니다.",
+          "description_excerpt": "",
+          "transcript_excerpt": "",
+          "shorts": false
+        }
+      ],
+      "links": [
+        {
+          "label": "@fahdmirza · 07-07 06:16",
+          "url": "https://www.youtube.com/watch?v=lR_ABiVX7_k",
+          "thumbnail": "https://i.ytimg.com/vi/lR_ABiVX7_k/hqdefault.jpg"
+        },
+        {
+          "label": "@JulianGoldieSEO · 07-07 05:00",
+          "url": "https://www.youtube.com/watch?v=qF2orJUM9GA",
+          "thumbnail": "https://i.ytimg.com/vi/qF2orJUM9GA/hqdefault.jpg"
+        },
+        {
+          "label": "@JulianGoldieSEO · 07-07 03:00",
+          "url": "https://www.youtube.com/watch?v=HLE8-Zi-v3I",
+          "thumbnail": "https://i.ytimg.com/vi/HLE8-Zi-v3I/hqdefault.jpg"
+        }
+      ],
+      "entities": [
+        "@fahdmirza",
+        "@JulianGoldieSEO",
+        "@JulianGoldieSEO",
+        "@JulianGoldieSEO"
+      ]
+    },
+    "system": {
+      "summary": "CPU 11.9 % 사용 / 클럭 806.4 MHz / RAM 7.1GB 사용, 총 15.8GB (45%) / SSD 345.9GB 사용, 총 476.0GB (73%)",
+      "take": "CPU는 현재 11.9 % 사용 중이고 클럭은 806.4 MHz, 버스 스피드는 100.8 MHz, RAM은 총 15.8GB 중 7.1GB 사용 (45%), SSD는 총 476.0GB 중 345.9GB 사용 (73%), 여유 130.0GB입니다. 네트워크 인터페이스는 Ethernet, Ethernet 2, Wi-Fi 기준입니다.",
+      "metrics": [
+        {
+          "label": "CPU 사용률",
+          "value": "11.9 %",
+          "pct": 11.9,
+          "tone": "normal"
+        },
+        {
+          "label": "CPU 클럭",
+          "value": "806.4 MHz",
+          "pct": 23.04,
+          "tone": "normal"
+        },
+        {
+          "label": "버스 스피드",
+          "value": "100.8 MHz",
+          "pct": 100,
+          "tone": "normal"
+        },
+        {
+          "label": "CPU 온도",
+          "value": "49.0 °C",
+          "pct": 49.0,
+          "tone": "normal"
+        },
+        {
+          "label": "RAM 사용량",
+          "value": "7.1 / 15.8 GB (45%)",
+          "pct": 45.0,
+          "tone": "normal"
+        },
+        {
+          "label": "SSD 사용량",
+          "value": "345.9 / 476.0 GB (73%)",
+          "pct": 72.7,
+          "tone": "normal"
+        },
+        {
+          "label": "SSD 여유 공간",
+          "value": "130.0 / 476.0 GB",
+          "pct": 27.299999999999997,
+          "tone": "normal"
+        },
+        {
+          "label": "SSD 온도",
+          "value": "40.0 °C",
+          "pct": 40.0,
+          "tone": "normal"
+        },
+        {
+          "label": "업타임",
+          "value": "650시간 25분",
+          "pct": 100,
+          "tone": "normal"
+        },
+        {
+          "label": "네트워크 수신",
+          "value": "15281.0 MB",
+          "pct": 100,
+          "tone": "normal"
+        },
+        {
+          "label": "네트워크 송신",
+          "value": "2964.0 MB",
+          "pct": 100,
+          "tone": "normal"
+        }
+      ]
+    },
+    "openclaw": {
+      "summary": "OpenClaw 2026.6.9 (c645ec4)",
+      "take": "Runtime: running (last run 267009, last run time 06-23(화) 오전 5:54:50) | Listening: 127.0.0.1:18789",
+      "metrics": [
+        {
+          "label": "Gateway",
+          "value": "bind=loopback (127.0.0.1), port=18789 (service args)",
+          "pct": 100,
+          "tone": "normal"
+        },
+        {
+          "label": "Probe note",
+          "value": "Loopback-only gateway; only local clients can connect.",
+          "pct": 100,
+          "tone": "normal"
+        },
+        {
+          "label": "Runtime",
+          "value": "running (last run 267009, last run time 06-23(화) 오전 5:54:50)",
+          "pct": 100,
+          "tone": "good"
+        },
+        {
+          "label": "Listening",
+          "value": "127.0.0.1:18789",
+          "pct": 100,
+          "tone": "good"
+        }
+      ]
+    }
+  },
+  "cards": [
+    {
+      "title": "오늘의 한마디",
+      "summary": "오늘은 누가 밀어붙이지 않아도 됩니다. 팀장님 리듬대로 중요한 것부터 차분히 끝내면 됩니다.",
+      "take": "습도가 높아 체감이 더 무겁습니다. 물을 자주 마시며 리듬을 유지하면 좋겠습니다. 오늘은 마음을 급하게 쓰지 말고, 가장 아쉬웠던 한 가지를 먼저 정리해 보시면 좋겠습니다. 그런 작은 정리가 하루의 기분을 꽤 크게 바꿉니다.",
+      "meta": [
+        "응원",
+        "중간 길이"
+      ],
+      "entities": [],
+      "keywords": [
+        "아침",
+        "집중"
+      ],
+      "links": []
+    },
+    {
+      "title": "오늘 일정",
+      "summary": "오늘 일정 없음",
+      "take": "오늘 등록된 일정이 없습니다. 이럴 때는 중요한 정리 한두 개만 분명하게 끝내도 충분합니다.",
+      "meta": [
+        "일정",
+        "calendar"
+      ],
+      "entities": [
+        "calendar"
+      ],
+      "keywords": [
+        "calendar"
+      ],
+      "links": []
+    },
+    {
+      "title": "주요 메일 / 중요 알림",
+      "summary": "[중요인물] Google 계정 데이터 일부를 Claude에 ",
+      "take": "지금 확인할 만한 메일만 추렸습니다. 결제, 업무, 보안성 알림 위주로 먼저 보면 됩니다.",
+      "meta": [
+        "메일",
+        "gmail",
+        "중요 알림"
+      ],
+      "entities": [
+        "중요인물"
+      ],
+      "keywords": [
+        "gmail",
+        "alert"
+      ],
+      "links": []
+    },
+    {
+      "title": "유튜브 업데이트",
+      "summary": "@fahdmirza Hy3 - Tencent Says its B / @JulianGoldieSEO Fable 5 Is Gone in 24 Ho / @JulianGoldieSEO Claude AI SEO System Ran",
+      "take": "업로드 속도가 빠른 채널은 오늘도 여러 편이 들어왔습니다. 중요한 주제부터 2~3개만 골라 보면 효율이 좋습니다.",
+      "meta": [
+        "유튜브",
+        "AI 채널",
+        "중간 길이"
+      ],
+      "entities": [
+        "@fahdmirza",
+        "@JulianGoldieSEO",
+        "@JulianGoldieSEO",
+        "@JulianGoldieSEO"
+      ],
+      "keywords": [
+        "youtube",
+        "update",
+        "thumbnail"
+      ],
+      "links": [
+        {
+          "label": "@fahdmirza · 07-07 06:16",
+          "url": "https://www.youtube.com/watch?v=lR_ABiVX7_k",
+          "thumbnail": "https://i.ytimg.com/vi/lR_ABiVX7_k/hqdefault.jpg"
+        },
+        {
+          "label": "@JulianGoldieSEO · 07-07 05:00",
+          "url": "https://www.youtube.com/watch?v=qF2orJUM9GA",
+          "thumbnail": "https://i.ytimg.com/vi/qF2orJUM9GA/hqdefault.jpg"
+        },
+        {
+          "label": "@JulianGoldieSEO · 07-07 03:00",
+          "url": "https://www.youtube.com/watch?v=HLE8-Zi-v3I",
+          "thumbnail": "https://i.ytimg.com/vi/HLE8-Zi-v3I/hqdefault.jpg"
+        }
+      ]
+    },
+    {
+      "title": "시스템 상태 요약",
+      "summary": "CPU 11.9 % 사용 / 클럭 806.4 MHz / RAM 7.1GB 사용, 총 15.8GB (45%) / SSD 345.9GB 사용, 총 476.0GB (73%)",
+      "take": "CPU는 현재 11.9 % 사용 중이고 클럭은 806.4 MHz, 버스 스피드는 100.8 MHz, RAM은 총 15.8GB 중 7.1GB 사용 (45%), SSD는 총 476.0GB 중 345.9GB 사용 (73%), 여유 130.0GB입니다. 네트워크 인터페이스는 Ethernet, Ethernet 2, Wi-Fi 기준입니다.",
+      "meta": [
+        "시스템",
+        "LHM"
+      ],
+      "entities": [
+        "Intel N100",
+        "RAM",
+        "SSD"
+      ],
+      "keywords": [
+        "temperature",
+        "load",
+        "memory"
+      ],
+      "links": []
+    },
+    {
+      "title": "OpenClaw 상태 요약",
+      "summary": "OpenClaw 2026.6.9 (c645ec4)",
+      "take": "Runtime: running (last run 267009, last run time 06-23(화) 오전 5:54:50) | Listening: 127.0.0.1:18789",
+      "meta": [
+        "OpenClaw",
+        "Gateway"
+      ],
+      "entities": [
+        "main",
+        "gateway"
+      ],
+      "keywords": [
+        "version",
+        "rpc",
+        "status"
+      ],
+      "links": []
+    }
+  ],
+  "footer": "AI-assisted morning briefing, unified data structure ready for stage 2"
+}
