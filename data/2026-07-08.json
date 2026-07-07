@@ -1,0 +1,397 @@
+{
+  "date": "2026-07-08 07:00",
+  "title": "아침 브리핑",
+  "subtitle": "날씨 · 응원 · 일정 · 메일 · 유튜브 · 시스템 · OpenClaw",
+  "summary": "오늘 일정이 비어 있다면, 오히려 중요한 걸 조용히 정리할 수 있는 좋은 날입니다.",
+  "summary_box": "습도가 높아 체감이 더 무겁습니다. 물을 자주 마시며 리듬을 유지하면 좋겠습니다. 오늘은 마음을 급하게 쓰지 말고, 가장 아쉬웠던 한 가지를 먼저 정리해 보시면 좋겠습니다. 그런 작은 정리가 하루의 기분을 꽤 크게 바꿉니다.",
+  "weather": {
+    "loc": "김해",
+    "temp": "25°C",
+    "desc": "Partly cloudy",
+    "icon": "⛅",
+    "badges": [
+      "체감 29°C",
+      "습도 94%",
+      "강수확률 26%",
+      "풍속 13km/h",
+      "UV 0",
+      "미세먼지 정보 연동 예정"
+    ],
+    "detail": {
+      "feels_like": "29",
+      "humidity": "94",
+      "rain_chance": "26",
+      "wind_kmph": "13",
+      "uv": "0",
+      "pm": "미세먼지 정보 연동 예정"
+    },
+    "life_comment": "습도가 높아 체감이 더 무겁습니다. 물을 자주 마시며 리듬을 유지하면 좋겠습니다."
+  },
+  "sections": {
+    "calendar": {
+      "summary": "오늘 일정 없음",
+      "take": "오늘 등록된 일정이 없습니다. 이럴 때는 중요한 정리 한두 개만 분명하게 끝내도 충분합니다.",
+      "items": [],
+      "links": [],
+      "entities": [
+        "calendar"
+      ]
+    },
+    "mail": {
+      "summary": "[확인필요] Case#CAAAcS5atNtdAAAEAAABk / [확인필요] We received your X case ab / [중요인물] Google 계정 데이터 일부를 Claude에 ",
+      "take": "지금 확인할 만한 메일만 추렸습니다. 결제, 업무, 보안성 알림 위주로 먼저 보면 됩니다.",
+      "items": [
+        {
+          "date": "2026-07-07 13:58",
+          "from": "X <notify@x.com>",
+          "subject": "Case#CAAAcS5atNtdAAAEAAABkf___-g: Update on your X report",
+          "tags": [
+            "확인필요"
+          ]
+        },
+        {
+          "date": "2026-07-07 13:36",
+          "from": "X <notify@x.com>",
+          "subject": "We received your X case about captinkang38",
+          "tags": [
+            "확인필요"
+          ]
+        },
+        {
+          "date": "2026-07-06 17:54",
+          "from": "Google <noreply-accounts@google.com>",
+          "subject": "Google 계정 데이터 일부를 Claude에 공유하셨습니다",
+          "tags": [
+            "중요인물"
+          ]
+        }
+      ],
+      "links": [],
+      "entities": [
+        "중요인물",
+        "확인필요"
+      ]
+    },
+    "youtube": {
+      "summary": "@JulianGoldieSEO NEW Gemini 3.5 Pro LEAKS / @fahdmirza Fugu Ultra - Screenshot  / @JulianGoldieSEO This NEW Chinese AI Agen",
+      "take": "업로드 속도가 빠른 채널은 오늘도 여러 편이 들어왔습니다. 중요한 주제부터 2~3개만 골라 보면 효율이 좋습니다.",
+      "items": [
+        {
+          "channel": "@JulianGoldieSEO",
+          "title": "NEW Gemini 3.5 Pro LEAKS!",
+          "published": "07-08 06:00",
+          "published_dt": "2026-07-08T06:00:10+09:00",
+          "url": "https://www.youtube.com/watch?v=TCGX61t1eiw",
+          "thumbnail": "https://i.ytimg.com/vi/TCGX61t1eiw/hqdefault.jpg",
+          "summary": "이 영상은 모델/LLM 중심 내용입니다. 구성은 The Leak – Why this one's different, Launch Date – July 17th rumor explained, Rebuilt From Scratch – New foundation model, 2M Token Memory – Feed it 5+ novels at once 순서로 이어집니다. New Gemini 3.5 Pro leaks What if Google's biggest AI yet is leaking out before it's even here? Google didn't tweak this one, they rebuilt it from scratch",
+          "description_excerpt": "Get the Gemini Masterclass 👉 00:00 The Leak – Why this one's different 00:43 Launch Date – July 17th rumor explained 01:07 Rebuilt From Scratch – New foundation model 01:33 2M Token Memory – Feed it 5+ novels at once 02:24 Deep Think – Step-by-step reasoning mode 03:04 Why Now – Google vs Claude & GPT 03:14 Gemini 3.5 Flash – The lighter version 03:41 Secret",
+          "transcript_excerpt": "New Gemini 3.5 Pro leaks. What if Google's biggest AI yet is leaking out before it's even here? What if the model everyone's waiting for isn't what you think it is? Google didn't tweak this one, they rebuilt it from scratch. And the launch ",
+          "shorts": false
+        },
+        {
+          "channel": "@fahdmirza",
+          "title": "Fugu Ultra - Screenshot to Working Fantasy App with Hermes Agent",
+          "published": "07-08 04:40",
+          "published_dt": "2026-07-08T04:40:09+09:00",
+          "url": "https://www.youtube.com/watch?v=5axGfgIDIRE",
+          "thumbnail": "https://i.ytimg.com/vi/5axGfgIDIRE/hqdefault.jpg",
+          "summary": "이 영상은 모델/LLM, 에이전트/자동화, 튜토리얼/설정 중심 내용입니다. 구성은 This video locally tests Sakana Fugu, which is multi-agent system as a model 순서로 이어집니다. This is a live fifa.com World Cup website I have just taken a screenshot in an image of this website I'm attaching that image here",
+          "description_excerpt": "This video locally tests Sakana Fugu, which is multi-agent system as a model. 🔥 Get 50% Discount on any A6000 or A5000 GPU rental, use following link and coupon: Coupon code: FahdMirza 🔥 Buy Me a Coffee to support the channel: PLEASE FOLLOW ME: ▶ LinkedIn: / fahdmirza ▶ YouTube: / ▶ Blog: RESOURCES: ▶ All rights reserved © Fahd Mirza",
+          "transcript_excerpt": "This is a live fifa.com World Cup website. I have just taken a screenshot in an image of this website. I'm going into Hermes agent. I'm attaching that image here. And now I'm going to give it a prompt to build me an exact clone of this fant",
+          "shorts": false
+        },
+        {
+          "channel": "@JulianGoldieSEO",
+          "title": "This NEW Chinese AI Agent is INSANE!",
+          "published": "07-08 04:00",
+          "published_dt": "2026-07-08T04:00:06+09:00",
+          "url": "https://www.youtube.com/watch?v=9uKy-LbSG60",
+          "thumbnail": "https://i.ytimg.com/vi/9uKy-LbSG60/hqdefault.jpg",
+          "summary": "이 영상은 모델/LLM, 에이전트/자동화 중심 내용입니다. 구성은 New Chinese Agent – what Hy3 is + why it matters, Specs That Shock – 295B MoE, 21B active, 256K context, Try It Free – Apache 2.0, Hugging Face, 2-week OpenRouter window, It Stops Making Things Up – honesty tuning, ~half the hallucinations 순서로 이어지며, 제목만으로는 보이지 않는 변화 배경·핵심 기능·실제 활용 포인트를 짚어보는 영상입니다.",
+          "description_excerpt": "Get the Hy3 Masterclass 👉 Get the Agent OS 👉 0:00 New Chinese Agent – what Hy3 is + why it matters 0:52 Specs That Shock – 295B MoE, 21B active, 256K context 2:03 Try It Free – Apache 2.0, Hugging Face, 2-week OpenRouter window 2:44 It Stops Making Things Up – honesty tuning, ~half the hallucinations 3:44 Beats Bigger Models – 270 experts, tops GLM 5.1 5:01 ",
+          "transcript_excerpt": "This new Chinese AI agent is insane. What if the best new AI agent right now is one nobody in your feed is talking about? What if it can code, build, and think like the big name models? And what if you can try it without paying a cent? Soun",
+          "shorts": false
+        },
+        {
+          "channel": "@JulianGoldieSEO",
+          "title": "Agent OS: FREE Coding + Hermes Is INSANE!",
+          "published": "07-08 02:00",
+          "published_dt": "2026-07-08T02:00:03+09:00",
+          "url": "https://www.youtube.com/watch?v=ODdQ_KK3Th8",
+          "thumbnail": "https://i.ytimg.com/vi/ODdQ_KK3Th8/hqdefault.jpg",
+          "summary": "이 영상은 모델/LLM, 에이전트/자동화, 수익화/마케팅 중심 내용입니다. 구성은 Agent OS Updates, What Is Agent OS, Shopify to Amazon Automation, Shopify to WordPress Migration 순서로 이어집니다. So today we're going to be answering some of the latest questions on the agent operating system, how to build them, how to get the most o... We've already built in HY3 that just dropped So we built that in",
+          "description_excerpt": "Get the Agent OS 👉 00:00 Agent OS Updates 00:26 What Is Agent OS 01:21 Shopify to Amazon Automation 02:35 Shopify to WordPress Migration 03:16 Fable 5 Alternatives 04:32 Prompting Tips 05:17 Voice to Text Tools 05:41 Carousel Content Skill 06:21 Omniroot Setup Guide 07:06 HY3 vs GLM 5.2 07:47 Landing Your First Client 09:00 Hermes Astros Workflow 09:57 Goldi",
+          "transcript_excerpt": "So today we're going to be answering some of the latest questions on the agent operating system, how to build them, how to get the most out of them. We've already built in HY3 that just dropped. This is a new open source model from China, H",
+          "shorts": false
+        },
+        {
+          "channel": "@진바이브",
+          "title": "퀄컴이 시간 외 거래에서 주가 15% 오른 이유",
+          "published": "07-07 22:59",
+          "published_dt": "2026-07-07T22:59:57+09:00",
+          "url": "https://www.youtube.com/watch?v=HAMCr0CZBXc",
+          "thumbnail": "https://i.ytimg.com/vi/HAMCr0CZBXc/hqdefault.jpg",
+          "summary": "퀄컴이 시간 외 거래에서 주가 15% 오른 이유 주제를 중심으로 무엇이 새로 나왔는지, 또는 어떻게 활용하는지를 설명하는 영상입니다.",
+          "description_excerpt": "",
+          "transcript_excerpt": "",
+          "shorts": false
+        }
+      ],
+      "links": [
+        {
+          "label": "@JulianGoldieSEO · 07-08 06:00",
+          "url": "https://www.youtube.com/watch?v=TCGX61t1eiw",
+          "thumbnail": "https://i.ytimg.com/vi/TCGX61t1eiw/hqdefault.jpg"
+        },
+        {
+          "label": "@fahdmirza · 07-08 04:40",
+          "url": "https://www.youtube.com/watch?v=5axGfgIDIRE",
+          "thumbnail": "https://i.ytimg.com/vi/5axGfgIDIRE/hqdefault.jpg"
+        },
+        {
+          "label": "@JulianGoldieSEO · 07-08 04:00",
+          "url": "https://www.youtube.com/watch?v=9uKy-LbSG60",
+          "thumbnail": "https://i.ytimg.com/vi/9uKy-LbSG60/hqdefault.jpg"
+        }
+      ],
+      "entities": [
+        "@JulianGoldieSEO",
+        "@fahdmirza",
+        "@JulianGoldieSEO",
+        "@JulianGoldieSEO"
+      ]
+    },
+    "system": {
+      "summary": "CPU 19.1 % 사용 / 클럭 1814.4 MHz / RAM 7.3GB 사용, 총 15.8GB (46%) / SSD 344.7GB 사용, 총 476.0GB (72%)",
+      "take": "CPU는 현재 19.1 % 사용 중이고 클럭은 1814.4 MHz, 버스 스피드는 100.8 MHz, RAM은 총 15.8GB 중 7.3GB 사용 (46%), SSD는 총 476.0GB 중 344.7GB 사용 (72%), 여유 131.3GB입니다. 네트워크 인터페이스는 Ethernet, Ethernet 2, Wi-Fi 기준입니다.",
+      "metrics": [
+        {
+          "label": "CPU 사용률",
+          "value": "19.1 %",
+          "pct": 19.1,
+          "tone": "normal"
+        },
+        {
+          "label": "CPU 클럭",
+          "value": "1814.4 MHz",
+          "pct": 51.84,
+          "tone": "normal"
+        },
+        {
+          "label": "버스 스피드",
+          "value": "100.8 MHz",
+          "pct": 100,
+          "tone": "normal"
+        },
+        {
+          "label": "CPU 온도",
+          "value": "51.0 °C",
+          "pct": 51.0,
+          "tone": "normal"
+        },
+        {
+          "label": "RAM 사용량",
+          "value": "7.3 / 15.8 GB (46%)",
+          "pct": 46.5,
+          "tone": "normal"
+        },
+        {
+          "label": "SSD 사용량",
+          "value": "344.7 / 476.0 GB (72%)",
+          "pct": 72.4,
+          "tone": "normal"
+        },
+        {
+          "label": "SSD 여유 공간",
+          "value": "131.3 / 476.0 GB",
+          "pct": 27.599999999999994,
+          "tone": "normal"
+        },
+        {
+          "label": "SSD 온도",
+          "value": "40.0 °C",
+          "pct": 40.0,
+          "tone": "normal"
+        },
+        {
+          "label": "업타임",
+          "value": "674시간 25분",
+          "pct": 100,
+          "tone": "normal"
+        },
+        {
+          "label": "네트워크 수신",
+          "value": "15557.1 MB",
+          "pct": 100,
+          "tone": "normal"
+        },
+        {
+          "label": "네트워크 송신",
+          "value": "3014.6 MB",
+          "pct": 100,
+          "tone": "normal"
+        }
+      ]
+    },
+    "openclaw": {
+      "summary": "OpenClaw 2026.6.9 (c645ec4)",
+      "take": "Runtime: running (last run 267009, last run time 06-23(화) 오전 5:54:50) | Listening: 127.0.0.1:18789",
+      "metrics": [
+        {
+          "label": "Gateway",
+          "value": "bind=loopback (127.0.0.1), port=18789 (service args)",
+          "pct": 100,
+          "tone": "normal"
+        },
+        {
+          "label": "Probe note",
+          "value": "Loopback-only gateway; only local clients can connect.",
+          "pct": 100,
+          "tone": "normal"
+        },
+        {
+          "label": "Runtime",
+          "value": "running (last run 267009, last run time 06-23(화) 오전 5:54:50)",
+          "pct": 100,
+          "tone": "good"
+        },
+        {
+          "label": "Listening",
+          "value": "127.0.0.1:18789",
+          "pct": 100,
+          "tone": "good"
+        }
+      ]
+    }
+  },
+  "cards": [
+    {
+      "title": "오늘의 한마디",
+      "summary": "오늘 일정이 비어 있다면, 오히려 중요한 걸 조용히 정리할 수 있는 좋은 날입니다.",
+      "take": "습도가 높아 체감이 더 무겁습니다. 물을 자주 마시며 리듬을 유지하면 좋겠습니다. 오늘은 마음을 급하게 쓰지 말고, 가장 아쉬웠던 한 가지를 먼저 정리해 보시면 좋겠습니다. 그런 작은 정리가 하루의 기분을 꽤 크게 바꿉니다.",
+      "meta": [
+        "응원",
+        "중간 길이"
+      ],
+      "entities": [],
+      "keywords": [
+        "아침",
+        "집중"
+      ],
+      "links": []
+    },
+    {
+      "title": "오늘 일정",
+      "summary": "오늘 일정 없음",
+      "take": "오늘 등록된 일정이 없습니다. 이럴 때는 중요한 정리 한두 개만 분명하게 끝내도 충분합니다.",
+      "meta": [
+        "일정",
+        "calendar"
+      ],
+      "entities": [
+        "calendar"
+      ],
+      "keywords": [
+        "calendar"
+      ],
+      "links": []
+    },
+    {
+      "title": "주요 메일 / 중요 알림",
+      "summary": "[확인필요] Case#CAAAcS5atNtdAAAEAAABk / [확인필요] We received your X case ab / [중요인물] Google 계정 데이터 일부를 Claude에 ",
+      "take": "지금 확인할 만한 메일만 추렸습니다. 결제, 업무, 보안성 알림 위주로 먼저 보면 됩니다.",
+      "meta": [
+        "메일",
+        "gmail",
+        "중요 알림"
+      ],
+      "entities": [
+        "중요인물",
+        "확인필요"
+      ],
+      "keywords": [
+        "gmail",
+        "alert"
+      ],
+      "links": []
+    },
+    {
+      "title": "유튜브 업데이트",
+      "summary": "@JulianGoldieSEO NEW Gemini 3.5 Pro LEAKS / @fahdmirza Fugu Ultra - Screenshot  / @JulianGoldieSEO This NEW Chinese AI Agen",
+      "take": "업로드 속도가 빠른 채널은 오늘도 여러 편이 들어왔습니다. 중요한 주제부터 2~3개만 골라 보면 효율이 좋습니다.",
+      "meta": [
+        "유튜브",
+        "AI 채널",
+        "중간 길이"
+      ],
+      "entities": [
+        "@JulianGoldieSEO",
+        "@fahdmirza",
+        "@JulianGoldieSEO",
+        "@JulianGoldieSEO"
+      ],
+      "keywords": [
+        "youtube",
+        "update",
+        "thumbnail"
+      ],
+      "links": [
+        {
+          "label": "@JulianGoldieSEO · 07-08 06:00",
+          "url": "https://www.youtube.com/watch?v=TCGX61t1eiw",
+          "thumbnail": "https://i.ytimg.com/vi/TCGX61t1eiw/hqdefault.jpg"
+        },
+        {
+          "label": "@fahdmirza · 07-08 04:40",
+          "url": "https://www.youtube.com/watch?v=5axGfgIDIRE",
+          "thumbnail": "https://i.ytimg.com/vi/5axGfgIDIRE/hqdefault.jpg"
+        },
+        {
+          "label": "@JulianGoldieSEO · 07-08 04:00",
+          "url": "https://www.youtube.com/watch?v=9uKy-LbSG60",
+          "thumbnail": "https://i.ytimg.com/vi/9uKy-LbSG60/hqdefault.jpg"
+        }
+      ]
+    },
+    {
+      "title": "시스템 상태 요약",
+      "summary": "CPU 19.1 % 사용 / 클럭 1814.4 MHz / RAM 7.3GB 사용, 총 15.8GB (46%) / SSD 344.7GB 사용, 총 476.0GB (72%)",
+      "take": "CPU는 현재 19.1 % 사용 중이고 클럭은 1814.4 MHz, 버스 스피드는 100.8 MHz, RAM은 총 15.8GB 중 7.3GB 사용 (46%), SSD는 총 476.0GB 중 344.7GB 사용 (72%), 여유 131.3GB입니다. 네트워크 인터페이스는 Ethernet, Ethernet 2, Wi-Fi 기준입니다.",
+      "meta": [
+        "시스템",
+        "LHM"
+      ],
+      "entities": [
+        "Intel N100",
+        "RAM",
+        "SSD"
+      ],
+      "keywords": [
+        "temperature",
+        "load",
+        "memory"
+      ],
+      "links": []
+    },
+    {
+      "title": "OpenClaw 상태 요약",
+      "summary": "OpenClaw 2026.6.9 (c645ec4)",
+      "take": "Runtime: running (last run 267009, last run time 06-23(화) 오전 5:54:50) | Listening: 127.0.0.1:18789",
+      "meta": [
+        "OpenClaw",
+        "Gateway"
+      ],
+      "entities": [
+        "main",
+        "gateway"
+      ],
+      "keywords": [
+        "version",
+        "rpc",
+        "status"
+      ],
+      "links": []
+    }
+  ],
+  "footer": "AI-assisted morning briefing, unified data structure ready for stage 2"
+}
