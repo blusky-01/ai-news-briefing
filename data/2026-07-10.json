@@ -1,0 +1,382 @@
+{
+  "date": "2026-07-10 07:00",
+  "title": "아침 브리핑",
+  "subtitle": "날씨 · 응원 · 일정 · 메일 · 유튜브 · 시스템 · OpenClaw",
+  "summary": "오늘 일정이 비어 있다면, 오히려 중요한 걸 조용히 정리할 수 있는 좋은 날입니다.",
+  "summary_box": "습도가 높아 체감이 더 무겁습니다. 물을 자주 마시며 리듬을 유지하면 좋겠습니다. 오늘은 마음을 급하게 쓰지 말고, 가장 아쉬웠던 한 가지를 먼저 정리해 보시면 좋겠습니다. 그런 작은 정리가 하루의 기분을 꽤 크게 바꿉니다.",
+  "weather": {
+    "loc": "김해",
+    "temp": "24°C",
+    "desc": "Partly cloudy",
+    "icon": "⛅",
+    "badges": [
+      "체감 27°C",
+      "습도 94%",
+      "강수확률 15%",
+      "풍속 4km/h",
+      "UV 0",
+      "미세먼지 정보 연동 예정"
+    ],
+    "detail": {
+      "feels_like": "27",
+      "humidity": "94",
+      "rain_chance": "15",
+      "wind_kmph": "4",
+      "uv": "0",
+      "pm": "미세먼지 정보 연동 예정"
+    },
+    "life_comment": "습도가 높아 체감이 더 무겁습니다. 물을 자주 마시며 리듬을 유지하면 좋겠습니다."
+  },
+  "sections": {
+    "calendar": {
+      "summary": "오늘 일정 없음",
+      "take": "오늘 등록된 일정이 없습니다. 이럴 때는 중요한 정리 한두 개만 분명하게 끝내도 충분합니다.",
+      "items": [],
+      "links": [],
+      "entities": [
+        "calendar"
+      ]
+    },
+    "mail": {
+      "summary": "[업무,중요인물] Gemini Enterprise 앱으로 업무에 ",
+      "take": "지금 확인할 만한 메일만 추렸습니다. 결제, 업무, 보안성 알림 위주로 먼저 보면 됩니다.",
+      "items": [
+        {
+          "date": "2026-07-08 12:27",
+          "from": "Google Cloud <googlecloud@google.com>",
+          "subject": "Gemini Enterprise 앱으로 업무에 최고의 Google AI를 활용하세요",
+          "tags": [
+            "업무",
+            "중요인물"
+          ]
+        }
+      ],
+      "links": [],
+      "entities": [
+        "업무",
+        "중요인물"
+      ]
+    },
+    "youtube": {
+      "summary": "@JulianGoldieSEO GPT-Live Advanced Voice  / @fahdmirza Meta Is Back: First Thou / @success_wiki GPT 5.6 리밋제한 없는 퍼블릭 정식출시",
+      "take": "업로드 속도가 빠른 채널은 오늘도 여러 편이 들어왔습니다. 중요한 주제부터 2~3개만 골라 보면 효율이 좋습니다.",
+      "items": [
+        {
+          "channel": "@JulianGoldieSEO",
+          "title": "GPT-Live Advanced Voice Mode is INSANE 🤯",
+          "published": "07-10 07:00",
+          "published_dt": "2026-07-10T07:00:21+09:00",
+          "url": "https://www.youtube.com/watch?v=HBrT7-hVtDg",
+          "thumbnail": "https://i.ytimg.com/vi/HBrT7-hVtDg/hqdefault.jpg",
+          "summary": "이 영상은 모델/LLM, 수익화/마케팅 중심 내용입니다. GPT Live Advanced Voice Mode is insane What if talking to AI felt just talking to a real person? You talk, it talks, sometimes at the same time",
+          "description_excerpt": "Get the Agent OS 👉",
+          "transcript_excerpt": "GPT Live Advanced Voice Mode is insane. What if talking to AI felt just like talking to a real person? No weird pauses, no waiting your turn. You talk, it talks, sometimes at the same time. OpenAI just quietly changed how we use voice. And ",
+          "shorts": false
+        },
+        {
+          "channel": "@fahdmirza",
+          "title": "Meta Is Back: First Thoughts on Muse Spark 1.1",
+          "published": "07-10 06:49",
+          "published_dt": "2026-07-10T06:49:43+09:00",
+          "url": "https://www.youtube.com/watch?v=8jjrDXVL31w",
+          "thumbnail": "https://i.ytimg.com/vi/8jjrDXVL31w/hqdefault.jpg",
+          "summary": "이 영상은 모델/LLM, 에이전트/자동화, 수익화/마케팅 중심 내용입니다. 구성은 This video introduces Muse Spark 1.1 -- a strong agentic and coding model at a very low price, 🔥 Buy Me a Coffee to support the channel: PLEASE FOLLOW ME: ▶ LinkedIn: ▶ YouTube: ▶ Blog: RELATED VIDEOS: ▶ All rights reserved © Fahd Mirza 순서로 이어지며, 제목만으로는 보이지 않는 변화 배경·핵심 기능·실제 활용 포인트를 짚어보는 영상입니다.",
+          "description_excerpt": "This video introduces Muse Spark 1.1 -- a strong agentic and coding model at a very low price. 🔥 Buy Me a Coffee to support the channel: PLEASE FOLLOW ME: ▶ LinkedIn: ▶ YouTube: ▶ Blog: RELATED VIDEOS: ▶ All rights reserved © Fahd Mirza",
+          "transcript_excerpt": "Meta is back. And I mean that literally because this model means so much to Meta that Mark Zuckerberg himself tweeted about it. First tweet in 3 years that wasn't about his own threads app. That tells you something. Meta has released this M",
+          "shorts": false
+        },
+        {
+          "channel": "@success_wiki",
+          "title": "GPT 5.6 리밋제한 없는 퍼블릭 정식출시! 쏠 울트라 모드가 미침..ㄷㄷ",
+          "published": "07-10 05:43",
+          "published_dt": "2026-07-10T05:43:50+09:00",
+          "url": "https://www.youtube.com/watch?v=4ixImu9vaxw",
+          "thumbnail": "https://i.ytimg.com/vi/4ixImu9vaxw/hqdefault.jpg",
+          "summary": "이 영상은 모델/LLM, 개발도구 중심 내용입니다. 구성은 GPT-5.6 퍼블릭 정식 공개 — 쏠·테라·루나, 터미널벤치, 쏠 울트라가 미토스보다 4% 위, DeepSWE 72.67% — 페이블 5보다 높고 더 싸다, 24분 동안 테스트 1,027개 스스로 검증 순서로 이어집니다. GPT-5.6이 드디어 퍼블릭에 정식 공개됐습니다 쏠·테라·루나 세 모델이 전 세계 배포를 시작했고, 얼리 액세스로 먼저 써본 실사용 검증을 이 영상에 담았습니다 벤치마크, 실전 비포/애프터, 코덱스 세팅법, 가격까지 GPT-5.6 정식 출시 핵심을 정리했습니다",
+          "description_excerpt": "GPT-5.6이 드디어 퍼블릭에 정식 공개됐습니다. 쏠·테라·루나 세 모델이 전 세계 배포를 시작했고, 얼리 액세스로 먼저 써본 실사용 검증을 이 영상에 담았습니다. 터미널벤치에서 쏠 울트라가 클로드 미토스를 4% 앞섰는데 가격은 미토스보다 저렴합니다. 벤치마크, 실전 비포/애프터, 코덱스 세팅법, 가격까지 GPT-5.6 정식 출시 핵심을 정리했습니다. 🔑 핵심 인사이트 1. 터미널벤치에서 GPT-5.6 쏠 울트라가 클로드 미토스(88%)보다 4% 높은 점수를 기록했습니다. 각 모델 안에서 생각 단계를 조정할 수 있고, 클로드처럼 맥스·울트라 단계가 새로 붙었습니다 2. DeepSWE 벤치마크에서 쏠이 72.67%, 비용은 8.5달러 —",
+          "transcript_excerpt": "",
+          "shorts": false
+        },
+        {
+          "channel": "@JulianGoldieSEO",
+          "title": "This NEW Grok 4.5 Update Is SCARY Fast",
+          "published": "07-10 05:00",
+          "published_dt": "2026-07-10T05:00:01+09:00",
+          "url": "https://www.youtube.com/watch?v=qjUIzicEbnE",
+          "thumbnail": "https://i.ytimg.com/vi/qjUIzicEbnE/hqdefault.jpg",
+          "summary": "이 영상은 모델/LLM, 에이전트/자동화, 개발도구 중심 내용입니다. 구성은 Get the Grok Masterclass 👉 Get the Agent OS 👉 순서로 이어집니다. This new Grok 4.5 update is scary fast What if the fastest AI coding tool right now isn't from the company you'd guess? Most people miss this drop",
+          "description_excerpt": "Get the Grok Masterclass 👉 Get the Agent OS 👉",
+          "transcript_excerpt": "This new Grok 4.5 update is scary fast. What if the fastest AI coding tool right now isn't from the company you'd guess? What if it builds a full app from one line of text and does it in seconds, not minutes? Most people miss this drop. The",
+          "shorts": false
+        },
+        {
+          "channel": "@fahdmirza",
+          "title": "vLLM + PegaFlow: KV Cache That Survives Restarts (Hands-On)",
+          "published": "07-10 04:04",
+          "published_dt": "2026-07-10T04:04:07+09:00",
+          "url": "https://www.youtube.com/watch?v=KOO6GXKtZRs",
+          "thumbnail": "https://i.ytimg.com/vi/KOO6GXKtZRs/hqdefault.jpg",
+          "summary": "이 영상은 모델/LLM, 튜토리얼/설정 중심 내용입니다. 구성은 This video installs and tests Pegaflow which is a production-grade external KV cache service that plugs into vLLM 순서로 이어집니다. Every time VLLM restarts, your KV cache, hundreds of GBs of precomputed data, just disappears Model switch, gone VLLM and Novita AI just shipped a fix for this",
+          "description_excerpt": "This video installs and tests Pegaflow which is a production-grade external KV cache service that plugs into vLLM. 🔥 Get 50% Discount on any A6000 or A5000 GPU rental, use following link and coupon: Coupon code: FahdMirza 🔥 Buy Me a Coffee to support the channel: PLEASE FOLLOW ME: ▶ LinkedIn: / fahdmirza ▶ YouTube: / ▶ Blog: RESOURCES: ▶ All rights reserved ",
+          "transcript_excerpt": "Every time VLLM restarts, your KV cache, hundreds of GBs of precomputed data, just disappears. Model switch, gone. Crash, gone. Rebuild it from scratch. VLLM and Novita AI just shipped a fix for this. It's called PegaFlow. It's a standalone",
+          "shorts": false
+        }
+      ],
+      "links": [
+        {
+          "label": "@JulianGoldieSEO · 07-10 07:00",
+          "url": "https://www.youtube.com/watch?v=HBrT7-hVtDg",
+          "thumbnail": "https://i.ytimg.com/vi/HBrT7-hVtDg/hqdefault.jpg"
+        },
+        {
+          "label": "@fahdmirza · 07-10 06:49",
+          "url": "https://www.youtube.com/watch?v=8jjrDXVL31w",
+          "thumbnail": "https://i.ytimg.com/vi/8jjrDXVL31w/hqdefault.jpg"
+        },
+        {
+          "label": "@success_wiki · 07-10 05:43",
+          "url": "https://www.youtube.com/watch?v=4ixImu9vaxw",
+          "thumbnail": "https://i.ytimg.com/vi/4ixImu9vaxw/hqdefault.jpg"
+        }
+      ],
+      "entities": [
+        "@JulianGoldieSEO",
+        "@fahdmirza",
+        "@success_wiki",
+        "@JulianGoldieSEO"
+      ]
+    },
+    "system": {
+      "summary": "CPU 40.0 % 사용 / 클럭 2923.2 MHz / RAM 7.9GB 사용, 총 15.8GB (50%) / SSD 346.2GB 사용, 총 476.0GB (73%)",
+      "take": "CPU는 현재 40.0 % 사용 중이고 클럭은 2923.2 MHz, 버스 스피드는 100.8 MHz, RAM은 총 15.8GB 중 7.9GB 사용 (50%), SSD는 총 476.0GB 중 346.2GB 사용 (73%), 여유 129.7GB입니다. 네트워크 인터페이스는 Ethernet, Ethernet 2, Wi-Fi 기준입니다.",
+      "metrics": [
+        {
+          "label": "CPU 사용률",
+          "value": "40.0 %",
+          "pct": 40.0,
+          "tone": "normal"
+        },
+        {
+          "label": "CPU 클럭",
+          "value": "2923.2 MHz",
+          "pct": 83.52,
+          "tone": "normal"
+        },
+        {
+          "label": "버스 스피드",
+          "value": "100.8 MHz",
+          "pct": 100,
+          "tone": "normal"
+        },
+        {
+          "label": "CPU 온도",
+          "value": "67.0 °C",
+          "pct": 67.0,
+          "tone": "normal"
+        },
+        {
+          "label": "RAM 사용량",
+          "value": "7.9 / 15.8 GB (50%)",
+          "pct": 49.9,
+          "tone": "normal"
+        },
+        {
+          "label": "SSD 사용량",
+          "value": "346.2 / 476.0 GB (73%)",
+          "pct": 72.7,
+          "tone": "normal"
+        },
+        {
+          "label": "SSD 여유 공간",
+          "value": "129.7 / 476.0 GB",
+          "pct": 27.299999999999997,
+          "tone": "normal"
+        },
+        {
+          "label": "SSD 온도",
+          "value": "40.0 °C",
+          "pct": 40.0,
+          "tone": "normal"
+        },
+        {
+          "label": "업타임",
+          "value": "722시간 25분",
+          "pct": 100,
+          "tone": "normal"
+        },
+        {
+          "label": "네트워크 수신",
+          "value": "16042.9 MB",
+          "pct": 100,
+          "tone": "normal"
+        },
+        {
+          "label": "네트워크 송신",
+          "value": "3290.9 MB",
+          "pct": 100,
+          "tone": "normal"
+        }
+      ]
+    },
+    "openclaw": {
+      "summary": "OpenClaw 2026.6.9 (c645ec4)",
+      "take": "Runtime: running (last run 267009, last run time 06-23(화) 오전 5:54:50) | Listening: 127.0.0.1:18789",
+      "metrics": [
+        {
+          "label": "Gateway",
+          "value": "bind=loopback (127.0.0.1), port=18789 (service args)",
+          "pct": 100,
+          "tone": "normal"
+        },
+        {
+          "label": "Probe note",
+          "value": "Loopback-only gateway; only local clients can connect.",
+          "pct": 100,
+          "tone": "normal"
+        },
+        {
+          "label": "Runtime",
+          "value": "running (last run 267009, last run time 06-23(화) 오전 5:54:50)",
+          "pct": 100,
+          "tone": "good"
+        },
+        {
+          "label": "Listening",
+          "value": "127.0.0.1:18789",
+          "pct": 100,
+          "tone": "good"
+        }
+      ]
+    }
+  },
+  "cards": [
+    {
+      "title": "오늘의 한마디",
+      "summary": "오늘 일정이 비어 있다면, 오히려 중요한 걸 조용히 정리할 수 있는 좋은 날입니다.",
+      "take": "습도가 높아 체감이 더 무겁습니다. 물을 자주 마시며 리듬을 유지하면 좋겠습니다. 오늘은 마음을 급하게 쓰지 말고, 가장 아쉬웠던 한 가지를 먼저 정리해 보시면 좋겠습니다. 그런 작은 정리가 하루의 기분을 꽤 크게 바꿉니다.",
+      "meta": [
+        "응원",
+        "중간 길이"
+      ],
+      "entities": [],
+      "keywords": [
+        "아침",
+        "집중"
+      ],
+      "links": []
+    },
+    {
+      "title": "오늘 일정",
+      "summary": "오늘 일정 없음",
+      "take": "오늘 등록된 일정이 없습니다. 이럴 때는 중요한 정리 한두 개만 분명하게 끝내도 충분합니다.",
+      "meta": [
+        "일정",
+        "calendar"
+      ],
+      "entities": [
+        "calendar"
+      ],
+      "keywords": [
+        "calendar"
+      ],
+      "links": []
+    },
+    {
+      "title": "주요 메일 / 중요 알림",
+      "summary": "[업무,중요인물] Gemini Enterprise 앱으로 업무에 ",
+      "take": "지금 확인할 만한 메일만 추렸습니다. 결제, 업무, 보안성 알림 위주로 먼저 보면 됩니다.",
+      "meta": [
+        "메일",
+        "gmail",
+        "중요 알림"
+      ],
+      "entities": [
+        "업무",
+        "중요인물"
+      ],
+      "keywords": [
+        "gmail",
+        "alert"
+      ],
+      "links": []
+    },
+    {
+      "title": "유튜브 업데이트",
+      "summary": "@JulianGoldieSEO GPT-Live Advanced Voice  / @fahdmirza Meta Is Back: First Thou / @success_wiki GPT 5.6 리밋제한 없는 퍼블릭 정식출시",
+      "take": "업로드 속도가 빠른 채널은 오늘도 여러 편이 들어왔습니다. 중요한 주제부터 2~3개만 골라 보면 효율이 좋습니다.",
+      "meta": [
+        "유튜브",
+        "AI 채널",
+        "중간 길이"
+      ],
+      "entities": [
+        "@JulianGoldieSEO",
+        "@fahdmirza",
+        "@success_wiki",
+        "@JulianGoldieSEO"
+      ],
+      "keywords": [
+        "youtube",
+        "update",
+        "thumbnail"
+      ],
+      "links": [
+        {
+          "label": "@JulianGoldieSEO · 07-10 07:00",
+          "url": "https://www.youtube.com/watch?v=HBrT7-hVtDg",
+          "thumbnail": "https://i.ytimg.com/vi/HBrT7-hVtDg/hqdefault.jpg"
+        },
+        {
+          "label": "@fahdmirza · 07-10 06:49",
+          "url": "https://www.youtube.com/watch?v=8jjrDXVL31w",
+          "thumbnail": "https://i.ytimg.com/vi/8jjrDXVL31w/hqdefault.jpg"
+        },
+        {
+          "label": "@success_wiki · 07-10 05:43",
+          "url": "https://www.youtube.com/watch?v=4ixImu9vaxw",
+          "thumbnail": "https://i.ytimg.com/vi/4ixImu9vaxw/hqdefault.jpg"
+        }
+      ]
+    },
+    {
+      "title": "시스템 상태 요약",
+      "summary": "CPU 40.0 % 사용 / 클럭 2923.2 MHz / RAM 7.9GB 사용, 총 15.8GB (50%) / SSD 346.2GB 사용, 총 476.0GB (73%)",
+      "take": "CPU는 현재 40.0 % 사용 중이고 클럭은 2923.2 MHz, 버스 스피드는 100.8 MHz, RAM은 총 15.8GB 중 7.9GB 사용 (50%), SSD는 총 476.0GB 중 346.2GB 사용 (73%), 여유 129.7GB입니다. 네트워크 인터페이스는 Ethernet, Ethernet 2, Wi-Fi 기준입니다.",
+      "meta": [
+        "시스템",
+        "LHM"
+      ],
+      "entities": [
+        "Intel N100",
+        "RAM",
+        "SSD"
+      ],
+      "keywords": [
+        "temperature",
+        "load",
+        "memory"
+      ],
+      "links": []
+    },
+    {
+      "title": "OpenClaw 상태 요약",
+      "summary": "OpenClaw 2026.6.9 (c645ec4)",
+      "take": "Runtime: running (last run 267009, last run time 06-23(화) 오전 5:54:50) | Listening: 127.0.0.1:18789",
+      "meta": [
+        "OpenClaw",
+        "Gateway"
+      ],
+      "entities": [
+        "main",
+        "gateway"
+      ],
+      "keywords": [
+        "version",
+        "rpc",
+        "status"
+      ],
+      "links": []
+    }
+  ],
+  "footer": "AI-assisted morning briefing, unified data structure ready for stage 2"
+}
