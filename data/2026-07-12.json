@@ -1,0 +1,384 @@
+{
+  "date": "2026-07-12 07:00",
+  "title": "아침 브리핑",
+  "subtitle": "날씨 · 응원 · 일정 · 메일 · 유튜브 · 시스템 · OpenClaw",
+  "summary": "비어 있는 하루는 느슨한 하루가 아니라, 진짜 필요한 걸 선명하게 끝낼 수 있는 하루입니다.",
+  "summary_box": "날씨 데이터를 다시 점검해야 합니다. 오늘은 마음을 급하게 쓰지 말고, 가장 아쉬웠던 한 가지를 먼저 정리해 보시면 좋겠습니다. 그런 작은 정리가 하루의 기분을 꽤 크게 바꿉니다.",
+  "weather": {
+    "loc": "김해",
+    "temp": "-",
+    "desc": "날씨 조회 실패",
+    "icon": "⛅",
+    "badges": [
+      "fallback"
+    ],
+    "detail": {
+      "feels_like": "-",
+      "humidity": "-",
+      "rain_chance": "-",
+      "wind_kmph": "-",
+      "uv": "-",
+      "pm": "-"
+    },
+    "life_comment": "날씨 데이터를 다시 점검해야 합니다."
+  },
+  "sections": {
+    "calendar": {
+      "summary": "오늘 일정 없음",
+      "take": "오늘 등록된 일정이 없습니다. 이럴 때는 중요한 정리 한두 개만 분명하게 끝내도 충분합니다.",
+      "items": [],
+      "links": [],
+      "entities": [
+        "calendar"
+      ]
+    },
+    "mail": {
+      "summary": "[중요인물] Google Play 서비스 약관 업데이트 / [확인필요] All Aboard Open Models - O",
+      "take": "지금 확인할 만한 메일만 추렸습니다. 결제, 업무, 보안성 알림 위주로 먼저 보면 됩니다.",
+      "items": [
+        {
+          "date": "2026-07-10 22:21",
+          "from": "Google Play <googleplay-noreply@google.com>",
+          "subject": "Google Play 서비스 약관 업데이트",
+          "tags": [
+            "중요인물"
+          ]
+        },
+        {
+          "date": "2026-07-10 08:47",
+          "from": "Ollama <hello@ollama.com>",
+          "subject": "All Aboard Open Models - Ollama Raises $65M to Accelerate Open Models",
+          "tags": [
+            "확인필요"
+          ]
+        }
+      ],
+      "links": [],
+      "entities": [
+        "확인필요",
+        "중요인물"
+      ]
+    },
+    "youtube": {
+      "summary": "@JulianGoldieSEO New ChatGPT Work is INSA / @success_wiki 페이블 + 제미나이 옴니 = 모션 그래픽 궁 / @JulianGoldieSEO Hermes Agent OS Just Got",
+      "take": "업로드 속도가 빠른 채널은 오늘도 여러 편이 들어왔습니다. 중요한 주제부터 2~3개만 골라 보면 효율이 좋습니다.",
+      "items": [
+        {
+          "channel": "@JulianGoldieSEO",
+          "title": "New ChatGPT Work is INSANE!",
+          "published": "07-12 07:00",
+          "published_dt": "2026-07-12T07:00:34+09:00",
+          "url": "https://www.youtube.com/watch?v=r_1BgJSMR_s",
+          "thumbnail": "https://i.ytimg.com/vi/r_1BgJSMR_s/hqdefault.jpg",
+          "summary": "이 영상은 모델/LLM, 에이전트/자동화, 수익화/마케팅 중심 내용입니다. 구성은 Intro: ChatGPT Work is Insane, The Shift to AI Agents, Soul, Terror, and Luna Models, Connecting to Your Office Apps 순서로 이어지며, 제목만으로는 보이지 않는 변화 배경·핵심 기능·실제 활용 포인트를 짚어보는 영상입니다.",
+          "description_excerpt": "Get the ChatGPT Work Masterclass 👉 00:00 - Intro: ChatGPT Work is Insane 00:43 - The Shift to AI Agents 01:12 - Soul, Terror, and Luna Models 02:01 - Connecting to Your Office Apps 03:35 - The New Codex Engine Explained 04:15 - Scheduled Tasks & Automation 04:47 - Ultra Mode: Multi-Agent Support 05:28 - Release Dates & Plan Access",
+          "transcript_excerpt": "New Chat GPT work is insane, and I mean that in the most literal way. OpenAI I just took Chat GPT, the coding tool called Codex, and a brand new model called GPT 5.6, and mashed them into one thing. It's called Chat GPT work. It doesn't jus",
+          "shorts": false
+        },
+        {
+          "channel": "@success_wiki",
+          "title": "페이블 + 제미나이 옴니 = 모션 그래픽 궁극조합 에프터이펙트 필요없네요..ㄷㄷ",
+          "published": "07-12 05:36",
+          "published_dt": "2026-07-12T05:36:59+09:00",
+          "url": "https://www.youtube.com/watch?v=6IEFLhRyQKQ",
+          "thumbnail": "https://i.ytimg.com/vi/6IEFLhRyQKQ/hqdefault.jpg",
+          "summary": "이 영상은 모델/LLM, 에이전트/자동화, 튜토리얼/설정 중심 내용입니다. 구성은 이 콜라주 영상, 나레이션까지 통째로 나옵니다, 세팅 시작 — 스킬 설치 (클로드 코드·코덱스), 힉스필드 MCP·CLI 연결, 스타일 시트 한 장 만들기 (종이 질감은 나노 바나나) 순서로 이어지며, 제목만으로는 보이지 않는 변화 배경·핵심 기능·실제 활용 포인트를 짚어보는 영상입니다.",
+          "description_excerpt": "🔥 요즘 피드 점령한 종이 콜라주 모션 그래픽, AI 영상계의 GPT라는 힉스필드에서 뽑으면 됩니다: 프롬프트 한 줄 직접 안 쓰고 종이 콜라주 다큐를 만드는 워크플로우를 전부 공개합니다. 클로드 코드에 스킬 하나 설치하고 힉스필드를 MCP·CLI로 연결하면, 스타일 시트 한 장을 기준으로 나레이션까지 구워진 10초 영상이 시리즈로 나옵니다. 이미지는 Nano Banana 2 Lite(text to image AI), 영상은 Higgsfield Gemini Omni Flash(text to video AI)가 맡는 AI video generation 파이프라인입니다. 🔑 핵심 인사이트 ✅ 비법은 기준 이미지 한 장 — 스타일 시트를 먼저",
+          "transcript_excerpt": "",
+          "shorts": false
+        },
+        {
+          "channel": "@JulianGoldieSEO",
+          "title": "Hermes Agent OS Just Got WAY More Powerful",
+          "published": "07-12 05:00",
+          "published_dt": "2026-07-12T05:00:14+09:00",
+          "url": "https://www.youtube.com/watch?v=5fATl0YqXbU",
+          "thumbnail": "https://i.ytimg.com/vi/5fATl0YqXbU/hqdefault.jpg",
+          "summary": "이 영상은 모델/LLM, 에이전트/자동화, 튜토리얼/설정 중심 내용입니다. 구성은 Intro – Why the model was never your problem, New Models – Grok 4.5 vs GPT 5.6, and why chasing them fails, Agent OS – Hermes + Obsidian + dashboard explained, Real Use Case – Full content series from one prompt 순서로 이어지며, 제목만으로는 보이지 않는 변화 배경·핵심 기능·실제 활용 포인트를 짚어보는 영상입니다.",
+          "description_excerpt": "Get the Agent OS 👉 00:00 Intro – Why the model was never your problem 00:40 New Models – Grok 4.5 vs GPT 5.6, and why chasing them fails 01:21 Agent OS – Hermes + Obsidian + dashboard explained 01:49 Real Use Case – Full content series from one prompt 03:11 Hosting – Local vs server (don't overbuild) 03:45 One Vault Rule – Why multiple vaults kill your agent",
+          "transcript_excerpt": "Hermes Agent OS just got way more powerful. What if the reason your AI agents feel dumb has nothing to do with the model? Everyone's chasing the new releases, Grok 4.5, GPT 5.6, [music] and they're still getting the same weak results. Here'",
+          "shorts": false
+        },
+        {
+          "channel": "@fahdmirza",
+          "title": "Local Embedding Server with 150 AI Models | Superlinked SIE",
+          "published": "07-12 04:20",
+          "published_dt": "2026-07-12T04:20:35+09:00",
+          "url": "https://www.youtube.com/watch?v=wavL-C6C994",
+          "thumbnail": "https://i.ytimg.com/vi/wavL-C6C994/hqdefault.jpg",
+          "summary": "이 영상은 모델/LLM, 튜토리얼/설정 중심 내용입니다. 구성은 This video locally installs and tests SIE, which is an open-source inference engine that serves embeddings, reranking, and entity extraction 순서로 이어지며, 제목만으로는 보이지 않는 변화 배경·핵심 기능·실제 활용 포인트를 짚어보는 영상입니다.",
+          "description_excerpt": "This video locally installs and tests SIE, which is an open-source inference engine that serves embeddings, reranking, and entity extraction. 🔥 Get 50% Discount on any A6000 or A5000 GPU rental, use following link and coupon: Coupon code: FahdMirza 🔥 Buy Me a Coffee to support the channel: PLEASE FOLLOW ME: ▶ LinkedIn: / fahdmirza ▶ YouTube: / ▶ Blog: RESOUR",
+          "transcript_excerpt": "Another day, another AI tool. In fact, I'm spoiled for choice when it comes to content. But the thing is, there is so much clutter out there. It seems everyone is wife coding one thing or another and shipping it to GitHub for me to cover. B",
+          "shorts": false
+        },
+        {
+          "channel": "@JulianGoldieSEO",
+          "title": "Gemma 4 Now Runs Offline In Apps 🤯",
+          "published": "07-12 03:00",
+          "published_dt": "2026-07-12T03:00:08+09:00",
+          "url": "https://www.youtube.com/watch?v=SDOrkxvRlko",
+          "thumbnail": "https://i.ytimg.com/vi/SDOrkxvRlko/hqdefault.jpg",
+          "summary": "이 영상은 모델/LLM 중심 내용입니다. 구성은 Intro – Gemma 4 runs AI offline on your phone, no internet needed, What Is Gemma 4 – Google DeepMind's newest open, downloadable model, Key Features – Reasoning modes, multimodal input, 256K context, coding & agents, Memory Requirements – Run a capable model in under 1GB with quantization 순서로 이어지며, 제목만으로는 보이지 않는 변화 배경·핵심 기능·실제 활용 포인트를 짚어보는 영상입니다.",
+          "description_excerpt": "Get the Gemma 4 Masterclass 👉 00:00 Intro – Gemma 4 runs AI offline on your phone, no internet needed 00:27 What Is Gemma 4 – Google DeepMind's newest open, downloadable model 01:31 Key Features – Reasoning modes, multimodal input, 256K context, coding & agents 02:27 Memory Requirements – Run a capable model in under 1GB with quantization 03:40 AI Profit Boa",
+          "transcript_excerpt": "Gemma 4 now runs offline in apps. What if the AI in your app didn't need the internet at all? No servers, no API keys, no waiting. The model runs right on the phone. And most people building apps have no idea this is even possible yet. Soun",
+          "shorts": false
+        }
+      ],
+      "links": [
+        {
+          "label": "@JulianGoldieSEO · 07-12 07:00",
+          "url": "https://www.youtube.com/watch?v=r_1BgJSMR_s",
+          "thumbnail": "https://i.ytimg.com/vi/r_1BgJSMR_s/hqdefault.jpg"
+        },
+        {
+          "label": "@success_wiki · 07-12 05:36",
+          "url": "https://www.youtube.com/watch?v=6IEFLhRyQKQ",
+          "thumbnail": "https://i.ytimg.com/vi/6IEFLhRyQKQ/hqdefault.jpg"
+        },
+        {
+          "label": "@JulianGoldieSEO · 07-12 05:00",
+          "url": "https://www.youtube.com/watch?v=5fATl0YqXbU",
+          "thumbnail": "https://i.ytimg.com/vi/5fATl0YqXbU/hqdefault.jpg"
+        }
+      ],
+      "entities": [
+        "@JulianGoldieSEO",
+        "@success_wiki",
+        "@JulianGoldieSEO",
+        "@fahdmirza"
+      ]
+    },
+    "system": {
+      "summary": "CPU 100.0 % 사용 / 클럭 2923.2 MHz / RAM 10.5GB 사용, 총 15.8GB (67%) / SSD 340.6GB 사용, 총 476.0GB (72%)",
+      "take": "CPU는 현재 100.0 % 사용 중이고 클럭은 2923.2 MHz, 버스 스피드는 100.8 MHz, RAM은 총 15.8GB 중 10.5GB 사용 (67%), SSD는 총 476.0GB 중 340.6GB 사용 (72%), 여유 135.4GB입니다. 네트워크 인터페이스는 Ethernet, Ethernet 2, Wi-Fi 기준입니다.",
+      "metrics": [
+        {
+          "label": "CPU 사용률",
+          "value": "100.0 %",
+          "pct": 100.0,
+          "tone": "normal"
+        },
+        {
+          "label": "CPU 클럭",
+          "value": "2923.2 MHz",
+          "pct": 83.52,
+          "tone": "normal"
+        },
+        {
+          "label": "버스 스피드",
+          "value": "100.8 MHz",
+          "pct": 100,
+          "tone": "normal"
+        },
+        {
+          "label": "CPU 온도",
+          "value": "67.0 °C",
+          "pct": 67.0,
+          "tone": "normal"
+        },
+        {
+          "label": "RAM 사용량",
+          "value": "10.5 / 15.8 GB (67%)",
+          "pct": 66.7,
+          "tone": "normal"
+        },
+        {
+          "label": "SSD 사용량",
+          "value": "340.6 / 476.0 GB (72%)",
+          "pct": 71.6,
+          "tone": "normal"
+        },
+        {
+          "label": "SSD 여유 공간",
+          "value": "135.4 / 476.0 GB",
+          "pct": 28.400000000000006,
+          "tone": "normal"
+        },
+        {
+          "label": "SSD 온도",
+          "value": "40.0 °C",
+          "pct": 40.0,
+          "tone": "normal"
+        },
+        {
+          "label": "업타임",
+          "value": "40시간 15분",
+          "pct": 100,
+          "tone": "normal"
+        },
+        {
+          "label": "네트워크 수신",
+          "value": "1148.5 MB",
+          "pct": 100,
+          "tone": "normal"
+        },
+        {
+          "label": "네트워크 송신",
+          "value": "111.7 MB",
+          "pct": 100,
+          "tone": "normal"
+        }
+      ]
+    },
+    "openclaw": {
+      "summary": "OpenClaw 2026.6.9 (c645ec4)",
+      "take": "Runtime: running (last run 267009, last run time 07-10(금) 오후 2:45:23) | Listening: 127.0.0.1:18789",
+      "metrics": [
+        {
+          "label": "Gateway",
+          "value": "bind=loopback (127.0.0.1), port=18789 (service args)",
+          "pct": 100,
+          "tone": "normal"
+        },
+        {
+          "label": "Probe note",
+          "value": "Loopback-only gateway; only local clients can connect.",
+          "pct": 100,
+          "tone": "normal"
+        },
+        {
+          "label": "Runtime",
+          "value": "running (last run 267009, last run time 07-10(금) 오후 2:45:23)",
+          "pct": 100,
+          "tone": "good"
+        },
+        {
+          "label": "Listening",
+          "value": "127.0.0.1:18789",
+          "pct": 100,
+          "tone": "good"
+        }
+      ]
+    }
+  },
+  "cards": [
+    {
+      "title": "오늘의 한마디",
+      "summary": "비어 있는 하루는 느슨한 하루가 아니라, 진짜 필요한 걸 선명하게 끝낼 수 있는 하루입니다.",
+      "take": "날씨 데이터를 다시 점검해야 합니다. 오늘은 마음을 급하게 쓰지 말고, 가장 아쉬웠던 한 가지를 먼저 정리해 보시면 좋겠습니다. 그런 작은 정리가 하루의 기분을 꽤 크게 바꿉니다.",
+      "meta": [
+        "응원",
+        "중간 길이"
+      ],
+      "entities": [],
+      "keywords": [
+        "아침",
+        "집중"
+      ],
+      "links": []
+    },
+    {
+      "title": "오늘 일정",
+      "summary": "오늘 일정 없음",
+      "take": "오늘 등록된 일정이 없습니다. 이럴 때는 중요한 정리 한두 개만 분명하게 끝내도 충분합니다.",
+      "meta": [
+        "일정",
+        "calendar"
+      ],
+      "entities": [
+        "calendar"
+      ],
+      "keywords": [
+        "calendar"
+      ],
+      "links": []
+    },
+    {
+      "title": "주요 메일 / 중요 알림",
+      "summary": "[중요인물] Google Play 서비스 약관 업데이트 / [확인필요] All Aboard Open Models - O",
+      "take": "지금 확인할 만한 메일만 추렸습니다. 결제, 업무, 보안성 알림 위주로 먼저 보면 됩니다.",
+      "meta": [
+        "메일",
+        "gmail",
+        "중요 알림"
+      ],
+      "entities": [
+        "확인필요",
+        "중요인물"
+      ],
+      "keywords": [
+        "gmail",
+        "alert"
+      ],
+      "links": []
+    },
+    {
+      "title": "유튜브 업데이트",
+      "summary": "@JulianGoldieSEO New ChatGPT Work is INSA / @success_wiki 페이블 + 제미나이 옴니 = 모션 그래픽 궁 / @JulianGoldieSEO Hermes Agent OS Just Got",
+      "take": "업로드 속도가 빠른 채널은 오늘도 여러 편이 들어왔습니다. 중요한 주제부터 2~3개만 골라 보면 효율이 좋습니다.",
+      "meta": [
+        "유튜브",
+        "AI 채널",
+        "중간 길이"
+      ],
+      "entities": [
+        "@JulianGoldieSEO",
+        "@success_wiki",
+        "@JulianGoldieSEO",
+        "@fahdmirza"
+      ],
+      "keywords": [
+        "youtube",
+        "update",
+        "thumbnail"
+      ],
+      "links": [
+        {
+          "label": "@JulianGoldieSEO · 07-12 07:00",
+          "url": "https://www.youtube.com/watch?v=r_1BgJSMR_s",
+          "thumbnail": "https://i.ytimg.com/vi/r_1BgJSMR_s/hqdefault.jpg"
+        },
+        {
+          "label": "@success_wiki · 07-12 05:36",
+          "url": "https://www.youtube.com/watch?v=6IEFLhRyQKQ",
+          "thumbnail": "https://i.ytimg.com/vi/6IEFLhRyQKQ/hqdefault.jpg"
+        },
+        {
+          "label": "@JulianGoldieSEO · 07-12 05:00",
+          "url": "https://www.youtube.com/watch?v=5fATl0YqXbU",
+          "thumbnail": "https://i.ytimg.com/vi/5fATl0YqXbU/hqdefault.jpg"
+        }
+      ]
+    },
+    {
+      "title": "시스템 상태 요약",
+      "summary": "CPU 100.0 % 사용 / 클럭 2923.2 MHz / RAM 10.5GB 사용, 총 15.8GB (67%) / SSD 340.6GB 사용, 총 476.0GB (72%)",
+      "take": "CPU는 현재 100.0 % 사용 중이고 클럭은 2923.2 MHz, 버스 스피드는 100.8 MHz, RAM은 총 15.8GB 중 10.5GB 사용 (67%), SSD는 총 476.0GB 중 340.6GB 사용 (72%), 여유 135.4GB입니다. 네트워크 인터페이스는 Ethernet, Ethernet 2, Wi-Fi 기준입니다.",
+      "meta": [
+        "시스템",
+        "LHM"
+      ],
+      "entities": [
+        "Intel N100",
+        "RAM",
+        "SSD"
+      ],
+      "keywords": [
+        "temperature",
+        "load",
+        "memory"
+      ],
+      "links": []
+    },
+    {
+      "title": "OpenClaw 상태 요약",
+      "summary": "OpenClaw 2026.6.9 (c645ec4)",
+      "take": "Runtime: running (last run 267009, last run time 07-10(금) 오후 2:45:23) | Listening: 127.0.0.1:18789",
+      "meta": [
+        "OpenClaw",
+        "Gateway"
+      ],
+      "entities": [
+        "main",
+        "gateway"
+      ],
+      "keywords": [
+        "version",
+        "rpc",
+        "status"
+      ],
+      "links": []
+    }
+  ],
+  "footer": "AI-assisted morning briefing, unified data structure ready for stage 2"
+}
