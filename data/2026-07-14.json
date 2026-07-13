@@ -1,0 +1,379 @@
+{
+  "date": "2026-07-14 07:00",
+  "title": "아침 브리핑",
+  "subtitle": "날씨 · 응원 · 일정 · 메일 · 유튜브 · 시스템 · OpenClaw",
+  "summary": "오늘은 누가 밀어붙이지 않아도 됩니다. 팀장님 리듬대로 중요한 것부터 차분히 끝내면 됩니다.",
+  "summary_box": "습도가 높아 체감이 더 무겁습니다. 물을 자주 마시며 리듬을 유지하면 좋겠습니다. 오늘은 마음을 급하게 쓰지 말고, 가장 아쉬웠던 한 가지를 먼저 정리해 보시면 좋겠습니다. 그런 작은 정리가 하루의 기분을 꽤 크게 바꿉니다.",
+  "weather": {
+    "loc": "김해",
+    "temp": "26°C",
+    "desc": "Partly cloudy",
+    "icon": "⛅",
+    "badges": [
+      "체감 31°C",
+      "습도 94%",
+      "강수확률 17%",
+      "풍속 9km/h",
+      "UV 0",
+      "미세먼지 정보 연동 예정"
+    ],
+    "detail": {
+      "feels_like": "31",
+      "humidity": "94",
+      "rain_chance": "17",
+      "wind_kmph": "9",
+      "uv": "0",
+      "pm": "미세먼지 정보 연동 예정"
+    },
+    "life_comment": "습도가 높아 체감이 더 무겁습니다. 물을 자주 마시며 리듬을 유지하면 좋겠습니다."
+  },
+  "sections": {
+    "calendar": {
+      "summary": "오늘 일정 없음",
+      "take": "오늘 등록된 일정이 없습니다. 이럴 때는 중요한 정리 한두 개만 분명하게 끝내도 충분합니다.",
+      "items": [],
+      "links": [],
+      "entities": [
+        "calendar"
+      ]
+    },
+    "mail": {
+      "summary": "[중요인물] Google 계정 데이터 일부를 VideoMas",
+      "take": "지금 확인할 만한 메일만 추렸습니다. 결제, 업무, 보안성 알림 위주로 먼저 보면 됩니다.",
+      "items": [
+        {
+          "date": "2026-07-12 11:01",
+          "from": "Google <noreply-accounts@google.com>",
+          "subject": "Google 계정 데이터 일부를 VideoMasker에 공유하셨습니다",
+          "tags": [
+            "중요인물"
+          ]
+        }
+      ],
+      "links": [],
+      "entities": [
+        "중요인물"
+      ]
+    },
+    "youtube": {
+      "summary": "@JulianGoldieSEO Fable 5 vs Grok 4.5 vs G / @fahdmirza OpenLumara + Ollama: Loc / @JulianGoldieSEO Agent OS: LinkedIn, Comp",
+      "take": "업로드 속도가 빠른 채널은 오늘도 여러 편이 들어왔습니다. 중요한 주제부터 2~3개만 골라 보면 효율이 좋습니다.",
+      "items": [
+        {
+          "channel": "@JulianGoldieSEO",
+          "title": "Fable 5 vs Grok 4.5 vs GPT 5.6: Who Wins?",
+          "published": "07-14 06:00",
+          "published_dt": "2026-07-14T06:00:34+09:00",
+          "url": "https://www.youtube.com/watch?v=8hWvcS4jS7E",
+          "thumbnail": "https://i.ytimg.com/vi/8hWvcS4jS7E/hqdefault.jpg",
+          "summary": "이 영상은 모델/LLM, 에이전트/자동화, 개발도구 중심 내용입니다. Fable 5 versus Grok 4.5 versus GPT 5.6 Three of the best AI models on the planet dropped in the same few weeks I gave all three the exact same prompt at the exact same time on one screen, and one of them lost a race it should have won",
+          "description_excerpt": "Get the Agent OS 👉",
+          "transcript_excerpt": "Fable 5 versus Grok 4.5 versus GPT 5.6. Who wins? Three of the best AI models on the planet dropped in the same few weeks. So, why is almost nobody testing them side by side? I gave all three the exact same prompt at the exact same time on ",
+          "shorts": false
+        },
+        {
+          "channel": "@fahdmirza",
+          "title": "OpenLumara + Ollama: Local Agent Trying to Beat OpenClaw and Hermes",
+          "published": "07-14 05:50",
+          "published_dt": "2026-07-14T05:50:55+09:00",
+          "url": "https://www.youtube.com/watch?v=gVKkyNznmxw",
+          "thumbnail": "https://i.ytimg.com/vi/gVKkyNznmxw/hqdefault.jpg",
+          "summary": "이 영상은 모델/LLM, 에이전트/자동화, 튜토리얼/설정 중심 내용입니다. 구성은 This video locally installs and tests OpenLumara which is a modular, token-efficient AI agent framework written from scratch 순서로 이어지며, 제목만으로는 보이지 않는 변화 배경·핵심 기능·실제 활용 포인트를 짚어보는 영상입니다.",
+          "description_excerpt": "This video locally installs and tests OpenLumara which is a modular, token-efficient AI agent framework written from scratch. 🔥 Get 50% Discount on any A6000 or A5000 GPU rental, use following link and coupon: Coupon code: FahdMirza 🔥 Buy Me a Coffee to support the channel: PLEASE FOLLOW ME: ▶ LinkedIn: ▶ YouTube: ▶ Blog: RESOURCES: ▶ All rights reserved © F",
+          "transcript_excerpt": "This video covers open lumara or as its developer puts it a different kind of AI agent that isn't wipe coded. This is from scratch Python framework built for local models where open claw and Hermes block context and demandful shell access. ",
+          "shorts": false
+        },
+        {
+          "channel": "@JulianGoldieSEO",
+          "title": "Agent OS: LinkedIn, Compsio + NotebookLM",
+          "published": "07-14 05:00",
+          "published_dt": "2026-07-14T05:00:00+09:00",
+          "url": "https://www.youtube.com/watch?v=_2sl1FtMzjU",
+          "thumbnail": "https://i.ytimg.com/vi/_2sl1FtMzjU/hqdefault.jpg",
+          "summary": "이 영상은 모델/LLM, 에이전트/자동화, 수익화/마케팅 중심 내용입니다. 구성은 Agent OS Overview, Recruiter LinkedIn Automation, Fable 5 Extension News, Agent OS Showcase 순서로 이어지며, 제목만으로는 보이지 않는 변화 배경·핵심 기능·실제 활용 포인트를 짚어보는 영상입니다.",
+          "description_excerpt": "Get the Agent OS 👉 00:00 Agent OS Overview 00:57 Recruiter LinkedIn Automation 02:09 Fable 5 Extension News 03:11 Agent OS Showcase 04:15 Testimonials And Motivation 04:47 Higgsfield Explained 05:30 Choosing Models For Courses 06:32 The Wrap Up",
+          "transcript_excerpt": "Today, we're going to be answering some of the latest questions on our agent operating system, how to use it, etc. And this is a powerful system where we can combine all our favorite tools, all our most powerful workflows, and build and aut",
+          "shorts": false
+        },
+        {
+          "channel": "@JulianGoldieSEO",
+          "title": "GPT 5 6 + Claude Code is INSANE!",
+          "published": "07-14 04:00",
+          "published_dt": "2026-07-14T04:00:11+09:00",
+          "url": "https://www.youtube.com/watch?v=c9W27MYdSSA",
+          "thumbnail": "https://i.ytimg.com/vi/c9W27MYdSSA/hqdefault.jpg",
+          "summary": "이 영상은 모델/LLM, 에이전트/자동화, 수익화/마케팅 중심 내용입니다. 구성은 Dual Engine Coder Intro, Live Build Demo, Tool Juggling Problem, Workspace Previews 순서로 이어지며, 제목만으로는 보이지 않는 변화 배경·핵심 기능·실제 활용 포인트를 짚어보는 영상입니다.",
+          "description_excerpt": "Get the Agent OS 👉 00:00 Dual Engine Coder Intro 01:20 Live Build Demo 01:39 Tool Juggling Problem 02:36 Workspace Previews 03:28 One Tab Agent OS 04:29 Features Breakdown 04:59 Old Way vs New Way 06:09 Why Use Multiple Models 06:50 OAuth Setup No Keys 07:25 Plug Any Model In 07:54 Get The Full System 08:16 Token And Preview FAQs 09:39 Boardroom Walkthrough ",
+          "transcript_excerpt": "Today, I'm going to show you a powerful system where you can plug in GPT 5.6 into Claude code to get the best agent harness, which is Claude code, and then you can plug in the brain, which is GPT 5.6. And the beautiful thing about that as w",
+          "shorts": false
+        },
+        {
+          "channel": "@진바이브",
+          "title": "바이브코딩 앱 그렇게 출시했다간 큰일납니다",
+          "published": "07-13 23:24",
+          "published_dt": "2026-07-13T23:24:40+09:00",
+          "url": "https://www.youtube.com/watch?v=qzF45r98pR4",
+          "thumbnail": "https://i.ytimg.com/vi/qzF45r98pR4/hqdefault.jpg",
+          "summary": "이 영상은 개발도구, 수익화/마케팅 중심 내용입니다. 구성은 앱 출시 전, 꼭 확인해야 할 것들을 알려드립니다, 바이브코딩 수익화 교육 쿠폰(할인 -26%, 기한 있음) 무료 자료집 스터디 관련 공지단톡 실사용 소스코드 솔루션 순서로 이어집니다. 앱 출시 전, 꼭 확인해야 할 것들을 알려드립니다 바이브코딩 수익화 교육 쿠폰(할인 -26%, 기한 있음) 무료 자료집 스터디 관련 공지단톡 실사용 소스코드 솔루션",
+          "description_excerpt": "앱 출시 전, 꼭 확인해야 할 것들을 알려드립니다. 바이브코딩 수익화 교육 쿠폰(할인 -26%, 기한 있음) 무료 자료집 스터디 관련 공지단톡 실사용 소스코드 솔루션",
+          "transcript_excerpt": "",
+          "shorts": false
+        }
+      ],
+      "links": [
+        {
+          "label": "@JulianGoldieSEO · 07-14 06:00",
+          "url": "https://www.youtube.com/watch?v=8hWvcS4jS7E",
+          "thumbnail": "https://i.ytimg.com/vi/8hWvcS4jS7E/hqdefault.jpg"
+        },
+        {
+          "label": "@fahdmirza · 07-14 05:50",
+          "url": "https://www.youtube.com/watch?v=gVKkyNznmxw",
+          "thumbnail": "https://i.ytimg.com/vi/gVKkyNznmxw/hqdefault.jpg"
+        },
+        {
+          "label": "@JulianGoldieSEO · 07-14 05:00",
+          "url": "https://www.youtube.com/watch?v=_2sl1FtMzjU",
+          "thumbnail": "https://i.ytimg.com/vi/_2sl1FtMzjU/hqdefault.jpg"
+        }
+      ],
+      "entities": [
+        "@JulianGoldieSEO",
+        "@fahdmirza",
+        "@JulianGoldieSEO",
+        "@JulianGoldieSEO"
+      ]
+    },
+    "system": {
+      "summary": "CPU 37.5 % 사용 / 클럭 1108.8 MHz / RAM 11.5GB 사용, 총 15.8GB (73%) / SSD 341.9GB 사용, 총 476.0GB (72%)",
+      "take": "CPU는 현재 37.5 % 사용 중이고 클럭은 1108.8 MHz, 버스 스피드는 100.8 MHz, RAM은 총 15.8GB 중 11.5GB 사용 (73%), SSD는 총 476.0GB 중 341.9GB 사용 (72%), 여유 134.1GB입니다. 네트워크 인터페이스는 Ethernet, Ethernet 2, Wi-Fi 기준입니다.",
+      "metrics": [
+        {
+          "label": "CPU 사용률",
+          "value": "37.5 %",
+          "pct": 37.5,
+          "tone": "normal"
+        },
+        {
+          "label": "CPU 클럭",
+          "value": "1108.8 MHz",
+          "pct": 31.68,
+          "tone": "normal"
+        },
+        {
+          "label": "버스 스피드",
+          "value": "100.8 MHz",
+          "pct": 100,
+          "tone": "normal"
+        },
+        {
+          "label": "CPU 온도",
+          "value": "56.0 °C",
+          "pct": 56.0,
+          "tone": "normal"
+        },
+        {
+          "label": "RAM 사용량",
+          "value": "11.5 / 15.8 GB (73%)",
+          "pct": 72.6,
+          "tone": "normal"
+        },
+        {
+          "label": "SSD 사용량",
+          "value": "341.9 / 476.0 GB (72%)",
+          "pct": 71.8,
+          "tone": "normal"
+        },
+        {
+          "label": "SSD 여유 공간",
+          "value": "134.1 / 476.0 GB",
+          "pct": 28.200000000000003,
+          "tone": "normal"
+        },
+        {
+          "label": "SSD 온도",
+          "value": "40.0 °C",
+          "pct": 40.0,
+          "tone": "normal"
+        },
+        {
+          "label": "업타임",
+          "value": "88시간 16분",
+          "pct": 100,
+          "tone": "normal"
+        },
+        {
+          "label": "네트워크 수신",
+          "value": "2166.2 MB",
+          "pct": 100,
+          "tone": "normal"
+        },
+        {
+          "label": "네트워크 송신",
+          "value": "244.5 MB",
+          "pct": 100,
+          "tone": "normal"
+        }
+      ]
+    },
+    "openclaw": {
+      "summary": "OpenClaw 2026.6.9 (c645ec4)",
+      "take": "Runtime: running (last run 267009, last run time 07-10(금) 오후 2:45:23) | Listening: 127.0.0.1:18789",
+      "metrics": [
+        {
+          "label": "Gateway",
+          "value": "bind=loopback (127.0.0.1), port=18789 (service args)",
+          "pct": 100,
+          "tone": "normal"
+        },
+        {
+          "label": "Probe note",
+          "value": "Loopback-only gateway; only local clients can connect.",
+          "pct": 100,
+          "tone": "normal"
+        },
+        {
+          "label": "Runtime",
+          "value": "running (last run 267009, last run time 07-10(금) 오후 2:45:23)",
+          "pct": 100,
+          "tone": "good"
+        },
+        {
+          "label": "Listening",
+          "value": "127.0.0.1:18789",
+          "pct": 100,
+          "tone": "good"
+        }
+      ]
+    }
+  },
+  "cards": [
+    {
+      "title": "오늘의 한마디",
+      "summary": "오늘은 누가 밀어붙이지 않아도 됩니다. 팀장님 리듬대로 중요한 것부터 차분히 끝내면 됩니다.",
+      "take": "습도가 높아 체감이 더 무겁습니다. 물을 자주 마시며 리듬을 유지하면 좋겠습니다. 오늘은 마음을 급하게 쓰지 말고, 가장 아쉬웠던 한 가지를 먼저 정리해 보시면 좋겠습니다. 그런 작은 정리가 하루의 기분을 꽤 크게 바꿉니다.",
+      "meta": [
+        "응원",
+        "중간 길이"
+      ],
+      "entities": [],
+      "keywords": [
+        "아침",
+        "집중"
+      ],
+      "links": []
+    },
+    {
+      "title": "오늘 일정",
+      "summary": "오늘 일정 없음",
+      "take": "오늘 등록된 일정이 없습니다. 이럴 때는 중요한 정리 한두 개만 분명하게 끝내도 충분합니다.",
+      "meta": [
+        "일정",
+        "calendar"
+      ],
+      "entities": [
+        "calendar"
+      ],
+      "keywords": [
+        "calendar"
+      ],
+      "links": []
+    },
+    {
+      "title": "주요 메일 / 중요 알림",
+      "summary": "[중요인물] Google 계정 데이터 일부를 VideoMas",
+      "take": "지금 확인할 만한 메일만 추렸습니다. 결제, 업무, 보안성 알림 위주로 먼저 보면 됩니다.",
+      "meta": [
+        "메일",
+        "gmail",
+        "중요 알림"
+      ],
+      "entities": [
+        "중요인물"
+      ],
+      "keywords": [
+        "gmail",
+        "alert"
+      ],
+      "links": []
+    },
+    {
+      "title": "유튜브 업데이트",
+      "summary": "@JulianGoldieSEO Fable 5 vs Grok 4.5 vs G / @fahdmirza OpenLumara + Ollama: Loc / @JulianGoldieSEO Agent OS: LinkedIn, Comp",
+      "take": "업로드 속도가 빠른 채널은 오늘도 여러 편이 들어왔습니다. 중요한 주제부터 2~3개만 골라 보면 효율이 좋습니다.",
+      "meta": [
+        "유튜브",
+        "AI 채널",
+        "중간 길이"
+      ],
+      "entities": [
+        "@JulianGoldieSEO",
+        "@fahdmirza",
+        "@JulianGoldieSEO",
+        "@JulianGoldieSEO"
+      ],
+      "keywords": [
+        "youtube",
+        "update",
+        "thumbnail"
+      ],
+      "links": [
+        {
+          "label": "@JulianGoldieSEO · 07-14 06:00",
+          "url": "https://www.youtube.com/watch?v=8hWvcS4jS7E",
+          "thumbnail": "https://i.ytimg.com/vi/8hWvcS4jS7E/hqdefault.jpg"
+        },
+        {
+          "label": "@fahdmirza · 07-14 05:50",
+          "url": "https://www.youtube.com/watch?v=gVKkyNznmxw",
+          "thumbnail": "https://i.ytimg.com/vi/gVKkyNznmxw/hqdefault.jpg"
+        },
+        {
+          "label": "@JulianGoldieSEO · 07-14 05:00",
+          "url": "https://www.youtube.com/watch?v=_2sl1FtMzjU",
+          "thumbnail": "https://i.ytimg.com/vi/_2sl1FtMzjU/hqdefault.jpg"
+        }
+      ]
+    },
+    {
+      "title": "시스템 상태 요약",
+      "summary": "CPU 37.5 % 사용 / 클럭 1108.8 MHz / RAM 11.5GB 사용, 총 15.8GB (73%) / SSD 341.9GB 사용, 총 476.0GB (72%)",
+      "take": "CPU는 현재 37.5 % 사용 중이고 클럭은 1108.8 MHz, 버스 스피드는 100.8 MHz, RAM은 총 15.8GB 중 11.5GB 사용 (73%), SSD는 총 476.0GB 중 341.9GB 사용 (72%), 여유 134.1GB입니다. 네트워크 인터페이스는 Ethernet, Ethernet 2, Wi-Fi 기준입니다.",
+      "meta": [
+        "시스템",
+        "LHM"
+      ],
+      "entities": [
+        "Intel N100",
+        "RAM",
+        "SSD"
+      ],
+      "keywords": [
+        "temperature",
+        "load",
+        "memory"
+      ],
+      "links": []
+    },
+    {
+      "title": "OpenClaw 상태 요약",
+      "summary": "OpenClaw 2026.6.9 (c645ec4)",
+      "take": "Runtime: running (last run 267009, last run time 07-10(금) 오후 2:45:23) | Listening: 127.0.0.1:18789",
+      "meta": [
+        "OpenClaw",
+        "Gateway"
+      ],
+      "entities": [
+        "main",
+        "gateway"
+      ],
+      "keywords": [
+        "version",
+        "rpc",
+        "status"
+      ],
+      "links": []
+    }
+  ],
+  "footer": "AI-assisted morning briefing, unified data structure ready for stage 2"
+}
