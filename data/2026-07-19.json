@@ -1,0 +1,379 @@
+{
+  "date": "2026-07-19 07:00",
+  "title": "아침 브리핑",
+  "subtitle": "날씨 · 응원 · 일정 · 메일 · 유튜브 · 시스템 · OpenClaw",
+  "summary": "오늘 일정이 비어 있다면, 오히려 중요한 걸 조용히 정리할 수 있는 좋은 날입니다.",
+  "summary_box": "습도가 높아 체감이 더 무겁습니다. 물을 자주 마시며 리듬을 유지하면 좋겠습니다. 오늘은 마음을 급하게 쓰지 말고, 가장 아쉬웠던 한 가지를 먼저 정리해 보시면 좋겠습니다. 그런 작은 정리가 하루의 기분을 꽤 크게 바꿉니다.",
+  "weather": {
+    "loc": "김해",
+    "temp": "27°C",
+    "desc": "Partly cloudy",
+    "icon": "⛅",
+    "badges": [
+      "체감 33°C",
+      "습도 94%",
+      "강수확률 18%",
+      "풍속 9km/h",
+      "UV 0",
+      "미세먼지 정보 연동 예정"
+    ],
+    "detail": {
+      "feels_like": "33",
+      "humidity": "94",
+      "rain_chance": "18",
+      "wind_kmph": "9",
+      "uv": "0",
+      "pm": "미세먼지 정보 연동 예정"
+    },
+    "life_comment": "습도가 높아 체감이 더 무겁습니다. 물을 자주 마시며 리듬을 유지하면 좋겠습니다."
+  },
+  "sections": {
+    "calendar": {
+      "summary": "오늘 일정 없음",
+      "take": "오늘 등록된 일정이 없습니다. 이럴 때는 중요한 정리 한두 개만 분명하게 끝내도 충분합니다.",
+      "items": [],
+      "links": [],
+      "entities": [
+        "calendar"
+      ]
+    },
+    "mail": {
+      "summary": "[중요인물] OpenAI Dev News: OpenAI Bu",
+      "take": "지금 확인할 만한 메일만 추렸습니다. 결제, 업무, 보안성 알림 위주로 먼저 보면 됩니다.",
+      "items": [
+        {
+          "date": "2026-07-18 05:44",
+          "from": "OpenAI <noreply@email.openai.com>",
+          "subject": "OpenAI Dev News: OpenAI Build Week, GPT-5.6, ChatGPT Work",
+          "tags": [
+            "중요인물"
+          ]
+        }
+      ],
+      "links": [],
+      "entities": [
+        "중요인물"
+      ]
+    },
+    "youtube": {
+      "summary": "@JulianGoldieSEO This Kimi K3 Agent OS Is / @JulianGoldieSEO Kimi K3 Just Beat Fable  / @JulianGoldieSEO Google AI Studio New FRE",
+      "take": "업로드 속도가 빠른 채널은 오늘도 여러 편이 들어왔습니다. 중요한 주제부터 2~3개만 골라 보면 효율이 좋습니다.",
+      "items": [
+        {
+          "channel": "@JulianGoldieSEO",
+          "title": "This Kimi K3 Agent OS Is WILD",
+          "published": "07-19 07:00",
+          "published_dt": "2026-07-19T07:00:01+09:00",
+          "url": "https://www.youtube.com/watch?v=KC8ZQ_yFcqM",
+          "thumbnail": "https://i.ytimg.com/vi/KC8ZQ_yFcqM/hqdefault.jpg",
+          "summary": "이 영상은 모델/LLM, 에이전트/자동화, 튜토리얼/설정 중심 내용입니다. 구성은 Intro – Is this Chinese model beating Opus 4.8?, Kimi K2 Overview – 2.8T params, biggest open model yet, Benchmarks – Beats Opus 4.8, trails Fable 5 & GPT 5.6, Context Window – 1M tokens, huge upgrade 순서로 이어지며, 제목만으로는 보이지 않는 변화 배경·핵심 기능·실제 활용 포인트를 짚어보는 영상입니다.",
+          "description_excerpt": "Get the Agent OS & Kimi K3 Masterclass 👉 00:00 Intro – Is this Chinese model beating Opus 4.8? 00:41 Kimi K2 Overview – 2.8T params, biggest open model yet 01:37 Benchmarks – Beats Opus 4.8, trails Fable 5 & GPT 5.6 02:15 Context Window – 1M tokens, huge upgrade 02:45 Design Arena – leaderboard spot 03:26 Web Design Test – Needs guidance to shine 03:59 3D Ga",
+          "transcript_excerpt": "This Kimi K3 Agent OS is wild. What if the best AI model right now wasn't even American? What if it just dropped from China and nobody saw it coming? What if it's already beating Opus 4.8 on the benchmarks? And what if I already plugged it ",
+          "shorts": false
+        },
+        {
+          "channel": "@JulianGoldieSEO",
+          "title": "Kimi K3 Just Beat Fable 5 And GPT-5.6?",
+          "published": "07-19 05:00",
+          "published_dt": "2026-07-19T05:00:00+09:00",
+          "url": "https://www.youtube.com/watch?v=upMDxSv1XSY",
+          "thumbnail": "https://i.ytimg.com/vi/upMDxSv1XSY/hqdefault.jpg",
+          "summary": "이 영상은 모델/LLM, 에이전트/자동화, 튜토리얼/설정 중심 내용입니다. 구성은 Get the Agent OS & Kimi + Claude + GPT Masterclass 👉 순서로 이어집니다. Kimi K3, just beat Fable 5 and GPT 5.6 What if the best model right now isn't from a lab you'd expect? Did it really beat Claude Fable 5 and GPT 5.6 so?",
+          "description_excerpt": "Get the Agent OS & Kimi + Claude + GPT Masterclass 👉",
+          "transcript_excerpt": "Kimi K3, just beat Fable 5 and GPT 5.6. What if the best model right now isn't from a lab you'd expect? A brand new open model just dropped and it's going straight at the biggest names out there. Did it really beat Claude Fable 5 and GPT 5.",
+          "shorts": false
+        },
+        {
+          "channel": "@JulianGoldieSEO",
+          "title": "Google AI Studio New FREE Updates are INSANE!",
+          "published": "07-19 03:14",
+          "published_dt": "2026-07-19T03:14:59+09:00",
+          "url": "https://www.youtube.com/watch?v=MSlZu9yBZNs",
+          "thumbnail": "https://i.ytimg.com/vi/MSlZu9yBZNs/hqdefault.jpg",
+          "summary": "이 영상은 에이전트/자동화 중심 내용입니다. 구성은 Get the Agent OS & INSERTOOL Masterclass 👉 순서로 이어집니다. Google AI Studio new free updates are insane Google just dropped three three huge AI Studio updates Update one, custom URLs",
+          "description_excerpt": "Get the Agent OS & INSERTOOL Masterclass 👉",
+          "transcript_excerpt": "Google AI Studio new free updates are insane. Google just dropped three three huge AI Studio updates. With Google AI Studio, you can now build real working AI tools, not just test ideas. Update one, custom URLs. No more messy random links. ",
+          "shorts": false
+        },
+        {
+          "channel": "@fahdmirza",
+          "title": "Gemma 4's Big Update in 4-Bit QAT — Low VRAM, Local",
+          "published": "07-18 23:00",
+          "published_dt": "2026-07-18T23:00:11+09:00",
+          "url": "https://www.youtube.com/watch?v=bDM2NgSsnSQ",
+          "thumbnail": "https://i.ytimg.com/vi/bDM2NgSsnSQ/hqdefault.jpg",
+          "summary": "이 영상은 모델/LLM, 에이전트/자동화, 수익화/마케팅 중심 내용입니다. 구성은 Archestra Apps Hackathon: Register at This video tests major Gemma 4 update with QAT GGUF; tool-calling fix, FA4 support, and vision token control, 🔥 Buy Me a Coffee to support the channel: PLEASE FOLLOW ME: ▶ LinkedIn: / fahdmirza ▶ YouTube: / ▶ Blog: RESOURCES: ▶ All rights reserved © Fahd Mirza 순서로 이어지며, 제목만으로는 보이지 않는 변화 배경·핵심 기능·실제 활용 포인트를 짚어보는 영상입니다.",
+          "description_excerpt": "Archestra Apps Hackathon: Register at This video tests major Gemma 4 update with QAT GGUF; tool-calling fix, FA4 support, and vision token control. 🔥 Buy Me a Coffee to support the channel: PLEASE FOLLOW ME: ▶ LinkedIn: / fahdmirza ▶ YouTube: / ▶ Blog: RESOURCES: ▶ All rights reserved © Fahd Mirza",
+          "transcript_excerpt": "Google shipped one of the biggest updates Gemma 4 has ever had. 11 fixes, tool calling, chat formatting, thinking, vision, and so much more. Same model names, same weights, but everything underneath got fixed. We already covered the full pr",
+          "shorts": false
+        },
+        {
+          "channel": "@zerochotv",
+          "title": "AI가 한글 문서를 생성한다고? hwpx 한글 도우미 - 시청자 바이브코딩 평가 시즌2 9탄",
+          "published": "07-18 17:15",
+          "published_dt": "2026-07-18T17:15:02+09:00",
+          "url": "https://www.youtube.com/watch?v=9A6G9fcWL-Y",
+          "thumbnail": "https://i.ytimg.com/vi/9A6G9fcWL-Y/hqdefault.jpg",
+          "summary": "이 영상은 개발도구 중심 내용입니다. 구성은 6.8만명이 수강한 제로초 강좌/로드맵 통합 링크!, 의지력이 약해 다른 사람들과 함께 수강하고 싶다면!, + 고민상담, 질문도 하고 싶다면 3천명이 모여있는 제로초스쿨에서! 순서로 이어집니다. 6.8만명이 수강한 제로초 강좌/로드맵 통합 링크! 의지력이 약해 다른 사람들과 함께 수강하고 싶다면! 제로초 덕분에 취업했다면 감사의 표시를 - 후원 및 멤버십 -- -- 깃헙 -- (레포지토리 스타 눌러주세요) -- 소개 -- Node.js 교과서, 코딩 자율학습 제로초의 자바스크립트 입문, 타입스크립트 교과서 저자 제로초닷컴(ZeroCho.c...",
+          "description_excerpt": "6.8만명이 수강한 제로초 강좌/로드맵 통합 링크! 의지력이 약해 다른 사람들과 함께 수강하고 싶다면! + 고민상담, 질문도 하고 싶다면 3천명이 모여있는 제로초스쿨에서! 제로초 덕분에 취업했다면 감사의 표시를 - 후원 및 멤버십 -- -- 깃헙 -- (레포지토리 스타 눌러주세요) -- 소개 -- Node.js 교과서, 코딩 자율학습 제로초의 자바스크립트 입문, 타입스크립트 교과서 저자 제로초닷컴(ZeroCho.com) 운영자 전)카카오모빌리티 파트장, 스모어톡/오늘의픽업/MYFIT CTO",
+          "transcript_excerpt": "",
+          "shorts": false
+        }
+      ],
+      "links": [
+        {
+          "label": "@JulianGoldieSEO · 07-19 07:00",
+          "url": "https://www.youtube.com/watch?v=KC8ZQ_yFcqM",
+          "thumbnail": "https://i.ytimg.com/vi/KC8ZQ_yFcqM/hqdefault.jpg"
+        },
+        {
+          "label": "@JulianGoldieSEO · 07-19 05:00",
+          "url": "https://www.youtube.com/watch?v=upMDxSv1XSY",
+          "thumbnail": "https://i.ytimg.com/vi/upMDxSv1XSY/hqdefault.jpg"
+        },
+        {
+          "label": "@JulianGoldieSEO · 07-19 03:14",
+          "url": "https://www.youtube.com/watch?v=MSlZu9yBZNs",
+          "thumbnail": "https://i.ytimg.com/vi/MSlZu9yBZNs/hqdefault.jpg"
+        }
+      ],
+      "entities": [
+        "@JulianGoldieSEO",
+        "@JulianGoldieSEO",
+        "@JulianGoldieSEO",
+        "@fahdmirza"
+      ]
+    },
+    "system": {
+      "summary": "CPU 24.6 % 사용 / 클럭 1108.8 MHz / RAM 9.1GB 사용, 총 15.8GB (57%) / SSD 338.2GB 사용, 총 476.0GB (71%)",
+      "take": "CPU는 현재 24.6 % 사용 중이고 클럭은 1108.8 MHz, 버스 스피드는 100.8 MHz, RAM은 총 15.8GB 중 9.1GB 사용 (57%), SSD는 총 476.0GB 중 338.2GB 사용 (71%), 여유 137.7GB입니다. 네트워크 인터페이스는 Ethernet, Ethernet 2, Wi-Fi 기준입니다.",
+      "metrics": [
+        {
+          "label": "CPU 사용률",
+          "value": "24.6 %",
+          "pct": 24.6,
+          "tone": "normal"
+        },
+        {
+          "label": "CPU 클럭",
+          "value": "1108.8 MHz",
+          "pct": 31.68,
+          "tone": "normal"
+        },
+        {
+          "label": "버스 스피드",
+          "value": "100.8 MHz",
+          "pct": 100,
+          "tone": "normal"
+        },
+        {
+          "label": "CPU 온도",
+          "value": "48.0 °C",
+          "pct": 48.0,
+          "tone": "normal"
+        },
+        {
+          "label": "RAM 사용량",
+          "value": "9.1 / 15.8 GB (57%)",
+          "pct": 57.4,
+          "tone": "normal"
+        },
+        {
+          "label": "SSD 사용량",
+          "value": "338.2 / 476.0 GB (71%)",
+          "pct": 71.1,
+          "tone": "normal"
+        },
+        {
+          "label": "SSD 여유 공간",
+          "value": "137.7 / 476.0 GB",
+          "pct": 28.900000000000006,
+          "tone": "normal"
+        },
+        {
+          "label": "SSD 온도",
+          "value": "40.0 °C",
+          "pct": 40.0,
+          "tone": "normal"
+        },
+        {
+          "label": "업타임",
+          "value": "7시간 25분",
+          "pct": 28,
+          "tone": "normal"
+        },
+        {
+          "label": "네트워크 수신",
+          "value": "2385.5 MB",
+          "pct": 100,
+          "tone": "normal"
+        },
+        {
+          "label": "네트워크 송신",
+          "value": "89.2 MB",
+          "pct": 100,
+          "tone": "normal"
+        }
+      ]
+    },
+    "openclaw": {
+      "summary": "OpenClaw 2026.6.9 (c645ec4)",
+      "take": "Runtime: running (last run 267009, last run time 07-18(토) 오후 11:37:50) | Listening: 127.0.0.1:18789",
+      "metrics": [
+        {
+          "label": "Gateway",
+          "value": "bind=loopback (127.0.0.1), port=18789 (service args)",
+          "pct": 100,
+          "tone": "normal"
+        },
+        {
+          "label": "Probe note",
+          "value": "Loopback-only gateway; only local clients can connect.",
+          "pct": 100,
+          "tone": "normal"
+        },
+        {
+          "label": "Runtime",
+          "value": "running (last run 267009, last run time 07-18(토) 오후 11:37:50)",
+          "pct": 100,
+          "tone": "good"
+        },
+        {
+          "label": "Listening",
+          "value": "127.0.0.1:18789",
+          "pct": 100,
+          "tone": "good"
+        }
+      ]
+    }
+  },
+  "cards": [
+    {
+      "title": "오늘의 한마디",
+      "summary": "오늘 일정이 비어 있다면, 오히려 중요한 걸 조용히 정리할 수 있는 좋은 날입니다.",
+      "take": "습도가 높아 체감이 더 무겁습니다. 물을 자주 마시며 리듬을 유지하면 좋겠습니다. 오늘은 마음을 급하게 쓰지 말고, 가장 아쉬웠던 한 가지를 먼저 정리해 보시면 좋겠습니다. 그런 작은 정리가 하루의 기분을 꽤 크게 바꿉니다.",
+      "meta": [
+        "응원",
+        "중간 길이"
+      ],
+      "entities": [],
+      "keywords": [
+        "아침",
+        "집중"
+      ],
+      "links": []
+    },
+    {
+      "title": "오늘 일정",
+      "summary": "오늘 일정 없음",
+      "take": "오늘 등록된 일정이 없습니다. 이럴 때는 중요한 정리 한두 개만 분명하게 끝내도 충분합니다.",
+      "meta": [
+        "일정",
+        "calendar"
+      ],
+      "entities": [
+        "calendar"
+      ],
+      "keywords": [
+        "calendar"
+      ],
+      "links": []
+    },
+    {
+      "title": "주요 메일 / 중요 알림",
+      "summary": "[중요인물] OpenAI Dev News: OpenAI Bu",
+      "take": "지금 확인할 만한 메일만 추렸습니다. 결제, 업무, 보안성 알림 위주로 먼저 보면 됩니다.",
+      "meta": [
+        "메일",
+        "gmail",
+        "중요 알림"
+      ],
+      "entities": [
+        "중요인물"
+      ],
+      "keywords": [
+        "gmail",
+        "alert"
+      ],
+      "links": []
+    },
+    {
+      "title": "유튜브 업데이트",
+      "summary": "@JulianGoldieSEO This Kimi K3 Agent OS Is / @JulianGoldieSEO Kimi K3 Just Beat Fable  / @JulianGoldieSEO Google AI Studio New FRE",
+      "take": "업로드 속도가 빠른 채널은 오늘도 여러 편이 들어왔습니다. 중요한 주제부터 2~3개만 골라 보면 효율이 좋습니다.",
+      "meta": [
+        "유튜브",
+        "AI 채널",
+        "중간 길이"
+      ],
+      "entities": [
+        "@JulianGoldieSEO",
+        "@JulianGoldieSEO",
+        "@JulianGoldieSEO",
+        "@fahdmirza"
+      ],
+      "keywords": [
+        "youtube",
+        "update",
+        "thumbnail"
+      ],
+      "links": [
+        {
+          "label": "@JulianGoldieSEO · 07-19 07:00",
+          "url": "https://www.youtube.com/watch?v=KC8ZQ_yFcqM",
+          "thumbnail": "https://i.ytimg.com/vi/KC8ZQ_yFcqM/hqdefault.jpg"
+        },
+        {
+          "label": "@JulianGoldieSEO · 07-19 05:00",
+          "url": "https://www.youtube.com/watch?v=upMDxSv1XSY",
+          "thumbnail": "https://i.ytimg.com/vi/upMDxSv1XSY/hqdefault.jpg"
+        },
+        {
+          "label": "@JulianGoldieSEO · 07-19 03:14",
+          "url": "https://www.youtube.com/watch?v=MSlZu9yBZNs",
+          "thumbnail": "https://i.ytimg.com/vi/MSlZu9yBZNs/hqdefault.jpg"
+        }
+      ]
+    },
+    {
+      "title": "시스템 상태 요약",
+      "summary": "CPU 24.6 % 사용 / 클럭 1108.8 MHz / RAM 9.1GB 사용, 총 15.8GB (57%) / SSD 338.2GB 사용, 총 476.0GB (71%)",
+      "take": "CPU는 현재 24.6 % 사용 중이고 클럭은 1108.8 MHz, 버스 스피드는 100.8 MHz, RAM은 총 15.8GB 중 9.1GB 사용 (57%), SSD는 총 476.0GB 중 338.2GB 사용 (71%), 여유 137.7GB입니다. 네트워크 인터페이스는 Ethernet, Ethernet 2, Wi-Fi 기준입니다.",
+      "meta": [
+        "시스템",
+        "LHM"
+      ],
+      "entities": [
+        "Intel N100",
+        "RAM",
+        "SSD"
+      ],
+      "keywords": [
+        "temperature",
+        "load",
+        "memory"
+      ],
+      "links": []
+    },
+    {
+      "title": "OpenClaw 상태 요약",
+      "summary": "OpenClaw 2026.6.9 (c645ec4)",
+      "take": "Runtime: running (last run 267009, last run time 07-18(토) 오후 11:37:50) | Listening: 127.0.0.1:18789",
+      "meta": [
+        "OpenClaw",
+        "Gateway"
+      ],
+      "entities": [
+        "main",
+        "gateway"
+      ],
+      "keywords": [
+        "version",
+        "rpc",
+        "status"
+      ],
+      "links": []
+    }
+  ],
+  "footer": "AI-assisted morning briefing, unified data structure ready for stage 2"
+}
