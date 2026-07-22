@@ -1,0 +1,413 @@
+{
+  "date": "2026-07-23 07:00",
+  "title": "아침 브리핑",
+  "subtitle": "날씨 · 응원 · 일정 · 메일 · 유튜브 · 시스템 · OpenClaw",
+  "summary": "오늘 일정이 비어 있다면, 오히려 중요한 걸 조용히 정리할 수 있는 좋은 날입니다.",
+  "summary_box": "습도가 높아 체감이 더 무겁습니다. 물을 자주 마시며 리듬을 유지하면 좋겠습니다. 오늘은 마음을 급하게 쓰지 말고, 가장 아쉬웠던 한 가지를 먼저 정리해 보시면 좋겠습니다. 그런 작은 정리가 하루의 기분을 꽤 크게 바꿉니다.",
+  "weather": {
+    "loc": "김해",
+    "temp": "26°C",
+    "desc": "Partly cloudy",
+    "icon": "⛅",
+    "badges": [
+      "체감 31°C",
+      "습도 94%",
+      "강수확률 5%",
+      "풍속 5km/h",
+      "UV 0",
+      "미세먼지 정보 연동 예정"
+    ],
+    "detail": {
+      "feels_like": "31",
+      "humidity": "94",
+      "rain_chance": "5",
+      "wind_kmph": "5",
+      "uv": "0",
+      "pm": "미세먼지 정보 연동 예정"
+    },
+    "life_comment": "습도가 높아 체감이 더 무겁습니다. 물을 자주 마시며 리듬을 유지하면 좋겠습니다."
+  },
+  "sections": {
+    "calendar": {
+      "summary": "오늘 일정 없음",
+      "take": "오늘 등록된 일정이 없습니다. 이럴 때는 중요한 정리 한두 개만 분명하게 끝내도 충분합니다.",
+      "items": [],
+      "links": [],
+      "entities": [
+        "calendar"
+      ]
+    },
+    "mail": {
+      "summary": "[중요인물] 🚀 Introducing Gemini 3.6 F / [확인필요] 이카운트 ERP, 김지훈 선임입니다.(데모) / [중요인물] 아라테크님, Google이 공들여 준비한 새로운",
+      "take": "지금 확인할 만한 메일만 추렸습니다. 결제, 업무, 보안성 알림 위주로 먼저 보면 됩니다.",
+      "items": [
+        {
+          "date": "2026-07-22 13:13",
+          "from": "Google AI Studio <googleaistudio-noreply@google.com>",
+          "subject": "🚀 Introducing Gemini 3.6 Flash and 3.5 Flash-Lite",
+          "tags": [
+            "중요인물"
+          ]
+        },
+        {
+          "date": "2026-07-22 09:36",
+          "from": "\"이카운트 ERP\" <jihun4941@ecounterp.co.kr>",
+          "subject": "이카운트 ERP, 김지훈 선임입니다.(데모)",
+          "tags": [
+            "확인필요"
+          ]
+        },
+        {
+          "date": "2026-07-22 09:23",
+          "from": "\"Google 도움말 및 소식\" <googlecommunityteam-noreply@google.com>",
+          "subject": "아라테크님, Google이 공들여 준비한 새로운 AI 기능을 만나보세요",
+          "tags": [
+            "중요인물"
+          ]
+        },
+        {
+          "date": "2026-07-22 05:20",
+          "from": "OpenRouter Team <welcome@openrouter.ai>",
+          "subject": "The router picks the model now: Kimi K3, KAT-Coder V2.5 and more",
+          "tags": [
+            "확인필요"
+          ]
+        },
+        {
+          "date": "2026-07-22 00:05",
+          "from": "\"(주)이카운트\" <askmail@ecount.com>",
+          "subject": "이카운트 ERP 전문가와 직접 상담해보세요.",
+          "tags": [
+            "확인필요"
+          ]
+        }
+      ],
+      "links": [],
+      "entities": [
+        "중요인물",
+        "확인필요"
+      ]
+    },
+    "youtube": {
+      "summary": "@JulianGoldieSEO Hermes Agent Just Got 10 / @fahdmirza Gemini 3.6 Flash — Lost  / @JulianGoldieSEO Qwen 3.8 VS Fable 5 VS G",
+      "take": "업로드 속도가 빠른 채널은 오늘도 여러 편이 들어왔습니다. 중요한 주제부터 2~3개만 골라 보면 효율이 좋습니다.",
+      "items": [
+        {
+          "channel": "@JulianGoldieSEO",
+          "title": "Hermes Agent Just Got 10X Better...",
+          "published": "07-23 07:00",
+          "published_dt": "2026-07-23T07:00:36+09:00",
+          "url": "https://www.youtube.com/watch?v=VKLbPcz0MdU",
+          "thumbnail": "https://i.ytimg.com/vi/VKLbPcz0MdU/hqdefault.jpg",
+          "summary": "이 영상은 모델/LLM, 에이전트/자동화, 수익화/마케팅 중심 내용입니다. 구성은 Intro – The 4-second stall that just got deleted, What Shipped – v0.19 and the 80% cold-start cut, Live Reasoning – Catch a bad plan in 5 seconds, Quiet Upgrades – Approvals, secrets, delivery ledger 순서로 이어지며, 제목만으로는 보이지 않는 변화 배경·핵심 기능·실제 활용 포인트를 짚어보는 영상입니다.",
+          "description_excerpt": "Get the Agent OS & Hermes Masterclass 👉 00:00 Intro – The 4-second stall that just got deleted 00:39 What Shipped – v0.19 and the 80% cold-start cut 01:32 Live Reasoning – Catch a bad plan in 5 seconds 02:11 Quiet Upgrades – Approvals, secrets, delivery ledger 03:36 Agent OS – Why organization beats a better model 05:55 Memory Layer – The piece to set up fir",
+          "transcript_excerpt": "Hermes agent just got 10 times better. How long do you actually sit there waiting for your AI to say the first word? 4 seconds 5. Long enough to pick your phone up. That dead air just got deleted. Hermes agent shipped its biggest update yet",
+          "shorts": false
+        },
+        {
+          "channel": "@fahdmirza",
+          "title": "Gemini 3.6 Flash — Lost in the Australian Outback",
+          "published": "07-23 06:28",
+          "published_dt": "2026-07-23T06:28:53+09:00",
+          "url": "https://www.youtube.com/watch?v=TdLE5NXgtQ4",
+          "thumbnail": "https://i.ytimg.com/vi/TdLE5NXgtQ4/hqdefault.jpg",
+          "summary": "이 영상은 모델/LLM, 에이전트/자동화, 튜토리얼/설정 중심 내용입니다. 구성은 This video tests Qwen3.8-Max-Preview hands-on, 🔥 Buy Me a Coffee to support the channel: PLEASE FOLLOW ME: ▶ LinkedIn: ▶ YouTube: ▶ Blog: RELATED VIDEOS: ▶ All rights reserved © Fahd Mirza 순서로 이어지며, 제목만으로는 보이지 않는 변화 배경·핵심 기능·실제 활용 포인트를 짚어보는 영상입니다.",
+          "description_excerpt": "This video tests Qwen3.8-Max-Preview hands-on. 🔥 Buy Me a Coffee to support the channel: PLEASE FOLLOW ME: ▶ LinkedIn: ▶ YouTube: ▶ Blog: RELATED VIDEOS: ▶ All rights reserved © Fahd Mirza",
+          "transcript_excerpt": "Yesterday, Google dropped three new Gemini flash models. 3.6 flash as the workhorse upgrade, 3.5 flash light for raw speed at scale and 3.5 flash cyber tucked under inside a restricted security agent called as code mender. In this video, we",
+          "shorts": false
+        },
+        {
+          "channel": "@JulianGoldieSEO",
+          "title": "Qwen 3.8 VS Fable 5 VS GPT 5.6 Sol: Who Wins?",
+          "published": "07-23 06:00",
+          "published_dt": "2026-07-23T06:00:21+09:00",
+          "url": "https://www.youtube.com/watch?v=C7kFsl40jE8",
+          "thumbnail": "https://i.ytimg.com/vi/C7kFsl40jE8/hqdefault.jpg",
+          "summary": "이 영상은 모델/LLM, 수익화/마케팅 중심 내용입니다. 구성은 Intro: 3 New AI Models, The Goldie Bench Test, Qwen 3.8 vs. Fable 5, Where Fable 5 Still Wins 순서로 이어집니다. GPT 5.6 Soul, who wins? Three huge AI models just dropped in one week Qwen 3.8, Fable 5, and GPT 5.6 Soul",
+          "description_excerpt": "Get the Agent OS & Qwen 3.8 + Fable 5 + GPT 5.6 Sol Masterclass 👉 00:00 - Intro: 3 New AI Models 00:47 - The Goldie Bench Test 01:23 - Qwen 3.8 vs. Fable 5 02:56 - Where Fable 5 Still Wins 04:47 - Qwen 3.8 vs. GPT 5.6 Soul 06:37 - The Ultimate Winner Revealed 07:21 - Scaling Your Business with AI",
+          "transcript_excerpt": "Qwen 3.8 vs. Fable 5 vs. GPT 5.6 Soul, who wins? Three huge AI models just dropped in one week. So, I put them in a real fight. Qwen 3.8, Fable 5, and GPT 5.6 Soul. Same prompts, same test, no hype, and the winner shocked me. It's the cheap",
+          "shorts": false
+        },
+        {
+          "channel": "@JulianGoldieSEO",
+          "title": "Kimi K3.1 Leaks",
+          "published": "07-23 05:00",
+          "published_dt": "2026-07-23T05:00:15+09:00",
+          "url": "https://www.youtube.com/watch?v=MQNEBMdDgs0",
+          "thumbnail": "https://i.ytimg.com/vi/MQNEBMdDgs0/hqdefault.jpg",
+          "summary": "이 영상은 모델/LLM, 에이전트/자동화 중심 내용입니다. 구성은 The Leak – Four words that changed the K3 story, The Admission – What Moonshot said about its own model, Inside K3 – 2.8T params, 1M context, 896 experts, Where to Use It – Both variants + the July 27 weights drop 순서로 이어지며, 제목만으로는 보이지 않는 변화 배경·핵심 기능·실제 활용 포인트를 짚어보는 영상입니다.",
+          "description_excerpt": "Get the Agent OS & KIMI AI Masterclass 👉 00:00 The Leak – Four words that changed the K3 story 01:22 The Admission – What Moonshot said about its own model 02:16 Inside K3 – 2.8T params, 1M context, 896 experts 03:37 Where to Use It – Both variants + the July 27 weights drop 04:22 Where It Wins, Where It Loses – Benchmarks vs. reality 06:43 Day-One Fixes – T",
+          "transcript_excerpt": "Kimmy K. 3.1 leaks. Moonshot is already teasing the next Kimmy model. Kimmy just launched the biggest open model anyone has ever announced. So, why is their own team already teasing the next one? K3 has been out for less than a week. Then s",
+          "shorts": false
+        },
+        {
+          "channel": "@fahdmirza",
+          "title": "Laguna S 2.1 Pursuing Longer Horizon Work at 118B MoE",
+          "published": "07-22 23:00",
+          "published_dt": "2026-07-22T23:00:26+09:00",
+          "url": "https://www.youtube.com/watch?v=avLHJj7uGk8",
+          "thumbnail": "https://i.ytimg.com/vi/avLHJj7uGk8/hqdefault.jpg",
+          "summary": "이 영상은 모델/LLM, 에이전트/자동화, 튜토리얼/설정 중심 내용입니다. 구성은 This video installs and tests Laguna S 2.1 which is designed for software engineering and agentic coding use cases 순서로 이어지며, 제목만으로는 보이지 않는 변화 배경·핵심 기능·실제 활용 포인트를 짚어보는 영상입니다.",
+          "description_excerpt": "This video installs and tests Laguna S 2.1 which is designed for software engineering and agentic coding use cases. 🔥 Get 50% Discount on any A6000 or A5000 GPU rental, use following link and coupon: Coupon code: FahdMirza 🔥 Buy Me a Coffee to support the channel: PLEASE FOLLOW ME: ▶ LinkedIn: / fahdmirza ▶ YouTube: / ▶ Blog: RESOURCES: ▶ All rights reserved",
+          "transcript_excerpt": "3 months three models poolside is on a roll and we have covered each and every model from them. In this video we are going to discuss, install and then test out their newly released model which is Lagona S2.1 a billion total parameter mixtu",
+          "shorts": false
+        }
+      ],
+      "links": [
+        {
+          "label": "@JulianGoldieSEO · 07-23 07:00",
+          "url": "https://www.youtube.com/watch?v=VKLbPcz0MdU",
+          "thumbnail": "https://i.ytimg.com/vi/VKLbPcz0MdU/hqdefault.jpg"
+        },
+        {
+          "label": "@fahdmirza · 07-23 06:28",
+          "url": "https://www.youtube.com/watch?v=TdLE5NXgtQ4",
+          "thumbnail": "https://i.ytimg.com/vi/TdLE5NXgtQ4/hqdefault.jpg"
+        },
+        {
+          "label": "@JulianGoldieSEO · 07-23 06:00",
+          "url": "https://www.youtube.com/watch?v=C7kFsl40jE8",
+          "thumbnail": "https://i.ytimg.com/vi/C7kFsl40jE8/hqdefault.jpg"
+        }
+      ],
+      "entities": [
+        "@JulianGoldieSEO",
+        "@fahdmirza",
+        "@JulianGoldieSEO",
+        "@JulianGoldieSEO"
+      ]
+    },
+    "system": {
+      "summary": "CPU 34.1 % 사용 / 클럭 705.6 MHz / RAM 11.1GB 사용, 총 15.8GB (70%) / SSD 333.7GB 사용, 총 476.0GB (70%)",
+      "take": "CPU는 현재 34.1 % 사용 중이고 클럭은 705.6 MHz, 버스 스피드는 100.8 MHz, RAM은 총 15.8GB 중 11.1GB 사용 (70%), SSD는 총 476.0GB 중 333.7GB 사용 (70%), 여유 142.3GB입니다. 네트워크 인터페이스는 Ethernet, Ethernet 2, Wi-Fi 기준입니다.",
+      "metrics": [
+        {
+          "label": "CPU 사용률",
+          "value": "34.1 %",
+          "pct": 34.1,
+          "tone": "normal"
+        },
+        {
+          "label": "CPU 클럭",
+          "value": "705.6 MHz",
+          "pct": 20.16,
+          "tone": "normal"
+        },
+        {
+          "label": "버스 스피드",
+          "value": "100.8 MHz",
+          "pct": 100,
+          "tone": "normal"
+        },
+        {
+          "label": "CPU 온도",
+          "value": "55.0 °C",
+          "pct": 55.0,
+          "tone": "normal"
+        },
+        {
+          "label": "RAM 사용량",
+          "value": "11.1 / 15.8 GB (70%)",
+          "pct": 70.1,
+          "tone": "normal"
+        },
+        {
+          "label": "SSD 사용량",
+          "value": "333.7 / 476.0 GB (70%)",
+          "pct": 70.1,
+          "tone": "normal"
+        },
+        {
+          "label": "SSD 여유 공간",
+          "value": "142.3 / 476.0 GB",
+          "pct": 29.900000000000006,
+          "tone": "normal"
+        },
+        {
+          "label": "SSD 온도",
+          "value": "40.0 °C",
+          "pct": 40.0,
+          "tone": "normal"
+        },
+        {
+          "label": "업타임",
+          "value": "103시간 26분",
+          "pct": 100,
+          "tone": "normal"
+        },
+        {
+          "label": "네트워크 수신",
+          "value": "4124.2 MB",
+          "pct": 100,
+          "tone": "normal"
+        },
+        {
+          "label": "네트워크 송신",
+          "value": "643.8 MB",
+          "pct": 100,
+          "tone": "normal"
+        }
+      ]
+    },
+    "openclaw": {
+      "summary": "OpenClaw 2026.6.9 (c645ec4)",
+      "take": "Runtime: running (last run 267009, last run time 07-18(토) 오후 11:37:50) | Listening: 127.0.0.1:18789",
+      "metrics": [
+        {
+          "label": "Gateway",
+          "value": "bind=loopback (127.0.0.1), port=18789 (service args)",
+          "pct": 100,
+          "tone": "normal"
+        },
+        {
+          "label": "Probe note",
+          "value": "Loopback-only gateway; only local clients can connect.",
+          "pct": 100,
+          "tone": "normal"
+        },
+        {
+          "label": "Runtime",
+          "value": "running (last run 267009, last run time 07-18(토) 오후 11:37:50)",
+          "pct": 100,
+          "tone": "good"
+        },
+        {
+          "label": "Listening",
+          "value": "127.0.0.1:18789",
+          "pct": 100,
+          "tone": "good"
+        }
+      ]
+    }
+  },
+  "cards": [
+    {
+      "title": "오늘의 한마디",
+      "summary": "오늘 일정이 비어 있다면, 오히려 중요한 걸 조용히 정리할 수 있는 좋은 날입니다.",
+      "take": "습도가 높아 체감이 더 무겁습니다. 물을 자주 마시며 리듬을 유지하면 좋겠습니다. 오늘은 마음을 급하게 쓰지 말고, 가장 아쉬웠던 한 가지를 먼저 정리해 보시면 좋겠습니다. 그런 작은 정리가 하루의 기분을 꽤 크게 바꿉니다.",
+      "meta": [
+        "응원",
+        "중간 길이"
+      ],
+      "entities": [],
+      "keywords": [
+        "아침",
+        "집중"
+      ],
+      "links": []
+    },
+    {
+      "title": "오늘 일정",
+      "summary": "오늘 일정 없음",
+      "take": "오늘 등록된 일정이 없습니다. 이럴 때는 중요한 정리 한두 개만 분명하게 끝내도 충분합니다.",
+      "meta": [
+        "일정",
+        "calendar"
+      ],
+      "entities": [
+        "calendar"
+      ],
+      "keywords": [
+        "calendar"
+      ],
+      "links": []
+    },
+    {
+      "title": "주요 메일 / 중요 알림",
+      "summary": "[중요인물] 🚀 Introducing Gemini 3.6 F / [확인필요] 이카운트 ERP, 김지훈 선임입니다.(데모) / [중요인물] 아라테크님, Google이 공들여 준비한 새로운",
+      "take": "지금 확인할 만한 메일만 추렸습니다. 결제, 업무, 보안성 알림 위주로 먼저 보면 됩니다.",
+      "meta": [
+        "메일",
+        "gmail",
+        "중요 알림"
+      ],
+      "entities": [
+        "중요인물",
+        "확인필요"
+      ],
+      "keywords": [
+        "gmail",
+        "alert"
+      ],
+      "links": []
+    },
+    {
+      "title": "유튜브 업데이트",
+      "summary": "@JulianGoldieSEO Hermes Agent Just Got 10 / @fahdmirza Gemini 3.6 Flash — Lost  / @JulianGoldieSEO Qwen 3.8 VS Fable 5 VS G",
+      "take": "업로드 속도가 빠른 채널은 오늘도 여러 편이 들어왔습니다. 중요한 주제부터 2~3개만 골라 보면 효율이 좋습니다.",
+      "meta": [
+        "유튜브",
+        "AI 채널",
+        "중간 길이"
+      ],
+      "entities": [
+        "@JulianGoldieSEO",
+        "@fahdmirza",
+        "@JulianGoldieSEO",
+        "@JulianGoldieSEO"
+      ],
+      "keywords": [
+        "youtube",
+        "update",
+        "thumbnail"
+      ],
+      "links": [
+        {
+          "label": "@JulianGoldieSEO · 07-23 07:00",
+          "url": "https://www.youtube.com/watch?v=VKLbPcz0MdU",
+          "thumbnail": "https://i.ytimg.com/vi/VKLbPcz0MdU/hqdefault.jpg"
+        },
+        {
+          "label": "@fahdmirza · 07-23 06:28",
+          "url": "https://www.youtube.com/watch?v=TdLE5NXgtQ4",
+          "thumbnail": "https://i.ytimg.com/vi/TdLE5NXgtQ4/hqdefault.jpg"
+        },
+        {
+          "label": "@JulianGoldieSEO · 07-23 06:00",
+          "url": "https://www.youtube.com/watch?v=C7kFsl40jE8",
+          "thumbnail": "https://i.ytimg.com/vi/C7kFsl40jE8/hqdefault.jpg"
+        }
+      ]
+    },
+    {
+      "title": "시스템 상태 요약",
+      "summary": "CPU 34.1 % 사용 / 클럭 705.6 MHz / RAM 11.1GB 사용, 총 15.8GB (70%) / SSD 333.7GB 사용, 총 476.0GB (70%)",
+      "take": "CPU는 현재 34.1 % 사용 중이고 클럭은 705.6 MHz, 버스 스피드는 100.8 MHz, RAM은 총 15.8GB 중 11.1GB 사용 (70%), SSD는 총 476.0GB 중 333.7GB 사용 (70%), 여유 142.3GB입니다. 네트워크 인터페이스는 Ethernet, Ethernet 2, Wi-Fi 기준입니다.",
+      "meta": [
+        "시스템",
+        "LHM"
+      ],
+      "entities": [
+        "Intel N100",
+        "RAM",
+        "SSD"
+      ],
+      "keywords": [
+        "temperature",
+        "load",
+        "memory"
+      ],
+      "links": []
+    },
+    {
+      "title": "OpenClaw 상태 요약",
+      "summary": "OpenClaw 2026.6.9 (c645ec4)",
+      "take": "Runtime: running (last run 267009, last run time 07-18(토) 오후 11:37:50) | Listening: 127.0.0.1:18789",
+      "meta": [
+        "OpenClaw",
+        "Gateway"
+      ],
+      "entities": [
+        "main",
+        "gateway"
+      ],
+      "keywords": [
+        "version",
+        "rpc",
+        "status"
+      ],
+      "links": []
+    }
+  ],
+  "footer": "AI-assisted morning briefing, unified data structure ready for stage 2"
+}
