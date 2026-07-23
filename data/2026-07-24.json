@@ -1,0 +1,416 @@
+{
+  "date": "2026-07-24 07:00",
+  "title": "아침 브리핑",
+  "subtitle": "날씨 · 응원 · 일정 · 메일 · 유튜브 · 시스템 · OpenClaw",
+  "summary": "오늘 일정이 비어 있다면, 오히려 중요한 걸 조용히 정리할 수 있는 좋은 날입니다.",
+  "summary_box": "습도가 높아 체감이 더 무겁습니다. 물을 자주 마시며 리듬을 유지하면 좋겠습니다. 오늘은 마음을 급하게 쓰지 말고, 가장 아쉬웠던 한 가지를 먼저 정리해 보시면 좋겠습니다. 그런 작은 정리가 하루의 기분을 꽤 크게 바꿉니다.",
+  "weather": {
+    "loc": "김해",
+    "temp": "25°C",
+    "desc": "Sunny",
+    "icon": "⛅",
+    "badges": [
+      "체감 28°C",
+      "습도 94%",
+      "강수확률 2%",
+      "풍속 4km/h",
+      "UV 0",
+      "미세먼지 정보 연동 예정"
+    ],
+    "detail": {
+      "feels_like": "28",
+      "humidity": "94",
+      "rain_chance": "2",
+      "wind_kmph": "4",
+      "uv": "0",
+      "pm": "미세먼지 정보 연동 예정"
+    },
+    "life_comment": "습도가 높아 체감이 더 무겁습니다. 물을 자주 마시며 리듬을 유지하면 좋겠습니다."
+  },
+  "sections": {
+    "calendar": {
+      "summary": "오늘 일정 없음",
+      "take": "오늘 등록된 일정이 없습니다. 이럴 때는 중요한 정리 한두 개만 분명하게 끝내도 충분합니다.",
+      "items": [],
+      "links": [],
+      "entities": [
+        "calendar"
+      ]
+    },
+    "mail": {
+      "summary": "[확인필요] [아라테크 웹사이트] 신규 견적 문의 접수 알림 / [확인필요] [아라테크] 이메일 실시간 알림 연동 완료 테스 / [중요인물,에러] 보안 알림",
+      "take": "지금 확인할 만한 메일만 추렸습니다. 결제, 업무, 보안성 알림 위주로 먼저 보면 됩니다.",
+      "items": [
+        {
+          "date": "2026-07-24 06:07",
+          "from": "Ara Tech Notification <aratech.design@gmail.com>",
+          "subject": "[아라테크 웹사이트] 신규 견적 문의 접수 알림 (오창재 팀장님)",
+          "tags": [
+            "확인필요"
+          ]
+        },
+        {
+          "date": "2026-07-24 06:06",
+          "from": "Ara Tech Notification <aratech.design@gmail.com>",
+          "subject": "[아라테크] 이메일 실시간 알림 연동 완료 테스트",
+          "tags": [
+            "확인필요"
+          ]
+        },
+        {
+          "date": "2026-07-24 06:05",
+          "from": "Google <no-reply@accounts.google.com>",
+          "subject": "보안 알림",
+          "tags": [
+            "중요인물",
+            "에러"
+          ]
+        },
+        {
+          "date": "2026-07-24 04:16",
+          "from": "OpenRouter Team <welcome@openrouter.ai>",
+          "subject": "Let OpenRouter lower your cost per task",
+          "tags": [
+            "확인필요"
+          ]
+        },
+        {
+          "date": "2026-07-22 13:13",
+          "from": "Google AI Studio <googleaistudio-noreply@google.com>",
+          "subject": "🚀 Introducing Gemini 3.6 Flash and 3.5 Flash-Lite",
+          "tags": [
+            "중요인물"
+          ]
+        }
+      ],
+      "links": [],
+      "entities": [
+        "중요인물",
+        "에러",
+        "확인필요"
+      ]
+    },
+    "youtube": {
+      "summary": "@JulianGoldieSEO Kimi K3 + Hermes AI Agen / @fahdmirza Ling 3.0 Flash: A Produc / @JulianGoldieSEO NEW Google Gemini 3.6 Fl",
+      "take": "업로드 속도가 빠른 채널은 오늘도 여러 편이 들어왔습니다. 중요한 주제부터 2~3개만 골라 보면 효율이 좋습니다.",
+      "items": [
+        {
+          "channel": "@JulianGoldieSEO",
+          "title": "Kimi K3 + Hermes AI Agent Changes Everything!",
+          "published": "07-24 07:00",
+          "published_dt": "2026-07-24T07:00:00+09:00",
+          "url": "https://www.youtube.com/watch?v=loV1ur8vVXU",
+          "thumbnail": "https://i.ytimg.com/vi/loV1ur8vVXU/hqdefault.jpg",
+          "summary": "이 영상은 모델/LLM, 에이전트/자동화, 수익화/마케팅 중심 내용입니다. 구성은 Intro: The Kimi K3 Revolution, How to Set Up Kimi K3 Profiles, Giving Your AI \"Hands\" with Agent OS, Controlling Blender via MCP 순서로 이어지며, 제목만으로는 보이지 않는 변화 배경·핵심 기능·실제 활용 포인트를 짚어보는 영상입니다.",
+          "description_excerpt": "Get the Agent OS & Kimi K 3 Masterclass 👉 00:00 - Intro: The Kimi K3 Revolution 00:38 - How to Set Up Kimi K3 Profiles 01:46 - Giving Your AI \"Hands\" with Agent OS 02:56 - Controlling Blender via MCP 03:48 - Automated Content Workflows 05:01 - Kimi K3 vs. GPT & Fable 5 06:37 - Scaling with Multi-Agent Teams 08:56 - Summary & Agent OS Setup",
+          "transcript_excerpt": "Kimmy K3 plus Hermes AI agent changes everything. Open-source models just closed the gap on the Frontier Labs and I want to show you exactly what that looks like running inside Agent OS. Everything in this video happens in one place. Agent ",
+          "shorts": false
+        },
+        {
+          "channel": "@fahdmirza",
+          "title": "Ling 3.0 Flash: A Production-Scale Coding Agentic Model",
+          "published": "07-24 06:01",
+          "published_dt": "2026-07-24T06:01:23+09:00",
+          "url": "https://www.youtube.com/watch?v=2vkEqjFu7o8",
+          "thumbnail": "https://i.ytimg.com/vi/2vkEqjFu7o8/hqdefault.jpg",
+          "summary": "이 영상은 모델/LLM, 에이전트/자동화 중심 내용입니다. 구성은 This video tests Ling-3.0-flash, a hybrid-reasoning MoE model built for production-scale agents 순서로 이어집니다. Inclusion AI is back after 5 months This time they have not released the model on hugging face rather it is available through free API at open router It's built for production agentic inference",
+          "description_excerpt": "This video tests Ling-3.0-flash, a hybrid-reasoning MoE model built for production-scale agents. 🔥 Get 50% Discount on any A6000 or A5000 GPU rental, use following link and coupon: Coupon code: FahdMirza 🔥 Buy Me a Coffee to support the channel: PLEASE FOLLOW ME: ▶ LinkedIn: / fahdmirza ▶ YouTube: / ▶ Blog: RESOURCES: ▶ All rights reserved © Fahd Mirza",
+          "transcript_excerpt": "Inclusion AI is back after 5 months. This time they have not released the model on hugging face rather it is available through free API at open router. Leng 3 flash is a 124 billion parameter mixture of expert model from an group but only 5",
+          "shorts": false
+        },
+        {
+          "channel": "@JulianGoldieSEO",
+          "title": "NEW Google Gemini 3.6 Flash + 3.5 Flash-Lite Update",
+          "published": "07-24 06:00",
+          "published_dt": "2026-07-24T06:00:32+09:00",
+          "url": "https://www.youtube.com/watch?v=xbv3OgjMyGk",
+          "thumbnail": "https://i.ytimg.com/vi/xbv3OgjMyGk/hqdefault.jpg",
+          "summary": "이 영상은 모델/LLM, 에이전트/자동화 중심 내용입니다. 구성은 Intro – The Gemini release nobody's talking about, Gemini Models Explained – Pro vs Flash vs Flash Lite in 20 seconds, What Google Launched – The 3 new models (and the one you can't use), Gemini 3.5 Flash Lite – 350 tokens/sec and why speed changes your workflow 순서로 이어지며, 제목만으로는 보이지 않는 변화 배경·핵심 기능·실제 활용 포인트를 짚어보는 영상입니다.",
+          "description_excerpt": "Get the Agent OS & Google Gemini Masterclass 👉 00:00 Intro – The Gemini release nobody's talking about 00:35 Gemini Models Explained – Pro vs Flash vs Flash Lite in 20 seconds 01:02 What Google Launched – The 3 new models (and the one you can't use) 01:15 Gemini 3.5 Flash Lite – 350 tokens/sec and why speed changes your workflow 01:39 Thinking Levels – The s",
+          "transcript_excerpt": "Google just dropped Gemini 3.6 Flash and 3.5 Flash Light. Everything you need to know. Did Google just quietly release the most useful model of the year? Nobody's talking about this one. Everyone's waiting on the big flagship model. Wrong o",
+          "shorts": false
+        },
+        {
+          "channel": "@JulianGoldieSEO",
+          "title": "NEW DeepSeek V4 is INSANE! 🤯",
+          "published": "07-24 04:15",
+          "published_dt": "2026-07-24T04:15:15+09:00",
+          "url": "https://www.youtube.com/watch?v=8PesOgRond8",
+          "thumbnail": "https://i.ytimg.com/vi/8PesOgRond8/hqdefault.jpg",
+          "summary": "이 영상은 모델/LLM, 수익화/마케팅 중심 내용입니다. 구성은 Get the Agent OS & INSERTOOL Masterclass 👉 순서로 이어집니다. New DeepSeek V4 is insane This new DeepSeek model reads a million words and costs seven times less It can read almost 1 million words in one go",
+          "description_excerpt": "Get the Agent OS & INSERTOOL Masterclass 👉",
+          "transcript_excerpt": "New DeepSeek V4 is insane. This new DeepSeek model reads a million words and costs seven times less. DeepSeek's new model V4 has 1.6 trillion parameters. It can read almost 1 million words in one go. There are two versions, V4 Pro for hard ",
+          "shorts": false
+        },
+        {
+          "channel": "@진바이브",
+          "title": "GPT 5.6 Sol 모델이 수학 난제를 1시간 만에 증명",
+          "published": "07-24 02:15",
+          "published_dt": "2026-07-24T02:15:31+09:00",
+          "url": "https://www.youtube.com/watch?v=uUTx-3BxWKc",
+          "thumbnail": "https://i.ytimg.com/vi/uUTx-3BxWKc/hqdefault.jpg",
+          "summary": "GPT 5.6 Sol 모델이 수학 난제를 1시간 만에 증명 내용을 다루는 영상입니다. 핵심은 GPT, 모델 관련 변화나 활용 포인트를 소개하는 것입니다.",
+          "description_excerpt": "",
+          "transcript_excerpt": "",
+          "shorts": false
+        }
+      ],
+      "links": [
+        {
+          "label": "@JulianGoldieSEO · 07-24 07:00",
+          "url": "https://www.youtube.com/watch?v=loV1ur8vVXU",
+          "thumbnail": "https://i.ytimg.com/vi/loV1ur8vVXU/hqdefault.jpg"
+        },
+        {
+          "label": "@fahdmirza · 07-24 06:01",
+          "url": "https://www.youtube.com/watch?v=2vkEqjFu7o8",
+          "thumbnail": "https://i.ytimg.com/vi/2vkEqjFu7o8/hqdefault.jpg"
+        },
+        {
+          "label": "@JulianGoldieSEO · 07-24 06:00",
+          "url": "https://www.youtube.com/watch?v=xbv3OgjMyGk",
+          "thumbnail": "https://i.ytimg.com/vi/xbv3OgjMyGk/hqdefault.jpg"
+        }
+      ],
+      "entities": [
+        "@JulianGoldieSEO",
+        "@fahdmirza",
+        "@JulianGoldieSEO",
+        "@JulianGoldieSEO"
+      ]
+    },
+    "system": {
+      "summary": "CPU 20.7 % 사용 / 클럭 1310.4 MHz / RAM 10.8GB 사용, 총 15.8GB (68%) / SSD 334.0GB 사용, 총 476.0GB (70%)",
+      "take": "CPU는 현재 20.7 % 사용 중이고 클럭은 1310.4 MHz, 버스 스피드는 100.8 MHz, RAM은 총 15.8GB 중 10.8GB 사용 (68%), SSD는 총 476.0GB 중 334.0GB 사용 (70%), 여유 142.0GB입니다. 네트워크 인터페이스는 Ethernet, Ethernet 2, Wi-Fi 기준입니다.",
+      "metrics": [
+        {
+          "label": "CPU 사용률",
+          "value": "20.7 %",
+          "pct": 20.7,
+          "tone": "normal"
+        },
+        {
+          "label": "CPU 클럭",
+          "value": "1310.4 MHz",
+          "pct": 37.440000000000005,
+          "tone": "normal"
+        },
+        {
+          "label": "버스 스피드",
+          "value": "100.8 MHz",
+          "pct": 100,
+          "tone": "normal"
+        },
+        {
+          "label": "CPU 온도",
+          "value": "56.0 °C",
+          "pct": 56.0,
+          "tone": "normal"
+        },
+        {
+          "label": "RAM 사용량",
+          "value": "10.8 / 15.8 GB (68%)",
+          "pct": 68.2,
+          "tone": "normal"
+        },
+        {
+          "label": "SSD 사용량",
+          "value": "334.0 / 476.0 GB (70%)",
+          "pct": 70.2,
+          "tone": "normal"
+        },
+        {
+          "label": "SSD 여유 공간",
+          "value": "142.0 / 476.0 GB",
+          "pct": 29.799999999999997,
+          "tone": "normal"
+        },
+        {
+          "label": "SSD 온도",
+          "value": "40.0 °C",
+          "pct": 40.0,
+          "tone": "normal"
+        },
+        {
+          "label": "업타임",
+          "value": "127시간 25분",
+          "pct": 100,
+          "tone": "normal"
+        },
+        {
+          "label": "네트워크 수신",
+          "value": "5114.7 MB",
+          "pct": 100,
+          "tone": "normal"
+        },
+        {
+          "label": "네트워크 송신",
+          "value": "1293.1 MB",
+          "pct": 100,
+          "tone": "normal"
+        }
+      ]
+    },
+    "openclaw": {
+      "summary": "OpenClaw 2026.6.9 (c645ec4)",
+      "take": "Runtime: running (last run 267009, last run time 07-18(토) 오후 11:37:50) | Listening: 127.0.0.1:18789",
+      "metrics": [
+        {
+          "label": "Gateway",
+          "value": "bind=loopback (127.0.0.1), port=18789 (service args)",
+          "pct": 100,
+          "tone": "normal"
+        },
+        {
+          "label": "Probe note",
+          "value": "Loopback-only gateway; only local clients can connect.",
+          "pct": 100,
+          "tone": "normal"
+        },
+        {
+          "label": "Runtime",
+          "value": "running (last run 267009, last run time 07-18(토) 오후 11:37:50)",
+          "pct": 100,
+          "tone": "good"
+        },
+        {
+          "label": "Listening",
+          "value": "127.0.0.1:18789",
+          "pct": 100,
+          "tone": "good"
+        }
+      ]
+    }
+  },
+  "cards": [
+    {
+      "title": "오늘의 한마디",
+      "summary": "오늘 일정이 비어 있다면, 오히려 중요한 걸 조용히 정리할 수 있는 좋은 날입니다.",
+      "take": "습도가 높아 체감이 더 무겁습니다. 물을 자주 마시며 리듬을 유지하면 좋겠습니다. 오늘은 마음을 급하게 쓰지 말고, 가장 아쉬웠던 한 가지를 먼저 정리해 보시면 좋겠습니다. 그런 작은 정리가 하루의 기분을 꽤 크게 바꿉니다.",
+      "meta": [
+        "응원",
+        "중간 길이"
+      ],
+      "entities": [],
+      "keywords": [
+        "아침",
+        "집중"
+      ],
+      "links": []
+    },
+    {
+      "title": "오늘 일정",
+      "summary": "오늘 일정 없음",
+      "take": "오늘 등록된 일정이 없습니다. 이럴 때는 중요한 정리 한두 개만 분명하게 끝내도 충분합니다.",
+      "meta": [
+        "일정",
+        "calendar"
+      ],
+      "entities": [
+        "calendar"
+      ],
+      "keywords": [
+        "calendar"
+      ],
+      "links": []
+    },
+    {
+      "title": "주요 메일 / 중요 알림",
+      "summary": "[확인필요] [아라테크 웹사이트] 신규 견적 문의 접수 알림 / [확인필요] [아라테크] 이메일 실시간 알림 연동 완료 테스 / [중요인물,에러] 보안 알림",
+      "take": "지금 확인할 만한 메일만 추렸습니다. 결제, 업무, 보안성 알림 위주로 먼저 보면 됩니다.",
+      "meta": [
+        "메일",
+        "gmail",
+        "중요 알림"
+      ],
+      "entities": [
+        "중요인물",
+        "에러",
+        "확인필요"
+      ],
+      "keywords": [
+        "gmail",
+        "alert"
+      ],
+      "links": []
+    },
+    {
+      "title": "유튜브 업데이트",
+      "summary": "@JulianGoldieSEO Kimi K3 + Hermes AI Agen / @fahdmirza Ling 3.0 Flash: A Produc / @JulianGoldieSEO NEW Google Gemini 3.6 Fl",
+      "take": "업로드 속도가 빠른 채널은 오늘도 여러 편이 들어왔습니다. 중요한 주제부터 2~3개만 골라 보면 효율이 좋습니다.",
+      "meta": [
+        "유튜브",
+        "AI 채널",
+        "중간 길이"
+      ],
+      "entities": [
+        "@JulianGoldieSEO",
+        "@fahdmirza",
+        "@JulianGoldieSEO",
+        "@JulianGoldieSEO"
+      ],
+      "keywords": [
+        "youtube",
+        "update",
+        "thumbnail"
+      ],
+      "links": [
+        {
+          "label": "@JulianGoldieSEO · 07-24 07:00",
+          "url": "https://www.youtube.com/watch?v=loV1ur8vVXU",
+          "thumbnail": "https://i.ytimg.com/vi/loV1ur8vVXU/hqdefault.jpg"
+        },
+        {
+          "label": "@fahdmirza · 07-24 06:01",
+          "url": "https://www.youtube.com/watch?v=2vkEqjFu7o8",
+          "thumbnail": "https://i.ytimg.com/vi/2vkEqjFu7o8/hqdefault.jpg"
+        },
+        {
+          "label": "@JulianGoldieSEO · 07-24 06:00",
+          "url": "https://www.youtube.com/watch?v=xbv3OgjMyGk",
+          "thumbnail": "https://i.ytimg.com/vi/xbv3OgjMyGk/hqdefault.jpg"
+        }
+      ]
+    },
+    {
+      "title": "시스템 상태 요약",
+      "summary": "CPU 20.7 % 사용 / 클럭 1310.4 MHz / RAM 10.8GB 사용, 총 15.8GB (68%) / SSD 334.0GB 사용, 총 476.0GB (70%)",
+      "take": "CPU는 현재 20.7 % 사용 중이고 클럭은 1310.4 MHz, 버스 스피드는 100.8 MHz, RAM은 총 15.8GB 중 10.8GB 사용 (68%), SSD는 총 476.0GB 중 334.0GB 사용 (70%), 여유 142.0GB입니다. 네트워크 인터페이스는 Ethernet, Ethernet 2, Wi-Fi 기준입니다.",
+      "meta": [
+        "시스템",
+        "LHM"
+      ],
+      "entities": [
+        "Intel N100",
+        "RAM",
+        "SSD"
+      ],
+      "keywords": [
+        "temperature",
+        "load",
+        "memory"
+      ],
+      "links": []
+    },
+    {
+      "title": "OpenClaw 상태 요약",
+      "summary": "OpenClaw 2026.6.9 (c645ec4)",
+      "take": "Runtime: running (last run 267009, last run time 07-18(토) 오후 11:37:50) | Listening: 127.0.0.1:18789",
+      "meta": [
+        "OpenClaw",
+        "Gateway"
+      ],
+      "entities": [
+        "main",
+        "gateway"
+      ],
+      "keywords": [
+        "version",
+        "rpc",
+        "status"
+      ],
+      "links": []
+    }
+  ],
+  "footer": "AI-assisted morning briefing, unified data structure ready for stage 2"
+}
