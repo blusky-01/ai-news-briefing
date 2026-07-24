@@ -1,0 +1,413 @@
+{
+  "date": "2026-07-25 07:00",
+  "title": "아침 브리핑",
+  "subtitle": "날씨 · 응원 · 일정 · 메일 · 유튜브 · 시스템 · OpenClaw",
+  "summary": "오늘 일정이 비어 있다면, 오히려 중요한 걸 조용히 정리할 수 있는 좋은 날입니다.",
+  "summary_box": "습도가 높아 체감이 더 무겁습니다. 물을 자주 마시며 리듬을 유지하면 좋겠습니다. 오늘은 마음을 급하게 쓰지 말고, 가장 아쉬웠던 한 가지를 먼저 정리해 보시면 좋겠습니다. 그런 작은 정리가 하루의 기분을 꽤 크게 바꿉니다.",
+  "weather": {
+    "loc": "김해",
+    "temp": "25°C",
+    "desc": "Sunny",
+    "icon": "⛅",
+    "badges": [
+      "체감 28°C",
+      "습도 94%",
+      "강수확률 3%",
+      "풍속 5km/h",
+      "UV 0",
+      "미세먼지 정보 연동 예정"
+    ],
+    "detail": {
+      "feels_like": "28",
+      "humidity": "94",
+      "rain_chance": "3",
+      "wind_kmph": "5",
+      "uv": "0",
+      "pm": "미세먼지 정보 연동 예정"
+    },
+    "life_comment": "습도가 높아 체감이 더 무겁습니다. 물을 자주 마시며 리듬을 유지하면 좋겠습니다."
+  },
+  "sections": {
+    "calendar": {
+      "summary": "오늘 일정 없음",
+      "take": "오늘 등록된 일정이 없습니다. 이럴 때는 중요한 정리 한두 개만 분명하게 끝내도 충분합니다.",
+      "items": [],
+      "links": [],
+      "entities": [
+        "calendar"
+      ]
+    },
+    "mail": {
+      "summary": "[확인필요] Welcome to Readdy! / [중요인물] Google 계정 데이터 일부를 Readdy에  / [확인필요] [아라테크 웹사이트] 신규 견적 문의 접수 알림",
+      "take": "지금 확인할 만한 메일만 추렸습니다. 결제, 업무, 보안성 알림 위주로 먼저 보면 됩니다.",
+      "items": [
+        {
+          "date": "2026-07-25 04:48",
+          "from": "Readdy <hi@readdy.ai>",
+          "subject": "Welcome to Readdy!",
+          "tags": [
+            "확인필요"
+          ]
+        },
+        {
+          "date": "2026-07-25 03:48",
+          "from": "Google <noreply-accounts@google.com>",
+          "subject": "Google 계정 데이터 일부를 Readdy에 공유하셨습니다",
+          "tags": [
+            "중요인물"
+          ]
+        },
+        {
+          "date": "2026-07-25 03:20",
+          "from": "Ara Tech Notification <aratech.design@gmail.com>",
+          "subject": "[아라테크 웹사이트] 신규 견적 문의 접수 알림 (오테스트)",
+          "tags": [
+            "확인필요"
+          ]
+        },
+        {
+          "date": "2026-07-25 03:16",
+          "from": "Ara Tech Notification <aratech.design@gmail.com>",
+          "subject": "[아라테크 웹사이트] 신규 견적 문의 접수 알림 (모모모)",
+          "tags": [
+            "확인필요"
+          ]
+        },
+        {
+          "date": "2026-07-25 02:58",
+          "from": "Ara Tech Notification <aratech.design@gmail.com>",
+          "subject": "[아라테크 웹사이트] 신규 견적 문의 접수 알림 (업로드테스트)",
+          "tags": [
+            "확인필요"
+          ]
+        }
+      ],
+      "links": [],
+      "entities": [
+        "중요인물",
+        "확인필요"
+      ]
+    },
+    "youtube": {
+      "summary": "@fahdmirza Beyond Qwen & DeepSeek:  / @JulianGoldieSEO Gemma 4 + Ollama Coding  / @JulianGoldieSEO Claude Opus 5 DESTROYS F",
+      "take": "업로드 속도가 빠른 채널은 오늘도 여러 편이 들어왔습니다. 중요한 주제부터 2~3개만 골라 보면 효율이 좋습니다.",
+      "items": [
+        {
+          "channel": "@fahdmirza",
+          "title": "Beyond Qwen & DeepSeek: Testing Intern-S2-Preview-397B",
+          "published": "07-25 06:42",
+          "published_dt": "2026-07-25T06:42:39+09:00",
+          "url": "https://www.youtube.com/watch?v=1_RaUfdZINI",
+          "thumbnail": "https://i.ytimg.com/vi/1_RaUfdZINI/hqdefault.jpg",
+          "summary": "이 영상은 모델/LLM, 에이전트/자동화, 튜토리얼/설정 중심 내용입니다. 구성은 This video tests Intern-S2-Preview-397B, InternLM's most capable multimodal foundation model for scientific intelligence, 🔥 Buy Me a Coffee to support the channel: PLEASE FOLLOW ME: ▶ LinkedIn: ▶ YouTube: ▶ Blog: RELATED VIDEOS: ▶ All rights reserved © Fahd Mirza 순서로 이어지며, 제목만으로는 보이지 않는 변화 배경·핵심 기능·실제 활용 포인트를 짚어보는 영상입니다.",
+          "description_excerpt": "This video tests Intern-S2-Preview-397B, InternLM's most capable multimodal foundation model for scientific intelligence. 🔥 Buy Me a Coffee to support the channel: PLEASE FOLLOW ME: ▶ LinkedIn: ▶ YouTube: ▶ Blog: RELATED VIDEOS: ▶ All rights reserved © Fahd Mirza",
+          "transcript_excerpt": "When people talk about the Chinese AI landscape, the conversation almost always circles back to the same names. Quen, Deepseek, Miniax, Moonshot. But that's only the tip of it. Sitting behind some of the most technically ambitious open rele",
+          "shorts": false
+        },
+        {
+          "channel": "@JulianGoldieSEO",
+          "title": "Gemma 4 + Ollama Coding Agents Are INSANE",
+          "published": "07-25 06:00",
+          "published_dt": "2026-07-25T06:00:25+09:00",
+          "url": "https://www.youtube.com/watch?v=jtw5EjjFeXM",
+          "thumbnail": "https://i.ytimg.com/vi/jtw5EjjFeXM/hqdefault.jpg",
+          "summary": "이 영상은 모델/LLM, 에이전트/자동화, 튜토리얼/설정 중심 내용입니다. 구성은 Intro – Why local coding agents just got good, Ollama vs Gemma 4 – The confusion costing you hours, What Makes Gemma 4 Different – Multimodal, reasoner-by-default, Thinking Modes – Dial reasoning up or down on demand 순서로 이어지며, 제목만으로는 보이지 않는 변화 배경·핵심 기능·실제 활용 포인트를 짚어보는 영상입니다.",
+          "description_excerpt": "Get the Agent OS & Gemma 4 + Ollama Masterclass 👉 00:00 Intro – Why local coding agents just got good 00:40 Ollama vs Gemma 4 – The confusion costing you hours 01:01 What Makes Gemma 4 Different – Multimodal, reasoner-by-default 01:25 Thinking Modes – Dial reasoning up or down on demand 01:41 Context Windows – 128K vs 256K, and which you need 01:51 Native Fu",
+          "transcript_excerpt": "Gemma 4 plus Ollama coding agents are insane. What if the best coding agent you could run this week didn't need the internet at all? What if it was sitting on your own laptop? Most people still think local models are too weak for real work.",
+          "shorts": false
+        },
+        {
+          "channel": "@JulianGoldieSEO",
+          "title": "Claude Opus 5 DESTROYS Fable 5?",
+          "published": "07-25 04:16",
+          "published_dt": "2026-07-25T04:16:14+09:00",
+          "url": "https://www.youtube.com/watch?v=xcZ1fXq-2vk",
+          "thumbnail": "https://i.ytimg.com/vi/xcZ1fXq-2vk/hqdefault.jpg",
+          "summary": "이 영상은 모델/LLM, 에이전트/자동화 중심 내용입니다. 구성은 Get the Claude 5 Masterclass + Agent OS 👉 순서로 이어집니다. Claude Opus 5 just dropped and I can tell you right now we've tested it across many different builds already Only just dropped about an hour and a half ago and it is an absolute banger So, just to recap, this is the announcement of Claude Opus 5",
+          "description_excerpt": "Get the Claude 5 Masterclass + Agent OS 👉",
+          "transcript_excerpt": "Claude Opus 5 just dropped and I can tell you right now we've tested it across many different builds already. Only just dropped about an hour and a half ago and it is an absolute banger. So, I'm going to show you exactly how it works, how i",
+          "shorts": false
+        },
+        {
+          "channel": "@JulianGoldieSEO",
+          "title": "Hermes Agent V0.19 Just Changed AI Agents Forever!",
+          "published": "07-25 03:00",
+          "published_dt": "2026-07-25T03:00:32+09:00",
+          "url": "https://www.youtube.com/watch?v=EXYuuHJBOtI",
+          "thumbnail": "https://i.ytimg.com/vi/EXYuuHJBOtI/hqdefault.jpg",
+          "summary": "이 영상은 모델/LLM, 에이전트/자동화, 수익화/마케팅 중심 내용입니다. 구성은 Get the Agent OS & INSERTOOL Masterclass 👉 순서로 이어집니다. Hermes' agent V0.19 just changed AI agents forever Hermes' agent just got 80% faster Cold start time went from 4.3 seconds to 0.9",
+          "description_excerpt": "Get the Agent OS & INSERTOOL Masterclass 👉",
+          "transcript_excerpt": "Hermes' agent V0.19 just changed AI agents forever. Hermes' agent just got 80% faster. V0.19 just dropped and it's called the Quicksilver release for a reason. Cold start time went from 4.3 seconds to 0.9. Replies now land 80% faster. Backg",
+          "shorts": false
+        },
+        {
+          "channel": "@jocoding",
+          "title": "로고들이 다 이상하게 보이는 저주",
+          "published": "07-24 18:01",
+          "published_dt": "2026-07-24T18:01:30+09:00",
+          "url": "https://www.youtube.com/watch?v=N6SeR4BhwqQ",
+          "thumbnail": "https://i.ytimg.com/vi/N6SeR4BhwqQ/hqdefault.jpg",
+          "summary": "이 영상은 개발도구 중심 내용입니다. ✅ 조코딩과 코딩 공부하기 VVIP 멤버십 후원 그림자그림자님, 차딩Chading TV님, Sicongbabe님, 정진균님, Tae hwan Kim님, 시원-r9u님, YCN유림방송님, 그래머피티님, GomnaStudio님, violet8mira...",
+          "description_excerpt": "✅ 조코딩과 코딩 공부하기 VVIP 멤버십 후원 그림자그림자님, 차딩Chading TV님, Sicongbabe님, 정진균님, Tae hwan Kim님, 시원-r9u님, YCN유림방송님, 그래머피티님, GomnaStudio님, violet8mira님, 천사슥님, jsp3356님, 예스타님, yubizen님, shintony667님 감사드립니다.",
+          "transcript_excerpt": "",
+          "shorts": false
+        }
+      ],
+      "links": [
+        {
+          "label": "@fahdmirza · 07-25 06:42",
+          "url": "https://www.youtube.com/watch?v=1_RaUfdZINI",
+          "thumbnail": "https://i.ytimg.com/vi/1_RaUfdZINI/hqdefault.jpg"
+        },
+        {
+          "label": "@JulianGoldieSEO · 07-25 06:00",
+          "url": "https://www.youtube.com/watch?v=jtw5EjjFeXM",
+          "thumbnail": "https://i.ytimg.com/vi/jtw5EjjFeXM/hqdefault.jpg"
+        },
+        {
+          "label": "@JulianGoldieSEO · 07-25 04:16",
+          "url": "https://www.youtube.com/watch?v=xcZ1fXq-2vk",
+          "thumbnail": "https://i.ytimg.com/vi/xcZ1fXq-2vk/hqdefault.jpg"
+        }
+      ],
+      "entities": [
+        "@fahdmirza",
+        "@JulianGoldieSEO",
+        "@JulianGoldieSEO",
+        "@JulianGoldieSEO"
+      ]
+    },
+    "system": {
+      "summary": "CPU 15.9 % 사용 / 클럭 604.8 MHz / RAM 10.6GB 사용, 총 15.8GB (67%) / SSD 336.4GB 사용, 총 476.0GB (71%)",
+      "take": "CPU는 현재 15.9 % 사용 중이고 클럭은 604.8 MHz, 버스 스피드는 100.8 MHz, RAM은 총 15.8GB 중 10.6GB 사용 (67%), SSD는 총 476.0GB 중 336.4GB 사용 (71%), 여유 139.5GB입니다. 네트워크 인터페이스는 Ethernet, Ethernet 2, Wi-Fi 기준입니다.",
+      "metrics": [
+        {
+          "label": "CPU 사용률",
+          "value": "15.9 %",
+          "pct": 15.9,
+          "tone": "normal"
+        },
+        {
+          "label": "CPU 클럭",
+          "value": "604.8 MHz",
+          "pct": 17.279999999999998,
+          "tone": "normal"
+        },
+        {
+          "label": "버스 스피드",
+          "value": "100.8 MHz",
+          "pct": 100,
+          "tone": "normal"
+        },
+        {
+          "label": "CPU 온도",
+          "value": "46.0 °C",
+          "pct": 46.0,
+          "tone": "normal"
+        },
+        {
+          "label": "RAM 사용량",
+          "value": "10.6 / 15.8 GB (67%)",
+          "pct": 67.3,
+          "tone": "normal"
+        },
+        {
+          "label": "SSD 사용량",
+          "value": "336.4 / 476.0 GB (71%)",
+          "pct": 70.7,
+          "tone": "normal"
+        },
+        {
+          "label": "SSD 여유 공간",
+          "value": "139.5 / 476.0 GB",
+          "pct": 29.299999999999997,
+          "tone": "normal"
+        },
+        {
+          "label": "SSD 온도",
+          "value": "40.0 °C",
+          "pct": 40.0,
+          "tone": "normal"
+        },
+        {
+          "label": "업타임",
+          "value": "151시간 25분",
+          "pct": 100,
+          "tone": "normal"
+        },
+        {
+          "label": "네트워크 수신",
+          "value": "7615.1 MB",
+          "pct": 100,
+          "tone": "normal"
+        },
+        {
+          "label": "네트워크 송신",
+          "value": "4816.2 MB",
+          "pct": 100,
+          "tone": "normal"
+        }
+      ]
+    },
+    "openclaw": {
+      "summary": "OpenClaw 2026.6.9 (c645ec4)",
+      "take": "Runtime: running (last run 267009, last run time 07-18(토) 오후 11:37:50) | Listening: 127.0.0.1:18789",
+      "metrics": [
+        {
+          "label": "Gateway",
+          "value": "bind=loopback (127.0.0.1), port=18789 (service args)",
+          "pct": 100,
+          "tone": "normal"
+        },
+        {
+          "label": "Probe note",
+          "value": "Loopback-only gateway; only local clients can connect.",
+          "pct": 100,
+          "tone": "normal"
+        },
+        {
+          "label": "Runtime",
+          "value": "running (last run 267009, last run time 07-18(토) 오후 11:37:50)",
+          "pct": 100,
+          "tone": "good"
+        },
+        {
+          "label": "Listening",
+          "value": "127.0.0.1:18789",
+          "pct": 100,
+          "tone": "good"
+        }
+      ]
+    }
+  },
+  "cards": [
+    {
+      "title": "오늘의 한마디",
+      "summary": "오늘 일정이 비어 있다면, 오히려 중요한 걸 조용히 정리할 수 있는 좋은 날입니다.",
+      "take": "습도가 높아 체감이 더 무겁습니다. 물을 자주 마시며 리듬을 유지하면 좋겠습니다. 오늘은 마음을 급하게 쓰지 말고, 가장 아쉬웠던 한 가지를 먼저 정리해 보시면 좋겠습니다. 그런 작은 정리가 하루의 기분을 꽤 크게 바꿉니다.",
+      "meta": [
+        "응원",
+        "중간 길이"
+      ],
+      "entities": [],
+      "keywords": [
+        "아침",
+        "집중"
+      ],
+      "links": []
+    },
+    {
+      "title": "오늘 일정",
+      "summary": "오늘 일정 없음",
+      "take": "오늘 등록된 일정이 없습니다. 이럴 때는 중요한 정리 한두 개만 분명하게 끝내도 충분합니다.",
+      "meta": [
+        "일정",
+        "calendar"
+      ],
+      "entities": [
+        "calendar"
+      ],
+      "keywords": [
+        "calendar"
+      ],
+      "links": []
+    },
+    {
+      "title": "주요 메일 / 중요 알림",
+      "summary": "[확인필요] Welcome to Readdy! / [중요인물] Google 계정 데이터 일부를 Readdy에  / [확인필요] [아라테크 웹사이트] 신규 견적 문의 접수 알림",
+      "take": "지금 확인할 만한 메일만 추렸습니다. 결제, 업무, 보안성 알림 위주로 먼저 보면 됩니다.",
+      "meta": [
+        "메일",
+        "gmail",
+        "중요 알림"
+      ],
+      "entities": [
+        "중요인물",
+        "확인필요"
+      ],
+      "keywords": [
+        "gmail",
+        "alert"
+      ],
+      "links": []
+    },
+    {
+      "title": "유튜브 업데이트",
+      "summary": "@fahdmirza Beyond Qwen & DeepSeek:  / @JulianGoldieSEO Gemma 4 + Ollama Coding  / @JulianGoldieSEO Claude Opus 5 DESTROYS F",
+      "take": "업로드 속도가 빠른 채널은 오늘도 여러 편이 들어왔습니다. 중요한 주제부터 2~3개만 골라 보면 효율이 좋습니다.",
+      "meta": [
+        "유튜브",
+        "AI 채널",
+        "중간 길이"
+      ],
+      "entities": [
+        "@fahdmirza",
+        "@JulianGoldieSEO",
+        "@JulianGoldieSEO",
+        "@JulianGoldieSEO"
+      ],
+      "keywords": [
+        "youtube",
+        "update",
+        "thumbnail"
+      ],
+      "links": [
+        {
+          "label": "@fahdmirza · 07-25 06:42",
+          "url": "https://www.youtube.com/watch?v=1_RaUfdZINI",
+          "thumbnail": "https://i.ytimg.com/vi/1_RaUfdZINI/hqdefault.jpg"
+        },
+        {
+          "label": "@JulianGoldieSEO · 07-25 06:00",
+          "url": "https://www.youtube.com/watch?v=jtw5EjjFeXM",
+          "thumbnail": "https://i.ytimg.com/vi/jtw5EjjFeXM/hqdefault.jpg"
+        },
+        {
+          "label": "@JulianGoldieSEO · 07-25 04:16",
+          "url": "https://www.youtube.com/watch?v=xcZ1fXq-2vk",
+          "thumbnail": "https://i.ytimg.com/vi/xcZ1fXq-2vk/hqdefault.jpg"
+        }
+      ]
+    },
+    {
+      "title": "시스템 상태 요약",
+      "summary": "CPU 15.9 % 사용 / 클럭 604.8 MHz / RAM 10.6GB 사용, 총 15.8GB (67%) / SSD 336.4GB 사용, 총 476.0GB (71%)",
+      "take": "CPU는 현재 15.9 % 사용 중이고 클럭은 604.8 MHz, 버스 스피드는 100.8 MHz, RAM은 총 15.8GB 중 10.6GB 사용 (67%), SSD는 총 476.0GB 중 336.4GB 사용 (71%), 여유 139.5GB입니다. 네트워크 인터페이스는 Ethernet, Ethernet 2, Wi-Fi 기준입니다.",
+      "meta": [
+        "시스템",
+        "LHM"
+      ],
+      "entities": [
+        "Intel N100",
+        "RAM",
+        "SSD"
+      ],
+      "keywords": [
+        "temperature",
+        "load",
+        "memory"
+      ],
+      "links": []
+    },
+    {
+      "title": "OpenClaw 상태 요약",
+      "summary": "OpenClaw 2026.6.9 (c645ec4)",
+      "take": "Runtime: running (last run 267009, last run time 07-18(토) 오후 11:37:50) | Listening: 127.0.0.1:18789",
+      "meta": [
+        "OpenClaw",
+        "Gateway"
+      ],
+      "entities": [
+        "main",
+        "gateway"
+      ],
+      "keywords": [
+        "version",
+        "rpc",
+        "status"
+      ],
+      "links": []
+    }
+  ],
+  "footer": "AI-assisted morning briefing, unified data structure ready for stage 2"
+}
