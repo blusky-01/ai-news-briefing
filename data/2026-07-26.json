@@ -1,0 +1,413 @@
+{
+  "date": "2026-07-26 07:00",
+  "title": "아침 브리핑",
+  "subtitle": "날씨 · 응원 · 일정 · 메일 · 유튜브 · 시스템 · OpenClaw",
+  "summary": "오늘은 누가 밀어붙이지 않아도 됩니다. 팀장님 리듬대로 중요한 것부터 차분히 끝내면 됩니다.",
+  "summary_box": "습도가 높아 체감이 더 무겁습니다. 물을 자주 마시며 리듬을 유지하면 좋겠습니다. 오늘은 마음을 급하게 쓰지 말고, 가장 아쉬웠던 한 가지를 먼저 정리해 보시면 좋겠습니다. 그런 작은 정리가 하루의 기분을 꽤 크게 바꿉니다.",
+  "weather": {
+    "loc": "김해",
+    "temp": "27°C",
+    "desc": "Clear ",
+    "icon": "⛅",
+    "badges": [
+      "체감 32°C",
+      "습도 89%",
+      "강수확률 2%",
+      "풍속 7km/h",
+      "UV 0",
+      "미세먼지 정보 연동 예정"
+    ],
+    "detail": {
+      "feels_like": "32",
+      "humidity": "89",
+      "rain_chance": "2",
+      "wind_kmph": "7",
+      "uv": "0",
+      "pm": "미세먼지 정보 연동 예정"
+    },
+    "life_comment": "습도가 높아 체감이 더 무겁습니다. 물을 자주 마시며 리듬을 유지하면 좋겠습니다."
+  },
+  "sections": {
+    "calendar": {
+      "summary": "오늘 일정 없음",
+      "take": "오늘 등록된 일정이 없습니다. 이럴 때는 중요한 정리 한두 개만 분명하게 끝내도 충분합니다.",
+      "items": [],
+      "links": [],
+      "entities": [
+        "calendar"
+      ]
+    },
+    "mail": {
+      "summary": "[확인필요] Welcome to Readdy! / [중요인물] Google 계정 데이터 일부를 Readdy에  / [확인필요] [아라테크 웹사이트] 신규 견적 문의 접수 알림",
+      "take": "지금 확인할 만한 메일만 추렸습니다. 결제, 업무, 보안성 알림 위주로 먼저 보면 됩니다.",
+      "items": [
+        {
+          "date": "2026-07-25 04:48",
+          "from": "Readdy <hi@readdy.ai>",
+          "subject": "Welcome to Readdy!",
+          "tags": [
+            "확인필요"
+          ]
+        },
+        {
+          "date": "2026-07-25 03:48",
+          "from": "Google <noreply-accounts@google.com>",
+          "subject": "Google 계정 데이터 일부를 Readdy에 공유하셨습니다",
+          "tags": [
+            "중요인물"
+          ]
+        },
+        {
+          "date": "2026-07-25 03:20",
+          "from": "Ara Tech Notification <aratech.design@gmail.com>",
+          "subject": "[아라테크 웹사이트] 신규 견적 문의 접수 알림 (오테스트)",
+          "tags": [
+            "확인필요"
+          ]
+        },
+        {
+          "date": "2026-07-25 03:16",
+          "from": "Ara Tech Notification <aratech.design@gmail.com>",
+          "subject": "[아라테크 웹사이트] 신규 견적 문의 접수 알림 (모모모)",
+          "tags": [
+            "확인필요"
+          ]
+        },
+        {
+          "date": "2026-07-25 02:58",
+          "from": "Ara Tech Notification <aratech.design@gmail.com>",
+          "subject": "[아라테크 웹사이트] 신규 견적 문의 접수 알림 (업로드테스트)",
+          "tags": [
+            "확인필요"
+          ]
+        }
+      ],
+      "links": [],
+      "entities": [
+        "확인필요",
+        "중요인물"
+      ]
+    },
+    "youtube": {
+      "summary": "@fahdmirza Solar Open 2 - An Agenti / @JulianGoldieSEO Gemini Notebook Collecti / @JulianGoldieSEO Claude Code iOS Simulato",
+      "take": "업로드 속도가 빠른 채널은 오늘도 여러 편이 들어왔습니다. 중요한 주제부터 2~3개만 골라 보면 효율이 좋습니다.",
+      "items": [
+        {
+          "channel": "@fahdmirza",
+          "title": "Solar Open 2 - An Agentic Model for Office Productivity",
+          "published": "07-26 06:58",
+          "published_dt": "2026-07-26T06:58:14+09:00",
+          "url": "https://www.youtube.com/watch?v=-deLVCuiLaQ",
+          "thumbnail": "https://i.ytimg.com/vi/-deLVCuiLaQ/hqdefault.jpg",
+          "summary": "이 영상은 모델/LLM 중심 내용입니다. 구성은 This video tests Solar Open 2 which is Upstage’s 250B-A15B open-weight model, for office productivity, document-intensive work 순서로 이어집니다. Solar Open 2 from Korea An openw rate model built for real work It's a 250 billion parameter mixture of expert model with only 15 billion activated",
+          "description_excerpt": "This video tests Solar Open 2 which is Upstage’s 250B-A15B open-weight model, for office productivity, document-intensive work. 🔥 Get 50% Discount on any A6000 or A5000 GPU rental, use following link and coupon: Coupon code: FahdMirza 🔥 Buy Me a Coffee to support the channel: PLEASE FOLLOW ME: ▶ LinkedIn: / fahdmirza ▶ YouTube: / ▶ Blog: RESOURCES: ▶ All rig",
+          "transcript_excerpt": "Solar Open 2 from Korea. An openw rate model built for real work. A gent tasks coding office productivity and chewing through massive documents. It's a 250 billion parameter mixture of expert model with only 15 billion activated. It can han",
+          "shorts": false
+        },
+        {
+          "channel": "@JulianGoldieSEO",
+          "title": "Gemini Notebook Collections Update Is INSANE",
+          "published": "07-26 06:00",
+          "published_dt": "2026-07-26T06:00:13+09:00",
+          "url": "https://www.youtube.com/watch?v=Oe4ErNPfWXc",
+          "thumbnail": "https://i.ytimg.com/vi/Oe4ErNPfWXc/hqdefault.jpg",
+          "summary": "이 영상은 모델/LLM 중심 내용입니다. 구성은 Get the Agent OS & Gemini Notebook Masterclass 👉 순서로 이어집니다. Gemini notebook collections update is insane Have you ever opened your notebooks and just stared at the screen scrolling, scrolling, still scrolling? Google just fixed this quietly, and most people have no idea it happened",
+          "description_excerpt": "Get the Agent OS & Gemini Notebook Masterclass 👉",
+          "transcript_excerpt": "Gemini notebook collections update is insane. Have you ever opened your notebooks and just stared at the screen scrolling, scrolling, still scrolling? You know the notebook is in there somewhere. Google just fixed this quietly, and most peo",
+          "shorts": false
+        },
+        {
+          "channel": "@JulianGoldieSEO",
+          "title": "Claude Code iOS Simulator Update Is INSANE",
+          "published": "07-26 04:00",
+          "published_dt": "2026-07-26T04:00:25+09:00",
+          "url": "https://www.youtube.com/watch?v=CxcpuYeRgKM",
+          "thumbnail": "https://i.ytimg.com/vi/CxcpuYeRgKM/hqdefault.jpg",
+          "summary": "이 영상은 모델/LLM, 수익화/마케팅, 튜토리얼/설정 중심 내용입니다. 구성은 Intro – the clip everyone shared (and the catch they missed), What changed – iOS simulator now runs inside Claude Code, Inside the panel – tap, swipe, and drive the live device, Why it's different – no computer use, no extra Mac permissions 순서로 이어지며, 제목만으로는 보이지 않는 변화 배경·핵심 기능·실제 활용 포인트를 짚어보는 영상입니다.",
+          "description_excerpt": "Get the Claude Code Masterclass 👉 00:00 Intro – the clip everyone shared (and the catch they missed) 00:44 What changed – iOS simulator now runs inside Claude Code 01:24 Inside the panel – tap, swipe, and drive the live device 02:21 Why it's different – no computer use, no extra Mac permissions 03:13 What you need – version, Mac, Xcode, and the plan that's l",
+          "transcript_excerpt": "Claude Code iOS simulator update is insane. Why did this update quietly leave one whole group of users out? Everyone shared the same clip this week. Almost nobody read the small print under it. There is a plan that does not get this at all,",
+          "shorts": false
+        },
+        {
+          "channel": "@JulianGoldieSEO",
+          "title": "NEW Ollama Update is INSANE! 🤯",
+          "published": "07-26 03:00",
+          "published_dt": "2026-07-26T03:00:28+09:00",
+          "url": "https://www.youtube.com/watch?v=3yCibXgo82M",
+          "thumbnail": "https://i.ytimg.com/vi/3yCibXgo82M/hqdefault.jpg",
+          "summary": "이 영상은 모델/LLM 중심 내용입니다. 구성은 Get the Agent OS & INSERTOOL Masterclass 👉 순서로 이어집니다. New Ollama update is insane This new Ollama update makes AI actually finish the job They'd start a task, call a tool, then just stop, or forget, or claim they finished something they never touched",
+          "description_excerpt": "Get the Agent OS & INSERTOOL Masterclass 👉",
+          "transcript_excerpt": "New Ollama update is insane. This new Ollama update makes AI actually finish the job. Local AI models were smart, but they couldn't do anything. They'd start a task, call a tool, then just stop, or forget, or claim they finished something t",
+          "shorts": false
+        },
+        {
+          "channel": "@fahdmirza",
+          "title": "20+ Companies Sign Letter Defending Open-Weight AI — OpenAI, Anthropic & Google Absent",
+          "published": "07-25 19:02",
+          "published_dt": "2026-07-25T19:02:19+09:00",
+          "url": "https://www.youtube.com/watch?v=5-5BFv7BtYg",
+          "thumbnail": "https://i.ytimg.com/vi/5-5BFv7BtYg/hqdefault.jpg",
+          "summary": "이 영상은 모델/LLM, 수익화/마케팅 중심 내용입니다. 구성은 NVIDIA, Meta & 20+ companies just signed a letter defending open-weight AI — while OpenAI, Anthropic and Google stayed silent, Here’s why it matters, 🔥 Buy Me a Coffee to support the channel: PLEASE FOLLOW ME: ▶ LinkedIn: ▶ YouTube: ▶ Blog: RELATED VIDEOS: ▶ All rights reserved © Fahd Mirza 순서로 이어지며, 제목만으로는 보이지 않는 변화 배경·핵심 기능·실제 활용 포인트를 짚어보는 영상입니다.",
+          "description_excerpt": "NVIDIA, Meta & 20+ companies just signed a letter defending open-weight AI — while OpenAI, Anthropic and Google stayed silent. Here’s why it matters. 🔥 Buy Me a Coffee to support the channel: PLEASE FOLLOW ME: ▶ LinkedIn: ▶ YouTube: ▶ Blog: RELATED VIDEOS: ▶ All rights reserved © Fahd Mirza",
+          "transcript_excerpt": "Please watch this video with an open heart and mind. Last week, I walked you through the growing chatter inside the Trump administration about possible restrictions on cutting-edge Chinese open weight models. I said at the time that any mov",
+          "shorts": false
+        }
+      ],
+      "links": [
+        {
+          "label": "@fahdmirza · 07-26 06:58",
+          "url": "https://www.youtube.com/watch?v=-deLVCuiLaQ",
+          "thumbnail": "https://i.ytimg.com/vi/-deLVCuiLaQ/hqdefault.jpg"
+        },
+        {
+          "label": "@JulianGoldieSEO · 07-26 06:00",
+          "url": "https://www.youtube.com/watch?v=Oe4ErNPfWXc",
+          "thumbnail": "https://i.ytimg.com/vi/Oe4ErNPfWXc/hqdefault.jpg"
+        },
+        {
+          "label": "@JulianGoldieSEO · 07-26 04:00",
+          "url": "https://www.youtube.com/watch?v=CxcpuYeRgKM",
+          "thumbnail": "https://i.ytimg.com/vi/CxcpuYeRgKM/hqdefault.jpg"
+        }
+      ],
+      "entities": [
+        "@fahdmirza",
+        "@JulianGoldieSEO",
+        "@JulianGoldieSEO",
+        "@JulianGoldieSEO"
+      ]
+    },
+    "system": {
+      "summary": "CPU 8.6 % 사용 / 클럭 907.2 MHz / RAM 11.3GB 사용, 총 15.8GB (71%) / SSD 337.5GB 사용, 총 476.0GB (71%)",
+      "take": "CPU는 현재 8.6 % 사용 중이고 클럭은 907.2 MHz, 버스 스피드는 100.8 MHz, RAM은 총 15.8GB 중 11.3GB 사용 (71%), SSD는 총 476.0GB 중 337.5GB 사용 (71%), 여유 138.5GB입니다. 네트워크 인터페이스는 Ethernet, Ethernet 2, Wi-Fi 기준입니다.",
+      "metrics": [
+        {
+          "label": "CPU 사용률",
+          "value": "8.6 %",
+          "pct": 8.6,
+          "tone": "normal"
+        },
+        {
+          "label": "CPU 클럭",
+          "value": "907.2 MHz",
+          "pct": 25.92,
+          "tone": "normal"
+        },
+        {
+          "label": "버스 스피드",
+          "value": "100.8 MHz",
+          "pct": 100,
+          "tone": "normal"
+        },
+        {
+          "label": "CPU 온도",
+          "value": "58.0 °C",
+          "pct": 58.0,
+          "tone": "normal"
+        },
+        {
+          "label": "RAM 사용량",
+          "value": "11.3 / 15.8 GB (71%)",
+          "pct": 71.4,
+          "tone": "normal"
+        },
+        {
+          "label": "SSD 사용량",
+          "value": "337.5 / 476.0 GB (71%)",
+          "pct": 70.9,
+          "tone": "normal"
+        },
+        {
+          "label": "SSD 여유 공간",
+          "value": "138.5 / 476.0 GB",
+          "pct": 29.099999999999994,
+          "tone": "normal"
+        },
+        {
+          "label": "SSD 온도",
+          "value": "40.0 °C",
+          "pct": 40.0,
+          "tone": "normal"
+        },
+        {
+          "label": "업타임",
+          "value": "175시간 26분",
+          "pct": 100,
+          "tone": "normal"
+        },
+        {
+          "label": "네트워크 수신",
+          "value": "9397.1 MB",
+          "pct": 100,
+          "tone": "normal"
+        },
+        {
+          "label": "네트워크 송신",
+          "value": "5407.4 MB",
+          "pct": 100,
+          "tone": "normal"
+        }
+      ]
+    },
+    "openclaw": {
+      "summary": "OpenClaw 2026.7.1-2 (0790d9f)",
+      "take": "Runtime: running (pid 18016, state Ready, last run 0, last run time 07-26(일) 오전 12:11:55, Gateway process detected for gateway port 18789.) | Listening: 127.0.0.1:18789",
+      "metrics": [
+        {
+          "label": "Gateway",
+          "value": "bind=loopback (127.0.0.1), port=18789 (service args)",
+          "pct": 100,
+          "tone": "normal"
+        },
+        {
+          "label": "Probe note",
+          "value": "Loopback-only gateway; only local clients can connect.",
+          "pct": 100,
+          "tone": "normal"
+        },
+        {
+          "label": "Runtime",
+          "value": "running (pid 18016, state Ready, last run 0, last run time 07-26(일) 오전 12:11:55, Gateway process detected for gateway port 18789.)",
+          "pct": 100,
+          "tone": "good"
+        },
+        {
+          "label": "Listening",
+          "value": "127.0.0.1:18789",
+          "pct": 100,
+          "tone": "good"
+        }
+      ]
+    }
+  },
+  "cards": [
+    {
+      "title": "오늘의 한마디",
+      "summary": "오늘은 누가 밀어붙이지 않아도 됩니다. 팀장님 리듬대로 중요한 것부터 차분히 끝내면 됩니다.",
+      "take": "습도가 높아 체감이 더 무겁습니다. 물을 자주 마시며 리듬을 유지하면 좋겠습니다. 오늘은 마음을 급하게 쓰지 말고, 가장 아쉬웠던 한 가지를 먼저 정리해 보시면 좋겠습니다. 그런 작은 정리가 하루의 기분을 꽤 크게 바꿉니다.",
+      "meta": [
+        "응원",
+        "중간 길이"
+      ],
+      "entities": [],
+      "keywords": [
+        "아침",
+        "집중"
+      ],
+      "links": []
+    },
+    {
+      "title": "오늘 일정",
+      "summary": "오늘 일정 없음",
+      "take": "오늘 등록된 일정이 없습니다. 이럴 때는 중요한 정리 한두 개만 분명하게 끝내도 충분합니다.",
+      "meta": [
+        "일정",
+        "calendar"
+      ],
+      "entities": [
+        "calendar"
+      ],
+      "keywords": [
+        "calendar"
+      ],
+      "links": []
+    },
+    {
+      "title": "주요 메일 / 중요 알림",
+      "summary": "[확인필요] Welcome to Readdy! / [중요인물] Google 계정 데이터 일부를 Readdy에  / [확인필요] [아라테크 웹사이트] 신규 견적 문의 접수 알림",
+      "take": "지금 확인할 만한 메일만 추렸습니다. 결제, 업무, 보안성 알림 위주로 먼저 보면 됩니다.",
+      "meta": [
+        "메일",
+        "gmail",
+        "중요 알림"
+      ],
+      "entities": [
+        "확인필요",
+        "중요인물"
+      ],
+      "keywords": [
+        "gmail",
+        "alert"
+      ],
+      "links": []
+    },
+    {
+      "title": "유튜브 업데이트",
+      "summary": "@fahdmirza Solar Open 2 - An Agenti / @JulianGoldieSEO Gemini Notebook Collecti / @JulianGoldieSEO Claude Code iOS Simulato",
+      "take": "업로드 속도가 빠른 채널은 오늘도 여러 편이 들어왔습니다. 중요한 주제부터 2~3개만 골라 보면 효율이 좋습니다.",
+      "meta": [
+        "유튜브",
+        "AI 채널",
+        "중간 길이"
+      ],
+      "entities": [
+        "@fahdmirza",
+        "@JulianGoldieSEO",
+        "@JulianGoldieSEO",
+        "@JulianGoldieSEO"
+      ],
+      "keywords": [
+        "youtube",
+        "update",
+        "thumbnail"
+      ],
+      "links": [
+        {
+          "label": "@fahdmirza · 07-26 06:58",
+          "url": "https://www.youtube.com/watch?v=-deLVCuiLaQ",
+          "thumbnail": "https://i.ytimg.com/vi/-deLVCuiLaQ/hqdefault.jpg"
+        },
+        {
+          "label": "@JulianGoldieSEO · 07-26 06:00",
+          "url": "https://www.youtube.com/watch?v=Oe4ErNPfWXc",
+          "thumbnail": "https://i.ytimg.com/vi/Oe4ErNPfWXc/hqdefault.jpg"
+        },
+        {
+          "label": "@JulianGoldieSEO · 07-26 04:00",
+          "url": "https://www.youtube.com/watch?v=CxcpuYeRgKM",
+          "thumbnail": "https://i.ytimg.com/vi/CxcpuYeRgKM/hqdefault.jpg"
+        }
+      ]
+    },
+    {
+      "title": "시스템 상태 요약",
+      "summary": "CPU 8.6 % 사용 / 클럭 907.2 MHz / RAM 11.3GB 사용, 총 15.8GB (71%) / SSD 337.5GB 사용, 총 476.0GB (71%)",
+      "take": "CPU는 현재 8.6 % 사용 중이고 클럭은 907.2 MHz, 버스 스피드는 100.8 MHz, RAM은 총 15.8GB 중 11.3GB 사용 (71%), SSD는 총 476.0GB 중 337.5GB 사용 (71%), 여유 138.5GB입니다. 네트워크 인터페이스는 Ethernet, Ethernet 2, Wi-Fi 기준입니다.",
+      "meta": [
+        "시스템",
+        "LHM"
+      ],
+      "entities": [
+        "Intel N100",
+        "RAM",
+        "SSD"
+      ],
+      "keywords": [
+        "temperature",
+        "load",
+        "memory"
+      ],
+      "links": []
+    },
+    {
+      "title": "OpenClaw 상태 요약",
+      "summary": "OpenClaw 2026.7.1-2 (0790d9f)",
+      "take": "Runtime: running (pid 18016, state Ready, last run 0, last run time 07-26(일) 오전 12:11:55, Gateway process detected for gateway port 18789.) | Listening: 127.0.0.1:18789",
+      "meta": [
+        "OpenClaw",
+        "Gateway"
+      ],
+      "entities": [
+        "main",
+        "gateway"
+      ],
+      "keywords": [
+        "version",
+        "rpc",
+        "status"
+      ],
+      "links": []
+    }
+  ],
+  "footer": "AI-assisted morning briefing, unified data structure ready for stage 2"
+}
