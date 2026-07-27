@@ -1,0 +1,408 @@
+{
+  "date": "2026-07-28 07:00",
+  "title": "아침 브리핑",
+  "subtitle": "날씨 · 응원 · 일정 · 메일 · 유튜브 · 시스템 · OpenClaw",
+  "summary": "비어 있는 하루는 느슨한 하루가 아니라, 진짜 필요한 걸 선명하게 끝낼 수 있는 하루입니다.",
+  "summary_box": "날씨 데이터를 다시 점검해야 합니다. 오늘은 마음을 급하게 쓰지 말고, 가장 아쉬웠던 한 가지를 먼저 정리해 보시면 좋겠습니다. 그런 작은 정리가 하루의 기분을 꽤 크게 바꿉니다.",
+  "weather": {
+    "loc": "김해",
+    "temp": "-",
+    "desc": "날씨 조회 실패",
+    "icon": "⛅",
+    "badges": [
+      "fallback"
+    ],
+    "detail": {
+      "feels_like": "-",
+      "humidity": "-",
+      "rain_chance": "-",
+      "wind_kmph": "-",
+      "uv": "-",
+      "pm": "-"
+    },
+    "life_comment": "날씨 데이터를 다시 점검해야 합니다."
+  },
+  "sections": {
+    "calendar": {
+      "summary": "오늘 일정 없음",
+      "take": "오늘 등록된 일정이 없습니다. 이럴 때는 중요한 정리 한두 개만 분명하게 끝내도 충분합니다.",
+      "items": [],
+      "links": [],
+      "entities": [
+        "calendar"
+      ]
+    },
+    "mail": {
+      "summary": "[확인필요] Don’t leave your new websi / [중요인물] 추천 강좌: Google AI Essential / [확인필요] [아라테크 웹사이트] 신규 견적 문의 접수 알림",
+      "take": "지금 확인할 만한 메일만 추렸습니다. 결제, 업무, 보안성 알림 위주로 먼저 보면 됩니다.",
+      "items": [
+        {
+          "date": "2026-07-28 03:48",
+          "from": "Readdy <hi@readdy.ai>",
+          "subject": "Don’t leave your new website unfinished",
+          "tags": [
+            "확인필요"
+          ]
+        },
+        {
+          "date": "2026-07-27 22:10",
+          "from": "Coursera <Coursera@m.learn.coursera.org>",
+          "subject": "추천 강좌: Google AI Essentials",
+          "tags": [
+            "중요인물"
+          ]
+        },
+        {
+          "date": "2026-07-27 18:06",
+          "from": "Ara Tech Notification <aratech.design@gmail.com>",
+          "subject": "[아라테크 웹사이트] 신규 견적 문의 접수 알림 (Pranab)",
+          "tags": [
+            "확인필요"
+          ]
+        },
+        {
+          "date": "2026-07-27 18:06",
+          "from": "Ara Tech Notification <aratech.design@gmail.com>",
+          "subject": "[아라테크 웹사이트] 신규 견적 문의 접수 알림 (Pranab)",
+          "tags": [
+            "확인필요"
+          ]
+        },
+        {
+          "date": "2026-07-27 14:25",
+          "from": "Google <noreply-accounts@google.com>",
+          "subject": "Google 계정 데이터 일부를 byterover.dev에 공유하셨습니다",
+          "tags": [
+            "중요인물"
+          ]
+        }
+      ],
+      "links": [],
+      "entities": [
+        "중요인물",
+        "확인필요"
+      ]
+    },
+    "youtube": {
+      "summary": "@JulianGoldieSEO Automate Your Entire Lea / @fahdmirza Microsoft Mage-Flow: Ima / @JulianGoldieSEO This NEW AI AGENT BEATS ",
+      "take": "업로드 속도가 빠른 채널은 오늘도 여러 편이 들어왔습니다. 중요한 주제부터 2~3개만 골라 보면 효율이 좋습니다.",
+      "items": [
+        {
+          "channel": "@JulianGoldieSEO",
+          "title": "Automate Your Entire Lead Pipeline With Hermes",
+          "published": "07-28 06:00",
+          "published_dt": "2026-07-28T06:00:20+09:00",
+          "url": "https://www.youtube.com/watch?v=Zwtorh9Plx0",
+          "thumbnail": "https://i.ytimg.com/vi/Zwtorh9Plx0/hqdefault.jpg",
+          "summary": "이 영상은 모델/LLM, 에이전트/자동화, 수익화/마케팅 중심 내용입니다. 구성은 Get the Agent OS & Hermes Masterclass 👉 Get the Agent OS & INSERTOOL Masterclass 👉 순서로 이어집니다. Automate your entire lead pipeline with Hermes What if finding the right people to reach didn't take a spreadsheet, no list, no guessing, no 12 tabs open, just one sentence Sounds fake, right?",
+          "description_excerpt": "Get the Agent OS & Hermes Masterclass 👉 Get the Agent OS & INSERTOOL Masterclass 👉",
+          "transcript_excerpt": "Automate your entire lead pipeline with Hermes. What if finding the right people to reach didn't take a spreadsheet, no list, no guessing, no 12 tabs open, just one sentence. You describe who you want and it goes and gets them. Sounds fake,",
+          "shorts": false
+        },
+        {
+          "channel": "@fahdmirza",
+          "title": "Microsoft Mage-Flow: Image Generation and Editing Locally",
+          "published": "07-28 05:21",
+          "published_dt": "2026-07-28T05:21:06+09:00",
+          "url": "https://www.youtube.com/watch?v=6Kd-tSBwvig",
+          "thumbnail": "https://i.ytimg.com/vi/6Kd-tSBwvig/hqdefault.jpg",
+          "summary": "이 영상은 모델/LLM, 수익화/마케팅, 튜토리얼/설정 중심 내용입니다. 구성은 Mage-Flow is a compact 4B-scale generative stack for efficient text-to-image generation and instruction-based image editing 순서로 이어지며, 제목만으로는 보이지 않는 변화 배경·핵심 기능·실제 활용 포인트를 짚어보는 영상입니다.",
+          "description_excerpt": "Mage-Flow is a compact 4B-scale generative stack for efficient text-to-image generation and instruction-based image editing. 🔥 Get 50% Discount on any A6000 or A5000 GPU rental, use following link and coupon: Coupon code: FahdMirza 🔥 Buy Me a Coffee to support the channel: PLEASE FOLLOW ME: ▶ LinkedIn: / fahdmirza ▶ YouTube: / ▶ Blog: RESOURCES: ▶ All rights",
+          "transcript_excerpt": "Mage flow is Microsoft's answer to a question that AI world keeps asking. Do you actually need a massive power hungry model to get stunning image generation and editing? Their answer is no. A tightly co-assigned co-designed 4 billion parame",
+          "shorts": false
+        },
+        {
+          "channel": "@JulianGoldieSEO",
+          "title": "This NEW AI AGENT BEATS CHATGPT 5! 🤯",
+          "published": "07-28 04:00",
+          "published_dt": "2026-07-28T04:00:26+09:00",
+          "url": "https://www.youtube.com/watch?v=3Y0EU6N6ADY",
+          "thumbnail": "https://i.ytimg.com/vi/3Y0EU6N6ADY/hqdefault.jpg",
+          "summary": "이 영상은 모델/LLM, 에이전트/자동화, 수익화/마케팅 중심 내용입니다. 구성은 Intro to Celeris 1, Celeris 1 vs. ChatGPT-5 Speed, Speed vs. Reasoning Quality, How Diffusion Text Generation Works 순서로 이어집니다. This new AI agent beats Chat GPT-5 And today, I'm going to show you exactly why it matters It answers almost instantly",
+          "description_excerpt": "Get the Agent OS & Celeris 1 Masterclass 👉 00:00 - Intro to Celeris 1 00:13 - Celeris 1 vs. ChatGPT-5 Speed 01:14 - Speed vs. Reasoning Quality 02:14 - How Diffusion Text Generation Works 03:32 - Using AI for Customer Support 05:13 - 3 AI Workflows for Business Growth 07:22 - Free AI Prompts & Resources",
+          "transcript_excerpt": "This new AI agent beats Chat GPT-5. That's the claim. And today, I'm going to show you exactly why it matters. Meet Selerus-1. It's a brand new AI model, and it does something Chat GPT-5 doesn't do. It answers almost instantly. We're talkin",
+          "shorts": false
+        },
+        {
+          "channel": "@JulianGoldieSEO",
+          "title": "New Gemini Notebook Update is INSANE!",
+          "published": "07-28 03:00",
+          "published_dt": "2026-07-28T03:00:30+09:00",
+          "url": "https://www.youtube.com/watch?v=iIU3Daq4LHU",
+          "thumbnail": "https://i.ytimg.com/vi/iIU3Daq4LHU/hqdefault.jpg",
+          "summary": "이 영상은 모델/LLM, 수익화/마케팅 중심 내용입니다. 구성은 Get the Agent OS & INSERTOOL Masterclass 👉 순서로 이어집니다. New Gemini notebook update is insane Google just killed notebook LM and replaced it with something way better That means real folders",
+          "description_excerpt": "Get the Agent OS & INSERTOOL Masterclass 👉",
+          "transcript_excerpt": "New Gemini notebook update is insane. Google just killed notebook LM and replaced it with something way better. Notebook LM is now called Gemini notebook and it just got collections. That means real folders. One for client work, one for You",
+          "shorts": false
+        },
+        {
+          "channel": "@jocoding",
+          "title": "AI뉴스 - Claude Opus 5, Hugging Face 해킹, 오픈웨이트 규제, Gemini 3.6 Flash, FLUX 3, 샌프란 AI Summit 등",
+          "published": "07-27 23:02",
+          "published_dt": "2026-07-27T23:02:18+09:00",
+          "url": "https://www.youtube.com/watch?v=_tX58F1grUs",
+          "thumbnail": "https://i.ytimg.com/vi/_tX58F1grUs/hqdefault.jpg",
+          "summary": "이 영상은 모델/LLM, 개발도구, 수익화/마케팅 중심 내용입니다. 구성은 Claude Opus 5 출시, 클로드 새로운 스킬 출시, Claude Voice Mode 도입, 보이스 모드를 도입한 이유? 순서로 이어집니다.",
+          "description_excerpt": "조코딩의 바이브 코딩 1인 창업 책: AX 컨설팅 및 교육 문의: 조코헌트: solar open weight day: 🕖목차 00:00 Claude Opus 5 출시 03:02 클로드 새로운 스킬 출시 03:17 Claude Voice Mode 도입 03:51 보이스 모드를 도입한 이유? 04:29 Codex도 Voice 도입 05:14 Codex 사용량 한도 리셋 추적기 05:45 OpenAI 모델이 허깅페이스를 해킹했다 08:51 오픈 웨이트 모델의 보안 능력 09:15 불붙은 오픈웨이트 규제 논란 11:06 OpenAI Sites, 웹사이트 분석 제공 11:30 ChatGPT 광고, 모두에게 공개 12:13 샘 알트만, 우리는 특이",
+          "transcript_excerpt": "",
+          "shorts": false
+        }
+      ],
+      "links": [
+        {
+          "label": "@JulianGoldieSEO · 07-28 06:00",
+          "url": "https://www.youtube.com/watch?v=Zwtorh9Plx0",
+          "thumbnail": "https://i.ytimg.com/vi/Zwtorh9Plx0/hqdefault.jpg"
+        },
+        {
+          "label": "@fahdmirza · 07-28 05:21",
+          "url": "https://www.youtube.com/watch?v=6Kd-tSBwvig",
+          "thumbnail": "https://i.ytimg.com/vi/6Kd-tSBwvig/hqdefault.jpg"
+        },
+        {
+          "label": "@JulianGoldieSEO · 07-28 04:00",
+          "url": "https://www.youtube.com/watch?v=3Y0EU6N6ADY",
+          "thumbnail": "https://i.ytimg.com/vi/3Y0EU6N6ADY/hqdefault.jpg"
+        }
+      ],
+      "entities": [
+        "@JulianGoldieSEO",
+        "@fahdmirza",
+        "@JulianGoldieSEO",
+        "@JulianGoldieSEO"
+      ]
+    },
+    "system": {
+      "summary": "CPU 19.9 % 사용 / 클럭 2923.2 MHz / RAM 11.8GB 사용, 총 15.8GB (75%) / SSD 344.3GB 사용, 총 476.0GB (72%)",
+      "take": "CPU는 현재 19.9 % 사용 중이고 클럭은 2923.2 MHz, 버스 스피드는 100.8 MHz, RAM은 총 15.8GB 중 11.8GB 사용 (75%), SSD는 총 476.0GB 중 344.3GB 사용 (72%), 여유 131.6GB입니다. 네트워크 인터페이스는 Ethernet, Ethernet 2, Wi-Fi 기준입니다.",
+      "metrics": [
+        {
+          "label": "CPU 사용률",
+          "value": "19.9 %",
+          "pct": 19.9,
+          "tone": "normal"
+        },
+        {
+          "label": "CPU 클럭",
+          "value": "2923.2 MHz",
+          "pct": 83.52,
+          "tone": "normal"
+        },
+        {
+          "label": "버스 스피드",
+          "value": "100.8 MHz",
+          "pct": 100,
+          "tone": "normal"
+        },
+        {
+          "label": "CPU 온도",
+          "value": "49.0 °C",
+          "pct": 49.0,
+          "tone": "normal"
+        },
+        {
+          "label": "RAM 사용량",
+          "value": "11.8 / 15.8 GB (75%)",
+          "pct": 74.6,
+          "tone": "normal"
+        },
+        {
+          "label": "SSD 사용량",
+          "value": "344.3 / 476.0 GB (72%)",
+          "pct": 72.3,
+          "tone": "normal"
+        },
+        {
+          "label": "SSD 여유 공간",
+          "value": "131.6 / 476.0 GB",
+          "pct": 27.700000000000003,
+          "tone": "normal"
+        },
+        {
+          "label": "SSD 온도",
+          "value": "40.0 °C",
+          "pct": 40.0,
+          "tone": "normal"
+        },
+        {
+          "label": "업타임",
+          "value": "223시간 25분",
+          "pct": 100,
+          "tone": "normal"
+        },
+        {
+          "label": "네트워크 수신",
+          "value": "12410.0 MB",
+          "pct": 100,
+          "tone": "normal"
+        },
+        {
+          "label": "네트워크 송신",
+          "value": "6709.2 MB",
+          "pct": 100,
+          "tone": "normal"
+        }
+      ]
+    },
+    "openclaw": {
+      "summary": "OpenClaw 2026.7.1-2 (0790d9f)",
+      "take": "Runtime: running (pid 20020, state Ready, last run 0, last run time 07-27(월) 오전 10:12:29, Gateway process detected for gateway port 18789.) | Listening: 127.0.0.1:18789",
+      "metrics": [
+        {
+          "label": "Gateway",
+          "value": "bind=loopback (127.0.0.1), port=18789 (service args)",
+          "pct": 100,
+          "tone": "normal"
+        },
+        {
+          "label": "Probe note",
+          "value": "Loopback-only gateway; only local clients can connect.",
+          "pct": 100,
+          "tone": "normal"
+        },
+        {
+          "label": "Runtime",
+          "value": "running (pid 20020, state Ready, last run 0, last run time 07-27(월) 오전 10:12:29, Gateway process detected for gateway port 18789.)",
+          "pct": 100,
+          "tone": "good"
+        },
+        {
+          "label": "Listening",
+          "value": "127.0.0.1:18789",
+          "pct": 100,
+          "tone": "good"
+        }
+      ]
+    }
+  },
+  "cards": [
+    {
+      "title": "오늘의 한마디",
+      "summary": "비어 있는 하루는 느슨한 하루가 아니라, 진짜 필요한 걸 선명하게 끝낼 수 있는 하루입니다.",
+      "take": "날씨 데이터를 다시 점검해야 합니다. 오늘은 마음을 급하게 쓰지 말고, 가장 아쉬웠던 한 가지를 먼저 정리해 보시면 좋겠습니다. 그런 작은 정리가 하루의 기분을 꽤 크게 바꿉니다.",
+      "meta": [
+        "응원",
+        "중간 길이"
+      ],
+      "entities": [],
+      "keywords": [
+        "아침",
+        "집중"
+      ],
+      "links": []
+    },
+    {
+      "title": "오늘 일정",
+      "summary": "오늘 일정 없음",
+      "take": "오늘 등록된 일정이 없습니다. 이럴 때는 중요한 정리 한두 개만 분명하게 끝내도 충분합니다.",
+      "meta": [
+        "일정",
+        "calendar"
+      ],
+      "entities": [
+        "calendar"
+      ],
+      "keywords": [
+        "calendar"
+      ],
+      "links": []
+    },
+    {
+      "title": "주요 메일 / 중요 알림",
+      "summary": "[확인필요] Don’t leave your new websi / [중요인물] 추천 강좌: Google AI Essential / [확인필요] [아라테크 웹사이트] 신규 견적 문의 접수 알림",
+      "take": "지금 확인할 만한 메일만 추렸습니다. 결제, 업무, 보안성 알림 위주로 먼저 보면 됩니다.",
+      "meta": [
+        "메일",
+        "gmail",
+        "중요 알림"
+      ],
+      "entities": [
+        "중요인물",
+        "확인필요"
+      ],
+      "keywords": [
+        "gmail",
+        "alert"
+      ],
+      "links": []
+    },
+    {
+      "title": "유튜브 업데이트",
+      "summary": "@JulianGoldieSEO Automate Your Entire Lea / @fahdmirza Microsoft Mage-Flow: Ima / @JulianGoldieSEO This NEW AI AGENT BEATS ",
+      "take": "업로드 속도가 빠른 채널은 오늘도 여러 편이 들어왔습니다. 중요한 주제부터 2~3개만 골라 보면 효율이 좋습니다.",
+      "meta": [
+        "유튜브",
+        "AI 채널",
+        "중간 길이"
+      ],
+      "entities": [
+        "@JulianGoldieSEO",
+        "@fahdmirza",
+        "@JulianGoldieSEO",
+        "@JulianGoldieSEO"
+      ],
+      "keywords": [
+        "youtube",
+        "update",
+        "thumbnail"
+      ],
+      "links": [
+        {
+          "label": "@JulianGoldieSEO · 07-28 06:00",
+          "url": "https://www.youtube.com/watch?v=Zwtorh9Plx0",
+          "thumbnail": "https://i.ytimg.com/vi/Zwtorh9Plx0/hqdefault.jpg"
+        },
+        {
+          "label": "@fahdmirza · 07-28 05:21",
+          "url": "https://www.youtube.com/watch?v=6Kd-tSBwvig",
+          "thumbnail": "https://i.ytimg.com/vi/6Kd-tSBwvig/hqdefault.jpg"
+        },
+        {
+          "label": "@JulianGoldieSEO · 07-28 04:00",
+          "url": "https://www.youtube.com/watch?v=3Y0EU6N6ADY",
+          "thumbnail": "https://i.ytimg.com/vi/3Y0EU6N6ADY/hqdefault.jpg"
+        }
+      ]
+    },
+    {
+      "title": "시스템 상태 요약",
+      "summary": "CPU 19.9 % 사용 / 클럭 2923.2 MHz / RAM 11.8GB 사용, 총 15.8GB (75%) / SSD 344.3GB 사용, 총 476.0GB (72%)",
+      "take": "CPU는 현재 19.9 % 사용 중이고 클럭은 2923.2 MHz, 버스 스피드는 100.8 MHz, RAM은 총 15.8GB 중 11.8GB 사용 (75%), SSD는 총 476.0GB 중 344.3GB 사용 (72%), 여유 131.6GB입니다. 네트워크 인터페이스는 Ethernet, Ethernet 2, Wi-Fi 기준입니다.",
+      "meta": [
+        "시스템",
+        "LHM"
+      ],
+      "entities": [
+        "Intel N100",
+        "RAM",
+        "SSD"
+      ],
+      "keywords": [
+        "temperature",
+        "load",
+        "memory"
+      ],
+      "links": []
+    },
+    {
+      "title": "OpenClaw 상태 요약",
+      "summary": "OpenClaw 2026.7.1-2 (0790d9f)",
+      "take": "Runtime: running (pid 20020, state Ready, last run 0, last run time 07-27(월) 오전 10:12:29, Gateway process detected for gateway port 18789.) | Listening: 127.0.0.1:18789",
+      "meta": [
+        "OpenClaw",
+        "Gateway"
+      ],
+      "entities": [
+        "main",
+        "gateway"
+      ],
+      "keywords": [
+        "version",
+        "rpc",
+        "status"
+      ],
+      "links": []
+    }
+  ],
+  "footer": "AI-assisted morning briefing, unified data structure ready for stage 2"
+}
