@@ -1,0 +1,408 @@
+{
+  "date": "2026-07-29 07:00",
+  "title": "아침 브리핑",
+  "subtitle": "날씨 · 응원 · 일정 · 메일 · 유튜브 · 시스템 · OpenClaw",
+  "summary": "오늘 일정이 비어 있다면, 오히려 중요한 걸 조용히 정리할 수 있는 좋은 날입니다.",
+  "summary_box": "날씨 데이터를 다시 점검해야 합니다. 오늘은 마음을 급하게 쓰지 말고, 가장 아쉬웠던 한 가지를 먼저 정리해 보시면 좋겠습니다. 그런 작은 정리가 하루의 기분을 꽤 크게 바꿉니다.",
+  "weather": {
+    "loc": "김해",
+    "temp": "-",
+    "desc": "날씨 조회 실패",
+    "icon": "⛅",
+    "badges": [
+      "fallback"
+    ],
+    "detail": {
+      "feels_like": "-",
+      "humidity": "-",
+      "rain_chance": "-",
+      "wind_kmph": "-",
+      "uv": "-",
+      "pm": "-"
+    },
+    "life_comment": "날씨 데이터를 다시 점검해야 합니다."
+  },
+  "sections": {
+    "calendar": {
+      "summary": "오늘 일정 없음",
+      "take": "오늘 등록된 일정이 없습니다. 이럴 때는 중요한 정리 한두 개만 분명하게 끝내도 충분합니다.",
+      "items": [],
+      "links": [],
+      "entities": [
+        "calendar"
+      ]
+    },
+    "mail": {
+      "summary": "[확인필요] Architecting AI for Produc / [확인필요] Updates to how the platfor / [확인필요] Don’t leave your new websi",
+      "take": "지금 확인할 만한 메일만 추렸습니다. 결제, 업무, 보안성 알림 위주로 먼저 보면 됩니다.",
+      "items": [
+        {
+          "date": "2026-07-29 05:18",
+          "from": "Cloudflare <em@em1.cloudflare.com>",
+          "subject": "Architecting AI for Production | Connect 2026",
+          "tags": [
+            "확인필요"
+          ]
+        },
+        {
+          "date": "2026-07-28 17:20",
+          "from": "The Higgsfield Team <no-reply@t.higgsfield.ai>",
+          "subject": "Updates to how the platform works, and to our Terms & Privacy",
+          "tags": [
+            "확인필요"
+          ]
+        },
+        {
+          "date": "2026-07-28 03:48",
+          "from": "Readdy <hi@readdy.ai>",
+          "subject": "Don’t leave your new website unfinished",
+          "tags": [
+            "확인필요"
+          ]
+        },
+        {
+          "date": "2026-07-27 22:10",
+          "from": "Coursera <Coursera@m.learn.coursera.org>",
+          "subject": "추천 강좌: Google AI Essentials",
+          "tags": [
+            "중요인물"
+          ]
+        },
+        {
+          "date": "2026-07-27 18:06",
+          "from": "Ara Tech Notification <aratech.design@gmail.com>",
+          "subject": "[아라테크 웹사이트] 신규 견적 문의 접수 알림 (Pranab)",
+          "tags": [
+            "확인필요"
+          ]
+        }
+      ],
+      "links": [],
+      "entities": [
+        "중요인물",
+        "확인필요"
+      ]
+    },
+    "youtube": {
+      "summary": "@fahdmirza AMD Releases First Ever  / @JulianGoldieSEO 5 Hacks to Instantly Lev / @JulianGoldieSEO The Fastest Open-Source ",
+      "take": "업로드 속도가 빠른 채널은 오늘도 여러 편이 들어왔습니다. 중요한 주제부터 2~3개만 골라 보면 효율이 좋습니다.",
+      "items": [
+        {
+          "channel": "@fahdmirza",
+          "title": "AMD Releases First Ever AI model: Instella-MoE-16B-A3B-Think",
+          "published": "07-29 06:07",
+          "published_dt": "2026-07-29T06:07:15+09:00",
+          "url": "https://www.youtube.com/watch?v=7Fke1fsmzww",
+          "thumbnail": "https://i.ytimg.com/vi/7Fke1fsmzww/hqdefault.jpg",
+          "summary": "이 영상은 모델/LLM, 튜토리얼/설정 중심 내용입니다. 구성은 🔥 Buy Me a Coffee to support the channel: PLEASE FOLLOW ME: ▶ LinkedIn: ▶ YouTube: ▶ Blog: RELATED VIDEOS: ▶ All rights reserved © Fahd Mirza 순서로 이어지며, 제목만으로는 보이지 않는 변화 배경·핵심 기능·실제 활용 포인트를 짚어보는 영상입니다.",
+          "description_excerpt": "Trained from scratch on AMD Instinct™ MI300X and MI325X GPUs using AMD's Primus framework, Instella-MoE gives innovations such as Gated Multi-head Latent Attention (Gated MLA) and FarSkip-Collective. 🔥 Buy Me a Coffee to support the channel: PLEASE FOLLOW ME: ▶ LinkedIn: ▶ YouTube: ▶ Blog: RELATED VIDEOS: ▶ All rights reserved © Fahd Mirza",
+          "transcript_excerpt": "AMD has released their first-ever AI model in Stella 16 billion. The only reason I am covering this model is because of the fact that they have added two brand new contributions to attention. This is Fahad Mirza and I welcome you to the cha",
+          "shorts": false
+        },
+        {
+          "channel": "@JulianGoldieSEO",
+          "title": "5 Hacks to Instantly Level Up With Hermes Agent OS",
+          "published": "07-29 06:00",
+          "published_dt": "2026-07-29T06:00:08+09:00",
+          "url": "https://www.youtube.com/watch?v=YjuchUUqCgg",
+          "thumbnail": "https://i.ytimg.com/vi/YjuchUUqCgg/hqdefault.jpg",
+          "summary": "이 영상은 모델/LLM, 에이전트/자동화 중심 내용입니다. 구성은 Intro – Why Hermes fails in a terminal, Hack 1: Oracle – Daily AI news radar that saves an hour, Hack 2: Lead Machine – Verified prospects + personalized openers, Hack 3: Video Agent – Script, voiceover, B-roll, avatar in one click 순서로 이어지며, 제목만으로는 보이지 않는 변화 배경·핵심 기능·실제 활용 포인트를 짚어보는 영상입니다.",
+          "description_excerpt": "Get the Agent OS & Hermes Masterclass 👉 00:00 Intro – Why Hermes fails in a terminal 01:07 Hack 1: Oracle – Daily AI news radar that saves an hour 03:17 Hack 2: Lead Machine – Verified prospects + personalized openers 04:10 Hack 3: Video Agent – Script, voiceover, B-roll, avatar in one click 04:59 Hack 4: SEO Pipeline – Search Console gaps to published pages",
+          "transcript_excerpt": "Five hacks to instantly level up with Hermes Agent OS. Here's something almost nobody realizes. The most powerful free AI agent out right now, most people are running it in completely the wrong place. They open a terminal, poke around, and ",
+          "shorts": false
+        },
+        {
+          "channel": "@JulianGoldieSEO",
+          "title": "The Fastest Open-Source AI Agent Model is HERE",
+          "published": "07-29 04:00",
+          "published_dt": "2026-07-29T04:00:33+09:00",
+          "url": "https://www.youtube.com/watch?v=oDipulgqLro",
+          "thumbnail": "https://i.ytimg.com/vi/oDipulgqLro/hqdefault.jpg",
+          "summary": "이 영상은 모델/LLM, 에이전트/자동화 중심 내용입니다. 구성은 Intro – The AI that fixes its own mistakes mid-write, What It Is – Why diffusion beats word-by-word writing, Self-Correction – The delete/insert trick most models can't do, Under The Hood – 128K context + expert routing explained 순서로 이어지며, 제목만으로는 보이지 않는 변화 배경·핵심 기능·실제 활용 포인트를 짚어보는 영상입니다.",
+          "description_excerpt": "Get the LLaDA2.2-flash Masterclass 👉 00:00 Intro – The AI that fixes its own mistakes mid-write 00:31 What It Is – Why diffusion beats word-by-word writing 01:30 Self-Correction – The delete/insert trick most models can't do 02:13 Under The Hood – 128K context + expert routing explained 03:37 The Numbers – ~703 tokens/sec, benchmark scores, 2x speed 05:09 Sh",
+          "transcript_excerpt": "The fastest open-source AI agent model is here. What if an AI could catch its own mistakes while it's still writing? Not after, during. Most models can't do that. This one just did, and it's completely free to grab. Almost nobody's talking ",
+          "shorts": false
+        },
+        {
+          "channel": "@JulianGoldieSEO",
+          "title": "Kimi K3 Explained in 5 Minutes",
+          "published": "07-29 02:00",
+          "published_dt": "2026-07-29T02:00:34+09:00",
+          "url": "https://www.youtube.com/watch?v=QMUYeiUi-es",
+          "thumbnail": "https://i.ytimg.com/vi/QMUYeiUi-es/hqdefault.jpg",
+          "summary": "이 영상은 모델/LLM, 수익화/마케팅 중심 내용입니다. 구성은 Intro: The Biggest Open AI Model, Benchmarking K3 vs. GPT & Claude, Kimi Delta Attention Explained, The Power of Million-Token Context 순서로 이어지며, 제목만으로는 보이지 않는 변화 배경·핵심 기능·실제 활용 포인트를 짚어보는 영상입니다.",
+          "description_excerpt": "Get the KIMI K 3 Masterclass 👉 00:00 - Intro: The Biggest Open AI Model 00:51 - Benchmarking K3 vs. GPT & Claude 01:31 - Kimi Delta Attention Explained 01:54 - The Power of Million-Token Context 02:22 - Mixture of Experts (MoE) Design 03:47 - Hardware & Self-Hosting Reality 04:32 - Why Open Weights Matter Now 05:30 - How to Start Using K3 Today",
+          "transcript_excerpt": "Kimi K3 explained in 5 minutes. Moonshot AI just released Kimi K3 and it's the biggest open AI model anyone has ever put out. 2.8 trillion parameters. That's bigger than DeepSeek V4 Pro, bigger than anything else you can download. Now, you ",
+          "shorts": false
+        },
+        {
+          "channel": "@zerochotv",
+          "title": "바람의 나라,리니지 개발자가 만든 오픈소스 게임 - openmmo",
+          "published": "07-28 17:15",
+          "published_dt": "2026-07-28T17:15:39+09:00",
+          "url": "https://www.youtube.com/watch?v=Z8V3aEzbIHo",
+          "thumbnail": "https://i.ytimg.com/vi/Z8V3aEzbIHo/hqdefault.jpg",
+          "summary": "이 영상은 개발도구 중심 내용입니다. 구성은 6.8만명이 수강한 제로초 강좌/로드맵 통합 링크!, 의지력이 약해 다른 사람들과 함께 수강하고 싶다면!, + 고민상담, 질문도 하고 싶다면 3천명이 모여있는 제로초스쿨에서! 순서로 이어집니다. 6.8만명이 수강한 제로초 강좌/로드맵 통합 링크! 의지력이 약해 다른 사람들과 함께 수강하고 싶다면! 제로초 덕분에 취업했다면 감사의 표시를 - 후원 및 멤버십 -- -- 깃헙 -- (레포지토리 스타 눌러주세요) -- 소개 -- Node.js 교과서, 코딩 자율학습 제로초의 자바스크립트 입문, 타입스크립트 교과서 저자 제로초닷컴(ZeroCho.c...",
+          "description_excerpt": "6.8만명이 수강한 제로초 강좌/로드맵 통합 링크! 의지력이 약해 다른 사람들과 함께 수강하고 싶다면! + 고민상담, 질문도 하고 싶다면 3천명이 모여있는 제로초스쿨에서! 제로초 덕분에 취업했다면 감사의 표시를 - 후원 및 멤버십 -- -- 깃헙 -- (레포지토리 스타 눌러주세요) -- 소개 -- Node.js 교과서, 코딩 자율학습 제로초의 자바스크립트 입문, 타입스크립트 교과서 저자 제로초닷컴(ZeroCho.com) 운영자 전)카카오모빌리티 파트장, 스모어톡/오늘의픽업/MYFIT CTO",
+          "transcript_excerpt": "",
+          "shorts": false
+        }
+      ],
+      "links": [
+        {
+          "label": "@fahdmirza · 07-29 06:07",
+          "url": "https://www.youtube.com/watch?v=7Fke1fsmzww",
+          "thumbnail": "https://i.ytimg.com/vi/7Fke1fsmzww/hqdefault.jpg"
+        },
+        {
+          "label": "@JulianGoldieSEO · 07-29 06:00",
+          "url": "https://www.youtube.com/watch?v=YjuchUUqCgg",
+          "thumbnail": "https://i.ytimg.com/vi/YjuchUUqCgg/hqdefault.jpg"
+        },
+        {
+          "label": "@JulianGoldieSEO · 07-29 04:00",
+          "url": "https://www.youtube.com/watch?v=oDipulgqLro",
+          "thumbnail": "https://i.ytimg.com/vi/oDipulgqLro/hqdefault.jpg"
+        }
+      ],
+      "entities": [
+        "@fahdmirza",
+        "@JulianGoldieSEO",
+        "@JulianGoldieSEO",
+        "@JulianGoldieSEO"
+      ]
+    },
+    "system": {
+      "summary": "CPU 23.8 % 사용 / 클럭 3427.2 MHz / RAM 11.4GB 사용, 총 15.8GB (72%) / SSD 345.8GB 사용, 총 476.0GB (73%)",
+      "take": "CPU는 현재 23.8 % 사용 중이고 클럭은 3427.2 MHz, 버스 스피드는 100.8 MHz, RAM은 총 15.8GB 중 11.4GB 사용 (72%), SSD는 총 476.0GB 중 345.8GB 사용 (73%), 여유 130.1GB입니다. 네트워크 인터페이스는 Ethernet, Ethernet 2, Wi-Fi 기준입니다.",
+      "metrics": [
+        {
+          "label": "CPU 사용률",
+          "value": "23.8 %",
+          "pct": 23.8,
+          "tone": "normal"
+        },
+        {
+          "label": "CPU 클럭",
+          "value": "3427.2 MHz",
+          "pct": 97.92,
+          "tone": "normal"
+        },
+        {
+          "label": "버스 스피드",
+          "value": "100.8 MHz",
+          "pct": 100,
+          "tone": "normal"
+        },
+        {
+          "label": "CPU 온도",
+          "value": "50.0 °C",
+          "pct": 50.0,
+          "tone": "normal"
+        },
+        {
+          "label": "RAM 사용량",
+          "value": "11.4 / 15.8 GB (72%)",
+          "pct": 72.2,
+          "tone": "normal"
+        },
+        {
+          "label": "SSD 사용량",
+          "value": "345.8 / 476.0 GB (73%)",
+          "pct": 72.7,
+          "tone": "normal"
+        },
+        {
+          "label": "SSD 여유 공간",
+          "value": "130.1 / 476.0 GB",
+          "pct": 27.299999999999997,
+          "tone": "normal"
+        },
+        {
+          "label": "SSD 온도",
+          "value": "40.0 °C",
+          "pct": 40.0,
+          "tone": "normal"
+        },
+        {
+          "label": "업타임",
+          "value": "247시간 26분",
+          "pct": 100,
+          "tone": "normal"
+        },
+        {
+          "label": "네트워크 수신",
+          "value": "14028.3 MB",
+          "pct": 100,
+          "tone": "normal"
+        },
+        {
+          "label": "네트워크 송신",
+          "value": "7215.1 MB",
+          "pct": 100,
+          "tone": "normal"
+        }
+      ]
+    },
+    "openclaw": {
+      "summary": "OpenClaw 2026.7.1-2 (0790d9f)",
+      "take": "Runtime: running (pid 20020, state Ready, last run 0, last run time 07-27(월) 오전 10:12:29, Gateway process detected for gateway port 18789.) | Listening: 127.0.0.1:18789",
+      "metrics": [
+        {
+          "label": "Gateway",
+          "value": "bind=loopback (127.0.0.1), port=18789 (service args)",
+          "pct": 100,
+          "tone": "normal"
+        },
+        {
+          "label": "Probe note",
+          "value": "Loopback-only gateway; only local clients can connect.",
+          "pct": 100,
+          "tone": "normal"
+        },
+        {
+          "label": "Runtime",
+          "value": "running (pid 20020, state Ready, last run 0, last run time 07-27(월) 오전 10:12:29, Gateway process detected for gateway port 18789.)",
+          "pct": 100,
+          "tone": "good"
+        },
+        {
+          "label": "Listening",
+          "value": "127.0.0.1:18789",
+          "pct": 100,
+          "tone": "good"
+        }
+      ]
+    }
+  },
+  "cards": [
+    {
+      "title": "오늘의 한마디",
+      "summary": "오늘 일정이 비어 있다면, 오히려 중요한 걸 조용히 정리할 수 있는 좋은 날입니다.",
+      "take": "날씨 데이터를 다시 점검해야 합니다. 오늘은 마음을 급하게 쓰지 말고, 가장 아쉬웠던 한 가지를 먼저 정리해 보시면 좋겠습니다. 그런 작은 정리가 하루의 기분을 꽤 크게 바꿉니다.",
+      "meta": [
+        "응원",
+        "중간 길이"
+      ],
+      "entities": [],
+      "keywords": [
+        "아침",
+        "집중"
+      ],
+      "links": []
+    },
+    {
+      "title": "오늘 일정",
+      "summary": "오늘 일정 없음",
+      "take": "오늘 등록된 일정이 없습니다. 이럴 때는 중요한 정리 한두 개만 분명하게 끝내도 충분합니다.",
+      "meta": [
+        "일정",
+        "calendar"
+      ],
+      "entities": [
+        "calendar"
+      ],
+      "keywords": [
+        "calendar"
+      ],
+      "links": []
+    },
+    {
+      "title": "주요 메일 / 중요 알림",
+      "summary": "[확인필요] Architecting AI for Produc / [확인필요] Updates to how the platfor / [확인필요] Don’t leave your new websi",
+      "take": "지금 확인할 만한 메일만 추렸습니다. 결제, 업무, 보안성 알림 위주로 먼저 보면 됩니다.",
+      "meta": [
+        "메일",
+        "gmail",
+        "중요 알림"
+      ],
+      "entities": [
+        "중요인물",
+        "확인필요"
+      ],
+      "keywords": [
+        "gmail",
+        "alert"
+      ],
+      "links": []
+    },
+    {
+      "title": "유튜브 업데이트",
+      "summary": "@fahdmirza AMD Releases First Ever  / @JulianGoldieSEO 5 Hacks to Instantly Lev / @JulianGoldieSEO The Fastest Open-Source ",
+      "take": "업로드 속도가 빠른 채널은 오늘도 여러 편이 들어왔습니다. 중요한 주제부터 2~3개만 골라 보면 효율이 좋습니다.",
+      "meta": [
+        "유튜브",
+        "AI 채널",
+        "중간 길이"
+      ],
+      "entities": [
+        "@fahdmirza",
+        "@JulianGoldieSEO",
+        "@JulianGoldieSEO",
+        "@JulianGoldieSEO"
+      ],
+      "keywords": [
+        "youtube",
+        "update",
+        "thumbnail"
+      ],
+      "links": [
+        {
+          "label": "@fahdmirza · 07-29 06:07",
+          "url": "https://www.youtube.com/watch?v=7Fke1fsmzww",
+          "thumbnail": "https://i.ytimg.com/vi/7Fke1fsmzww/hqdefault.jpg"
+        },
+        {
+          "label": "@JulianGoldieSEO · 07-29 06:00",
+          "url": "https://www.youtube.com/watch?v=YjuchUUqCgg",
+          "thumbnail": "https://i.ytimg.com/vi/YjuchUUqCgg/hqdefault.jpg"
+        },
+        {
+          "label": "@JulianGoldieSEO · 07-29 04:00",
+          "url": "https://www.youtube.com/watch?v=oDipulgqLro",
+          "thumbnail": "https://i.ytimg.com/vi/oDipulgqLro/hqdefault.jpg"
+        }
+      ]
+    },
+    {
+      "title": "시스템 상태 요약",
+      "summary": "CPU 23.8 % 사용 / 클럭 3427.2 MHz / RAM 11.4GB 사용, 총 15.8GB (72%) / SSD 345.8GB 사용, 총 476.0GB (73%)",
+      "take": "CPU는 현재 23.8 % 사용 중이고 클럭은 3427.2 MHz, 버스 스피드는 100.8 MHz, RAM은 총 15.8GB 중 11.4GB 사용 (72%), SSD는 총 476.0GB 중 345.8GB 사용 (73%), 여유 130.1GB입니다. 네트워크 인터페이스는 Ethernet, Ethernet 2, Wi-Fi 기준입니다.",
+      "meta": [
+        "시스템",
+        "LHM"
+      ],
+      "entities": [
+        "Intel N100",
+        "RAM",
+        "SSD"
+      ],
+      "keywords": [
+        "temperature",
+        "load",
+        "memory"
+      ],
+      "links": []
+    },
+    {
+      "title": "OpenClaw 상태 요약",
+      "summary": "OpenClaw 2026.7.1-2 (0790d9f)",
+      "take": "Runtime: running (pid 20020, state Ready, last run 0, last run time 07-27(월) 오전 10:12:29, Gateway process detected for gateway port 18789.) | Listening: 127.0.0.1:18789",
+      "meta": [
+        "OpenClaw",
+        "Gateway"
+      ],
+      "entities": [
+        "main",
+        "gateway"
+      ],
+      "keywords": [
+        "version",
+        "rpc",
+        "status"
+      ],
+      "links": []
+    }
+  ],
+  "footer": "AI-assisted morning briefing, unified data structure ready for stage 2"
+}
