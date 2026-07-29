@@ -1,0 +1,400 @@
+{
+  "date": "2026-07-30 07:00",
+  "title": "아침 브리핑",
+  "subtitle": "날씨 · 응원 · 일정 · 메일 · 유튜브 · 시스템 · OpenClaw",
+  "summary": "오늘은 누가 밀어붙이지 않아도 됩니다. 팀장님 리듬대로 중요한 것부터 차분히 끝내면 됩니다.",
+  "summary_box": "날씨 데이터를 다시 점검해야 합니다. 오늘은 마음을 급하게 쓰지 말고, 가장 아쉬웠던 한 가지를 먼저 정리해 보시면 좋겠습니다. 그런 작은 정리가 하루의 기분을 꽤 크게 바꿉니다.",
+  "weather": {
+    "loc": "김해",
+    "temp": "-",
+    "desc": "날씨 조회 실패",
+    "icon": "⛅",
+    "badges": [
+      "fallback"
+    ],
+    "detail": {
+      "feels_like": "-",
+      "humidity": "-",
+      "rain_chance": "-",
+      "wind_kmph": "-",
+      "uv": "-",
+      "pm": "-"
+    },
+    "life_comment": "날씨 데이터를 다시 점검해야 합니다."
+  },
+  "sections": {
+    "calendar": {
+      "summary": "오늘 일정 없음",
+      "take": "오늘 등록된 일정이 없습니다. 이럴 때는 중요한 정리 한두 개만 분명하게 끝내도 충분합니다.",
+      "items": [],
+      "links": [],
+      "entities": [
+        "calendar"
+      ]
+    },
+    "mail": {
+      "summary": "[중요인물] [Action Required] Migrate  / [확인필요] 비즈니스 이메일 주소 확인 / [확인필요] Architecting AI for Produc",
+      "take": "지금 확인할 만한 메일만 추렸습니다. 결제, 업무, 보안성 알림 위주로 먼저 보면 됩니다.",
+      "items": [
+        {
+          "date": "2026-07-30 00:08",
+          "from": "Google Cloud <CloudPlatform-noreply@google.com>",
+          "subject": "[Action Required] Migrate Gemini 2.5 model traffic on Gemini Enterprise Agent Platform before Oct 20, 2026",
+          "tags": [
+            "중요인물"
+          ]
+        },
+        {
+          "date": "2026-07-29 08:16",
+          "from": "Facebook <notification@facebookmail.com>",
+          "subject": "비즈니스 이메일 주소 확인",
+          "tags": [
+            "확인필요"
+          ]
+        },
+        {
+          "date": "2026-07-29 05:18",
+          "from": "Cloudflare <em@em1.cloudflare.com>",
+          "subject": "Architecting AI for Production | Connect 2026",
+          "tags": [
+            "확인필요"
+          ]
+        },
+        {
+          "date": "2026-07-28 17:20",
+          "from": "The Higgsfield Team <no-reply@t.higgsfield.ai>",
+          "subject": "Updates to how the platform works, and to our Terms & Privacy",
+          "tags": [
+            "확인필요"
+          ]
+        }
+      ],
+      "links": [],
+      "entities": [
+        "중요인물",
+        "확인필요"
+      ]
+    },
+    "youtube": {
+      "summary": "@fahdmirza How to Run Kimi K3 Local / @JulianGoldieSEO Antigravity 2.0 + Gemini / @JulianGoldieSEO GPT 5.6 SOL vs Claude Op",
+      "take": "업로드 속도가 빠른 채널은 오늘도 여러 편이 들어왔습니다. 중요한 주제부터 2~3개만 골라 보면 효율이 좋습니다.",
+      "items": [
+        {
+          "channel": "@fahdmirza",
+          "title": "How to Run Kimi K3 Locally (3 Ways)",
+          "published": "07-30 06:09",
+          "published_dt": "2026-07-30T06:09:58+09:00",
+          "url": "https://www.youtube.com/watch?v=saz16ott61I",
+          "thumbnail": "https://i.ytimg.com/vi/saz16ott61I/hqdefault.jpg",
+          "summary": "이 영상은 모델/LLM 중심 내용입니다. 구성은 This video shares 3 workable ways to run Kimi K3 locally, if you can 순서로 이어집니다. This is Kim K3 2.8 trillion parameters 104 billion active native vision of 1 million token context window It's the strongest open model out there right now and it's sitting right here on hugging face for anyone to download How do I run this locally?",
+          "description_excerpt": "This video shares 3 workable ways to run Kimi K3 locally, if you can. 🔥 Get 50% Discount on any A6000 or A5000 GPU rental, use following link and coupon: Coupon code: FahdMirza 🔥 Buy Me a Coffee to support the channel: PLEASE FOLLOW ME: ▶ LinkedIn: / fahdmirza ▶ YouTube: / ▶ Blog: RESOURCES: ▶ All rights reserved © Fahd Mirza",
+          "transcript_excerpt": "This is Kim K3 2.8 trillion parameters 104 billion active native vision of 1 million token context window. It's the strongest open model out there right now and it's sitting right here on hugging face for anyone to download. And every singl",
+          "shorts": false
+        },
+        {
+          "channel": "@JulianGoldieSEO",
+          "title": "Antigravity 2.0 + Gemini 3.6 Flash is INSANE!",
+          "published": "07-30 06:00",
+          "published_dt": "2026-07-30T06:00:33+09:00",
+          "url": "https://www.youtube.com/watch?v=o3AMJQkIpog",
+          "thumbnail": "https://i.ytimg.com/vi/o3AMJQkIpog/hqdefault.jpg",
+          "summary": "이 영상은 모델/LLM, 에이전트/자동화, 개발도구 중심 내용입니다. 구성은 Intro – The upgrade nobody's talking about, What's Coming – The prompt trick you'll want to steal, What Is Antigravity – From IDE to full agent platform, Gemini 3.6 Flash – Faster, leaner, smarter 순서로 이어지며, 제목만으로는 보이지 않는 변화 배경·핵심 기능·실제 활용 포인트를 짚어보는 영상입니다.",
+          "description_excerpt": "Get the Agent OS & Antigravity + Gemini Masterclass 👉 00:00 Intro – The upgrade nobody's talking about 00:32 What's Coming – The prompt trick you'll want to steal 00:42 What Is Antigravity – From IDE to full agent platform 01:41 Gemini 3.6 Flash – Faster, leaner, smarter 02:15 Shared Memory – Why Obsidian changes everything 03:25 New Features – Projects, hoo",
+          "transcript_excerpt": "Anti-gravity 2.0 plus Gemini 3.6 flash is insane. What if the best agent setup right now is one you already ignored? Google just upgraded it again, a brand new model, less waste, more done. And most people still have the old version install",
+          "shorts": false
+        },
+        {
+          "channel": "@JulianGoldieSEO",
+          "title": "GPT 5.6 SOL vs Claude Opus 5",
+          "published": "07-30 04:00",
+          "published_dt": "2026-07-30T04:00:29+09:00",
+          "url": "https://www.youtube.com/watch?v=Jh5wPhR35R4",
+          "thumbnail": "https://i.ytimg.com/vi/Jh5wPhR35R4/hqdefault.jpg",
+          "summary": "이 영상은 모델/LLM, 에이전트/자동화 중심 내용입니다. 구성은 Intro – Soul vs Opus 5, the scorecard problem, GPT-5.6 Soul – OpenAI's new flagship, Max & Ultra modes, Claude Opus 5 – self-checking, 1M context, effort dial, Use Case – planning content with Opus 5 순서로 이어지며, 제목만으로는 보이지 않는 변화 배경·핵심 기능·실제 활용 포인트를 짚어보는 영상입니다.",
+          "description_excerpt": "Get the Agent OS & ChatGPT & Claude Masterclass 👉 00:00 Intro – Soul vs Opus 5, the scorecard problem 00:39 GPT-5.6 Soul – OpenAI's new flagship, Max & Ultra modes 01:11 Claude Opus 5 – self-checking, 1M context, effort dial 01:38 Use Case – planning content with Opus 5 02:02 Soul Benchmarks – coding, terminal, browsing scores 02:23 Opus 5 Benchmarks – ARC A",
+          "transcript_excerpt": "GPT 5.6 SOL versus Claude Opus 5.2 Frontier models. 15 days apart, everyone already picked a winner, but nobody checked the one thing that actually matters. The two score cards were never measuring the same fight. So, I put GPT 5.6 SOL and ",
+          "shorts": false
+        },
+        {
+          "channel": "@진바이브",
+          "title": "한국의 코스피 시장이 박살난 이유? 중국의 창신메모리",
+          "published": "07-30 02:15",
+          "published_dt": "2026-07-30T02:15:07+09:00",
+          "url": "https://www.youtube.com/watch?v=Outkq7T7lcY",
+          "thumbnail": "https://i.ytimg.com/vi/Outkq7T7lcY/hqdefault.jpg",
+          "summary": "한국의 코스피 시장이 박살난 이유? 중국의 창신메모리 주제를 중심으로 무엇이 새로 나왔는지, 또는 어떻게 활용하는지를 설명하는 영상입니다.",
+          "description_excerpt": "",
+          "transcript_excerpt": "",
+          "shorts": false
+        },
+        {
+          "channel": "@JulianGoldieSEO",
+          "title": "Kimi K3 + Hermes AI Agent Is Absolutely INSANE!",
+          "published": "07-30 02:00",
+          "published_dt": "2026-07-30T02:00:32+09:00",
+          "url": "https://www.youtube.com/watch?v=cOjMn4fygRI",
+          "thumbnail": "https://i.ytimg.com/vi/cOjMn4fygRI/hqdefault.jpg",
+          "summary": "이 영상은 모델/LLM, 에이전트/자동화, 수익화/마케팅 중심 내용입니다. 구성은 Intro: Kimi K3 & Moonshot Open Day, How to Connect Kimi K3 to Agent OS, AI Memory and Skill Learning Systems, Workflow: Auto-Publishing SEO Content 순서로 이어지며, 제목만으로는 보이지 않는 변화 배경·핵심 기능·실제 활용 포인트를 짚어보는 영상입니다.",
+          "description_excerpt": "Get the Agent OS & Kimi K3 + Hermes AI Agent Masterclass 👉 00:00 - Intro: Kimi K3 & Moonshot Open Day 01:10 - How to Connect Kimi K3 to Agent OS 02:18 - AI Memory and Skill Learning Systems 04:18 - Workflow: Auto-Publishing SEO Content 05:42 - Goal Mode and Completion Contracts 06:40 - Multi-Agent Kanban Board Management 08:44 - Kimi K3 Performance Benchmark",
+          "transcript_excerpt": "Kimiko 3 plus the Hermes AI agent is absolutely insane and yesterday it got a lot more insane because Moonshot dropped the full model weights out into the open. That happened on July 27th. They called it Kimiko 3 open day. The weights, the ",
+          "shorts": false
+        }
+      ],
+      "links": [
+        {
+          "label": "@fahdmirza · 07-30 06:09",
+          "url": "https://www.youtube.com/watch?v=saz16ott61I",
+          "thumbnail": "https://i.ytimg.com/vi/saz16ott61I/hqdefault.jpg"
+        },
+        {
+          "label": "@JulianGoldieSEO · 07-30 06:00",
+          "url": "https://www.youtube.com/watch?v=o3AMJQkIpog",
+          "thumbnail": "https://i.ytimg.com/vi/o3AMJQkIpog/hqdefault.jpg"
+        },
+        {
+          "label": "@JulianGoldieSEO · 07-30 04:00",
+          "url": "https://www.youtube.com/watch?v=Jh5wPhR35R4",
+          "thumbnail": "https://i.ytimg.com/vi/Jh5wPhR35R4/hqdefault.jpg"
+        }
+      ],
+      "entities": [
+        "@fahdmirza",
+        "@JulianGoldieSEO",
+        "@JulianGoldieSEO",
+        "@진바이브"
+      ]
+    },
+    "system": {
+      "summary": "CPU 17.3 % 사용 / 클럭 604.8 MHz / RAM 12.3GB 사용, 총 15.8GB (78%) / SSD 347.1GB 사용, 총 476.0GB (73%)",
+      "take": "CPU는 현재 17.3 % 사용 중이고 클럭은 604.8 MHz, 버스 스피드는 100.8 MHz, RAM은 총 15.8GB 중 12.3GB 사용 (78%), SSD는 총 476.0GB 중 347.1GB 사용 (73%), 여유 128.9GB입니다. 네트워크 인터페이스는 Ethernet, Ethernet 2, Wi-Fi 기준입니다.",
+      "metrics": [
+        {
+          "label": "CPU 사용률",
+          "value": "17.3 %",
+          "pct": 17.3,
+          "tone": "normal"
+        },
+        {
+          "label": "CPU 클럭",
+          "value": "604.8 MHz",
+          "pct": 17.279999999999998,
+          "tone": "normal"
+        },
+        {
+          "label": "버스 스피드",
+          "value": "100.8 MHz",
+          "pct": 100,
+          "tone": "normal"
+        },
+        {
+          "label": "CPU 온도",
+          "value": "51.0 °C",
+          "pct": 51.0,
+          "tone": "normal"
+        },
+        {
+          "label": "RAM 사용량",
+          "value": "12.3 / 15.8 GB (78%)",
+          "pct": 77.9,
+          "tone": "normal"
+        },
+        {
+          "label": "SSD 사용량",
+          "value": "347.1 / 476.0 GB (73%)",
+          "pct": 72.9,
+          "tone": "normal"
+        },
+        {
+          "label": "SSD 여유 공간",
+          "value": "128.9 / 476.0 GB",
+          "pct": 27.099999999999994,
+          "tone": "normal"
+        },
+        {
+          "label": "SSD 온도",
+          "value": "40.0 °C",
+          "pct": 40.0,
+          "tone": "normal"
+        },
+        {
+          "label": "업타임",
+          "value": "271시간 26분",
+          "pct": 100,
+          "tone": "normal"
+        },
+        {
+          "label": "네트워크 수신",
+          "value": "16264.3 MB",
+          "pct": 100,
+          "tone": "normal"
+        },
+        {
+          "label": "네트워크 송신",
+          "value": "7833.5 MB",
+          "pct": 100,
+          "tone": "normal"
+        }
+      ]
+    },
+    "openclaw": {
+      "summary": "OpenClaw 2026.7.1-2 (0790d9f)",
+      "take": "Runtime: running (pid 20020, state Ready, last run 0, last run time 07-27(월) 오전 10:12:29, Gateway process detected for gateway port 18789.) | Listening: 127.0.0.1:18789",
+      "metrics": [
+        {
+          "label": "Gateway",
+          "value": "bind=loopback (127.0.0.1), port=18789 (service args)",
+          "pct": 100,
+          "tone": "normal"
+        },
+        {
+          "label": "Probe note",
+          "value": "Loopback-only gateway; only local clients can connect.",
+          "pct": 100,
+          "tone": "normal"
+        },
+        {
+          "label": "Runtime",
+          "value": "running (pid 20020, state Ready, last run 0, last run time 07-27(월) 오전 10:12:29, Gateway process detected for gateway port 18789.)",
+          "pct": 100,
+          "tone": "good"
+        },
+        {
+          "label": "Listening",
+          "value": "127.0.0.1:18789",
+          "pct": 100,
+          "tone": "good"
+        }
+      ]
+    }
+  },
+  "cards": [
+    {
+      "title": "오늘의 한마디",
+      "summary": "오늘은 누가 밀어붙이지 않아도 됩니다. 팀장님 리듬대로 중요한 것부터 차분히 끝내면 됩니다.",
+      "take": "날씨 데이터를 다시 점검해야 합니다. 오늘은 마음을 급하게 쓰지 말고, 가장 아쉬웠던 한 가지를 먼저 정리해 보시면 좋겠습니다. 그런 작은 정리가 하루의 기분을 꽤 크게 바꿉니다.",
+      "meta": [
+        "응원",
+        "중간 길이"
+      ],
+      "entities": [],
+      "keywords": [
+        "아침",
+        "집중"
+      ],
+      "links": []
+    },
+    {
+      "title": "오늘 일정",
+      "summary": "오늘 일정 없음",
+      "take": "오늘 등록된 일정이 없습니다. 이럴 때는 중요한 정리 한두 개만 분명하게 끝내도 충분합니다.",
+      "meta": [
+        "일정",
+        "calendar"
+      ],
+      "entities": [
+        "calendar"
+      ],
+      "keywords": [
+        "calendar"
+      ],
+      "links": []
+    },
+    {
+      "title": "주요 메일 / 중요 알림",
+      "summary": "[중요인물] [Action Required] Migrate  / [확인필요] 비즈니스 이메일 주소 확인 / [확인필요] Architecting AI for Produc",
+      "take": "지금 확인할 만한 메일만 추렸습니다. 결제, 업무, 보안성 알림 위주로 먼저 보면 됩니다.",
+      "meta": [
+        "메일",
+        "gmail",
+        "중요 알림"
+      ],
+      "entities": [
+        "중요인물",
+        "확인필요"
+      ],
+      "keywords": [
+        "gmail",
+        "alert"
+      ],
+      "links": []
+    },
+    {
+      "title": "유튜브 업데이트",
+      "summary": "@fahdmirza How to Run Kimi K3 Local / @JulianGoldieSEO Antigravity 2.0 + Gemini / @JulianGoldieSEO GPT 5.6 SOL vs Claude Op",
+      "take": "업로드 속도가 빠른 채널은 오늘도 여러 편이 들어왔습니다. 중요한 주제부터 2~3개만 골라 보면 효율이 좋습니다.",
+      "meta": [
+        "유튜브",
+        "AI 채널",
+        "중간 길이"
+      ],
+      "entities": [
+        "@fahdmirza",
+        "@JulianGoldieSEO",
+        "@JulianGoldieSEO",
+        "@진바이브"
+      ],
+      "keywords": [
+        "youtube",
+        "update",
+        "thumbnail"
+      ],
+      "links": [
+        {
+          "label": "@fahdmirza · 07-30 06:09",
+          "url": "https://www.youtube.com/watch?v=saz16ott61I",
+          "thumbnail": "https://i.ytimg.com/vi/saz16ott61I/hqdefault.jpg"
+        },
+        {
+          "label": "@JulianGoldieSEO · 07-30 06:00",
+          "url": "https://www.youtube.com/watch?v=o3AMJQkIpog",
+          "thumbnail": "https://i.ytimg.com/vi/o3AMJQkIpog/hqdefault.jpg"
+        },
+        {
+          "label": "@JulianGoldieSEO · 07-30 04:00",
+          "url": "https://www.youtube.com/watch?v=Jh5wPhR35R4",
+          "thumbnail": "https://i.ytimg.com/vi/Jh5wPhR35R4/hqdefault.jpg"
+        }
+      ]
+    },
+    {
+      "title": "시스템 상태 요약",
+      "summary": "CPU 17.3 % 사용 / 클럭 604.8 MHz / RAM 12.3GB 사용, 총 15.8GB (78%) / SSD 347.1GB 사용, 총 476.0GB (73%)",
+      "take": "CPU는 현재 17.3 % 사용 중이고 클럭은 604.8 MHz, 버스 스피드는 100.8 MHz, RAM은 총 15.8GB 중 12.3GB 사용 (78%), SSD는 총 476.0GB 중 347.1GB 사용 (73%), 여유 128.9GB입니다. 네트워크 인터페이스는 Ethernet, Ethernet 2, Wi-Fi 기준입니다.",
+      "meta": [
+        "시스템",
+        "LHM"
+      ],
+      "entities": [
+        "Intel N100",
+        "RAM",
+        "SSD"
+      ],
+      "keywords": [
+        "temperature",
+        "load",
+        "memory"
+      ],
+      "links": []
+    },
+    {
+      "title": "OpenClaw 상태 요약",
+      "summary": "OpenClaw 2026.7.1-2 (0790d9f)",
+      "take": "Runtime: running (pid 20020, state Ready, last run 0, last run time 07-27(월) 오전 10:12:29, Gateway process detected for gateway port 18789.) | Listening: 127.0.0.1:18789",
+      "meta": [
+        "OpenClaw",
+        "Gateway"
+      ],
+      "entities": [
+        "main",
+        "gateway"
+      ],
+      "keywords": [
+        "version",
+        "rpc",
+        "status"
+      ],
+      "links": []
+    }
+  ],
+  "footer": "AI-assisted morning briefing, unified data structure ready for stage 2"
+}
