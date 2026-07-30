@@ -1,0 +1,389 @@
+{
+  "date": "2026-07-31 07:00",
+  "title": "아침 브리핑",
+  "subtitle": "날씨 · 응원 · 일정 · 메일 · 유튜브 · 시스템 · OpenClaw",
+  "summary": "오늘 일정이 비어 있다면, 오히려 중요한 걸 조용히 정리할 수 있는 좋은 날입니다.",
+  "summary_box": "습도가 높아 체감이 더 무겁습니다. 물을 자주 마시며 리듬을 유지하면 좋겠습니다. 오늘은 마음을 급하게 쓰지 말고, 가장 아쉬웠던 한 가지를 먼저 정리해 보시면 좋겠습니다. 그런 작은 정리가 하루의 기분을 꽤 크게 바꿉니다.",
+  "weather": {
+    "loc": "김해",
+    "temp": "26°C",
+    "desc": "Sunny",
+    "icon": "⛅",
+    "badges": [
+      "체감 29°C",
+      "습도 84%",
+      "강수확률 1%",
+      "풍속 9km/h",
+      "UV 0",
+      "미세먼지 정보 연동 예정"
+    ],
+    "detail": {
+      "feels_like": "29",
+      "humidity": "84",
+      "rain_chance": "1",
+      "wind_kmph": "9",
+      "uv": "0",
+      "pm": "미세먼지 정보 연동 예정"
+    },
+    "life_comment": "습도가 높아 체감이 더 무겁습니다. 물을 자주 마시며 리듬을 유지하면 좋겠습니다."
+  },
+  "sections": {
+    "calendar": {
+      "summary": "오늘 일정 없음",
+      "take": "오늘 등록된 일정이 없습니다. 이럴 때는 중요한 정리 한두 개만 분명하게 끝내도 충분합니다.",
+      "items": [],
+      "links": [],
+      "entities": [
+        "calendar"
+      ]
+    },
+    "mail": {
+      "summary": "[중요인물] [Action Required] Migrate  / [확인필요] 비즈니스 이메일 주소 확인",
+      "take": "지금 확인할 만한 메일만 추렸습니다. 결제, 업무, 보안성 알림 위주로 먼저 보면 됩니다.",
+      "items": [
+        {
+          "date": "2026-07-30 00:08",
+          "from": "Google Cloud <CloudPlatform-noreply@google.com>",
+          "subject": "[Action Required] Migrate Gemini 2.5 model traffic on Gemini Enterprise Agent Platform before Oct 20, 2026",
+          "tags": [
+            "중요인물"
+          ]
+        },
+        {
+          "date": "2026-07-29 08:16",
+          "from": "Facebook <notification@facebookmail.com>",
+          "subject": "비즈니스 이메일 주소 확인",
+          "tags": [
+            "확인필요"
+          ]
+        }
+      ],
+      "links": [],
+      "entities": [
+        "중요인물",
+        "확인필요"
+      ]
+    },
+    "youtube": {
+      "summary": "@fahdmirza Inkling-Small Isn't Smal / @JulianGoldieSEO Perplexity Can Now Conne / @JulianGoldieSEO NEW AntiGravity AgentOS ",
+      "take": "업로드 속도가 빠른 채널은 오늘도 여러 편이 들어왔습니다. 중요한 주제부터 2~3개만 골라 보면 효율이 좋습니다.",
+      "items": [
+        {
+          "channel": "@fahdmirza",
+          "title": "Inkling-Small Isn't Small At All: Let's Test this 276B Model",
+          "published": "07-31 06:20",
+          "published_dt": "2026-07-31T06:20:44+09:00",
+          "url": "https://www.youtube.com/watch?v=_QKBqDwnkHA",
+          "thumbnail": "https://i.ytimg.com/vi/_QKBqDwnkHA/hqdefault.jpg",
+          "summary": "이 영상은 모델/LLM, 에이전트/자동화 중심 내용입니다. 구성은 This video tests Inkling-Small, a general-purpose multimodal model that accepts text, image and audio inputs and generates text outputs 순서로 이어지며, 제목만으로는 보이지 않는 변화 배경·핵심 기능·실제 활용 포인트를 짚어보는 영상입니다.",
+          "description_excerpt": "This video tests Inkling-Small, a general-purpose multimodal model that accepts text, image and audio inputs and generates text outputs. 🔥 Get 50% Discount on any A6000 or A5000 GPU rental, use following link and coupon: Coupon code: FahdMirza 🔥 Buy Me a Coffee to support the channel: PLEASE FOLLOW ME: ▶ LinkedIn: / fahdmirza ▶ YouTube: / ▶ Blog: RESOURCES: ",
+          "transcript_excerpt": "This is report gen mini a fast API app with radius pubsub where you submit a report and a background worker picks it up and processes it. As you can see we have sales inventory and users. Once I click on generate report you can see that job",
+          "shorts": false
+        },
+        {
+          "channel": "@JulianGoldieSEO",
+          "title": "Perplexity Can Now Connect to 400+ Apps",
+          "published": "07-31 06:00",
+          "published_dt": "2026-07-31T06:00:13+09:00",
+          "url": "https://www.youtube.com/watch?v=LubPh2Fp43o",
+          "thumbnail": "https://i.ytimg.com/vi/LubPh2Fp43o/hqdefault.jpg",
+          "summary": "이 영상은 에이전트/자동화 중심 내용입니다. 구성은 Intro – Perplexity's new 400+ app agent, What Perplexity Computer Is, 400+ App Connectors, Multi-Model + Memory System 순서로 이어지며, 제목만으로는 보이지 않는 변화 배경·핵심 기능·실제 활용 포인트를 짚어보는 영상입니다.",
+          "description_excerpt": "Get the Agent OS & Perplexity Masterclass 👉 00:00 Intro – Perplexity's new 400+ app agent 00:38 What Perplexity Computer Is 01:43 400+ App Connectors 02:05 Multi-Model + Memory System 02:27 Comet Browser + Voice Mode 02:46 Security & Permissions 04:16 Real Examples (To-Do List, Decks, Files) 05:14 Remote Execution (Phone → PC) 05:22 Microsoft 365 Integration",
+          "transcript_excerpt": "Perplexity can now connect to 400 plus apps. What if your computer could actually do your to-do list, not write about it, do it? Perplexity just shipped something big, and most people scrolled right past it. It works on your own files now, ",
+          "shorts": false
+        },
+        {
+          "channel": "@JulianGoldieSEO",
+          "title": "NEW AntiGravity AgentOS is CRAZY GOOD!",
+          "published": "07-31 04:00",
+          "published_dt": "2026-07-31T04:00:37+09:00",
+          "url": "https://www.youtube.com/watch?v=uwifNAxd6b8",
+          "thumbnail": "https://i.ytimg.com/vi/uwifNAxd6b8/hqdefault.jpg",
+          "summary": "이 영상은 모델/LLM, 에이전트/자동화, 개발도구 중심 내용입니다. 구성은 Intro: The Power of Agent OS, Why People Hate Anti-Gravity 2.0, Projects: Managing Multiple Folders, Memory: Teaching AI Your Business 순서로 이어지며, 제목만으로는 보이지 않는 변화 배경·핵심 기능·실제 활용 포인트를 짚어보는 영상입니다.",
+          "description_excerpt": "Get the Agent OS & AntiGravity Masterclass 👉 00:00 - Intro: The Power of Agent OS 01:35 - Why People Hate Anti-Gravity 2.0 02:40 - Projects: Managing Multiple Folders 03:10 - Memory: Teaching AI Your Business 04:09 - Skills: Automating Your Processes 05:35 - Scheduled Tasks: AI That Works for You 06:06 - Your 4-Day Implementation Plan 08:04 - The Future of G",
+          "transcript_excerpt": "The new Anti-Gravity Agent OS is insane, and I want to show you exactly why. Let me start with something Google's own team did. They opened Anti-Gravity 2.0, typed one prompt, and asked their agents to build an operating system from scratch",
+          "shorts": false
+        },
+        {
+          "channel": "@JulianGoldieSEO",
+          "title": "Agent Operating Systems: Automate ANYTHING!",
+          "published": "07-31 03:00",
+          "published_dt": "2026-07-31T03:00:16+09:00",
+          "url": "https://www.youtube.com/watch?v=QulL6Uqzdmc",
+          "thumbnail": "https://i.ytimg.com/vi/QulL6Uqzdmc/hqdefault.jpg",
+          "summary": "이 영상은 모델/LLM, 에이전트/자동화, 튜토리얼/설정 중심 내용입니다. 구성은 Agent OS Updates, HR Sub Agents Setup, Pi Agent Overview, Goal Mode Tutorial 순서로 이어지며, 제목만으로는 보이지 않는 변화 배경·핵심 기능·실제 활용 포인트를 짚어보는 영상입니다.",
+          "description_excerpt": "Get the Agent OS 👉 00:00 Agent OS Updates 01:04 HR Sub Agents Setup 02:38 Pi Agent Overview 03:31 Goal Mode Tutorial 04:04 Claude Code Fable 04:35 Hermes vs Claude Stats 05:25 Buzz For Agents 06:00 Wins EdTech 07:22 Custom Modules Workflow 08:35 Wrap Up And",
+          "transcript_excerpt": "Today we're going to be answering some of the latest questions on the agent operating system. This is a powerful system where all of your agents work together. We actually added a bunch of new features recently. So for example, there's a ne",
+          "shorts": false
+        },
+        {
+          "channel": "@jocoding",
+          "title": "10억개의 토큰을 무료로 쓰는 ㅎㄷㄷ한 방법",
+          "published": "07-30 18:27",
+          "published_dt": "2026-07-30T18:27:20+09:00",
+          "url": "https://www.youtube.com/watch?v=Ijmm39E0dCQ",
+          "thumbnail": "https://i.ytimg.com/vi/Ijmm39E0dCQ/hqdefault.jpg",
+          "summary": "이 영상은 개발도구 중심 내용입니다. ✅ 조코딩과 코딩 공부하기 VVIP 멤버십 후원 그림자그림자님, 차딩Chading TV님, Sicongbabe님, 정진균님, Tae hwan Kim님, 시원-r9u님, YCN유림방송님, 그래머피티님, GomnaStudio님, violet8mira...",
+          "description_excerpt": "✅ 조코딩과 코딩 공부하기 VVIP 멤버십 후원 그림자그림자님, 차딩Chading TV님, Sicongbabe님, 정진균님, Tae hwan Kim님, 시원-r9u님, YCN유림방송님, 그래머피티님, GomnaStudio님, violet8mira님, 천사슥님, 예스타님, yubizen님, shintony667님, bellati272님, happypink81님 감사드립니다.",
+          "transcript_excerpt": "",
+          "shorts": false
+        }
+      ],
+      "links": [
+        {
+          "label": "@fahdmirza · 07-31 06:20",
+          "url": "https://www.youtube.com/watch?v=_QKBqDwnkHA",
+          "thumbnail": "https://i.ytimg.com/vi/_QKBqDwnkHA/hqdefault.jpg"
+        },
+        {
+          "label": "@JulianGoldieSEO · 07-31 06:00",
+          "url": "https://www.youtube.com/watch?v=LubPh2Fp43o",
+          "thumbnail": "https://i.ytimg.com/vi/LubPh2Fp43o/hqdefault.jpg"
+        },
+        {
+          "label": "@JulianGoldieSEO · 07-31 04:00",
+          "url": "https://www.youtube.com/watch?v=uwifNAxd6b8",
+          "thumbnail": "https://i.ytimg.com/vi/uwifNAxd6b8/hqdefault.jpg"
+        }
+      ],
+      "entities": [
+        "@fahdmirza",
+        "@JulianGoldieSEO",
+        "@JulianGoldieSEO",
+        "@JulianGoldieSEO"
+      ]
+    },
+    "system": {
+      "summary": "CPU 19.1 % 사용 / 클럭 806.4 MHz / RAM 11.6GB 사용, 총 15.8GB (74%) / SSD 346.5GB 사용, 총 476.0GB (73%)",
+      "take": "CPU는 현재 19.1 % 사용 중이고 클럭은 806.4 MHz, 버스 스피드는 100.8 MHz, RAM은 총 15.8GB 중 11.6GB 사용 (74%), SSD는 총 476.0GB 중 346.5GB 사용 (73%), 여유 129.5GB입니다. 네트워크 인터페이스는 Ethernet, Ethernet 2, Wi-Fi 기준입니다.",
+      "metrics": [
+        {
+          "label": "CPU 사용률",
+          "value": "19.1 %",
+          "pct": 19.1,
+          "tone": "normal"
+        },
+        {
+          "label": "CPU 클럭",
+          "value": "806.4 MHz",
+          "pct": 23.04,
+          "tone": "normal"
+        },
+        {
+          "label": "버스 스피드",
+          "value": "100.8 MHz",
+          "pct": 100,
+          "tone": "normal"
+        },
+        {
+          "label": "CPU 온도",
+          "value": "49.0 °C",
+          "pct": 49.0,
+          "tone": "normal"
+        },
+        {
+          "label": "RAM 사용량",
+          "value": "11.6 / 15.8 GB (74%)",
+          "pct": 73.8,
+          "tone": "normal"
+        },
+        {
+          "label": "SSD 사용량",
+          "value": "346.5 / 476.0 GB (73%)",
+          "pct": 72.8,
+          "tone": "normal"
+        },
+        {
+          "label": "SSD 여유 공간",
+          "value": "129.5 / 476.0 GB",
+          "pct": 27.200000000000003,
+          "tone": "normal"
+        },
+        {
+          "label": "SSD 온도",
+          "value": "40.0 °C",
+          "pct": 40.0,
+          "tone": "normal"
+        },
+        {
+          "label": "업타임",
+          "value": "295시간 25분",
+          "pct": 100,
+          "tone": "normal"
+        },
+        {
+          "label": "네트워크 수신",
+          "value": "17117.6 MB",
+          "pct": 100,
+          "tone": "normal"
+        },
+        {
+          "label": "네트워크 송신",
+          "value": "8198.2 MB",
+          "pct": 100,
+          "tone": "normal"
+        }
+      ]
+    },
+    "openclaw": {
+      "summary": "OpenClaw 2026.7.1-2 (0790d9f)",
+      "take": "Runtime: running (pid 20020, state Ready, last run 0, last run time 07-27(월) 오전 10:12:29, Gateway process detected for gateway port 18789.) | Listening: 127.0.0.1:18789",
+      "metrics": [
+        {
+          "label": "Gateway",
+          "value": "bind=loopback (127.0.0.1), port=18789 (service args)",
+          "pct": 100,
+          "tone": "normal"
+        },
+        {
+          "label": "Probe note",
+          "value": "Loopback-only gateway; only local clients can connect.",
+          "pct": 100,
+          "tone": "normal"
+        },
+        {
+          "label": "Runtime",
+          "value": "running (pid 20020, state Ready, last run 0, last run time 07-27(월) 오전 10:12:29, Gateway process detected for gateway port 18789.)",
+          "pct": 100,
+          "tone": "good"
+        },
+        {
+          "label": "Listening",
+          "value": "127.0.0.1:18789",
+          "pct": 100,
+          "tone": "good"
+        }
+      ]
+    }
+  },
+  "cards": [
+    {
+      "title": "오늘의 한마디",
+      "summary": "오늘 일정이 비어 있다면, 오히려 중요한 걸 조용히 정리할 수 있는 좋은 날입니다.",
+      "take": "습도가 높아 체감이 더 무겁습니다. 물을 자주 마시며 리듬을 유지하면 좋겠습니다. 오늘은 마음을 급하게 쓰지 말고, 가장 아쉬웠던 한 가지를 먼저 정리해 보시면 좋겠습니다. 그런 작은 정리가 하루의 기분을 꽤 크게 바꿉니다.",
+      "meta": [
+        "응원",
+        "중간 길이"
+      ],
+      "entities": [],
+      "keywords": [
+        "아침",
+        "집중"
+      ],
+      "links": []
+    },
+    {
+      "title": "오늘 일정",
+      "summary": "오늘 일정 없음",
+      "take": "오늘 등록된 일정이 없습니다. 이럴 때는 중요한 정리 한두 개만 분명하게 끝내도 충분합니다.",
+      "meta": [
+        "일정",
+        "calendar"
+      ],
+      "entities": [
+        "calendar"
+      ],
+      "keywords": [
+        "calendar"
+      ],
+      "links": []
+    },
+    {
+      "title": "주요 메일 / 중요 알림",
+      "summary": "[중요인물] [Action Required] Migrate  / [확인필요] 비즈니스 이메일 주소 확인",
+      "take": "지금 확인할 만한 메일만 추렸습니다. 결제, 업무, 보안성 알림 위주로 먼저 보면 됩니다.",
+      "meta": [
+        "메일",
+        "gmail",
+        "중요 알림"
+      ],
+      "entities": [
+        "중요인물",
+        "확인필요"
+      ],
+      "keywords": [
+        "gmail",
+        "alert"
+      ],
+      "links": []
+    },
+    {
+      "title": "유튜브 업데이트",
+      "summary": "@fahdmirza Inkling-Small Isn't Smal / @JulianGoldieSEO Perplexity Can Now Conne / @JulianGoldieSEO NEW AntiGravity AgentOS ",
+      "take": "업로드 속도가 빠른 채널은 오늘도 여러 편이 들어왔습니다. 중요한 주제부터 2~3개만 골라 보면 효율이 좋습니다.",
+      "meta": [
+        "유튜브",
+        "AI 채널",
+        "중간 길이"
+      ],
+      "entities": [
+        "@fahdmirza",
+        "@JulianGoldieSEO",
+        "@JulianGoldieSEO",
+        "@JulianGoldieSEO"
+      ],
+      "keywords": [
+        "youtube",
+        "update",
+        "thumbnail"
+      ],
+      "links": [
+        {
+          "label": "@fahdmirza · 07-31 06:20",
+          "url": "https://www.youtube.com/watch?v=_QKBqDwnkHA",
+          "thumbnail": "https://i.ytimg.com/vi/_QKBqDwnkHA/hqdefault.jpg"
+        },
+        {
+          "label": "@JulianGoldieSEO · 07-31 06:00",
+          "url": "https://www.youtube.com/watch?v=LubPh2Fp43o",
+          "thumbnail": "https://i.ytimg.com/vi/LubPh2Fp43o/hqdefault.jpg"
+        },
+        {
+          "label": "@JulianGoldieSEO · 07-31 04:00",
+          "url": "https://www.youtube.com/watch?v=uwifNAxd6b8",
+          "thumbnail": "https://i.ytimg.com/vi/uwifNAxd6b8/hqdefault.jpg"
+        }
+      ]
+    },
+    {
+      "title": "시스템 상태 요약",
+      "summary": "CPU 19.1 % 사용 / 클럭 806.4 MHz / RAM 11.6GB 사용, 총 15.8GB (74%) / SSD 346.5GB 사용, 총 476.0GB (73%)",
+      "take": "CPU는 현재 19.1 % 사용 중이고 클럭은 806.4 MHz, 버스 스피드는 100.8 MHz, RAM은 총 15.8GB 중 11.6GB 사용 (74%), SSD는 총 476.0GB 중 346.5GB 사용 (73%), 여유 129.5GB입니다. 네트워크 인터페이스는 Ethernet, Ethernet 2, Wi-Fi 기준입니다.",
+      "meta": [
+        "시스템",
+        "LHM"
+      ],
+      "entities": [
+        "Intel N100",
+        "RAM",
+        "SSD"
+      ],
+      "keywords": [
+        "temperature",
+        "load",
+        "memory"
+      ],
+      "links": []
+    },
+    {
+      "title": "OpenClaw 상태 요약",
+      "summary": "OpenClaw 2026.7.1-2 (0790d9f)",
+      "take": "Runtime: running (pid 20020, state Ready, last run 0, last run time 07-27(월) 오전 10:12:29, Gateway process detected for gateway port 18789.) | Listening: 127.0.0.1:18789",
+      "meta": [
+        "OpenClaw",
+        "Gateway"
+      ],
+      "entities": [
+        "main",
+        "gateway"
+      ],
+      "keywords": [
+        "version",
+        "rpc",
+        "status"
+      ],
+      "links": []
+    }
+  ],
+  "footer": "AI-assisted morning briefing, unified data structure ready for stage 2"
+}
