@@ -1,0 +1,403 @@
+{
+  "date": "2026-08-01 07:00",
+  "title": "아침 브리핑",
+  "subtitle": "날씨 · 응원 · 일정 · 메일 · 유튜브 · 시스템 · OpenClaw",
+  "summary": "오늘 일정이 비어 있다면, 오히려 중요한 걸 조용히 정리할 수 있는 좋은 날입니다.",
+  "summary_box": "큰 변수 없이 움직이기 좋은 날씨입니다. 일정만 잘 잡으면 리듬 있게 가기 좋겠습니다. 오늘은 마음을 급하게 쓰지 말고, 가장 아쉬웠던 한 가지를 먼저 정리해 보시면 좋겠습니다. 그런 작은 정리가 하루의 기분을 꽤 크게 바꿉니다.",
+  "weather": {
+    "loc": "김해",
+    "temp": "28°C",
+    "desc": "Sunny",
+    "icon": "⛅",
+    "badges": [
+      "체감 32°C",
+      "습도 74%",
+      "강수확률 1%",
+      "풍속 9km/h",
+      "UV 0",
+      "미세먼지 정보 연동 예정"
+    ],
+    "detail": {
+      "feels_like": "32",
+      "humidity": "74",
+      "rain_chance": "1",
+      "wind_kmph": "9",
+      "uv": "0",
+      "pm": "미세먼지 정보 연동 예정"
+    },
+    "life_comment": "큰 변수 없이 움직이기 좋은 날씨입니다. 일정만 잘 잡으면 리듬 있게 가기 좋겠습니다."
+  },
+  "sections": {
+    "calendar": {
+      "summary": "오늘 일정 없음",
+      "take": "오늘 등록된 일정이 없습니다. 이럴 때는 중요한 정리 한두 개만 분명하게 끝내도 충분합니다.",
+      "items": [],
+      "links": [],
+      "entities": [
+        "calendar"
+      ]
+    },
+    "mail": {
+      "summary": "[중요인물] 지출 한도 해제됨 / [중요인물] New: Lower GPT-5.6 pricing / [중요인물] 서비스 일시중지됨: 지출 한도 금액 100%에 ",
+      "take": "지금 확인할 만한 메일만 추렸습니다. 결제, 업무, 보안성 알림 위주로 먼저 보면 됩니다.",
+      "items": [
+        {
+          "date": "2026-07-31 08:54",
+          "from": "Google Cloud Platform <CloudPlatform-noreply@google.com>",
+          "subject": "지출 한도 해제됨",
+          "tags": [
+            "중요인물"
+          ]
+        },
+        {
+          "date": "2026-07-31 08:40",
+          "from": "OpenAI <noreply@email.openai.com>",
+          "subject": "New: Lower GPT-5.6 pricing and Fast mode for Sol",
+          "tags": [
+            "중요인물"
+          ]
+        },
+        {
+          "date": "2026-07-31 08:36",
+          "from": "Google Cloud Platform <CloudPlatform-noreply@google.com>",
+          "subject": "서비스 일시중지됨: 지출 한도 금액 100%에 도달함",
+          "tags": [
+            "중요인물"
+          ]
+        },
+        {
+          "date": "2026-07-31 08:35",
+          "from": "Google Cloud Platform <CloudPlatform-noreply@google.com>",
+          "subject": "지출 한도 구성됨 ",
+          "tags": [
+            "중요인물"
+          ]
+        }
+      ],
+      "links": [],
+      "entities": [
+        "중요인물"
+      ]
+    },
+    "youtube": {
+      "summary": "@JulianGoldieSEO Ollama + Kimi K3 is INSA / @JulianGoldieSEO Sakana + Claude Code Upd / @success_wiki 수백장 만들어도 0원.. 미친 4K 고화질영",
+      "take": "업로드 속도가 빠른 채널은 오늘도 여러 편이 들어왔습니다. 중요한 주제부터 2~3개만 골라 보면 효율이 좋습니다.",
+      "items": [
+        {
+          "channel": "@JulianGoldieSEO",
+          "title": "Ollama + Kimi K3 is INSANE! 🤯",
+          "published": "08-01 06:01",
+          "published_dt": "2026-08-01T06:01:02+09:00",
+          "url": "https://www.youtube.com/watch?v=U4FfpH6ENmU",
+          "thumbnail": "https://i.ytimg.com/vi/U4FfpH6ENmU/hqdefault.jpg",
+          "summary": "이 영상은 모델/LLM 중심 내용입니다. 구성은 Get the Agent OS & INSERTOOL Masterclass 👉 순서로 이어집니다. Olma plus Kimmy K3 is insane This new update lets you swap Claude's brain for a totally different AI model in one command One line in your terminal and Claude Code starts thinking with a completely different brain",
+          "description_excerpt": "Get the Agent OS & INSERTOOL Masterclass 👉",
+          "transcript_excerpt": "Olma plus Kimmy K3 is insane. This new update lets you swap Claude's brain for a totally different AI model in one command. With Olma, you can now plug a massive new AI model called Kimmy K3 straight into Claude code. One line in your termi",
+          "shorts": false
+        },
+        {
+          "channel": "@JulianGoldieSEO",
+          "title": "Sakana + Claude Code Update is INSANE",
+          "published": "08-01 06:00",
+          "published_dt": "2026-08-01T06:00:23+09:00",
+          "url": "https://www.youtube.com/watch?v=5a4dq3rJC8k",
+          "thumbnail": "https://i.ytimg.com/vi/5a4dq3rJC8k/hqdefault.jpg",
+          "summary": "이 영상은 모델/LLM 중심 내용입니다. 구성은 Intro – Stop picking the right model, The Update – Fugu now runs in Claude Code, How It Works – One model, a whole team behind it, Ultra v1.1 – Tiers, gains, and the benchmark claim 순서로 이어지며, 제목만으로는 보이지 않는 변화 배경·핵심 기능·실제 활용 포인트를 짚어보는 영상입니다.",
+          "description_excerpt": "Get the Sakana + Claude Code Masterclass 👉 00:00 Intro – Stop picking the right model 00:39 The Update – Fugu now runs in Claude Code 01:42 How It Works – One model, a whole team behind it 03:14 Ultra v1.1 – Tiers, gains, and the benchmark claim 04:28 Setup – One command to switch over 07:07 Gotchas – The setting most people get wrong",
+          "transcript_excerpt": "Sakana plus Claude code update is insane. What if you never had to pick the right AI model again? No more guessing which one writes better code. No more switching tools halfway through a task. Sakana just pulled off something wild inside Cl",
+          "shorts": false
+        },
+        {
+          "channel": "@success_wiki",
+          "title": "수백장 만들어도 0원.. 미친 4K 고화질영상 \"진짜무료\" 로 만드는 방법",
+          "published": "08-01 04:56",
+          "published_dt": "2026-08-01T04:56:57+09:00",
+          "url": "https://www.youtube.com/watch?v=-DIxhBieCEw",
+          "thumbnail": "https://i.ytimg.com/vi/-DIxhBieCEw/hqdefault.jpg",
+          "summary": "이 영상은 모델/LLM 중심 내용입니다. 구성은 그림 한 장 못 그리고 뽑은 4K 애니메이션, 시댄스 2.5 출시 예정, 그래서 14일 무제한, 같은 모델을 써도 결과가 흔들리는 이유, 스토리 시트 — 한 줄 아이디어로 뼈대 잡기 순서로 이어집니다. 🚨 시댄스 2.5 출시 기념 프리세일 — 지금 가입하면 14일 동안 시댄스를 무제한으로 씁니다 무료로 디더링 기법 웹사이트 무제한 만들기: Seedance 2.5 is Live 7 days of unlimited Seedance 2.0 in 4K, then switch to ANY other Seedance for 7 more days",
+          "description_excerpt": "🚨 시댄스 2.5 출시 기념 프리세일 — 지금 가입하면 14일 동안 시댄스를 무제한으로 씁니다. 무료로 디더링 기법 웹사이트 무제한 만들기: Seedance 2.5 is Live. Get 14 days of unlimited Seedance on Higgsfield. 7 days of unlimited Seedance 2.0 in 4K, then switch to ANY other Seedance for 7 more days. 그림을 한 장도 못 그리는데 4K 애니메이션 1분짜리를 돈 한 푼 안 쓰고 만들었습니다. 스토리 시트 한 줄에서 출발해 캐릭터 시트를 잡고, 배경을 만들고, 카메라를 초 단위로 쪼개서 시댄스 2.0 4K로 뽑는 순",
+          "transcript_excerpt": "",
+          "shorts": false
+        },
+        {
+          "channel": "@success_wiki",
+          "title": "해외에서 난리난 천원으로 천만원급 웹사이트 만드는 미친 AI 기법..ㄷㄷ",
+          "published": "08-01 04:09",
+          "published_dt": "2026-08-01T04:09:58+09:00",
+          "url": "https://www.youtube.com/watch?v=CncpfDb21ts",
+          "thumbnail": "https://i.ytimg.com/vi/CncpfDb21ts/hqdefault.jpg",
+          "summary": "이 영상은 개발도구 중심 내용입니다. 구성은 천원으로 천만원급 웹사이트, 완성된 히어로 8종 둘러보기, 디더링이 뭔가 — 밝기를 점으로, 알갱이가 모인 소재여야 하는 이유 순서로 이어집니다. 🚨 시댄스 2.5 출시 기념 프리세일 — 지금 가입하면 14일 동안 시댄스를 무제한으로 씁니다 무료로 디더링 기법 웹사이트 무제한 만들기: Seedance 2.5 is Live 7 days of unlimited Seedance 2.0 in 4K, then switch to ANY other Seedance for 7 more days",
+          "description_excerpt": "🚨 시댄스 2.5 출시 기념 프리세일 — 지금 가입하면 14일 동안 시댄스를 무제한으로 씁니다. 무료로 디더링 기법 웹사이트 무제한 만들기: Seedance 2.5 is Live. Get 14 days of unlimited Seedance on Higgsfield. 7 days of unlimited Seedance 2.0 in 4K, then switch to ANY other Seedance for 7 more days. 시댄스 2.5가 뭐길래 다들 기다리냐면요. 지금까지 AI 영상은 5초, 10초를 만들어서 이어 붙이는 게 당연했습니다. 그런데 Seedance 2.5는 한 번에 30초를 끊지 않고 뽑습니다. 인물도 카메라도 조명도",
+          "transcript_excerpt": "",
+          "shorts": false
+        },
+        {
+          "channel": "@JulianGoldieSEO",
+          "title": "New Perplexity Computer Update is INSANE!",
+          "published": "08-01 04:00",
+          "published_dt": "2026-08-01T04:00:32+09:00",
+          "url": "https://www.youtube.com/watch?v=8M6pMxGgPgM",
+          "thumbnail": "https://i.ytimg.com/vi/8M6pMxGgPgM/hqdefault.jpg",
+          "summary": "이 영상은 에이전트/자동화 중심 내용입니다. 구성은 Intro: The New Multiplayer Perplexity, The Agentic Operating System, How 'Brain' Powers Shared Memory, From Filing Cabinets to Shared Offices 순서로 이어지며, 제목만으로는 보이지 않는 변화 배경·핵심 기능·실제 활용 포인트를 짚어보는 영상입니다.",
+          "description_excerpt": "Get the Agent OS & Perplexity Computer Masterclass 👉 00:00 - Intro: The New Multiplayer Perplexity 00:42 - The Agentic Operating System 01:24 - How 'Brain' Powers Shared Memory 02:32 - From Filing Cabinets to Shared Offices 03:35 - Connecting Slack and Salesforce 04:01 - Security: Spaces vs. Projects 05:15 - The Shift to One Shared Brain 05:50 - Managing Sha",
+          "transcript_excerpt": "New Perplexity, computer update is insane. Perplexity just introduced projects on computer and this one changes how the whole tool works. Up until now computer was built for one person at a time. You gave it a job, it went and did the job a",
+          "shorts": false
+        }
+      ],
+      "links": [
+        {
+          "label": "@JulianGoldieSEO · 08-01 06:01",
+          "url": "https://www.youtube.com/watch?v=U4FfpH6ENmU",
+          "thumbnail": "https://i.ytimg.com/vi/U4FfpH6ENmU/hqdefault.jpg"
+        },
+        {
+          "label": "@JulianGoldieSEO · 08-01 06:00",
+          "url": "https://www.youtube.com/watch?v=5a4dq3rJC8k",
+          "thumbnail": "https://i.ytimg.com/vi/5a4dq3rJC8k/hqdefault.jpg"
+        },
+        {
+          "label": "@success_wiki · 08-01 04:56",
+          "url": "https://www.youtube.com/watch?v=-DIxhBieCEw",
+          "thumbnail": "https://i.ytimg.com/vi/-DIxhBieCEw/hqdefault.jpg"
+        }
+      ],
+      "entities": [
+        "@JulianGoldieSEO",
+        "@JulianGoldieSEO",
+        "@success_wiki",
+        "@success_wiki"
+      ]
+    },
+    "system": {
+      "summary": "CPU 2.3 % 사용 / 클럭 907.2 MHz / RAM 11.5GB 사용, 총 15.8GB (73%) / SSD 347.4GB 사용, 총 476.0GB (73%)",
+      "take": "CPU는 현재 2.3 % 사용 중이고 클럭은 907.2 MHz, 버스 스피드는 100.8 MHz, RAM은 총 15.8GB 중 11.5GB 사용 (73%), SSD는 총 476.0GB 중 347.4GB 사용 (73%), 여유 128.6GB입니다. 네트워크 인터페이스는 Ethernet, Ethernet 2, Wi-Fi 기준입니다.",
+      "metrics": [
+        {
+          "label": "CPU 사용률",
+          "value": "2.3 %",
+          "pct": 2.3,
+          "tone": "normal"
+        },
+        {
+          "label": "CPU 클럭",
+          "value": "907.2 MHz",
+          "pct": 25.92,
+          "tone": "normal"
+        },
+        {
+          "label": "버스 스피드",
+          "value": "100.8 MHz",
+          "pct": 100,
+          "tone": "normal"
+        },
+        {
+          "label": "CPU 온도",
+          "value": "46.0 °C",
+          "pct": 46.0,
+          "tone": "normal"
+        },
+        {
+          "label": "RAM 사용량",
+          "value": "11.5 / 15.8 GB (73%)",
+          "pct": 73.0,
+          "tone": "normal"
+        },
+        {
+          "label": "SSD 사용량",
+          "value": "347.4 / 476.0 GB (73%)",
+          "pct": 73.0,
+          "tone": "normal"
+        },
+        {
+          "label": "SSD 여유 공간",
+          "value": "128.6 / 476.0 GB",
+          "pct": 27.0,
+          "tone": "normal"
+        },
+        {
+          "label": "SSD 온도",
+          "value": "40.0 °C",
+          "pct": 40.0,
+          "tone": "normal"
+        },
+        {
+          "label": "업타임",
+          "value": "319시간 25분",
+          "pct": 100,
+          "tone": "normal"
+        },
+        {
+          "label": "네트워크 수신",
+          "value": "18709.7 MB",
+          "pct": 100,
+          "tone": "normal"
+        },
+        {
+          "label": "네트워크 송신",
+          "value": "8458.5 MB",
+          "pct": 100,
+          "tone": "normal"
+        }
+      ]
+    },
+    "openclaw": {
+      "summary": "OpenClaw 2026.7.1-2 (0790d9f)",
+      "take": "Runtime: running (pid 20020, state Ready, last run 0, last run time 07-27(월) 오전 10:12:29, Gateway process detected for gateway port 18789.) | Listening: 127.0.0.1:18789",
+      "metrics": [
+        {
+          "label": "Gateway",
+          "value": "bind=loopback (127.0.0.1), port=18789 (service args)",
+          "pct": 100,
+          "tone": "normal"
+        },
+        {
+          "label": "Probe note",
+          "value": "Loopback-only gateway; only local clients can connect.",
+          "pct": 100,
+          "tone": "normal"
+        },
+        {
+          "label": "Runtime",
+          "value": "running (pid 20020, state Ready, last run 0, last run time 07-27(월) 오전 10:12:29, Gateway process detected for gateway port 18789.)",
+          "pct": 100,
+          "tone": "good"
+        },
+        {
+          "label": "Listening",
+          "value": "127.0.0.1:18789",
+          "pct": 100,
+          "tone": "good"
+        }
+      ]
+    }
+  },
+  "cards": [
+    {
+      "title": "오늘의 한마디",
+      "summary": "오늘 일정이 비어 있다면, 오히려 중요한 걸 조용히 정리할 수 있는 좋은 날입니다.",
+      "take": "큰 변수 없이 움직이기 좋은 날씨입니다. 일정만 잘 잡으면 리듬 있게 가기 좋겠습니다. 오늘은 마음을 급하게 쓰지 말고, 가장 아쉬웠던 한 가지를 먼저 정리해 보시면 좋겠습니다. 그런 작은 정리가 하루의 기분을 꽤 크게 바꿉니다.",
+      "meta": [
+        "응원",
+        "중간 길이"
+      ],
+      "entities": [],
+      "keywords": [
+        "아침",
+        "집중"
+      ],
+      "links": []
+    },
+    {
+      "title": "오늘 일정",
+      "summary": "오늘 일정 없음",
+      "take": "오늘 등록된 일정이 없습니다. 이럴 때는 중요한 정리 한두 개만 분명하게 끝내도 충분합니다.",
+      "meta": [
+        "일정",
+        "calendar"
+      ],
+      "entities": [
+        "calendar"
+      ],
+      "keywords": [
+        "calendar"
+      ],
+      "links": []
+    },
+    {
+      "title": "주요 메일 / 중요 알림",
+      "summary": "[중요인물] 지출 한도 해제됨 / [중요인물] New: Lower GPT-5.6 pricing / [중요인물] 서비스 일시중지됨: 지출 한도 금액 100%에 ",
+      "take": "지금 확인할 만한 메일만 추렸습니다. 결제, 업무, 보안성 알림 위주로 먼저 보면 됩니다.",
+      "meta": [
+        "메일",
+        "gmail",
+        "중요 알림"
+      ],
+      "entities": [
+        "중요인물"
+      ],
+      "keywords": [
+        "gmail",
+        "alert"
+      ],
+      "links": []
+    },
+    {
+      "title": "유튜브 업데이트",
+      "summary": "@JulianGoldieSEO Ollama + Kimi K3 is INSA / @JulianGoldieSEO Sakana + Claude Code Upd / @success_wiki 수백장 만들어도 0원.. 미친 4K 고화질영",
+      "take": "업로드 속도가 빠른 채널은 오늘도 여러 편이 들어왔습니다. 중요한 주제부터 2~3개만 골라 보면 효율이 좋습니다.",
+      "meta": [
+        "유튜브",
+        "AI 채널",
+        "중간 길이"
+      ],
+      "entities": [
+        "@JulianGoldieSEO",
+        "@JulianGoldieSEO",
+        "@success_wiki",
+        "@success_wiki"
+      ],
+      "keywords": [
+        "youtube",
+        "update",
+        "thumbnail"
+      ],
+      "links": [
+        {
+          "label": "@JulianGoldieSEO · 08-01 06:01",
+          "url": "https://www.youtube.com/watch?v=U4FfpH6ENmU",
+          "thumbnail": "https://i.ytimg.com/vi/U4FfpH6ENmU/hqdefault.jpg"
+        },
+        {
+          "label": "@JulianGoldieSEO · 08-01 06:00",
+          "url": "https://www.youtube.com/watch?v=5a4dq3rJC8k",
+          "thumbnail": "https://i.ytimg.com/vi/5a4dq3rJC8k/hqdefault.jpg"
+        },
+        {
+          "label": "@success_wiki · 08-01 04:56",
+          "url": "https://www.youtube.com/watch?v=-DIxhBieCEw",
+          "thumbnail": "https://i.ytimg.com/vi/-DIxhBieCEw/hqdefault.jpg"
+        }
+      ]
+    },
+    {
+      "title": "시스템 상태 요약",
+      "summary": "CPU 2.3 % 사용 / 클럭 907.2 MHz / RAM 11.5GB 사용, 총 15.8GB (73%) / SSD 347.4GB 사용, 총 476.0GB (73%)",
+      "take": "CPU는 현재 2.3 % 사용 중이고 클럭은 907.2 MHz, 버스 스피드는 100.8 MHz, RAM은 총 15.8GB 중 11.5GB 사용 (73%), SSD는 총 476.0GB 중 347.4GB 사용 (73%), 여유 128.6GB입니다. 네트워크 인터페이스는 Ethernet, Ethernet 2, Wi-Fi 기준입니다.",
+      "meta": [
+        "시스템",
+        "LHM"
+      ],
+      "entities": [
+        "Intel N100",
+        "RAM",
+        "SSD"
+      ],
+      "keywords": [
+        "temperature",
+        "load",
+        "memory"
+      ],
+      "links": []
+    },
+    {
+      "title": "OpenClaw 상태 요약",
+      "summary": "OpenClaw 2026.7.1-2 (0790d9f)",
+      "take": "Runtime: running (pid 20020, state Ready, last run 0, last run time 07-27(월) 오전 10:12:29, Gateway process detected for gateway port 18789.) | Listening: 127.0.0.1:18789",
+      "meta": [
+        "OpenClaw",
+        "Gateway"
+      ],
+      "entities": [
+        "main",
+        "gateway"
+      ],
+      "keywords": [
+        "version",
+        "rpc",
+        "status"
+      ],
+      "links": []
+    }
+  ],
+  "footer": "AI-assisted morning briefing, unified data structure ready for stage 2"
+}
