@@ -1,0 +1,414 @@
+{
+  "date": "2026-08-02 07:00",
+  "title": "아침 브리핑",
+  "subtitle": "날씨 · 응원 · 일정 · 메일 · 유튜브 · 시스템 · OpenClaw",
+  "summary": "비어 있는 하루는 느슨한 하루가 아니라, 진짜 필요한 걸 선명하게 끝낼 수 있는 하루입니다.",
+  "summary_box": "습도가 높아 체감이 더 무겁습니다. 물을 자주 마시며 리듬을 유지하면 좋겠습니다. 오늘은 마음을 급하게 쓰지 말고, 가장 아쉬웠던 한 가지를 먼저 정리해 보시면 좋겠습니다. 그런 작은 정리가 하루의 기분을 꽤 크게 바꿉니다.",
+  "weather": {
+    "loc": "김해",
+    "temp": "25°C",
+    "desc": "Clear ",
+    "icon": "⛅",
+    "badges": [
+      "체감 28°C",
+      "습도 84%",
+      "강수확률 1%",
+      "풍속 8km/h",
+      "UV 0",
+      "미세먼지 정보 연동 예정"
+    ],
+    "detail": {
+      "feels_like": "28",
+      "humidity": "84",
+      "rain_chance": "1",
+      "wind_kmph": "8",
+      "uv": "0",
+      "pm": "미세먼지 정보 연동 예정"
+    },
+    "life_comment": "습도가 높아 체감이 더 무겁습니다. 물을 자주 마시며 리듬을 유지하면 좋겠습니다."
+  },
+  "sections": {
+    "calendar": {
+      "summary": "오늘 일정 없음",
+      "take": "오늘 등록된 일정이 없습니다. 이럴 때는 중요한 정리 한두 개만 분명하게 끝내도 충분합니다.",
+      "items": [],
+      "links": [],
+      "entities": [
+        "calendar"
+      ]
+    },
+    "mail": {
+      "summary": "[결제,중요인물] Google Cloud Platform & AP / [중요인물] 지출 한도 해제됨 / [중요인물] New: Lower GPT-5.6 pricing",
+      "take": "지금 확인할 만한 메일만 추렸습니다. 결제, 업무, 보안성 알림 위주로 먼저 보면 됩니다.",
+      "items": [
+        {
+          "date": "2026-08-02 03:08",
+          "from": "Google Payments <payments-noreply@google.com>",
+          "subject": "Google Cloud Platform & APIs: 결제 완료",
+          "tags": [
+            "결제",
+            "중요인물"
+          ]
+        },
+        {
+          "date": "2026-07-31 08:54",
+          "from": "Google Cloud Platform <CloudPlatform-noreply@google.com>",
+          "subject": "지출 한도 해제됨",
+          "tags": [
+            "중요인물"
+          ]
+        },
+        {
+          "date": "2026-07-31 08:40",
+          "from": "OpenAI <noreply@email.openai.com>",
+          "subject": "New: Lower GPT-5.6 pricing and Fast mode for Sol",
+          "tags": [
+            "중요인물"
+          ]
+        },
+        {
+          "date": "2026-07-31 08:36",
+          "from": "Google Cloud Platform <CloudPlatform-noreply@google.com>",
+          "subject": "서비스 일시중지됨: 지출 한도 금액 100%에 도달함",
+          "tags": [
+            "중요인물"
+          ]
+        },
+        {
+          "date": "2026-07-31 08:35",
+          "from": "Google Cloud Platform <CloudPlatform-noreply@google.com>",
+          "subject": "지출 한도 구성됨 ",
+          "tags": [
+            "중요인물"
+          ]
+        }
+      ],
+      "links": [],
+      "entities": [
+        "결제",
+        "중요인물"
+      ]
+    },
+    "youtube": {
+      "summary": "@JulianGoldieSEO This Gemini Notebook Tri / @JulianGoldieSEO New Gemini Spark Update  / @fahdmirza Hermes-Agent + Obsidian ",
+      "take": "업로드 속도가 빠른 채널은 오늘도 여러 편이 들어왔습니다. 중요한 주제부터 2~3개만 골라 보면 효율이 좋습니다.",
+      "items": [
+        {
+          "channel": "@JulianGoldieSEO",
+          "title": "This Gemini Notebook Trick is INSANE! 😱",
+          "published": "08-02 06:00",
+          "published_dt": "2026-08-02T06:00:00+09:00",
+          "url": "https://www.youtube.com/watch?v=8XVLXmDrfrQ",
+          "thumbnail": "https://i.ytimg.com/vi/8XVLXmDrfrQ/hqdefault.jpg",
+          "summary": "이 영상은 모델/LLM, 에이전트/자동화, 수익화/마케팅 중심 내용입니다. 구성은 Gemini's New Smart Engine, How Agentic AI Works, Create Real PDFs and Sheets, Automated Research Gaps 순서로 이어지며, 제목만으로는 보이지 않는 변화 배경·핵심 기능·실제 활용 포인트를 짚어보는 영상입니다.",
+          "description_excerpt": "Get the Agent OS & Gemini Notebook Masterclass 👉 00:00 - Intro 00:25 - Gemini's New Smart Engine 01:08 - How Agentic AI Works 01:59 - Create Real PDFs and Sheets 04:01 - Automated Research Gaps 04:54 - Data Analysis & Charting 06:51 - Free SEO Resources",
+          "transcript_excerpt": "This Gemini Notebook trick is insane. Today, I'm going to show you an SEO tricks that's about to change how you make content forever. Google just gave Gemini Notebook a brain transplant. It can now think, research, and build real work for y",
+          "shorts": false
+        },
+        {
+          "channel": "@JulianGoldieSEO",
+          "title": "New Gemini Spark Update is INSANE!",
+          "published": "08-02 04:00",
+          "published_dt": "2026-08-02T04:00:32+09:00",
+          "url": "https://www.youtube.com/watch?v=TBJ1NsvzatA",
+          "thumbnail": "https://i.ytimg.com/vi/TBJ1NsvzatA/hqdefault.jpg",
+          "summary": "이 영상은 모델/LLM, 에이전트/자동화, 수익화/마케팅 중심 내용입니다. 구성은 Gemini Spark: AI With Hands, How This Changes SEO Forever, Limits of AI Automation, Workflow 1: Competitor Gaps 순서로 이어집니다. New Gemini Spark update is insane SEO just changed forever and I'm going to show you why It's new, it's huge, and it's stupid easy to use",
+          "description_excerpt": "Get the Agent OS & Gemini Spark Masterclass 👉 00:00 - Intro 00:36 - Gemini Spark: AI With Hands 01:42 - How This Changes SEO Forever 02:21 - Limits of AI Automation 04:21 - Workflow 1: Competitor Gaps 04:52 - Workflow 2: Backlink Research 05:41 - Workflow 3: Local SEO Audits 06:31 - How to Scale Your Traffic",
+          "transcript_excerpt": "New Gemini Spark update is insane. SEO just changed forever and I'm going to show you why. Google built an AI that can browse the web and do work for you. It's new, it's huge, and it's stupid easy to use. No tech skills needed. You just tel",
+          "shorts": false
+        },
+        {
+          "channel": "@fahdmirza",
+          "title": "Hermes-Agent + Obsidian + Ollama: Your Notes, Now Hands-Free",
+          "published": "08-02 04:00",
+          "published_dt": "2026-08-02T04:00:10+09:00",
+          "url": "https://www.youtube.com/watch?v=CP64ty73yuo",
+          "thumbnail": "https://i.ytimg.com/vi/CP64ty73yuo/hqdefault.jpg",
+          "summary": "이 영상은 모델/LLM, 에이전트/자동화, 튜토리얼/설정 중심 내용입니다. 구성은 This video installs and shows how to use Obsidian with Ollama and hermes-agent for free 순서로 이어집니다. Search my notes, pull up what I need, write new ones for me That's Hermit agent wired into Obsidian running on local model via Ollama In this video, this is what we are going to do",
+          "description_excerpt": "This video installs and shows how to use Obsidian with Ollama and hermes-agent for free. 🔥 Get 50% Discount on any A6000 or A5000 GPU rental, use following link and coupon: Coupon code: FahdMirza 🔥 Buy Me a Coffee to support the channel: PLEASE FOLLOW ME: ▶ LinkedIn: / fahdmirza ▶ YouTube: / ▶ Blog: RESOURCES: ▶ All rights reserved © Fahd Mirza",
+          "transcript_excerpt": "Search my notes, pull up what I need, write new ones for me. That's Hermit agent wired into Obsidian running on local model via Ollama. This is Fahad Mirza and I welcome you to the channel. In this video, this is what we are going to do. We",
+          "shorts": false
+        },
+        {
+          "channel": "@JulianGoldieSEO",
+          "title": "Claude Code is FREE Forever, Here Is How...",
+          "published": "08-02 03:00",
+          "published_dt": "2026-08-02T03:00:20+09:00",
+          "url": "https://www.youtube.com/watch?v=cioX3KmDU2A",
+          "thumbnail": "https://i.ytimg.com/vi/cioX3KmDU2A/hqdefault.jpg",
+          "summary": "이 영상은 모델/LLM, 에이전트/자동화 중심 내용입니다. 구성은 Get the Agent OS & INSERTOOL Masterclass 👉 순서로 이어집니다. Claude Code is free forever Claude Code is basically free now That gives you access to dozens of free AI models without changing how Claude Code works",
+          "description_excerpt": "Get the Agent OS & INSERTOOL Masterclass 👉",
+          "transcript_excerpt": "Claude Code is free forever. Here is how. Claude Code is basically free now. Instead of paying for every coding task, you can connect Claude Code to free AI routers like Omni route. That gives you access to dozens of free AI models without ",
+          "shorts": false
+        },
+        {
+          "channel": "@진바이브",
+          "title": "6개월간 AI로 30조원을 굴린 20대, 결국 월가에 당함",
+          "published": "08-02 02:20",
+          "published_dt": "2026-08-02T02:20:37+09:00",
+          "url": "https://www.youtube.com/watch?v=bjuMxfQYdo4",
+          "thumbnail": "https://i.ytimg.com/vi/bjuMxfQYdo4/hqdefault.jpg",
+          "summary": "6개월간 AI로 30조원을 굴린 20대, 결국 월가에 당함 내용을 다루는 영상입니다. 핵심은 AI 관련 변화나 활용 포인트를 소개하는 것입니다.",
+          "description_excerpt": "",
+          "transcript_excerpt": "",
+          "shorts": false
+        }
+      ],
+      "links": [
+        {
+          "label": "@JulianGoldieSEO · 08-02 06:00",
+          "url": "https://www.youtube.com/watch?v=8XVLXmDrfrQ",
+          "thumbnail": "https://i.ytimg.com/vi/8XVLXmDrfrQ/hqdefault.jpg"
+        },
+        {
+          "label": "@JulianGoldieSEO · 08-02 04:00",
+          "url": "https://www.youtube.com/watch?v=TBJ1NsvzatA",
+          "thumbnail": "https://i.ytimg.com/vi/TBJ1NsvzatA/hqdefault.jpg"
+        },
+        {
+          "label": "@fahdmirza · 08-02 04:00",
+          "url": "https://www.youtube.com/watch?v=CP64ty73yuo",
+          "thumbnail": "https://i.ytimg.com/vi/CP64ty73yuo/hqdefault.jpg"
+        }
+      ],
+      "entities": [
+        "@JulianGoldieSEO",
+        "@JulianGoldieSEO",
+        "@fahdmirza",
+        "@JulianGoldieSEO"
+      ]
+    },
+    "system": {
+      "summary": "CPU 18.0 % 사용 / 클럭 1411.2 MHz / RAM 11.1GB 사용, 총 15.8GB (70%) / SSD 345.7GB 사용, 총 476.0GB (73%)",
+      "take": "CPU는 현재 18.0 % 사용 중이고 클럭은 1411.2 MHz, 버스 스피드는 100.8 MHz, RAM은 총 15.8GB 중 11.1GB 사용 (70%), SSD는 총 476.0GB 중 345.7GB 사용 (73%), 여유 130.3GB입니다. 네트워크 인터페이스는 Ethernet, Ethernet 2, Wi-Fi 기준입니다.",
+      "metrics": [
+        {
+          "label": "CPU 사용률",
+          "value": "18.0 %",
+          "pct": 18.0,
+          "tone": "normal"
+        },
+        {
+          "label": "CPU 클럭",
+          "value": "1411.2 MHz",
+          "pct": 40.32,
+          "tone": "normal"
+        },
+        {
+          "label": "버스 스피드",
+          "value": "100.8 MHz",
+          "pct": 100,
+          "tone": "normal"
+        },
+        {
+          "label": "CPU 온도",
+          "value": "51.0 °C",
+          "pct": 51.0,
+          "tone": "normal"
+        },
+        {
+          "label": "RAM 사용량",
+          "value": "11.1 / 15.8 GB (70%)",
+          "pct": 70.5,
+          "tone": "normal"
+        },
+        {
+          "label": "SSD 사용량",
+          "value": "345.7 / 476.0 GB (73%)",
+          "pct": 72.6,
+          "tone": "normal"
+        },
+        {
+          "label": "SSD 여유 공간",
+          "value": "130.3 / 476.0 GB",
+          "pct": 27.400000000000006,
+          "tone": "normal"
+        },
+        {
+          "label": "SSD 온도",
+          "value": "40.0 °C",
+          "pct": 40.0,
+          "tone": "normal"
+        },
+        {
+          "label": "업타임",
+          "value": "343시간 25분",
+          "pct": 100,
+          "tone": "normal"
+        },
+        {
+          "label": "네트워크 수신",
+          "value": "19991.8 MB",
+          "pct": 100,
+          "tone": "normal"
+        },
+        {
+          "label": "네트워크 송신",
+          "value": "8992.0 MB",
+          "pct": 100,
+          "tone": "normal"
+        }
+      ]
+    },
+    "openclaw": {
+      "summary": "OpenClaw 2026.7.1-2 (0790d9f)",
+      "take": "Runtime: running (pid 20020, state Ready, last run 0, last run time 07-27(월) 오전 10:12:29, Gateway process detected for gateway port 18789.) | Listening: 127.0.0.1:18789",
+      "metrics": [
+        {
+          "label": "Gateway",
+          "value": "bind=loopback (127.0.0.1), port=18789 (service args)",
+          "pct": 100,
+          "tone": "normal"
+        },
+        {
+          "label": "Probe note",
+          "value": "Loopback-only gateway; only local clients can connect.",
+          "pct": 100,
+          "tone": "normal"
+        },
+        {
+          "label": "Runtime",
+          "value": "running (pid 20020, state Ready, last run 0, last run time 07-27(월) 오전 10:12:29, Gateway process detected for gateway port 18789.)",
+          "pct": 100,
+          "tone": "good"
+        },
+        {
+          "label": "Listening",
+          "value": "127.0.0.1:18789",
+          "pct": 100,
+          "tone": "good"
+        }
+      ]
+    }
+  },
+  "cards": [
+    {
+      "title": "오늘의 한마디",
+      "summary": "비어 있는 하루는 느슨한 하루가 아니라, 진짜 필요한 걸 선명하게 끝낼 수 있는 하루입니다.",
+      "take": "습도가 높아 체감이 더 무겁습니다. 물을 자주 마시며 리듬을 유지하면 좋겠습니다. 오늘은 마음을 급하게 쓰지 말고, 가장 아쉬웠던 한 가지를 먼저 정리해 보시면 좋겠습니다. 그런 작은 정리가 하루의 기분을 꽤 크게 바꿉니다.",
+      "meta": [
+        "응원",
+        "중간 길이"
+      ],
+      "entities": [],
+      "keywords": [
+        "아침",
+        "집중"
+      ],
+      "links": []
+    },
+    {
+      "title": "오늘 일정",
+      "summary": "오늘 일정 없음",
+      "take": "오늘 등록된 일정이 없습니다. 이럴 때는 중요한 정리 한두 개만 분명하게 끝내도 충분합니다.",
+      "meta": [
+        "일정",
+        "calendar"
+      ],
+      "entities": [
+        "calendar"
+      ],
+      "keywords": [
+        "calendar"
+      ],
+      "links": []
+    },
+    {
+      "title": "주요 메일 / 중요 알림",
+      "summary": "[결제,중요인물] Google Cloud Platform & AP / [중요인물] 지출 한도 해제됨 / [중요인물] New: Lower GPT-5.6 pricing",
+      "take": "지금 확인할 만한 메일만 추렸습니다. 결제, 업무, 보안성 알림 위주로 먼저 보면 됩니다.",
+      "meta": [
+        "메일",
+        "gmail",
+        "중요 알림"
+      ],
+      "entities": [
+        "결제",
+        "중요인물"
+      ],
+      "keywords": [
+        "gmail",
+        "alert"
+      ],
+      "links": []
+    },
+    {
+      "title": "유튜브 업데이트",
+      "summary": "@JulianGoldieSEO This Gemini Notebook Tri / @JulianGoldieSEO New Gemini Spark Update  / @fahdmirza Hermes-Agent + Obsidian ",
+      "take": "업로드 속도가 빠른 채널은 오늘도 여러 편이 들어왔습니다. 중요한 주제부터 2~3개만 골라 보면 효율이 좋습니다.",
+      "meta": [
+        "유튜브",
+        "AI 채널",
+        "중간 길이"
+      ],
+      "entities": [
+        "@JulianGoldieSEO",
+        "@JulianGoldieSEO",
+        "@fahdmirza",
+        "@JulianGoldieSEO"
+      ],
+      "keywords": [
+        "youtube",
+        "update",
+        "thumbnail"
+      ],
+      "links": [
+        {
+          "label": "@JulianGoldieSEO · 08-02 06:00",
+          "url": "https://www.youtube.com/watch?v=8XVLXmDrfrQ",
+          "thumbnail": "https://i.ytimg.com/vi/8XVLXmDrfrQ/hqdefault.jpg"
+        },
+        {
+          "label": "@JulianGoldieSEO · 08-02 04:00",
+          "url": "https://www.youtube.com/watch?v=TBJ1NsvzatA",
+          "thumbnail": "https://i.ytimg.com/vi/TBJ1NsvzatA/hqdefault.jpg"
+        },
+        {
+          "label": "@fahdmirza · 08-02 04:00",
+          "url": "https://www.youtube.com/watch?v=CP64ty73yuo",
+          "thumbnail": "https://i.ytimg.com/vi/CP64ty73yuo/hqdefault.jpg"
+        }
+      ]
+    },
+    {
+      "title": "시스템 상태 요약",
+      "summary": "CPU 18.0 % 사용 / 클럭 1411.2 MHz / RAM 11.1GB 사용, 총 15.8GB (70%) / SSD 345.7GB 사용, 총 476.0GB (73%)",
+      "take": "CPU는 현재 18.0 % 사용 중이고 클럭은 1411.2 MHz, 버스 스피드는 100.8 MHz, RAM은 총 15.8GB 중 11.1GB 사용 (70%), SSD는 총 476.0GB 중 345.7GB 사용 (73%), 여유 130.3GB입니다. 네트워크 인터페이스는 Ethernet, Ethernet 2, Wi-Fi 기준입니다.",
+      "meta": [
+        "시스템",
+        "LHM"
+      ],
+      "entities": [
+        "Intel N100",
+        "RAM",
+        "SSD"
+      ],
+      "keywords": [
+        "temperature",
+        "load",
+        "memory"
+      ],
+      "links": []
+    },
+    {
+      "title": "OpenClaw 상태 요약",
+      "summary": "OpenClaw 2026.7.1-2 (0790d9f)",
+      "take": "Runtime: running (pid 20020, state Ready, last run 0, last run time 07-27(월) 오전 10:12:29, Gateway process detected for gateway port 18789.) | Listening: 127.0.0.1:18789",
+      "meta": [
+        "OpenClaw",
+        "Gateway"
+      ],
+      "entities": [
+        "main",
+        "gateway"
+      ],
+      "keywords": [
+        "version",
+        "rpc",
+        "status"
+      ],
+      "links": []
+    }
+  ],
+  "footer": "AI-assisted morning briefing, unified data structure ready for stage 2"
+}
