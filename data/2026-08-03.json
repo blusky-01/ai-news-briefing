@@ -1,0 +1,411 @@
+{
+  "date": "2026-08-03 07:00",
+  "title": "아침 브리핑",
+  "subtitle": "날씨 · 응원 · 일정 · 메일 · 유튜브 · 시스템 · OpenClaw",
+  "summary": "오늘은 누가 밀어붙이지 않아도 됩니다. 팀장님 리듬대로 중요한 것부터 차분히 끝내면 됩니다.",
+  "summary_box": "큰 변수 없이 움직이기 좋은 날씨입니다. 일정만 잘 잡으면 리듬 있게 가기 좋겠습니다. 오늘은 마음을 급하게 쓰지 말고, 가장 아쉬웠던 한 가지를 먼저 정리해 보시면 좋겠습니다. 그런 작은 정리가 하루의 기분을 꽤 크게 바꿉니다.",
+  "weather": {
+    "loc": "김해",
+    "temp": "26°C",
+    "desc": "Clear ",
+    "icon": "⛅",
+    "badges": [
+      "체감 28°C",
+      "습도 74%",
+      "강수확률 3%",
+      "풍속 6km/h",
+      "UV 0",
+      "미세먼지 정보 연동 예정"
+    ],
+    "detail": {
+      "feels_like": "28",
+      "humidity": "74",
+      "rain_chance": "3",
+      "wind_kmph": "6",
+      "uv": "0",
+      "pm": "미세먼지 정보 연동 예정"
+    },
+    "life_comment": "큰 변수 없이 움직이기 좋은 날씨입니다. 일정만 잘 잡으면 리듬 있게 가기 좋겠습니다."
+  },
+  "sections": {
+    "calendar": {
+      "summary": "오늘 일정 없음",
+      "take": "오늘 등록된 일정이 없습니다. 이럴 때는 중요한 정리 한두 개만 분명하게 끝내도 충분합니다.",
+      "items": [],
+      "links": [],
+      "entities": [
+        "calendar"
+      ]
+    },
+    "mail": {
+      "summary": "[확인필요] 메일 수신이 되는지 테스트 / [확인필요] [아라테크 웹사이트] 신규 견적 문의 접수 알림 / [확인필요] [아라테크 웹사이트] 신규 견적 문의 접수 알림",
+      "take": "지금 확인할 만한 메일만 추렸습니다. 결제, 업무, 보안성 알림 위주로 먼저 보면 됩니다.",
+      "items": [
+        {
+          "date": "2026-08-02 23:05",
+          "from": "\"아라테크\" <aratech.design@gmail.com>",
+          "subject": "메일 수신이 되는지 테스트",
+          "tags": [
+            "확인필요"
+          ]
+        },
+        {
+          "date": "2026-08-02 13:08",
+          "from": "Ara Tech Notification <aratech.design@gmail.com>",
+          "subject": "[아라테크 웹사이트] 신규 견적 문의 접수 알림 (홍길동)",
+          "tags": [
+            "확인필요"
+          ]
+        },
+        {
+          "date": "2026-08-02 11:30",
+          "from": "Ara Tech Notification <aratech.design@gmail.com>",
+          "subject": "[아라테크 웹사이트] 신규 견적 문의 접수 알림 (오창재)",
+          "tags": [
+            "확인필요"
+          ]
+        },
+        {
+          "date": "2026-08-02 08:09",
+          "from": "Ara Tech Notification <aratech.design@gmail.com>",
+          "subject": "[아라테크 웹사이트] 신규 견적 문의 접수 알림 (이테스트)",
+          "tags": [
+            "확인필요"
+          ]
+        },
+        {
+          "date": "2026-08-02 07:58",
+          "from": "Ara Tech Notification <aratech.design@gmail.com>",
+          "subject": "[아라테크 웹사이트] 신규 견적 문의 접수 알림 (오창재 대표)",
+          "tags": [
+            "확인필요"
+          ]
+        }
+      ],
+      "links": [],
+      "entities": [
+        "확인필요"
+      ]
+    },
+    "youtube": {
+      "summary": "@JulianGoldieSEO OmniRoute + Antigravity  / @JulianGoldieSEO NEW ChatGPT Upgrades Is  / @fahdmirza ARK-ASR-3B: Multilingual",
+      "take": "업로드 속도가 빠른 채널은 오늘도 여러 편이 들어왔습니다. 중요한 주제부터 2~3개만 골라 보면 효율이 좋습니다.",
+      "items": [
+        {
+          "channel": "@JulianGoldieSEO",
+          "title": "OmniRoute + Antigravity is INSANE!",
+          "published": "08-03 06:00",
+          "published_dt": "2026-08-03T06:00:33+09:00",
+          "url": "https://www.youtube.com/watch?v=JCMAXTWD5VU",
+          "thumbnail": "https://i.ytimg.com/vi/JCMAXTWD5VU/hqdefault.jpg",
+          "summary": "이 영상은 모델/LLM, 에이전트/자동화, 수익화/마케팅 중심 내용입니다. 구성은 Introduction: The Power Duo, OmniRoute: The AI Traffic Cop, OmniRoute 3.8.49 Update Highlights, Fusion and Pipeline Routing 순서로 이어집니다. Omniroot plus anti-gravity is insane And I mean that in the best way Let's start simple",
+          "description_excerpt": "Get the Agent OS & OmniRoute + Antigravity Masterclass 👉 00:00 - Introduction: The Power Duo 00:36 - OmniRoute: The AI Traffic Cop 01:35 - OmniRoute 3.8.49 Update Highlights 02:40 - Fusion and Pipeline Routing 03:45 - Antigravity 2.4.3: File Management 04:41 - Gemini 3.6 Flash Efficiency Gains 05:35 - Practical Business Use Case 06:17 - Warning: Safety and A",
+          "transcript_excerpt": "Omniroot plus anti-gravity is insane. And I mean that in the best way. Today, I'm breaking down what these two tools do together, why the timing matters right now, and one warning you need to hear before you try any of this yourself. Let's ",
+          "shorts": false
+        },
+        {
+          "channel": "@JulianGoldieSEO",
+          "title": "NEW ChatGPT Upgrades Is INSANE!",
+          "published": "08-03 04:00",
+          "published_dt": "2026-08-03T04:00:34+09:00",
+          "url": "https://www.youtube.com/watch?v=0m12PEV6COc",
+          "thumbnail": "https://i.ytimg.com/vi/0m12PEV6COc/hqdefault.jpg",
+          "summary": "이 영상은 모델/LLM 중심 내용입니다. 구성은 Intro – ChatGPT's new browser upgrade, Highlight & Ask – Right-click shortcut on any page, Tab-Aware Chat – Reference open tabs, videos, history, Real Test – Summarizing a YouTube video into Docs 순서로 이어지며, 제목만으로는 보이지 않는 변화 배경·핵심 기능·실제 활용 포인트를 짚어보는 영상입니다.",
+          "description_excerpt": "Get the Agent OS & ChatGPT Masterclass 👉 00:00 Intro – ChatGPT's new browser upgrade 00:38 Highlight & Ask – Right-click shortcut on any page 01:00 Tab-Aware Chat – Reference open tabs, videos, history 01:23 Real Test – Summarizing a YouTube video into Docs 01:54 The Problem – Why copy-pasting kills your workflow 03:23 Desktop App – URL suggestions & browser",
+          "transcript_excerpt": "New Chat GPT upgrades is insane. You've got way too many tabs open right now, don't you? Chat GPT just quietly fixed that problem. No more copying text into a separate chat window. You can now highlight something and ask right where you're ",
+          "shorts": false
+        },
+        {
+          "channel": "@fahdmirza",
+          "title": "ARK-ASR-3B: Multilingual ASR Model Tested Locally",
+          "published": "08-03 04:00",
+          "published_dt": "2026-08-03T04:00:17+09:00",
+          "url": "https://www.youtube.com/watch?v=Teh3_Ka-Ckk",
+          "thumbnail": "https://i.ytimg.com/vi/Teh3_Ka-Ckk/hqdefault.jpg",
+          "summary": "이 영상은 모델/LLM, 수익화/마케팅, 튜토리얼/설정 중심 내용입니다. 구성은 This video locally installs and tests ARK-ASR-3B which is a multilingual automatic speech recognition model 순서로 이어지며, 제목만으로는 보이지 않는 변화 배경·핵심 기능·실제 활용 포인트를 짚어보는 영상입니다.",
+          "description_excerpt": "This video locally installs and tests ARK-ASR-3B which is a multilingual automatic speech recognition model. 🔥 Get 50% Discount on any A6000 or A5000 GPU rental, use following link and coupon: Coupon code: FahdMirza 🔥 Buy Me a Coffee to support the channel: PLEASE FOLLOW ME: ▶ LinkedIn: / fahdmirza ▶ YouTube: / ▶ Blog: RESOURCES: ▶ All rights reserved © Fahd",
+          "transcript_excerpt": "Ark ASR is a speech-to-text model that converts spoken audio into written transcripts. The bigger 3 billion version currently sits at the top of a major public leaderboard for English transcription getting only about 5% of words wrong on av",
+          "shorts": false
+        },
+        {
+          "channel": "@JulianGoldieSEO",
+          "title": "Kimi K4 Is Coming and It Looks SCARY Good",
+          "published": "08-03 02:00",
+          "published_dt": "2026-08-03T02:00:25+09:00",
+          "url": "https://www.youtube.com/watch?v=7JNo-T5EvV0",
+          "thumbnail": "https://i.ytimg.com/vi/7JNo-T5EvV0/hqdefault.jpg",
+          "summary": "이 영상은 모델/LLM 중심 내용입니다. 구성은 Intro – K4 is coming, why the rush?, K3 Specs – 2.8T parameters, biggest open model, Real Use Case – Turning websites into 3D, The Problem – Banned Nvidia Blackwell chips 순서로 이어지며, 제목만으로는 보이지 않는 변화 배경·핵심 기능·실제 활용 포인트를 짚어보는 영상입니다.",
+          "description_excerpt": "Get the Agent OS & Kimi Masterclass 👉 00:00 Intro – K4 is coming, why the rush? 00:41 K3 Specs – 2.8T parameters, biggest open model 01:03 Real Use Case – Turning websites into 3D 01:50 The Problem – Banned Nvidia Blackwell chips 02:07 Thailand Loophole – How K3 was really trained 03:33 Engineering Hack – Stitching together smaller clusters 04:21 Not Alone –",
+          "transcript_excerpt": "Kimi K4 is coming and it looks scary good. Moonshot's biggest AI model is only 2 weeks old and they're already talking about the next one. Why the rush? What's actually powering all of this and why does Washington look nervous about it? Sti",
+          "shorts": false
+        },
+        {
+          "channel": "@jocoding",
+          "title": "[LIVE] 삼전닉스 기원 '데이터 센터' 게임으로 배워보기",
+          "published": "08-02 20:53",
+          "published_dt": "2026-08-02T20:53:59+09:00",
+          "url": "https://www.youtube.com/watch?v=KrE6zFGbD8s",
+          "thumbnail": "https://i.ytimg.com/vi/KrE6zFGbD8s/hqdefault.jpg",
+          "summary": "구성은 [LIVE] 삼전 하닉 반등 기원 '데이터 센터' 게임으로 배워보기 순서로 이어집니다. [LIVE] 삼전 하닉 반등 기원 '데이터 센터' 게임으로 배워보기",
+          "description_excerpt": "[LIVE] 삼전 하닉 반등 기원 '데이터 센터' 게임으로 배워보기",
+          "transcript_excerpt": "",
+          "shorts": false
+        }
+      ],
+      "links": [
+        {
+          "label": "@JulianGoldieSEO · 08-03 06:00",
+          "url": "https://www.youtube.com/watch?v=JCMAXTWD5VU",
+          "thumbnail": "https://i.ytimg.com/vi/JCMAXTWD5VU/hqdefault.jpg"
+        },
+        {
+          "label": "@JulianGoldieSEO · 08-03 04:00",
+          "url": "https://www.youtube.com/watch?v=0m12PEV6COc",
+          "thumbnail": "https://i.ytimg.com/vi/0m12PEV6COc/hqdefault.jpg"
+        },
+        {
+          "label": "@fahdmirza · 08-03 04:00",
+          "url": "https://www.youtube.com/watch?v=Teh3_Ka-Ckk",
+          "thumbnail": "https://i.ytimg.com/vi/Teh3_Ka-Ckk/hqdefault.jpg"
+        }
+      ],
+      "entities": [
+        "@JulianGoldieSEO",
+        "@JulianGoldieSEO",
+        "@fahdmirza",
+        "@JulianGoldieSEO"
+      ]
+    },
+    "system": {
+      "summary": "CPU 28.5 % 사용 / 클럭 2923.2 MHz / RAM 11.5GB 사용, 총 15.8GB (73%) / SSD 346.1GB 사용, 총 476.0GB (73%)",
+      "take": "CPU는 현재 28.5 % 사용 중이고 클럭은 2923.2 MHz, 버스 스피드는 100.8 MHz, RAM은 총 15.8GB 중 11.5GB 사용 (73%), SSD는 총 476.0GB 중 346.1GB 사용 (73%), 여유 129.9GB입니다. 네트워크 인터페이스는 Ethernet, Ethernet 2, Wi-Fi 기준입니다.",
+      "metrics": [
+        {
+          "label": "CPU 사용률",
+          "value": "28.5 %",
+          "pct": 28.5,
+          "tone": "normal"
+        },
+        {
+          "label": "CPU 클럭",
+          "value": "2923.2 MHz",
+          "pct": 83.52,
+          "tone": "normal"
+        },
+        {
+          "label": "버스 스피드",
+          "value": "100.8 MHz",
+          "pct": 100,
+          "tone": "normal"
+        },
+        {
+          "label": "CPU 온도",
+          "value": "64.0 °C",
+          "pct": 64.0,
+          "tone": "normal"
+        },
+        {
+          "label": "RAM 사용량",
+          "value": "11.5 / 15.8 GB (73%)",
+          "pct": 72.6,
+          "tone": "normal"
+        },
+        {
+          "label": "SSD 사용량",
+          "value": "346.1 / 476.0 GB (73%)",
+          "pct": 72.7,
+          "tone": "normal"
+        },
+        {
+          "label": "SSD 여유 공간",
+          "value": "129.9 / 476.0 GB",
+          "pct": 27.299999999999997,
+          "tone": "normal"
+        },
+        {
+          "label": "SSD 온도",
+          "value": "40.0 °C",
+          "pct": 40.0,
+          "tone": "normal"
+        },
+        {
+          "label": "업타임",
+          "value": "367시간 25분",
+          "pct": 100,
+          "tone": "normal"
+        },
+        {
+          "label": "네트워크 수신",
+          "value": "24291.5 MB",
+          "pct": 100,
+          "tone": "normal"
+        },
+        {
+          "label": "네트워크 송신",
+          "value": "12079.9 MB",
+          "pct": 100,
+          "tone": "normal"
+        }
+      ]
+    },
+    "openclaw": {
+      "summary": "OpenClaw 2026.7.1-2 (0790d9f)",
+      "take": "Runtime: running (pid 18768, state Ready, last run 0, last run time 08-02(일) 오후 10:37:21, Gateway process detected for gateway port 18789.) | Listening: 127.0.0.1:18789",
+      "metrics": [
+        {
+          "label": "Gateway",
+          "value": "bind=loopback (127.0.0.1), port=18789 (service args)",
+          "pct": 100,
+          "tone": "normal"
+        },
+        {
+          "label": "Probe note",
+          "value": "Loopback-only gateway; only local clients can connect.",
+          "pct": 100,
+          "tone": "normal"
+        },
+        {
+          "label": "Runtime",
+          "value": "running (pid 18768, state Ready, last run 0, last run time 08-02(일) 오후 10:37:21, Gateway process detected for gateway port 18789.)",
+          "pct": 100,
+          "tone": "good"
+        },
+        {
+          "label": "Listening",
+          "value": "127.0.0.1:18789",
+          "pct": 100,
+          "tone": "good"
+        }
+      ]
+    }
+  },
+  "cards": [
+    {
+      "title": "오늘의 한마디",
+      "summary": "오늘은 누가 밀어붙이지 않아도 됩니다. 팀장님 리듬대로 중요한 것부터 차분히 끝내면 됩니다.",
+      "take": "큰 변수 없이 움직이기 좋은 날씨입니다. 일정만 잘 잡으면 리듬 있게 가기 좋겠습니다. 오늘은 마음을 급하게 쓰지 말고, 가장 아쉬웠던 한 가지를 먼저 정리해 보시면 좋겠습니다. 그런 작은 정리가 하루의 기분을 꽤 크게 바꿉니다.",
+      "meta": [
+        "응원",
+        "중간 길이"
+      ],
+      "entities": [],
+      "keywords": [
+        "아침",
+        "집중"
+      ],
+      "links": []
+    },
+    {
+      "title": "오늘 일정",
+      "summary": "오늘 일정 없음",
+      "take": "오늘 등록된 일정이 없습니다. 이럴 때는 중요한 정리 한두 개만 분명하게 끝내도 충분합니다.",
+      "meta": [
+        "일정",
+        "calendar"
+      ],
+      "entities": [
+        "calendar"
+      ],
+      "keywords": [
+        "calendar"
+      ],
+      "links": []
+    },
+    {
+      "title": "주요 메일 / 중요 알림",
+      "summary": "[확인필요] 메일 수신이 되는지 테스트 / [확인필요] [아라테크 웹사이트] 신규 견적 문의 접수 알림 / [확인필요] [아라테크 웹사이트] 신규 견적 문의 접수 알림",
+      "take": "지금 확인할 만한 메일만 추렸습니다. 결제, 업무, 보안성 알림 위주로 먼저 보면 됩니다.",
+      "meta": [
+        "메일",
+        "gmail",
+        "중요 알림"
+      ],
+      "entities": [
+        "확인필요"
+      ],
+      "keywords": [
+        "gmail",
+        "alert"
+      ],
+      "links": []
+    },
+    {
+      "title": "유튜브 업데이트",
+      "summary": "@JulianGoldieSEO OmniRoute + Antigravity  / @JulianGoldieSEO NEW ChatGPT Upgrades Is  / @fahdmirza ARK-ASR-3B: Multilingual",
+      "take": "업로드 속도가 빠른 채널은 오늘도 여러 편이 들어왔습니다. 중요한 주제부터 2~3개만 골라 보면 효율이 좋습니다.",
+      "meta": [
+        "유튜브",
+        "AI 채널",
+        "중간 길이"
+      ],
+      "entities": [
+        "@JulianGoldieSEO",
+        "@JulianGoldieSEO",
+        "@fahdmirza",
+        "@JulianGoldieSEO"
+      ],
+      "keywords": [
+        "youtube",
+        "update",
+        "thumbnail"
+      ],
+      "links": [
+        {
+          "label": "@JulianGoldieSEO · 08-03 06:00",
+          "url": "https://www.youtube.com/watch?v=JCMAXTWD5VU",
+          "thumbnail": "https://i.ytimg.com/vi/JCMAXTWD5VU/hqdefault.jpg"
+        },
+        {
+          "label": "@JulianGoldieSEO · 08-03 04:00",
+          "url": "https://www.youtube.com/watch?v=0m12PEV6COc",
+          "thumbnail": "https://i.ytimg.com/vi/0m12PEV6COc/hqdefault.jpg"
+        },
+        {
+          "label": "@fahdmirza · 08-03 04:00",
+          "url": "https://www.youtube.com/watch?v=Teh3_Ka-Ckk",
+          "thumbnail": "https://i.ytimg.com/vi/Teh3_Ka-Ckk/hqdefault.jpg"
+        }
+      ]
+    },
+    {
+      "title": "시스템 상태 요약",
+      "summary": "CPU 28.5 % 사용 / 클럭 2923.2 MHz / RAM 11.5GB 사용, 총 15.8GB (73%) / SSD 346.1GB 사용, 총 476.0GB (73%)",
+      "take": "CPU는 현재 28.5 % 사용 중이고 클럭은 2923.2 MHz, 버스 스피드는 100.8 MHz, RAM은 총 15.8GB 중 11.5GB 사용 (73%), SSD는 총 476.0GB 중 346.1GB 사용 (73%), 여유 129.9GB입니다. 네트워크 인터페이스는 Ethernet, Ethernet 2, Wi-Fi 기준입니다.",
+      "meta": [
+        "시스템",
+        "LHM"
+      ],
+      "entities": [
+        "Intel N100",
+        "RAM",
+        "SSD"
+      ],
+      "keywords": [
+        "temperature",
+        "load",
+        "memory"
+      ],
+      "links": []
+    },
+    {
+      "title": "OpenClaw 상태 요약",
+      "summary": "OpenClaw 2026.7.1-2 (0790d9f)",
+      "take": "Runtime: running (pid 18768, state Ready, last run 0, last run time 08-02(일) 오후 10:37:21, Gateway process detected for gateway port 18789.) | Listening: 127.0.0.1:18789",
+      "meta": [
+        "OpenClaw",
+        "Gateway"
+      ],
+      "entities": [
+        "main",
+        "gateway"
+      ],
+      "keywords": [
+        "version",
+        "rpc",
+        "status"
+      ],
+      "links": []
+    }
+  ],
+  "footer": "AI-assisted morning briefing, unified data structure ready for stage 2"
+}
