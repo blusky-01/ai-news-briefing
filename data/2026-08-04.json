@@ -1,0 +1,413 @@
+{
+  "date": "2026-08-04 07:00",
+  "title": "아침 브리핑",
+  "subtitle": "날씨 · 응원 · 일정 · 메일 · 유튜브 · 시스템 · OpenClaw",
+  "summary": "오늘 일정이 비어 있다면, 오히려 중요한 걸 조용히 정리할 수 있는 좋은 날입니다.",
+  "summary_box": "습도가 높아 체감이 더 무겁습니다. 물을 자주 마시며 리듬을 유지하면 좋겠습니다. 오늘은 마음을 급하게 쓰지 말고, 가장 아쉬웠던 한 가지를 먼저 정리해 보시면 좋겠습니다. 그런 작은 정리가 하루의 기분을 꽤 크게 바꿉니다.",
+  "weather": {
+    "loc": "김해",
+    "temp": "26°C",
+    "desc": "Partly Cloudy ",
+    "icon": "⛅",
+    "badges": [
+      "체감 29°C",
+      "습도 87%",
+      "강수확률 12%",
+      "풍속 8km/h",
+      "UV 0",
+      "미세먼지 정보 연동 예정"
+    ],
+    "detail": {
+      "feels_like": "29",
+      "humidity": "87",
+      "rain_chance": "12",
+      "wind_kmph": "8",
+      "uv": "0",
+      "pm": "미세먼지 정보 연동 예정"
+    },
+    "life_comment": "습도가 높아 체감이 더 무겁습니다. 물을 자주 마시며 리듬을 유지하면 좋겠습니다."
+  },
+  "sections": {
+    "calendar": {
+      "summary": "오늘 일정 없음",
+      "take": "오늘 등록된 일정이 없습니다. 이럴 때는 중요한 정리 한두 개만 분명하게 끝내도 충분합니다.",
+      "items": [],
+      "links": [],
+      "entities": [
+        "calendar"
+      ]
+    },
+    "mail": {
+      "summary": "[중요인물]  [조치 필요] 2026년 10월 20일 전에  / [확인필요] 메일 수신이 되는지 테스트 / [확인필요] [아라테크 웹사이트] 신규 견적 문의 접수 알림",
+      "take": "지금 확인할 만한 메일만 추렸습니다. 결제, 업무, 보안성 알림 위주로 먼저 보면 됩니다.",
+      "items": [
+        {
+          "date": "2026-08-04 00:17",
+          "from": "Google Cloud <CloudPlatform-noreply@google.com>",
+          "subject": " [조치 필요] 2026년 10월 20일 전에 Gemini Enterprise Agent Platform에서 Gemini 2.5 모델 트래픽을 마이그레이션하세요",
+          "tags": [
+            "중요인물"
+          ]
+        },
+        {
+          "date": "2026-08-02 23:05",
+          "from": "\"아라테크\" <aratech.design@gmail.com>",
+          "subject": "메일 수신이 되는지 테스트",
+          "tags": [
+            "확인필요"
+          ]
+        },
+        {
+          "date": "2026-08-02 13:08",
+          "from": "Ara Tech Notification <aratech.design@gmail.com>",
+          "subject": "[아라테크 웹사이트] 신규 견적 문의 접수 알림 (홍길동)",
+          "tags": [
+            "확인필요"
+          ]
+        },
+        {
+          "date": "2026-08-02 11:30",
+          "from": "Ara Tech Notification <aratech.design@gmail.com>",
+          "subject": "[아라테크 웹사이트] 신규 견적 문의 접수 알림 (오창재)",
+          "tags": [
+            "확인필요"
+          ]
+        },
+        {
+          "date": "2026-08-02 08:09",
+          "from": "Ara Tech Notification <aratech.design@gmail.com>",
+          "subject": "[아라테크 웹사이트] 신규 견적 문의 접수 알림 (이테스트)",
+          "tags": [
+            "확인필요"
+          ]
+        }
+      ],
+      "links": [],
+      "entities": [
+        "중요인물",
+        "확인필요"
+      ]
+    },
+    "youtube": {
+      "summary": "@fahdmirza Qwen3.8-Max: Can It Actu / @JulianGoldieSEO Hermes Computer Use Is A / @JulianGoldieSEO NEW Inkling-Small is CRA",
+      "take": "업로드 속도가 빠른 채널은 오늘도 여러 편이 들어왔습니다. 중요한 주제부터 2~3개만 골라 보면 효율이 좋습니다.",
+      "items": [
+        {
+          "channel": "@fahdmirza",
+          "title": "Qwen3.8-Max: Can It Actually SEE? (Vision & Video Test)",
+          "published": "08-04 06:38",
+          "published_dt": "2026-08-04T06:38:40+09:00",
+          "url": "https://www.youtube.com/watch?v=uDHCWY3Tk8I",
+          "thumbnail": "https://i.ytimg.com/vi/uDHCWY3Tk8I/hqdefault.jpg",
+          "summary": "이 영상은 모델/LLM 중심 내용입니다. 구성은 This video tests Qwen 3.8-Max vision capabilities, 🔥 Buy Me a Coffee to support the channel: PLEASE FOLLOW ME: ▶ LinkedIn: / fahdmirza ▶ YouTube: / ▶ Blog: RESOURCES: ▶ All rights reserved © Fahd Mirza 순서로 이어지며, 제목만으로는 보이지 않는 변화 배경·핵심 기능·실제 활용 포인트를 짚어보는 영상입니다.",
+          "description_excerpt": "This video tests Qwen 3.8-Max vision capabilities. 🔥 Buy Me a Coffee to support the channel: PLEASE FOLLOW ME: ▶ LinkedIn: / fahdmirza ▶ YouTube: / ▶ Blog: RESOURCES: ▶ All rights reserved © Fahd Mirza",
+          "transcript_excerpt": "So yesterday we put Quinn 3.8 Max through its paces on text the brutal bug fix test the multilingual run and it held up. Today we are going to go multimodal. We are focusing entirely on the other half what it can see. We are going to feed i",
+          "shorts": false
+        },
+        {
+          "channel": "@JulianGoldieSEO",
+          "title": "Hermes Computer Use Is Absolutely INSANE!",
+          "published": "08-04 06:00",
+          "published_dt": "2026-08-04T06:00:14+09:00",
+          "url": "https://www.youtube.com/watch?v=qPkm72UFcAI",
+          "thumbnail": "https://i.ytimg.com/vi/qPkm72UFcAI/hqdefault.jpg",
+          "summary": "이 영상은 모델/LLM, 에이전트/자동화 중심 내용입니다. 구성은 Intro – AI runs your apps without touching your mouse, What It Is – Open-source agent that clicks, types, scrolls for you, How It Works – Screenshot-driven, overlay cursor, works with any model, Setup – One command, five-minute install 순서로 이어지며, 제목만으로는 보이지 않는 변화 배경·핵심 기능·실제 활용 포인트를 짚어보는 영상입니다.",
+          "description_excerpt": "Get the Agent OS & Hermes Masterclass 👉 00:00 Intro – AI runs your apps without touching your mouse 0:38 What It Is – Open-source agent that clicks, types, scrolls for you 1:32 How It Works – Screenshot-driven, overlay cursor, works with any model 2:21 Setup – One command, five-minute install 2:46 Safety Guardrails – Approves risky actions before running the",
+          "transcript_excerpt": "Hermes computer use is absolutely insane. What if your AI could run your computer without ever kicking you off it? No frozen mouse, no windows jumping to the front. It just works quietly in the background while you keep going. I run this in",
+          "shorts": false
+        },
+        {
+          "channel": "@JulianGoldieSEO",
+          "title": "NEW Inkling-Small is CRAZY GOOD! 🤯",
+          "published": "08-04 04:00",
+          "published_dt": "2026-08-04T04:00:23+09:00",
+          "url": "https://www.youtube.com/watch?v=lTy_kLuwtDg",
+          "thumbnail": "https://i.ytimg.com/vi/lTy_kLuwtDg/hqdefault.jpg",
+          "summary": "이 영상은 모델/LLM, 수익화/마케팅 중심 내용입니다. 구성은 Intro: Inkling Small is Insane, Performance & Benchmarks, The Secret of Model Distillation, Open Source & Multi-Modal Power 순서로 이어집니다. New Inkling small AI is insane That's the story today, and I mean it It runs on 12 billion active parameters",
+          "description_excerpt": "Get the Agent OS & Inkling-Small Masterclass 👉 00:00 - Intro: Inkling Small is Insane 00:39 - Performance & Benchmarks 01:35 - The Secret of Model Distillation 03:03 - Open Source & Multi-Modal Power 03:56 - The 1 Million Token Context Window 04:35 - Where It Wins vs. Where It Fails 05:43 - Business Use Cases for AI 07:28 - AI Success Lab & Boardroom",
+          "transcript_excerpt": "New Inkling small AI is insane. That's the story today, and I mean it. Thinking Machines just released a model called Inkling small, and here's the number that matters. It runs on 12 billion active parameters. Its big brother Inkling needed",
+          "shorts": false
+        },
+        {
+          "channel": "@JulianGoldieSEO",
+          "title": "NEW MiniMax H3 is INSANE! 🤯",
+          "published": "08-04 04:00",
+          "published_dt": "2026-08-04T04:00:02+09:00",
+          "url": "https://www.youtube.com/watch?v=2t8bWbXDsBw",
+          "thumbnail": "https://i.ytimg.com/vi/2t8bWbXDsBw/hqdefault.jpg",
+          "summary": "이 영상은 모델/LLM, 수익화/마케팅 중심 내용입니다. 구성은 Intro: Miniax H3 AI, Pricing & Competition Comparison, How Multimodal AI Works, In-Place Editing Features 순서로 이어집니다. New MiniMax H3 AI is insane A new AI just showed up and it might change how you make videos forever Reuters broke the story first",
+          "description_excerpt": "Get the Agent OS & MiniMax Masterclass 👉 00:00 - Intro: Miniax H3 AI 01:07 - Pricing & Competition Comparison 02:14 - How Multimodal AI Works 03:06 - In-Place Editing Features 04:23 - Model Weights & Real-World Use 05:37 - AI Video Creation Workflows 07:01 - How to Get Started",
+          "transcript_excerpt": "New MiniMax H3 AI is insane. A new AI just showed up and it might change how you make videos forever. Friday, a Chinese company called MiniMax launched a video AI called H3. Reuters broke the story first. Here's what it does. You give it te",
+          "shorts": false
+        },
+        {
+          "channel": "@jocoding",
+          "title": "AI뉴스 - 오픈AI Astra 10대 난제 해결, DeepSeek-V4-Flash 정식, Seedance 2.5, MiniMax H3, Gemini Robotics 2 등",
+          "published": "08-03 22:00",
+          "published_dt": "2026-08-03T22:00:32+09:00",
+          "url": "https://www.youtube.com/watch?v=tt5kQIi_QK0",
+          "thumbnail": "https://i.ytimg.com/vi/tt5kQIi_QK0/hqdefault.jpg",
+          "summary": "이 영상은 모델/LLM, 개발도구 중심 내용입니다. 구성은 10대 난제 해결한 오픈AI 모델, GPT-5.6 가격 인하, 하네스만으로 벤치마크 점수를 높였다, DeepSeek-V4-Flash 모델 공개 순서로 이어집니다.",
+          "description_excerpt": "조코딩의 바이브 코딩 1인 창업 책: AX 컨설팅 및 교육 문의: 조코헌트: 🕖목차 00:00 10대 난제 해결한 오픈AI 모델 01:37 GPT-5.6 가격 인하 02:23 하네스만으로 벤치마크 점수를 높였다 03:25 DeepSeek-V4-Flash 모델 공개 05:00 보리스 체르니가 전하는 클로드 꿀팁 06:53 안드레 카파시, 새로운 테스트 제안 07:40 Seedance 2.5 출시 10:27 MiniMax H3 발표 11:52 그록 Imagine Video 1.5 개선 12:41 Grok Voice Think Fast 2.0 공개 13:23 ASR 모델 CrisperWhisper 2.0 공개 14:12 Google Gemin",
+          "transcript_excerpt": "",
+          "shorts": false
+        }
+      ],
+      "links": [
+        {
+          "label": "@fahdmirza · 08-04 06:38",
+          "url": "https://www.youtube.com/watch?v=uDHCWY3Tk8I",
+          "thumbnail": "https://i.ytimg.com/vi/uDHCWY3Tk8I/hqdefault.jpg"
+        },
+        {
+          "label": "@JulianGoldieSEO · 08-04 06:00",
+          "url": "https://www.youtube.com/watch?v=qPkm72UFcAI",
+          "thumbnail": "https://i.ytimg.com/vi/qPkm72UFcAI/hqdefault.jpg"
+        },
+        {
+          "label": "@JulianGoldieSEO · 08-04 04:00",
+          "url": "https://www.youtube.com/watch?v=lTy_kLuwtDg",
+          "thumbnail": "https://i.ytimg.com/vi/lTy_kLuwtDg/hqdefault.jpg"
+        }
+      ],
+      "entities": [
+        "@fahdmirza",
+        "@JulianGoldieSEO",
+        "@JulianGoldieSEO",
+        "@JulianGoldieSEO"
+      ]
+    },
+    "system": {
+      "summary": "CPU 37.2 % 사용 / 클럭 1713.6 MHz / RAM 11.5GB 사용, 총 15.8GB (73%) / SSD 346.1GB 사용, 총 476.0GB (73%)",
+      "take": "CPU는 현재 37.2 % 사용 중이고 클럭은 1713.6 MHz, 버스 스피드는 100.8 MHz, RAM은 총 15.8GB 중 11.5GB 사용 (73%), SSD는 총 476.0GB 중 346.1GB 사용 (73%), 여유 129.9GB입니다. 네트워크 인터페이스는 Ethernet, Ethernet 2, Wi-Fi 기준입니다.",
+      "metrics": [
+        {
+          "label": "CPU 사용률",
+          "value": "37.2 %",
+          "pct": 37.2,
+          "tone": "normal"
+        },
+        {
+          "label": "CPU 클럭",
+          "value": "1713.6 MHz",
+          "pct": 48.96,
+          "tone": "normal"
+        },
+        {
+          "label": "버스 스피드",
+          "value": "100.8 MHz",
+          "pct": 100,
+          "tone": "normal"
+        },
+        {
+          "label": "CPU 온도",
+          "value": "59.0 °C",
+          "pct": 59.0,
+          "tone": "normal"
+        },
+        {
+          "label": "RAM 사용량",
+          "value": "11.5 / 15.8 GB (73%)",
+          "pct": 73.1,
+          "tone": "normal"
+        },
+        {
+          "label": "SSD 사용량",
+          "value": "346.1 / 476.0 GB (73%)",
+          "pct": 72.7,
+          "tone": "normal"
+        },
+        {
+          "label": "SSD 여유 공간",
+          "value": "129.9 / 476.0 GB",
+          "pct": 27.299999999999997,
+          "tone": "normal"
+        },
+        {
+          "label": "SSD 온도",
+          "value": "40.0 °C",
+          "pct": 40.0,
+          "tone": "normal"
+        },
+        {
+          "label": "업타임",
+          "value": "391시간 25분",
+          "pct": 100,
+          "tone": "normal"
+        },
+        {
+          "label": "네트워크 수신",
+          "value": "25457.3 MB",
+          "pct": 100,
+          "tone": "normal"
+        },
+        {
+          "label": "네트워크 송신",
+          "value": "12401.5 MB",
+          "pct": 100,
+          "tone": "normal"
+        }
+      ]
+    },
+    "openclaw": {
+      "summary": "OpenClaw 2026.7.1-2 (0790d9f)",
+      "take": "Runtime: running (pid 18768, state Ready, last run 0, last run time 08-02(일) 오후 10:37:21, Gateway process detected for gateway port 18789.) | Listening: 127.0.0.1:18789",
+      "metrics": [
+        {
+          "label": "Gateway",
+          "value": "bind=loopback (127.0.0.1), port=18789 (service args)",
+          "pct": 100,
+          "tone": "normal"
+        },
+        {
+          "label": "Probe note",
+          "value": "Loopback-only gateway; only local clients can connect.",
+          "pct": 100,
+          "tone": "normal"
+        },
+        {
+          "label": "Runtime",
+          "value": "running (pid 18768, state Ready, last run 0, last run time 08-02(일) 오후 10:37:21, Gateway process detected for gateway port 18789.)",
+          "pct": 100,
+          "tone": "good"
+        },
+        {
+          "label": "Listening",
+          "value": "127.0.0.1:18789",
+          "pct": 100,
+          "tone": "good"
+        }
+      ]
+    }
+  },
+  "cards": [
+    {
+      "title": "오늘의 한마디",
+      "summary": "오늘 일정이 비어 있다면, 오히려 중요한 걸 조용히 정리할 수 있는 좋은 날입니다.",
+      "take": "습도가 높아 체감이 더 무겁습니다. 물을 자주 마시며 리듬을 유지하면 좋겠습니다. 오늘은 마음을 급하게 쓰지 말고, 가장 아쉬웠던 한 가지를 먼저 정리해 보시면 좋겠습니다. 그런 작은 정리가 하루의 기분을 꽤 크게 바꿉니다.",
+      "meta": [
+        "응원",
+        "중간 길이"
+      ],
+      "entities": [],
+      "keywords": [
+        "아침",
+        "집중"
+      ],
+      "links": []
+    },
+    {
+      "title": "오늘 일정",
+      "summary": "오늘 일정 없음",
+      "take": "오늘 등록된 일정이 없습니다. 이럴 때는 중요한 정리 한두 개만 분명하게 끝내도 충분합니다.",
+      "meta": [
+        "일정",
+        "calendar"
+      ],
+      "entities": [
+        "calendar"
+      ],
+      "keywords": [
+        "calendar"
+      ],
+      "links": []
+    },
+    {
+      "title": "주요 메일 / 중요 알림",
+      "summary": "[중요인물]  [조치 필요] 2026년 10월 20일 전에  / [확인필요] 메일 수신이 되는지 테스트 / [확인필요] [아라테크 웹사이트] 신규 견적 문의 접수 알림",
+      "take": "지금 확인할 만한 메일만 추렸습니다. 결제, 업무, 보안성 알림 위주로 먼저 보면 됩니다.",
+      "meta": [
+        "메일",
+        "gmail",
+        "중요 알림"
+      ],
+      "entities": [
+        "중요인물",
+        "확인필요"
+      ],
+      "keywords": [
+        "gmail",
+        "alert"
+      ],
+      "links": []
+    },
+    {
+      "title": "유튜브 업데이트",
+      "summary": "@fahdmirza Qwen3.8-Max: Can It Actu / @JulianGoldieSEO Hermes Computer Use Is A / @JulianGoldieSEO NEW Inkling-Small is CRA",
+      "take": "업로드 속도가 빠른 채널은 오늘도 여러 편이 들어왔습니다. 중요한 주제부터 2~3개만 골라 보면 효율이 좋습니다.",
+      "meta": [
+        "유튜브",
+        "AI 채널",
+        "중간 길이"
+      ],
+      "entities": [
+        "@fahdmirza",
+        "@JulianGoldieSEO",
+        "@JulianGoldieSEO",
+        "@JulianGoldieSEO"
+      ],
+      "keywords": [
+        "youtube",
+        "update",
+        "thumbnail"
+      ],
+      "links": [
+        {
+          "label": "@fahdmirza · 08-04 06:38",
+          "url": "https://www.youtube.com/watch?v=uDHCWY3Tk8I",
+          "thumbnail": "https://i.ytimg.com/vi/uDHCWY3Tk8I/hqdefault.jpg"
+        },
+        {
+          "label": "@JulianGoldieSEO · 08-04 06:00",
+          "url": "https://www.youtube.com/watch?v=qPkm72UFcAI",
+          "thumbnail": "https://i.ytimg.com/vi/qPkm72UFcAI/hqdefault.jpg"
+        },
+        {
+          "label": "@JulianGoldieSEO · 08-04 04:00",
+          "url": "https://www.youtube.com/watch?v=lTy_kLuwtDg",
+          "thumbnail": "https://i.ytimg.com/vi/lTy_kLuwtDg/hqdefault.jpg"
+        }
+      ]
+    },
+    {
+      "title": "시스템 상태 요약",
+      "summary": "CPU 37.2 % 사용 / 클럭 1713.6 MHz / RAM 11.5GB 사용, 총 15.8GB (73%) / SSD 346.1GB 사용, 총 476.0GB (73%)",
+      "take": "CPU는 현재 37.2 % 사용 중이고 클럭은 1713.6 MHz, 버스 스피드는 100.8 MHz, RAM은 총 15.8GB 중 11.5GB 사용 (73%), SSD는 총 476.0GB 중 346.1GB 사용 (73%), 여유 129.9GB입니다. 네트워크 인터페이스는 Ethernet, Ethernet 2, Wi-Fi 기준입니다.",
+      "meta": [
+        "시스템",
+        "LHM"
+      ],
+      "entities": [
+        "Intel N100",
+        "RAM",
+        "SSD"
+      ],
+      "keywords": [
+        "temperature",
+        "load",
+        "memory"
+      ],
+      "links": []
+    },
+    {
+      "title": "OpenClaw 상태 요약",
+      "summary": "OpenClaw 2026.7.1-2 (0790d9f)",
+      "take": "Runtime: running (pid 18768, state Ready, last run 0, last run time 08-02(일) 오후 10:37:21, Gateway process detected for gateway port 18789.) | Listening: 127.0.0.1:18789",
+      "meta": [
+        "OpenClaw",
+        "Gateway"
+      ],
+      "entities": [
+        "main",
+        "gateway"
+      ],
+      "keywords": [
+        "version",
+        "rpc",
+        "status"
+      ],
+      "links": []
+    }
+  ],
+  "footer": "AI-assisted morning briefing, unified data structure ready for stage 2"
+}
