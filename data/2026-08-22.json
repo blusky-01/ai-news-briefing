@@ -1,0 +1,295 @@
+{
+  "date": "2026-08-22 07:00",
+  "title": "아침 브리핑",
+  "subtitle": "날씨 · 응원 · 일정 · 메일 · 유튜브 · 시스템 · OpenClaw",
+  "summary": "오늘 일정이 비어 있다면, 오히려 중요한 걸 조용히 정리할 수 있는 좋은 날입니다.",
+  "summary_box": "오늘은 우산을 챙겨두는 게 좋겠습니다. 비 맞으면 컨디션이 금방 떨어집니다. 습도가 높아 체감이 더 무겁습니다. 물을 자주 마시며 리듬을 유지하면 좋겠습니다. 오늘은 마음을 급하게 쓰지 말고, 가장 아쉬웠던 한 가지를 먼저 정리해 보시면 좋겠습니다. 그런 작은 정리가 하루의 기분을 꽤 크게 바꿉니다.",
+  "weather": {
+    "loc": "김해",
+    "temp": "24°C",
+    "desc": "Overcast ",
+    "icon": "⛅",
+    "badges": [
+      "체감 29°C",
+      "습도 93%",
+      "강수확률 57%",
+      "풍속 4km/h",
+      "UV 0",
+      "미세먼지 정보 연동 예정"
+    ],
+    "detail": {
+      "feels_like": "29",
+      "humidity": "93",
+      "rain_chance": "57",
+      "wind_kmph": "4",
+      "uv": "0",
+      "pm": "미세먼지 정보 연동 예정"
+    },
+    "life_comment": "오늘은 우산을 챙겨두는 게 좋겠습니다. 비 맞으면 컨디션이 금방 떨어집니다. 습도가 높아 체감이 더 무겁습니다. 물을 자주 마시며 리듬을 유지하면 좋겠습니다."
+  },
+  "sections": {
+    "calendar": {
+      "summary": "오늘 일정 없음",
+      "take": "오늘 등록된 일정이 없습니다. 이럴 때는 중요한 정리 한두 개만 분명하게 끝내도 충분합니다.",
+      "items": [],
+      "links": [],
+      "entities": [
+        "calendar"
+      ]
+    },
+    "mail": {
+      "summary": "[확인필요] [Upstage Console] Update t / [확인필요] 회원 이메일 주소 변경 요청 (아이디: ispe",
+      "take": "지금 확인할 만한 메일만 추렸습니다. 결제, 업무, 보안성 알림 위주로 먼저 보면 됩니다.",
+      "items": [
+        {
+          "date": "2026-08-20 17:46",
+          "from": "Upstage Console <console@upstage.ai>",
+          "subject": "[Upstage Console] Update to our Terms of Service — effective September 21, 2026",
+          "tags": [
+            "확인필요"
+          ]
+        },
+        {
+          "date": "2026-08-20 10:28",
+          "from": "\"아라테크\" <aratech.design@gmail.com>",
+          "subject": "회원 이메일 주소 변경 요청 (아이디: ispellu@naver.com)",
+          "tags": [
+            "확인필요"
+          ]
+        }
+      ],
+      "links": [],
+      "entities": [
+        "확인필요"
+      ]
+    },
+    "youtube": {
+      "summary": "@JulianGoldieSEO Google Dropped NEW Crazy / @JulianGoldieSEO Okara AI CMO v2 Just Cha / @JulianGoldieSEO NEW Hermes Agent OS is W",
+      "take": "업로드 속도가 빠른 채널은 오늘도 여러 편이 들어왔습니다. 중요한 주제부터 2~3개만 골라 보면 효율이 좋습니다.",
+      "items": [
+        {
+          "channel": "@JulianGoldieSEO",
+          "title": "Google Dropped NEW Crazy Gemini Updates!  🤯",
+          "published": "08-22 06:30",
+          "published_dt": "2026-08-22T06:30:19+09:00",
+          "url": "https://www.youtube.com/watch?v=dLPhZ-ubUl8",
+          "thumbnail": "https://i.ytimg.com/vi/dLPhZ-ubUl8/hqdefault.jpg",
+          "summary": "이 영상은 모델/LLM, 에이전트/자동화, 수익화/마케팅 중심 내용입니다. 구성은 Meet Gemini Spark, Mastering AI Tool Use, Building AI Landing Pages, Automating Lead Follow-ups 순서로 이어집니다. Google dropped new Gemini updates this week and this one is crazy Not because it's another model, because of what that model can now do Spark is Google's AI agent",
+          "description_excerpt": "Get the Agent OS & Google Gemini Masterclass 👉 00:00 - 00:00 - Intro 00:08 - Meet Gemini Spark 01:05 - Mastering AI Tool Use 01:46 - Building AI Landing Pages 03:09 - Automating Lead Follow-ups 04:06 - Browser & Calendar Integration 04:45 - Gemini 3.7 Flash Benchmarks 05:57 - Starting Your AI Automation",
+          "transcript_excerpt": "Google dropped new Gemini updates this week and this one is crazy. Not because it's another model, because of what that model can now do. Google just launched Gemini 3.7 flash and starting this week, it's the new engine behind Gemini Spark.",
+          "shorts": false
+        },
+        {
+          "channel": "@JulianGoldieSEO",
+          "title": "Okara AI CMO v2 Just Changed AI Marketing",
+          "published": "08-22 05:30",
+          "published_dt": "2026-08-22T05:30:11+09:00",
+          "url": "https://www.youtube.com/watch?v=zldnRHiLvYg",
+          "thumbnail": "https://i.ytimg.com/vi/zldnRHiLvYg/hqdefault.jpg",
+          "summary": "이 영상은 에이전트/자동화, 수익화/마케팅 중심 내용입니다. 구성은 Intro – Okara AI CMO changes marketing, What It Is – autonomous agent explained, Strategy Docs – brief, competitors, brand voice, Live Analytics – auto-refreshes every 6 hours 순서로 이어지며, 제목만으로는 보이지 않는 변화 배경·핵심 기능·실제 활용 포인트를 짚어보는 영상입니다.",
+          "description_excerpt": "Get the Agent OS & Okara Masterclass 👉 00:00 Intro – Okara AI CMO changes marketing 00:40 What It Is – autonomous agent explained 01:14 Strategy Docs – brief, competitors, brand voice 01:36 Live Analytics – auto-refreshes every 6 hours 01:53 Daily Content – fresh drafts every day 03:02 Meet the Agents – 10 agents, one job each 03:02 Reddit Agent – authentic ",
+          "transcript_excerpt": "Okara AI CMO version 2 just changed AI marketing. How many days have gone by where you meant to do your marketing and just didn't? Be honest. The article you never wrote, the posts you kept putting off. What if none of that was on your plat",
+          "shorts": false
+        },
+        {
+          "channel": "@JulianGoldieSEO",
+          "title": "NEW Hermes Agent OS is WILD! 🤯",
+          "published": "08-22 04:30",
+          "published_dt": "2026-08-22T04:30:15+09:00",
+          "url": "https://www.youtube.com/watch?v=cvfcuMmt0gY",
+          "thumbnail": "https://i.ytimg.com/vi/cvfcuMmt0gY/hqdefault.jpg",
+          "summary": "이 영상은 모델/LLM, 에이전트/자동화, 수익화/마케팅 중심 내용입니다. 구성은 Intro: The Hermes Agent OS, Step 1: Updating Your System, Using the Loop Command, The Crucial Setting Most People Miss 순서로 이어집니다. New Hermes Agent OS is wild I built this myself and it changed how I run things day-to-day This is the actual system running live",
+          "description_excerpt": "Get the Agent OS & Hermes Agent OS Masterclass 👉 00:00 - Intro: The Hermes Agent OS 00:59 - Step 1: Updating Your System 01:21 - Using the Loop Command 02:40 - The Crucial Setting Most People Miss 04:27 - Parallel Loops & Safety Nets 05:52 - Unlocking the Agent Dashboard 07:04 - Free Tools and AI Resources",
+          "transcript_excerpt": "New Hermes Agent OS is wild. I built this myself and it changed how I run things day-to-day. This is it right here. This is the actual system running live. You're watching an AI agent check on real tasks all on its own while I do something ",
+          "shorts": false
+        },
+        {
+          "channel": "@진바이브",
+          "title": "일론머스크가 깃허브 대항마를 내놓습니다",
+          "published": "08-22 00:45",
+          "published_dt": "2026-08-22T00:45:51+09:00",
+          "url": "https://www.youtube.com/watch?v=HreX36v6d2c",
+          "thumbnail": "https://i.ytimg.com/vi/HreX36v6d2c/hqdefault.jpg",
+          "summary": "일론머스크가 깃허브 대항마를 내놓습니다 주제를 중심으로 무엇이 새로 나왔는지, 또는 어떻게 활용하는지를 설명하는 영상입니다.",
+          "description_excerpt": "",
+          "transcript_excerpt": "",
+          "shorts": false
+        },
+        {
+          "channel": "@fahdmirza",
+          "title": "DeepSeek V4-Flash Vision Is Out: Whale Opened Its Eyes",
+          "published": "08-21 21:08",
+          "published_dt": "2026-08-21T21:08:43+09:00",
+          "url": "https://www.youtube.com/watch?v=V0FgIDq2N9w",
+          "thumbnail": "https://i.ytimg.com/vi/V0FgIDq2N9w/hqdefault.jpg",
+          "summary": "이 영상은 모델/LLM, 수익화/마케팅 중심 내용입니다. 구성은 This video tests DeepSeek-V4-Flash-Vision-Exp thoroughly 순서로 이어지며, 제목만으로는 보이지 않는 변화 배경·핵심 기능·실제 활용 포인트를 짚어보는 영상입니다.",
+          "description_excerpt": "This video tests DeepSeek-V4-Flash-Vision-Exp thoroughly. 🔥 Get 50% Discount on any A6000 or A5000 GPU rental, use following link and coupon: Coupon code: FahdMirza 🔥 Buy Me a Coffee to support the channel: PLEASE FOLLOW ME: ▶ LinkedIn: / fahdmirza ▶ YouTube: / ▶ Blog: RESOURCES: ▶ All rights reserved © Fahd Mirza",
+          "transcript_excerpt": "Deep Seek has finally dropped a vision model and it better be good because it's the middle of night here in Sydney and I got out of bed for this one specially. So here is what has landed. Deepseek just gave V4 flash a set of eyes. The model",
+          "shorts": false
+        }
+      ],
+      "links": [
+        {
+          "label": "@JulianGoldieSEO · 08-22 06:30",
+          "url": "https://www.youtube.com/watch?v=dLPhZ-ubUl8",
+          "thumbnail": "https://i.ytimg.com/vi/dLPhZ-ubUl8/hqdefault.jpg"
+        },
+        {
+          "label": "@JulianGoldieSEO · 08-22 05:30",
+          "url": "https://www.youtube.com/watch?v=zldnRHiLvYg",
+          "thumbnail": "https://i.ytimg.com/vi/zldnRHiLvYg/hqdefault.jpg"
+        },
+        {
+          "label": "@JulianGoldieSEO · 08-22 04:30",
+          "url": "https://www.youtube.com/watch?v=cvfcuMmt0gY",
+          "thumbnail": "https://i.ytimg.com/vi/cvfcuMmt0gY/hqdefault.jpg"
+        }
+      ],
+      "entities": [
+        "@JulianGoldieSEO",
+        "@JulianGoldieSEO",
+        "@JulianGoldieSEO",
+        "@진바이브"
+      ]
+    },
+    "system": {
+      "summary": "시스템 상태 조회 실패",
+      "take": "LibreHardwareMonitor 또는 센서 데이터 확인이 필요합니다.",
+      "metrics": []
+    },
+    "openclaw": {
+      "summary": "OpenClaw 2026.7.1-2 (0790d9f)",
+      "take": "게이트웨이 상태 확인 실패",
+      "metrics": []
+    }
+  },
+  "cards": [
+    {
+      "title": "오늘의 한마디",
+      "summary": "오늘 일정이 비어 있다면, 오히려 중요한 걸 조용히 정리할 수 있는 좋은 날입니다.",
+      "take": "오늘은 우산을 챙겨두는 게 좋겠습니다. 비 맞으면 컨디션이 금방 떨어집니다. 습도가 높아 체감이 더 무겁습니다. 물을 자주 마시며 리듬을 유지하면 좋겠습니다. 오늘은 마음을 급하게 쓰지 말고, 가장 아쉬웠던 한 가지를 먼저 정리해 보시면 좋겠습니다. 그런 작은 정리가 하루의 기분을 꽤 크게 바꿉니다.",
+      "meta": [
+        "응원",
+        "중간 길이"
+      ],
+      "entities": [],
+      "keywords": [
+        "아침",
+        "집중"
+      ],
+      "links": []
+    },
+    {
+      "title": "오늘 일정",
+      "summary": "오늘 일정 없음",
+      "take": "오늘 등록된 일정이 없습니다. 이럴 때는 중요한 정리 한두 개만 분명하게 끝내도 충분합니다.",
+      "meta": [
+        "일정",
+        "calendar"
+      ],
+      "entities": [
+        "calendar"
+      ],
+      "keywords": [
+        "calendar"
+      ],
+      "links": []
+    },
+    {
+      "title": "주요 메일 / 중요 알림",
+      "summary": "[확인필요] [Upstage Console] Update t / [확인필요] 회원 이메일 주소 변경 요청 (아이디: ispe",
+      "take": "지금 확인할 만한 메일만 추렸습니다. 결제, 업무, 보안성 알림 위주로 먼저 보면 됩니다.",
+      "meta": [
+        "메일",
+        "gmail",
+        "중요 알림"
+      ],
+      "entities": [
+        "확인필요"
+      ],
+      "keywords": [
+        "gmail",
+        "alert"
+      ],
+      "links": []
+    },
+    {
+      "title": "유튜브 업데이트",
+      "summary": "@JulianGoldieSEO Google Dropped NEW Crazy / @JulianGoldieSEO Okara AI CMO v2 Just Cha / @JulianGoldieSEO NEW Hermes Agent OS is W",
+      "take": "업로드 속도가 빠른 채널은 오늘도 여러 편이 들어왔습니다. 중요한 주제부터 2~3개만 골라 보면 효율이 좋습니다.",
+      "meta": [
+        "유튜브",
+        "AI 채널",
+        "중간 길이"
+      ],
+      "entities": [
+        "@JulianGoldieSEO",
+        "@JulianGoldieSEO",
+        "@JulianGoldieSEO",
+        "@진바이브"
+      ],
+      "keywords": [
+        "youtube",
+        "update",
+        "thumbnail"
+      ],
+      "links": [
+        {
+          "label": "@JulianGoldieSEO · 08-22 06:30",
+          "url": "https://www.youtube.com/watch?v=dLPhZ-ubUl8",
+          "thumbnail": "https://i.ytimg.com/vi/dLPhZ-ubUl8/hqdefault.jpg"
+        },
+        {
+          "label": "@JulianGoldieSEO · 08-22 05:30",
+          "url": "https://www.youtube.com/watch?v=zldnRHiLvYg",
+          "thumbnail": "https://i.ytimg.com/vi/zldnRHiLvYg/hqdefault.jpg"
+        },
+        {
+          "label": "@JulianGoldieSEO · 08-22 04:30",
+          "url": "https://www.youtube.com/watch?v=cvfcuMmt0gY",
+          "thumbnail": "https://i.ytimg.com/vi/cvfcuMmt0gY/hqdefault.jpg"
+        }
+      ]
+    },
+    {
+      "title": "시스템 상태 요약",
+      "summary": "시스템 상태 조회 실패",
+      "take": "LibreHardwareMonitor 또는 센서 데이터 확인이 필요합니다.",
+      "meta": [
+        "시스템",
+        "LHM"
+      ],
+      "entities": [
+        "Intel N100",
+        "RAM",
+        "SSD"
+      ],
+      "keywords": [
+        "temperature",
+        "load",
+        "memory"
+      ],
+      "links": []
+    },
+    {
+      "title": "OpenClaw 상태 요약",
+      "summary": "OpenClaw 2026.7.1-2 (0790d9f)",
+      "take": "게이트웨이 상태 확인 실패",
+      "meta": [
+        "OpenClaw",
+        "Gateway"
+      ],
+      "entities": [
+        "main",
+        "gateway"
+      ],
+      "keywords": [
+        "version",
+        "rpc",
+        "status"
+      ],
+      "links": []
+    }
+  ],
+  "footer": "AI-assisted morning briefing, unified data structure ready for stage 2"
+}
