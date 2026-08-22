@@ -153,14 +153,94 @@
       ]
     },
     "system": {
-      "summary": "시스템 상태 조회 실패",
-      "take": "LibreHardwareMonitor 또는 센서 데이터 확인이 필요합니다.",
-      "metrics": []
+      "summary": "CPU 89.5 % 사용 / 클럭 2923.2 MHz / RAM 11.2 GB 사용, 총 15.8GB (71%) / SSD 331.9GB 사용, 총 512.1 GB (64%)",
+      "take": "CPU는 현재 89.5 % 사용 중이고 클럭은 2923.2 MHz, 버스 스피드는 100.8 MHz, RAM은 총 15.8GB 중 11.2 GB 사용 (71%), SSD는 총 512.1 GB 중 여유 180.2 GB (64% 사용)입니다.",
+      "metrics": [
+        {
+          "label": "CPU 사용률",
+          "value": "89.5 %",
+          "pct": 89.5,
+          "tone": "normal"
+        },
+        {
+          "label": "CPU 클럭",
+          "value": "2923.2 MHz",
+          "pct": 86.0,
+          "tone": "normal"
+        },
+        {
+          "label": "버스 스피드",
+          "value": "100.8 MHz",
+          "pct": 100.0,
+          "tone": "normal"
+        },
+        {
+          "label": "CPU 온도",
+          "value": "73.0 °C",
+          "pct": 73.0,
+          "tone": "normal"
+        },
+        {
+          "label": "RAM 사용량",
+          "value": "11.2 GB / 15.8 GB (71%)",
+          "pct": 71.1,
+          "tone": "normal"
+        },
+        {
+          "label": "SSD 사용량",
+          "value": "331.9 / 512.1 GB (64%)",
+          "pct": 64.8,
+          "tone": "normal"
+        },
+        {
+          "label": "SSD 여유 공간",
+          "value": "180.2 GB / 512.1 GB",
+          "pct": 35.2,
+          "tone": "normal"
+        },
+        {
+          "label": "SSD 온도",
+          "value": "40.0 °C",
+          "pct": 40.0,
+          "tone": "normal"
+        },
+        {
+          "label": "업타임",
+          "value": "8일 6시간",
+          "pct": 100.0,
+          "tone": "normal"
+        }
+      ]
     },
     "openclaw": {
       "summary": "OpenClaw 2026.7.1-2 (0790d9f)",
-      "take": "게이트웨이 상태 확인 실패",
-      "metrics": []
+      "take": "Runtime: running (pid 2156, Gateway listener active on port 18789) | Gateway Uptime: 2d 22h | Model: google-vertex/gemini-3.7-flash",
+      "metrics": [
+        {
+          "label": "Gateway",
+          "value": "bind=loopback (127.0.0.1), port=18789",
+          "pct": 100.0,
+          "tone": "normal"
+        },
+        {
+          "label": "Uptime",
+          "value": "gateway 2d 22h · system 8d 6h",
+          "pct": 100.0,
+          "tone": "good"
+        },
+        {
+          "label": "Runtime",
+          "value": "running (pid 2156, active)",
+          "pct": 100.0,
+          "tone": "good"
+        },
+        {
+          "label": "Main Model",
+          "value": "google-vertex/gemini-3.7-flash",
+          "pct": 100.0,
+          "tone": "good"
+        }
+      ]
     }
   },
   "cards": [
@@ -253,8 +333,8 @@
     },
     {
       "title": "시스템 상태 요약",
-      "summary": "시스템 상태 조회 실패",
-      "take": "LibreHardwareMonitor 또는 센서 데이터 확인이 필요합니다.",
+      "summary": "CPU 89.5 % 사용 / 클럭 2923.2 MHz / RAM 11.2 GB 사용, 총 15.8GB (71%) / SSD 331.9GB 사용, 총 512.1 GB (64%)",
+      "take": "CPU는 현재 89.5 % 사용 중이고 클럭은 2923.2 MHz, 버스 스피드는 100.8 MHz, RAM은 총 15.8GB 중 11.2 GB 사용 (71%), SSD는 총 512.1 GB 중 여유 180.2 GB (64% 사용)입니다.",
       "meta": [
         "시스템",
         "LHM"
@@ -274,7 +354,7 @@
     {
       "title": "OpenClaw 상태 요약",
       "summary": "OpenClaw 2026.7.1-2 (0790d9f)",
-      "take": "게이트웨이 상태 확인 실패",
+      "take": "Runtime: running (pid 2156, Gateway listener active on port 18789) | Gateway Uptime: 2d 22h | Model: google-vertex/gemini-3.7-flash",
       "meta": [
         "OpenClaw",
         "Gateway"
