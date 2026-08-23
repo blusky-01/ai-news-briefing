@@ -1,0 +1,341 @@
+{
+  "date": "2026-08-24 07:00",
+  "title": "아침 브리핑",
+  "subtitle": "날씨 · 응원 · 일정 · 메일 · 유튜브 · 시스템 · OpenClaw",
+  "summary": "오늘 일정이 비어 있다면, 오히려 중요한 걸 조용히 정리할 수 있는 좋은 날입니다.",
+  "summary_box": "습도가 높아 체감이 더 무겁습니다. 물을 자주 마시며 리듬을 유지하면 좋겠습니다. 오늘은 마음을 급하게 쓰지 말고, 가장 아쉬웠던 한 가지를 먼저 정리해 보시면 좋겠습니다. 그런 작은 정리가 하루의 기분을 꽤 크게 바꿉니다.",
+  "weather": {
+    "loc": "김해",
+    "temp": "25°C",
+    "desc": "Smoky haze",
+    "icon": "⛅",
+    "badges": [
+      "체감 29°C",
+      "습도 89%",
+      "강수확률 2%",
+      "풍속 4km/h",
+      "UV 0",
+      "미세먼지 정보 연동 예정"
+    ],
+    "detail": {
+      "feels_like": "29",
+      "humidity": "89",
+      "rain_chance": "2",
+      "wind_kmph": "4",
+      "uv": "0",
+      "pm": "미세먼지 정보 연동 예정"
+    },
+    "life_comment": "습도가 높아 체감이 더 무겁습니다. 물을 자주 마시며 리듬을 유지하면 좋겠습니다."
+  },
+  "sections": {
+    "calendar": {
+      "summary": "오늘 일정 없음",
+      "take": "오늘 등록된 일정이 없습니다. 이럴 때는 중요한 정리 한두 개만 분명하게 끝내도 충분합니다.",
+      "items": [],
+      "links": [],
+      "entities": [
+        "calendar"
+      ]
+    },
+    "mail": {
+      "summary": "주요 메일 없음",
+      "take": "최근 2일 기준 광고성 제외 후 결제·업무·중요인물·에러 메일이 감지되지 않았습니다.",
+      "items": [],
+      "links": [],
+      "entities": []
+    },
+    "youtube": {
+      "summary": "@JulianGoldieSEO NEW Hermes Agent OS is C / @fahdmirza S1-Mini: 0.6B Model Fixe / @JulianGoldieSEO Hermes Subagents Can Do ",
+      "take": "업로드 속도가 빠른 채널은 오늘도 여러 편이 들어왔습니다. 중요한 주제부터 2~3개만 골라 보면 효율이 좋습니다.",
+      "items": [
+        {
+          "channel": "@JulianGoldieSEO",
+          "title": "NEW Hermes Agent OS is Crazy Good! 🤯",
+          "published": "08-24 06:30",
+          "published_dt": "2026-08-24T06:30:40+09:00",
+          "url": "https://www.youtube.com/watch?v=xFnWn4X6wRk",
+          "thumbnail": "https://i.ytimg.com/vi/xFnWn4X6wRk/hqdefault.jpg",
+          "summary": "이 영상은 모델/LLM, 에이전트/자동화, 수익화/마케팅 중심 내용입니다. 구성은 Intro: The New Hermes Agent OS, Inside the Mission Control Dashboard, Live Demo: Real-Time Voice Conversations, Automating Your Workflow with Hermes Oracle 순서로 이어지며, 제목만으로는 보이지 않는 변화 배경·핵심 기능·실제 활용 포인트를 짚어보는 영상입니다.",
+          "description_excerpt": "Get the Agent OS & Hermes Masterclass 👉 00:00 - Intro: The New Hermes Agent OS 00:55 - Inside the Mission Control Dashboard 01:40 - Live Demo: Real-Time Voice Conversations 02:37 - Automating Your Workflow with Hermes Oracle 04:07 - A2A: How Agents Talk to Each Other 05:22 - Webhooks and Advanced Automation 06:26 - How to Download the Full Agent OS",
+          "transcript_excerpt": "New Hermes agent OS is crazy good and I'm going to show you exactly why live on screen right now. What you're looking at is my agent OS. This is the system I use every single day to run content research, lead generation, and automation. It ",
+          "shorts": false
+        },
+        {
+          "channel": "@fahdmirza",
+          "title": "S1-Mini: 0.6B Model Fixes Messy Speech-to-Text Locally",
+          "published": "08-24 04:51",
+          "published_dt": "2026-08-24T04:51:26+09:00",
+          "url": "https://www.youtube.com/watch?v=g5JQYgy9D00",
+          "thumbnail": "https://i.ytimg.com/vi/g5JQYgy9D00/hqdefault.jpg",
+          "summary": "이 영상은 모델/LLM, 수익화/마케팅, 튜토리얼/설정 중심 내용입니다. 구성은 This video locally installs and tests S1-Mini, which is a 0.6B-parameter text normalizer for speech-to-text output 순서로 이어지며, 제목만으로는 보이지 않는 변화 배경·핵심 기능·실제 활용 포인트를 짚어보는 영상입니다.",
+          "description_excerpt": "This video locally installs and tests S1-Mini, which is a 0.6B-parameter text normalizer for speech-to-text output. 🔥 Get 50% Discount on any A6000 or A5000 GPU rental, use following link and coupon: Coupon code: FahdMirza 🔥 Buy Me a Coffee to support the channel: PLEASE FOLLOW ME: ▶ LinkedIn: / fahdmirza ▶ YouTube: / ▶ Blog: RESOURCES: ▶ All rights reserved",
+          "transcript_excerpt": "Always good to see a utility model dropping out there. Before I go into the detail of this S1 mini and we test it out locally, let me try to explain what problem this model is trying to solve. Every dictation tool has the same dirty secret.",
+          "shorts": false
+        },
+        {
+          "channel": "@JulianGoldieSEO",
+          "title": "Hermes Subagents Can Do the Work for You",
+          "published": "08-24 04:30",
+          "published_dt": "2026-08-24T04:30:25+09:00",
+          "url": "https://www.youtube.com/watch?v=bNv-4vCTifI",
+          "thumbnail": "https://i.ytimg.com/vi/bNv-4vCTifI/hqdefault.jpg",
+          "summary": "이 영상은 모델/LLM, 에이전트/자동화, 튜토리얼/설정 중심 내용입니다. 구성은 Intro – why your agent sits idle, New Feature – delegate tool ships async agents, Setup – update Hermes in one click, How It Works – lead agent splits jobs to workers 순서로 이어지며, 제목만으로는 보이지 않는 변화 배경·핵심 기능·실제 활용 포인트를 짚어보는 영상입니다.",
+          "description_excerpt": "Get the Agent OS & Hermes Masterclass 👉 00:00 Intro – why your agent sits idle 0:53 New Feature – delegate tool ships async agents 1:15 Setup – update Hermes in one click 1:31 How It Works – lead agent splits jobs to workers 3:46 Reality Check – does it go off the rails? 4:31 Real Examples – parallel content & onboarding builds 6:31 Key Settings – 5 tips to ",
+          "transcript_excerpt": "Hermes sub-agents can do the work for you. What's actually holding your AI back? It's not the model, it's not your setup, it's that you're stuck doing everything one step at a time. What if the work just got done in the background while you",
+          "shorts": false
+        },
+        {
+          "channel": "@JulianGoldieSEO",
+          "title": "Ox Alpha Might Be GLM-5… And It’s FREE Right Now",
+          "published": "08-24 03:30",
+          "published_dt": "2026-08-24T03:30:21+09:00",
+          "url": "https://www.youtube.com/watch?v=HlnKk4Wkzg0",
+          "thumbnail": "https://i.ytimg.com/vi/HlnKk4Wkzg0/hqdefault.jpg",
+          "summary": "이 영상은 모델/LLM, 에이전트/자동화, 수익화/마케팅 중심 내용입니다. 구성은 Intro – Mystery model beats top labs, What Is Ox Alpha – Stealth model on OpenRouter, Capabilities – 1M context, tool calling, agent-ready, Benchmark Results – Beats Claude & GPT-5.6 on DeepSWE 순서로 이어지며, 제목만으로는 보이지 않는 변화 배경·핵심 기능·실제 활용 포인트를 짚어보는 영상입니다.",
+          "description_excerpt": "Get the Ox Alpha Masterclass 👉 00:00 Intro – Mystery model beats top labs 00:51 What Is Ox Alpha – Stealth model on OpenRouter 01:22 Capabilities – 1M context, tool calling, agent-ready 02:38 Benchmark Results – Beats Claude & GPT-5.6 on DeepSWE 03:15 Who Built It – GLM5 theory explained 04:01 Why It Matters – Early access to a top-tier model 04:56 Use Cases",
+          "transcript_excerpt": "Ox Alpha might be GLM and And right now, it's completely free to try it, but that window is already closing fast. Let me show you what's actually going on here. I'm the digital avatar of Julian Goldie and my whole job is helping people actu",
+          "shorts": false
+        },
+        {
+          "channel": "@jocoding",
+          "title": "IT뉴스 - ox-alpha, 오픈AI 트레이닝 중지, Mythos 5 개방, Gemini 하입과 무료, 모더나 머크, 통속의 뇌 등",
+          "published": "08-23 20:18",
+          "published_dt": "2026-08-23T20:18:01+09:00",
+          "url": "https://www.youtube.com/watch?v=iP5RUzXhWoc",
+          "thumbnail": "https://i.ytimg.com/vi/iP5RUzXhWoc/hqdefault.jpg",
+          "summary": "이 영상은 모델/LLM, 개발도구 중심 내용입니다. 구성은 IT뉴스 - ox-alpha, 오픈AI 훈련 중지, Mythos 5 개방, Gemini 하입과 무료, 모더나 머크, 통속의 뇌 등 조코딩과 코딩 공부하기 제보 메일: jebo .net 순서로 이어집니다. IT뉴스 - ox-alpha, 오픈AI 훈련 중지, Mythos 5 개방, Gemini 하입과 무료, 모더나 머크, 통속의 뇌 등 조코딩과 코딩 공부하기 제보 메일: jebo .net",
+          "description_excerpt": "IT뉴스 - ox-alpha, 오픈AI 훈련 중지, Mythos 5 개방, Gemini 하입과 무료, 모더나 머크, 통속의 뇌 등 조코딩과 코딩 공부하기 제보 메일: jebo .net",
+          "transcript_excerpt": "",
+          "shorts": false
+        }
+      ],
+      "links": [
+        {
+          "label": "@JulianGoldieSEO · 08-24 06:30",
+          "url": "https://www.youtube.com/watch?v=xFnWn4X6wRk",
+          "thumbnail": "https://i.ytimg.com/vi/xFnWn4X6wRk/hqdefault.jpg"
+        },
+        {
+          "label": "@fahdmirza · 08-24 04:51",
+          "url": "https://www.youtube.com/watch?v=g5JQYgy9D00",
+          "thumbnail": "https://i.ytimg.com/vi/g5JQYgy9D00/hqdefault.jpg"
+        },
+        {
+          "label": "@JulianGoldieSEO · 08-24 04:30",
+          "url": "https://www.youtube.com/watch?v=bNv-4vCTifI",
+          "thumbnail": "https://i.ytimg.com/vi/bNv-4vCTifI/hqdefault.jpg"
+        }
+      ],
+      "entities": [
+        "@JulianGoldieSEO",
+        "@fahdmirza",
+        "@JulianGoldieSEO",
+        "@JulianGoldieSEO"
+      ]
+    },
+    "system": {
+      "summary": "CPU 7.3 % 사용 / 클럭 806.4 MHz / RAM 10.9GB 사용, 총 15.8GB (69%) / SSD 303.7GB 사용, 총 475.9GB (64%)",
+      "take": "CPU는 현재 7.3 % 사용 중이고 클럭은 806.4 MHz, 버스 스피드는 100.8 MHz, RAM은 총 15.8GB 중 10.9GB 사용 (69%), SSD는 총 475.9GB 중 303.7GB 사용 (64%), 여유 172.2GB입니다. 네트워크 인터페이스는 Ethernet, Ethernet 2, Wi-Fi 기준입니다.",
+      "metrics": [
+        {
+          "label": "CPU 사용률",
+          "value": "7.3 %",
+          "pct": 7.3,
+          "tone": "normal"
+        },
+        {
+          "label": "CPU 클럭",
+          "value": "806.4 MHz",
+          "pct": 23.04,
+          "tone": "normal"
+        },
+        {
+          "label": "버스 스피드",
+          "value": "100.8 MHz",
+          "pct": 100,
+          "tone": "normal"
+        },
+        {
+          "label": "CPU 온도",
+          "value": "48.0 °C",
+          "pct": 48.0,
+          "tone": "normal"
+        },
+        {
+          "label": "RAM 사용량",
+          "value": "10.9 / 15.8 GB (69%)",
+          "pct": 68.8,
+          "tone": "normal"
+        },
+        {
+          "label": "SSD 사용량",
+          "value": "303.7 / 475.9 GB (64%)",
+          "pct": 63.8,
+          "tone": "normal"
+        },
+        {
+          "label": "SSD 여유 공간",
+          "value": "172.2 / 475.9 GB",
+          "pct": 36.2,
+          "tone": "normal"
+        },
+        {
+          "label": "SSD 온도",
+          "value": "40.0 °C",
+          "pct": 40.0,
+          "tone": "normal"
+        },
+        {
+          "label": "업타임",
+          "value": "239시간 9분",
+          "pct": 100,
+          "tone": "normal"
+        },
+        {
+          "label": "네트워크 수신",
+          "value": "9124.6 MB",
+          "pct": 100,
+          "tone": "normal"
+        },
+        {
+          "label": "네트워크 송신",
+          "value": "5295.5 MB",
+          "pct": 100,
+          "tone": "normal"
+        }
+      ]
+    },
+    "openclaw": {
+      "summary": "OpenClaw 2026.7.1-2 (0790d9f)",
+      "take": "게이트웨이 상태 확인 실패",
+      "metrics": []
+    }
+  },
+  "cards": [
+    {
+      "title": "오늘의 한마디",
+      "summary": "오늘 일정이 비어 있다면, 오히려 중요한 걸 조용히 정리할 수 있는 좋은 날입니다.",
+      "take": "습도가 높아 체감이 더 무겁습니다. 물을 자주 마시며 리듬을 유지하면 좋겠습니다. 오늘은 마음을 급하게 쓰지 말고, 가장 아쉬웠던 한 가지를 먼저 정리해 보시면 좋겠습니다. 그런 작은 정리가 하루의 기분을 꽤 크게 바꿉니다.",
+      "meta": [
+        "응원",
+        "중간 길이"
+      ],
+      "entities": [],
+      "keywords": [
+        "아침",
+        "집중"
+      ],
+      "links": []
+    },
+    {
+      "title": "오늘 일정",
+      "summary": "오늘 일정 없음",
+      "take": "오늘 등록된 일정이 없습니다. 이럴 때는 중요한 정리 한두 개만 분명하게 끝내도 충분합니다.",
+      "meta": [
+        "일정",
+        "calendar"
+      ],
+      "entities": [
+        "calendar"
+      ],
+      "keywords": [
+        "calendar"
+      ],
+      "links": []
+    },
+    {
+      "title": "주요 메일 / 중요 알림",
+      "summary": "주요 메일 없음",
+      "take": "최근 2일 기준 광고성 제외 후 결제·업무·중요인물·에러 메일이 감지되지 않았습니다.",
+      "meta": [
+        "메일",
+        "gmail",
+        "중요 알림"
+      ],
+      "entities": [],
+      "keywords": [
+        "gmail",
+        "alert"
+      ],
+      "links": []
+    },
+    {
+      "title": "유튜브 업데이트",
+      "summary": "@JulianGoldieSEO NEW Hermes Agent OS is C / @fahdmirza S1-Mini: 0.6B Model Fixe / @JulianGoldieSEO Hermes Subagents Can Do ",
+      "take": "업로드 속도가 빠른 채널은 오늘도 여러 편이 들어왔습니다. 중요한 주제부터 2~3개만 골라 보면 효율이 좋습니다.",
+      "meta": [
+        "유튜브",
+        "AI 채널",
+        "중간 길이"
+      ],
+      "entities": [
+        "@JulianGoldieSEO",
+        "@fahdmirza",
+        "@JulianGoldieSEO",
+        "@JulianGoldieSEO"
+      ],
+      "keywords": [
+        "youtube",
+        "update",
+        "thumbnail"
+      ],
+      "links": [
+        {
+          "label": "@JulianGoldieSEO · 08-24 06:30",
+          "url": "https://www.youtube.com/watch?v=xFnWn4X6wRk",
+          "thumbnail": "https://i.ytimg.com/vi/xFnWn4X6wRk/hqdefault.jpg"
+        },
+        {
+          "label": "@fahdmirza · 08-24 04:51",
+          "url": "https://www.youtube.com/watch?v=g5JQYgy9D00",
+          "thumbnail": "https://i.ytimg.com/vi/g5JQYgy9D00/hqdefault.jpg"
+        },
+        {
+          "label": "@JulianGoldieSEO · 08-24 04:30",
+          "url": "https://www.youtube.com/watch?v=bNv-4vCTifI",
+          "thumbnail": "https://i.ytimg.com/vi/bNv-4vCTifI/hqdefault.jpg"
+        }
+      ]
+    },
+    {
+      "title": "시스템 상태 요약",
+      "summary": "CPU 7.3 % 사용 / 클럭 806.4 MHz / RAM 10.9GB 사용, 총 15.8GB (69%) / SSD 303.7GB 사용, 총 475.9GB (64%)",
+      "take": "CPU는 현재 7.3 % 사용 중이고 클럭은 806.4 MHz, 버스 스피드는 100.8 MHz, RAM은 총 15.8GB 중 10.9GB 사용 (69%), SSD는 총 475.9GB 중 303.7GB 사용 (64%), 여유 172.2GB입니다. 네트워크 인터페이스는 Ethernet, Ethernet 2, Wi-Fi 기준입니다.",
+      "meta": [
+        "시스템",
+        "LHM"
+      ],
+      "entities": [
+        "Intel N100",
+        "RAM",
+        "SSD"
+      ],
+      "keywords": [
+        "temperature",
+        "load",
+        "memory"
+      ],
+      "links": []
+    },
+    {
+      "title": "OpenClaw 상태 요약",
+      "summary": "OpenClaw 2026.7.1-2 (0790d9f)",
+      "take": "게이트웨이 상태 확인 실패",
+      "meta": [
+        "OpenClaw",
+        "Gateway"
+      ],
+      "entities": [
+        "main",
+        "gateway"
+      ],
+      "keywords": [
+        "version",
+        "rpc",
+        "status"
+      ],
+      "links": []
+    }
+  ],
+  "footer": "AI-assisted morning briefing, unified data structure ready for stage 2"
+}
