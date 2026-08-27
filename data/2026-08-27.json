@@ -1,0 +1,432 @@
+{
+  "date": "2026-08-27 22:38",
+  "title": "밤 브리핑",
+  "subtitle": "마감 점검 · 남은 일 · 시스템 · OpenClaw",
+  "summary": "오늘은 2026-08-26 이발부터 시작됩니다. 첫 흐름만 안정적으로 잡으면 오늘 전체 리듬이 훨씬 부드럽게 이어질 겁니다.",
+  "summary_box": "습도가 높아 체감이 더 무겁습니다. 물을 자주 마시며 리듬을 유지하면 좋겠습니다. 일정이 있는 날일수록 처음 두 개를 완벽하게 하려 하기보다, 팀장님 페이스를 끝까지 유지하는 쪽이 더 강합니다. 무리하지 말고 호흡을 길게 가져가시면 됩니다.",
+  "weather": {
+    "loc": "김해",
+    "temp": "25°C",
+    "desc": "Partly Cloudy ",
+    "icon": "⛅",
+    "badges": [
+      "체감 30°C",
+      "습도 93%",
+      "강수확률 15%",
+      "풍속 4km/h",
+      "UV 0",
+      "미세먼지 정보 연동 예정"
+    ],
+    "detail": {
+      "feels_like": "30",
+      "humidity": "93",
+      "rain_chance": "15",
+      "wind_kmph": "4",
+      "uv": "0",
+      "pm": "미세먼지 정보 연동 예정"
+    },
+    "life_comment": "습도가 높아 체감이 더 무겁습니다. 물을 자주 마시며 리듬을 유지하면 좋겠습니다."
+  },
+  "sections": {
+    "calendar": {
+      "summary": "2026-08-26 이발",
+      "take": "오늘은 일정 흐름이 보이는 날입니다. 시작 전에 우선순위만 정리하면 훨씬 가볍게 밀 수 있습니다.",
+      "items": [
+        {
+          "shown": "2026-08-26",
+          "summary": "이발",
+          "htmlLink": "https://www.google.com/calendar/event?eid=N21mdWNsdDZ2azQ3OWxyYjVzdHF2Z3NzZmsgYXJhdGVjaC5kZXNpZ25AbQ"
+        }
+      ],
+      "links": [
+        {
+          "label": "2026-08-26 · 이발",
+          "url": "https://www.google.com/calendar/event?eid=N21mdWNsdDZ2azQ3OWxyYjVzdHF2Z3NzZmsgYXJhdGVjaC5kZXNpZ25AbQ"
+        }
+      ],
+      "entities": [
+        "calendar"
+      ]
+    },
+    "mail": {
+      "summary": "[확인필요] [부채증명서 발급 신청] 채무자 오창재 / [확인필요] 아라테크 (제이에이치솔루션(JHS)->아라테크) / [중요인물,에러] 보안 알림",
+      "take": "지금 확인할 만한 메일만 추렸습니다. 결제, 업무, 보안성 알림 위주로 먼저 보면 됩니다.",
+      "items": [
+        {
+          "date": "2026-08-27 17:48",
+          "from": "\"아라테크\" <aratech.design@gmail.com>",
+          "subject": "[부채증명서 발급 신청] 채무자 오창재",
+          "tags": [
+            "확인필요"
+          ]
+        },
+        {
+          "date": "2026-08-27 15:41",
+          "from": "\"국세청\" <hometaxadmin@hometax.go.kr>",
+          "subject": "아라테크 (제이에이치솔루션(JHS)->아라테크)",
+          "tags": [
+            "확인필요"
+          ]
+        },
+        {
+          "date": "2026-08-27 10:58",
+          "from": "Google <no-reply@accounts.google.com>",
+          "subject": "보안 알림",
+          "tags": [
+            "중요인물",
+            "에러"
+          ]
+        },
+        {
+          "date": "2026-08-27 03:57",
+          "from": "Ollama <hello@ollama.com>",
+          "subject": "Claude Desktop support with Ollama",
+          "tags": [
+            "확인필요"
+          ]
+        },
+        {
+          "date": "2026-08-26 18:14",
+          "from": "Cloudflare <em@em1.cloudflare.com>",
+          "subject": "Build for the agentic Internet - the Connect 2026 lineup and agenda are live",
+          "tags": [
+            "확인필요"
+          ]
+        }
+      ],
+      "links": [],
+      "entities": [
+        "중요인물",
+        "확인필요",
+        "에러"
+      ]
+    },
+    "youtube": {
+      "summary": "@JulianGoldieSEO OpenViking Cuts AI Agent / @JulianGoldieSEO Claude + Obsidian 2.0: Y / @jocoding AI 모델 개선 vs 하네스 엔지니어링",
+      "take": "업로드 속도가 빠른 채널은 오늘도 여러 편이 들어왔습니다. 중요한 주제부터 2~3개만 골라 보면 효율이 좋습니다.",
+      "items": [
+        {
+          "channel": "@JulianGoldieSEO",
+          "title": "OpenViking Cuts AI Agent Token Usage by 91%?!",
+          "published": "08-27 22:00",
+          "published_dt": "2026-08-27T22:00:22+09:00",
+          "url": "https://www.youtube.com/watch?v=xhR5BQS0ZpI",
+          "thumbnail": "https://i.ytimg.com/vi/xhR5BQS0ZpI/hqdefault.jpg",
+          "summary": "이 영상은 에이전트/자동화, 수익화/마케팅 중심 내용입니다. 구성은 Intro – Free tool cuts AI agent token usage by 91%, What It Is – Memory system that files agent context folders, The 3-Layer Trick – Tiered summaries slash wasted tokens, Smart Search – Agent drills down a librarian for exact answers 순서로 이어지며, 제목만으로는 보이지 않는 변화 배경·핵심 기능·실제 활용 포인트를 짚어보는 영상입니다.",
+          "description_excerpt": "Get the OpenViking Masterclass 👉 00:00 Intro – Free tool cuts AI agent token usage by 91% 00:51 What It Is – Memory system that files agent context folders 1:43 The 3-Layer Trick – Tiered summaries slash wasted tokens 2:30 Smart Search – Agent drills down a librarian for exact answers 3:25 Transparency + Learning – See the retrieval trail, agent improves ove",
+          "transcript_excerpt": "Open Viking cuts AI agent token usage by 91%. What if your AI agent is doing way more work than it needs to? Every single time it thinks, it re-reads everything over and over, burning through text you never even see. Then ByteDance quietly ",
+          "shorts": false
+        },
+        {
+          "channel": "@JulianGoldieSEO",
+          "title": "Claude + Obsidian 2.0: Your AI Second Brain",
+          "published": "08-27 20:00",
+          "published_dt": "2026-08-27T20:00:10+09:00",
+          "url": "https://www.youtube.com/watch?v=rezIECy4I38",
+          "thumbnail": "https://i.ytimg.com/vi/rezIECy4I38/hqdefault.jpg",
+          "summary": "이 영상은 모델/LLM, 에이전트/자동화, 수익화/마케팅 중심 내용입니다. 구성은 Intro – Why your AI forgets everything, The Problem – Knowledge scattered, never connected, What It Is – Free, open-source memory for Claude Code, How It Works – Inbox → linked notes → sourced answers 순서로 이어지며, 제목만으로는 보이지 않는 변화 배경·핵심 기능·실제 활용 포인트를 짚어보는 영상입니다.",
+          "description_excerpt": "Get the Agent OS & Claude + Obsidian Masterclass 👉 0:00 Intro – Why your AI forgets everything 0:47 The Problem – Knowledge scattered, never connected 1:03 What It Is – Free, open-source memory for Claude Code 1:18 How It Works – Inbox → linked notes → sourced answers 1:41 15 Skills – Filing, Q&A, cleanup, research, canvas, changelog 3:06 Setup Tip – Choose ",
+          "transcript_excerpt": "Claude plus Obsidian 2.0 build your AI second brain free. Where do all your best AI answers go? You get a brilliant one, you use it, then it's gone. You've had months of them. You'll never see most of them again. What if every answer stuck ",
+          "shorts": false
+        },
+        {
+          "channel": "@jocoding",
+          "title": "AI 모델 개선 vs 하네스 엔지니어링",
+          "published": "08-27 18:30",
+          "published_dt": "2026-08-27T18:30:42+09:00",
+          "url": "https://www.youtube.com/watch?v=2VRwvTWsxhQ",
+          "thumbnail": "https://i.ytimg.com/vi/2VRwvTWsxhQ/hqdefault.jpg",
+          "summary": "이 영상은 모델/LLM 중심 내용입니다. I think there's a two way to improve your work Model progress and harness engineering So, I'd say it's a lot about harness engineering, engineering your context, making sure that you have exactly what you want when you want it",
+          "description_excerpt": "조코딩의 바이브 코딩 1인 창업 책: AX 컨설팅 및 교육 문의: 조코헌트: VVIP 멤버십 후원 그림자그림자님, 차딩Chading TV님, Sicongbabe님, 정진균님, Tae hwan Kim님, 시원-r9u님, YCN유림방송님, 그래머피티님, GomnaStudio님, 천사슥님, 예스타님, shintony667님, bellati272님, happypink81님, kogurean9님 감사드립니다.",
+          "transcript_excerpt": "I think there's a two way to improve your work. Model progress and harness engineering. What do you think the percentage >> like the balance between models are a lot better than we think they are? So, I'd say it's a lot about harness engine",
+          "shorts": false
+        },
+        {
+          "channel": "@jocoding",
+          "title": "보법이 다른 Speak 본사 직원들 ㄷㄷ",
+          "published": "08-27 18:00",
+          "published_dt": "2026-08-27T18:00:13+09:00",
+          "url": "https://www.youtube.com/watch?v=iv_eCWhphCU",
+          "thumbnail": "https://i.ytimg.com/vi/iv_eCWhphCU/hqdefault.jpg",
+          "summary": "이 영상은 개발도구 중심 내용입니다. 조코딩의 바이브 코딩 1인 창업 책: AX 컨설팅 및 교육 문의: 조코헌트: VVIP 멤버십 후원 그림자그림자님, 차딩Chading TV님, Sicongbabe님, 정진균님, Tae hwan Kim님, 시원-r9u님, YCN유림방송님, 그래머피티...",
+          "description_excerpt": "조코딩의 바이브 코딩 1인 창업 책: AX 컨설팅 및 교육 문의: 조코헌트: VVIP 멤버십 후원 그림자그림자님, 차딩Chading TV님, Sicongbabe님, 정진균님, Tae hwan Kim님, 시원-r9u님, YCN유림방송님, 그래머피티님, GomnaStudio님, 천사슥님, 예스타님, shintony667님, bellati272님, happypink81님, kogurean9님 감사드립니다.",
+          "transcript_excerpt": "",
+          "shorts": false
+        },
+        {
+          "channel": "@JulianGoldieSEO",
+          "title": "How to Use Codex for FREE in 2026",
+          "published": "08-27 18:00",
+          "published_dt": "2026-08-27T18:00:06+09:00",
+          "url": "https://www.youtube.com/watch?v=ApN2xkmwTFQ",
+          "thumbnail": "https://i.ytimg.com/vi/ApN2xkmwTFQ/hqdefault.jpg",
+          "summary": "이 영상은 모델/LLM, 에이전트/자동화, 수익화/마케팅 중심 내용입니다. 구성은 The Problem – Codex quitting mid-build on provider limits, The Fix – Routing Codex through a free multi-provider gateway, How It Works – Auto-fallback across 350+ providers, 90+ free, Local vs Cloud – Why free cloud models beat local setups 순서로 이어지며, 제목만으로는 보이지 않는 변화 배경·핵심 기능·실제 활용 포인트를 짚어보는 영상입니다.",
+          "description_excerpt": "Get the Agent OS & Codex Masterclass 👉 0:00 The Problem – Codex quitting mid-build on provider limits 1:07 The Fix – Routing Codex through a free multi-provider gateway 1:42 How It Works – Auto-fallback across 350+ providers, 90+ free 3:11 Local vs Cloud – Why free cloud models beat local setups 3:43 Old vs New – Locked-in limits vs all-day free building 4:3",
+          "transcript_excerpt": "How to use Codex for free in 2026 inside my Agent OS? Ever stop using a tool because it kept quitting on you? That was me and Codex. I'd get halfway through a build and it would just stop. So, I closed it and walked away. Then, I changed on",
+          "shorts": false
+        }
+      ],
+      "links": [
+        {
+          "label": "@JulianGoldieSEO · 08-27 22:00",
+          "url": "https://www.youtube.com/watch?v=xhR5BQS0ZpI",
+          "thumbnail": "https://i.ytimg.com/vi/xhR5BQS0ZpI/hqdefault.jpg"
+        },
+        {
+          "label": "@JulianGoldieSEO · 08-27 20:00",
+          "url": "https://www.youtube.com/watch?v=rezIECy4I38",
+          "thumbnail": "https://i.ytimg.com/vi/rezIECy4I38/hqdefault.jpg"
+        },
+        {
+          "label": "@jocoding · 08-27 18:30",
+          "url": "https://www.youtube.com/watch?v=2VRwvTWsxhQ",
+          "thumbnail": "https://i.ytimg.com/vi/2VRwvTWsxhQ/hqdefault.jpg"
+        }
+      ],
+      "entities": [
+        "@JulianGoldieSEO",
+        "@JulianGoldieSEO",
+        "@jocoding",
+        "@jocoding"
+      ]
+    },
+    "system": {
+      "summary": "CPU 37.1 % 사용 / 클럭 2923.2 MHz / RAM 9.3GB 사용, 총 15.8GB (59%) / SSD 299.8GB 사용, 총 475.9GB (63%)",
+      "take": "CPU는 현재 37.1 % 사용 중이고 클럭은 2923.2 MHz, 버스 스피드는 100.8 MHz, RAM은 총 15.8GB 중 9.3GB 사용 (59%), SSD는 총 475.9GB 중 299.8GB 사용 (63%), 여유 176.1GB입니다. 네트워크 인터페이스는 Ethernet, Ethernet 2, Wi-Fi 기준입니다.",
+      "metrics": [
+        {
+          "label": "CPU 사용률",
+          "value": "37.1 %",
+          "pct": 37.1,
+          "tone": "normal"
+        },
+        {
+          "label": "CPU 클럭",
+          "value": "2923.2 MHz",
+          "pct": 83.52,
+          "tone": "normal"
+        },
+        {
+          "label": "버스 스피드",
+          "value": "100.8 MHz",
+          "pct": 100,
+          "tone": "normal"
+        },
+        {
+          "label": "CPU 온도",
+          "value": "61.0 °C",
+          "pct": 61.0,
+          "tone": "normal"
+        },
+        {
+          "label": "RAM 사용량",
+          "value": "9.3 / 15.8 GB (59%)",
+          "pct": 59.0,
+          "tone": "normal"
+        },
+        {
+          "label": "SSD 사용량",
+          "value": "299.8 / 475.9 GB (63%)",
+          "pct": 63.0,
+          "tone": "normal"
+        },
+        {
+          "label": "SSD 여유 공간",
+          "value": "176.1 / 475.9 GB",
+          "pct": 37.0,
+          "tone": "normal"
+        },
+        {
+          "label": "SSD 온도",
+          "value": "40.0 °C",
+          "pct": 40.0,
+          "tone": "normal"
+        },
+        {
+          "label": "업타임",
+          "value": "18시간 7분",
+          "pct": 72,
+          "tone": "normal"
+        },
+        {
+          "label": "네트워크 수신",
+          "value": "87.7 MB",
+          "pct": 100,
+          "tone": "normal"
+        },
+        {
+          "label": "네트워크 송신",
+          "value": "37.5 MB",
+          "pct": 100,
+          "tone": "normal"
+        }
+      ]
+    },
+    "openclaw": {
+      "summary": "OpenClaw 2026.7.1-2 (0790d9f)",
+      "take": "Runtime: running (pid 14252, Gateway process detected for gateway port 18789.) | Listening: 127.0.0.1:18789",
+      "metrics": [
+        {
+          "label": "Gateway",
+          "value": "bind=loopback (127.0.0.1), port=18789 (service args)",
+          "pct": 100,
+          "tone": "normal"
+        },
+        {
+          "label": "Probe note",
+          "value": "Loopback-only gateway; only local clients can connect.",
+          "pct": 100,
+          "tone": "normal"
+        },
+        {
+          "label": "Runtime",
+          "value": "running (pid 14252, Gateway process detected for gateway port 18789.)",
+          "pct": 100,
+          "tone": "good"
+        },
+        {
+          "label": "Listening",
+          "value": "127.0.0.1:18789",
+          "pct": 100,
+          "tone": "good"
+        }
+      ]
+    }
+  },
+  "cards": [
+    {
+      "title": "오늘의 한마디",
+      "summary": "오늘은 2026-08-26 이발부터 시작됩니다. 첫 흐름만 안정적으로 잡으면 오늘 전체 리듬이 훨씬 부드럽게 이어질 겁니다.",
+      "take": "습도가 높아 체감이 더 무겁습니다. 물을 자주 마시며 리듬을 유지하면 좋겠습니다. 일정이 있는 날일수록 처음 두 개를 완벽하게 하려 하기보다, 팀장님 페이스를 끝까지 유지하는 쪽이 더 강합니다. 무리하지 말고 호흡을 길게 가져가시면 됩니다.",
+      "meta": [
+        "응원",
+        "중간 길이"
+      ],
+      "entities": [],
+      "keywords": [
+        "아침",
+        "집중"
+      ],
+      "links": []
+    },
+    {
+      "title": "오늘 일정",
+      "summary": "2026-08-26 이발",
+      "take": "오늘은 일정 흐름이 보이는 날입니다. 시작 전에 우선순위만 정리하면 훨씬 가볍게 밀 수 있습니다.",
+      "meta": [
+        "일정",
+        "calendar"
+      ],
+      "entities": [
+        "calendar"
+      ],
+      "keywords": [
+        "calendar"
+      ],
+      "links": [
+        {
+          "label": "2026-08-26 · 이발",
+          "url": "https://www.google.com/calendar/event?eid=N21mdWNsdDZ2azQ3OWxyYjVzdHF2Z3NzZmsgYXJhdGVjaC5kZXNpZ25AbQ"
+        }
+      ]
+    },
+    {
+      "title": "주요 메일 / 중요 알림",
+      "summary": "[확인필요] [부채증명서 발급 신청] 채무자 오창재 / [확인필요] 아라테크 (제이에이치솔루션(JHS)->아라테크) / [중요인물,에러] 보안 알림",
+      "take": "지금 확인할 만한 메일만 추렸습니다. 결제, 업무, 보안성 알림 위주로 먼저 보면 됩니다.",
+      "meta": [
+        "메일",
+        "gmail",
+        "중요 알림"
+      ],
+      "entities": [
+        "중요인물",
+        "확인필요",
+        "에러"
+      ],
+      "keywords": [
+        "gmail",
+        "alert"
+      ],
+      "links": []
+    },
+    {
+      "title": "유튜브 업데이트",
+      "summary": "@JulianGoldieSEO OpenViking Cuts AI Agent / @JulianGoldieSEO Claude + Obsidian 2.0: Y / @jocoding AI 모델 개선 vs 하네스 엔지니어링",
+      "take": "업로드 속도가 빠른 채널은 오늘도 여러 편이 들어왔습니다. 중요한 주제부터 2~3개만 골라 보면 효율이 좋습니다.",
+      "meta": [
+        "유튜브",
+        "AI 채널",
+        "중간 길이"
+      ],
+      "entities": [
+        "@JulianGoldieSEO",
+        "@JulianGoldieSEO",
+        "@jocoding",
+        "@jocoding"
+      ],
+      "keywords": [
+        "youtube",
+        "update",
+        "thumbnail"
+      ],
+      "links": [
+        {
+          "label": "@JulianGoldieSEO · 08-27 22:00",
+          "url": "https://www.youtube.com/watch?v=xhR5BQS0ZpI",
+          "thumbnail": "https://i.ytimg.com/vi/xhR5BQS0ZpI/hqdefault.jpg"
+        },
+        {
+          "label": "@JulianGoldieSEO · 08-27 20:00",
+          "url": "https://www.youtube.com/watch?v=rezIECy4I38",
+          "thumbnail": "https://i.ytimg.com/vi/rezIECy4I38/hqdefault.jpg"
+        },
+        {
+          "label": "@jocoding · 08-27 18:30",
+          "url": "https://www.youtube.com/watch?v=2VRwvTWsxhQ",
+          "thumbnail": "https://i.ytimg.com/vi/2VRwvTWsxhQ/hqdefault.jpg"
+        }
+      ]
+    },
+    {
+      "title": "시스템 상태 요약",
+      "summary": "CPU 37.1 % 사용 / 클럭 2923.2 MHz / RAM 9.3GB 사용, 총 15.8GB (59%) / SSD 299.8GB 사용, 총 475.9GB (63%)",
+      "take": "CPU는 현재 37.1 % 사용 중이고 클럭은 2923.2 MHz, 버스 스피드는 100.8 MHz, RAM은 총 15.8GB 중 9.3GB 사용 (59%), SSD는 총 475.9GB 중 299.8GB 사용 (63%), 여유 176.1GB입니다. 네트워크 인터페이스는 Ethernet, Ethernet 2, Wi-Fi 기준입니다.",
+      "meta": [
+        "시스템",
+        "LHM"
+      ],
+      "entities": [
+        "Intel N100",
+        "RAM",
+        "SSD"
+      ],
+      "keywords": [
+        "temperature",
+        "load",
+        "memory"
+      ],
+      "links": []
+    },
+    {
+      "title": "OpenClaw 상태 요약",
+      "summary": "OpenClaw 2026.7.1-2 (0790d9f)",
+      "take": "Runtime: running (pid 14252, Gateway process detected for gateway port 18789.) | Listening: 127.0.0.1:18789",
+      "meta": [
+        "OpenClaw",
+        "Gateway"
+      ],
+      "entities": [
+        "main",
+        "gateway"
+      ],
+      "keywords": [
+        "version",
+        "rpc",
+        "status"
+      ],
+      "links": []
+    }
+  ],
+  "footer": "AI-assisted morning briefing, unified data structure ready for stage 2"
+}
