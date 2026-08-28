@@ -1,0 +1,400 @@
+{
+  "date": "2026-08-29 07:00",
+  "title": "아침 브리핑",
+  "subtitle": "날씨 · 응원 · 일정 · 메일 · 유튜브 · 시스템 · OpenClaw",
+  "summary": "오늘은 누가 밀어붙이지 않아도 됩니다. 팀장님 리듬대로 중요한 것부터 차분히 끝내면 됩니다.",
+  "summary_box": "습도가 높아 체감이 더 무겁습니다. 물을 자주 마시며 리듬을 유지하면 좋겠습니다. 오늘은 마음을 급하게 쓰지 말고, 가장 아쉬웠던 한 가지를 먼저 정리해 보시면 좋겠습니다. 그런 작은 정리가 하루의 기분을 꽤 크게 바꿉니다.",
+  "weather": {
+    "loc": "김해",
+    "temp": "24°C",
+    "desc": "Fog",
+    "icon": "⛅",
+    "badges": [
+      "체감 29°C",
+      "습도 98%",
+      "강수확률 28%",
+      "풍속 4km/h",
+      "UV 5",
+      "미세먼지 정보 연동 예정"
+    ],
+    "detail": {
+      "feels_like": "29",
+      "humidity": "98",
+      "rain_chance": "28",
+      "wind_kmph": "4",
+      "uv": "5",
+      "pm": "미세먼지 정보 연동 예정"
+    },
+    "life_comment": "습도가 높아 체감이 더 무겁습니다. 물을 자주 마시며 리듬을 유지하면 좋겠습니다."
+  },
+  "sections": {
+    "calendar": {
+      "summary": "오늘 일정 없음",
+      "take": "오늘 등록된 일정이 없습니다. 이럴 때는 중요한 정리 한두 개만 분명하게 끝내도 충분합니다.",
+      "items": [],
+      "links": [],
+      "entities": [
+        "calendar"
+      ]
+    },
+    "mail": {
+      "summary": "[확인필요] [부채증명서 발급 신청] 채무자 오창재 / [확인필요] 아라테크 (제이에이치솔루션(JHS)->아라테크) / [중요인물,에러] 보안 알림",
+      "take": "지금 확인할 만한 메일만 추렸습니다. 결제, 업무, 보안성 알림 위주로 먼저 보면 됩니다.",
+      "items": [
+        {
+          "date": "2026-08-27 17:48",
+          "from": "\"아라테크\" <aratech.design@gmail.com>",
+          "subject": "[부채증명서 발급 신청] 채무자 오창재",
+          "tags": [
+            "확인필요"
+          ]
+        },
+        {
+          "date": "2026-08-27 15:41",
+          "from": "\"국세청\" <hometaxadmin@hometax.go.kr>",
+          "subject": "아라테크 (제이에이치솔루션(JHS)->아라테크)",
+          "tags": [
+            "확인필요"
+          ]
+        },
+        {
+          "date": "2026-08-27 10:58",
+          "from": "Google <no-reply@accounts.google.com>",
+          "subject": "보안 알림",
+          "tags": [
+            "중요인물",
+            "에러"
+          ]
+        }
+      ],
+      "links": [],
+      "entities": [
+        "에러",
+        "확인필요",
+        "중요인물"
+      ]
+    },
+    "youtube": {
+      "summary": "@JulianGoldieSEO NEW Apodex 1.1 is ABSOLU / @JulianGoldieSEO NEW Ollama Update is A G / @JulianGoldieSEO 100+ Hermes Agent Skills",
+      "take": "업로드 속도가 빠른 채널은 오늘도 여러 편이 들어왔습니다. 중요한 주제부터 2~3개만 골라 보면 효율이 좋습니다.",
+      "items": [
+        {
+          "channel": "@JulianGoldieSEO",
+          "title": "NEW Apodex 1.1 is ABSOLUTELY INSANE!  ( FREE!) 🤯",
+          "published": "08-29 06:00",
+          "published_dt": "2026-08-29T06:00:32+09:00",
+          "url": "https://www.youtube.com/watch?v=rnG1w8MWQgo",
+          "thumbnail": "https://i.ytimg.com/vi/rnG1w8MWQgo/hqdefault.jpg",
+          "summary": "이 영상은 모델/LLM, 에이전트/자동화, 수익화/마케팅 중심 내용입니다. 구성은 Intro: Why Apex 1.1 is Insane, Apex 1.1, Mini, and Frontier Agent, Question Answering vs. Working Capability, How Agent Teams Actually Work 순서로 이어집니다. New Apedix 1.1 is absolutely insane Free Apedix 1.1 just dropped and it does something no AI tool has done cleanly before And a big chunk of it is free",
+          "description_excerpt": "Get the Agent OS & Apodex 1.1 Masterclass 👉 00:00 - Intro: Why Apex 1.1 is Insane 00:36 - Apex 1.1, Mini, and Frontier Agent 01:38 - Question Answering vs. Working Capability 02:17 - How Agent Teams Actually Work 04:25 - Workflow: Market Research Agent Team 06:01 - Workflow: Content Research Machine 06:50 - Automating Your Business with AI Agents",
+          "transcript_excerpt": "New Apedix 1.1 is absolutely insane. Free Apedix 1.1 just dropped and it does something no AI tool has done cleanly before. It doesn't just answer your question, it takes a goal, breaks it into tasks, spins up a team of agents, runs them al",
+          "shorts": false
+        },
+        {
+          "channel": "@JulianGoldieSEO",
+          "title": "NEW Ollama Update is A GAME CHANGER! 🤯",
+          "published": "08-29 04:00",
+          "published_dt": "2026-08-29T04:00:06+09:00",
+          "url": "https://www.youtube.com/watch?v=J5TZal3Xs-o",
+          "thumbnail": "https://i.ytimg.com/vi/J5TZal3Xs-o/hqdefault.jpg",
+          "summary": "이 영상은 모델/LLM, 수익화/마케팅, 튜토리얼/설정 중심 내용입니다. 구성은 Intro: The Ollama 0.33 Update, Setting Up Claude Desktop Integration, Ollama as an AI Gateway, Local Inference vs. Cloud Models 순서로 이어지며, 제목만으로는 보이지 않는 변화 배경·핵심 기능·실제 활용 포인트를 짚어보는 영상입니다.",
+          "description_excerpt": "Get the Agent OS & Ollama Masterclass 👉 00:00 - Intro: The Ollama 0.33 Update 00:30 - Setting Up Claude Desktop Integration 01:20 - Ollama as an AI Gateway 01:44 - Local Inference vs. Cloud Models 03:58 - Huge Caching & Performance Fixes 05:43 - Supported Models: Deepseek & Qwen 06:32 - Web Search & Agentic Features",
+          "transcript_excerpt": "New Ollama update is a game-changer. What if Claude Desktop didn't actually have to run Claude models? Because Ollama just released version 0.33, and it quietly changes something most people haven't clocked yet. Claude Desktop can now use O",
+          "shorts": false
+        },
+        {
+          "channel": "@JulianGoldieSEO",
+          "title": "100+ Hermes Agent Skills You NEED to Try",
+          "published": "08-29 03:00",
+          "published_dt": "2026-08-29T03:00:12+09:00",
+          "url": "https://www.youtube.com/watch?v=fAoxAMrnpNk",
+          "thumbnail": "https://i.ytimg.com/vi/fAoxAMrnpNk/hqdefault.jpg",
+          "summary": "이 영상은 모델/LLM, 에이전트/자동화, 튜토리얼/설정 중심 내용입니다. 구성은 Intro – 100+ skills your agent can write itself, What Hermes Is – open source, local, learns your workflows, Self-Cleaning Skills – auto-grades, merges, prunes weekly, The Skills Directory – 4,000-star hub 순서로 이어지며, 제목만으로는 보이지 않는 변화 배경·핵심 기능·실제 활용 포인트를 짚어보는 영상입니다.",
+          "description_excerpt": "Get the Agent OS & Hermes Agent Masterclass 👉 0:00 Intro – 100+ skills your agent can write itself 0:32 What Hermes Is – open source, local, learns your workflows 0:59 Self-Cleaning Skills – auto-grades, merges, prunes weekly 1:24 The Skills Directory – 4,000-star hub 1:40 Setup in 3 Steps – install, add skills, add a surface 2:34 More Skill Sources – Vercel",
+          "transcript_excerpt": "100 plus Hermes agent skills you need to try. What if your AI agent could write its own skills while you sleep? Most people are still copy-pasting prompts into a chatbox. There's an open list with over 100 skills sitting right there. Almost",
+          "shorts": false
+        },
+        {
+          "channel": "@fahdmirza",
+          "title": "Qwen3.8 Just Landed in SIE — Running It Locally On Day One",
+          "published": "08-29 02:00",
+          "published_dt": "2026-08-29T02:00:11+09:00",
+          "url": "https://www.youtube.com/watch?v=hS6XgJxji2Q",
+          "thumbnail": "https://i.ytimg.com/vi/hS6XgJxji2Q/hqdefault.jpg",
+          "summary": "이 영상은 모델/LLM, 에이전트/자동화, 튜토리얼/설정 중심 내용입니다. 구성은 This video runs Qwen3.8 27B with SIE locally efficiently 순서로 이어집니다. I genuinely cannot get enough of quant 3.8 right now So today, we are pairing it with Sai And honestly, this combination feels a match made in heaven",
+          "description_excerpt": "This video runs Qwen3.8 27B with SIE locally efficiently. Repo: Website: — you can also apply for an inference grant there 🔥 Buy Me a Coffee to support the channel: PLEASE FOLLOW ME: ▶ LinkedIn: / fahdmirza ▶ YouTube: / ▶ Blog: 📬Weekly AI : RESOURCES: ▶ All rights reserved © Fahd Mirza",
+          "transcript_excerpt": "I genuinely cannot get enough of quant 3.8 right now. So today, we are pairing it with Sai. Super linked inference engine. And honestly, this combination feels like a match made in heaven. Quick recap for anyone new here. SIE is super linke",
+          "shorts": false
+        },
+        {
+          "channel": "@jocoding",
+          "title": "신박하게 변신하는 휴머노이드 등장",
+          "published": "08-28 20:00",
+          "published_dt": "2026-08-28T20:00:29+09:00",
+          "url": "https://www.youtube.com/watch?v=cEQl99-pZgI",
+          "thumbnail": "https://i.ytimg.com/vi/cEQl99-pZgI/hqdefault.jpg",
+          "summary": "이 영상은 개발도구 중심 내용입니다. 조코딩의 바이브 코딩 1인 창업 책: AX 컨설팅 및 교육 문의: 조코헌트: VVIP 멤버십 후원 그림자그림자님, 차딩Chading TV님, Sicongbabe님, 정진균님, Tae hwan Kim님, 시원-r9u님, YCN유림방송님, 그래머피티...",
+          "description_excerpt": "조코딩의 바이브 코딩 1인 창업 책: AX 컨설팅 및 교육 문의: 조코헌트: VVIP 멤버십 후원 그림자그림자님, 차딩Chading TV님, Sicongbabe님, 정진균님, Tae hwan Kim님, 시원-r9u님, YCN유림방송님, 그래머피티님, GomnaStudio님, 천사슥님, 예스타님, shintony667님, bellati272님, happypink81님, kogurean9님 감사드립니다.",
+          "transcript_excerpt": "",
+          "shorts": false
+        }
+      ],
+      "links": [
+        {
+          "label": "@JulianGoldieSEO · 08-29 06:00",
+          "url": "https://www.youtube.com/watch?v=rnG1w8MWQgo",
+          "thumbnail": "https://i.ytimg.com/vi/rnG1w8MWQgo/hqdefault.jpg"
+        },
+        {
+          "label": "@JulianGoldieSEO · 08-29 04:00",
+          "url": "https://www.youtube.com/watch?v=J5TZal3Xs-o",
+          "thumbnail": "https://i.ytimg.com/vi/J5TZal3Xs-o/hqdefault.jpg"
+        },
+        {
+          "label": "@JulianGoldieSEO · 08-29 03:00",
+          "url": "https://www.youtube.com/watch?v=fAoxAMrnpNk",
+          "thumbnail": "https://i.ytimg.com/vi/fAoxAMrnpNk/hqdefault.jpg"
+        }
+      ],
+      "entities": [
+        "@JulianGoldieSEO",
+        "@JulianGoldieSEO",
+        "@JulianGoldieSEO",
+        "@fahdmirza"
+      ]
+    },
+    "system": {
+      "summary": "CPU 24.6 % 사용 / 클럭 2419.2 MHz / RAM 10.2GB 사용, 총 15.8GB (65%) / SSD 304.3GB 사용, 총 475.9GB (64%)",
+      "take": "CPU는 현재 24.6 % 사용 중이고 클럭은 2419.2 MHz, 버스 스피드는 100.8 MHz, RAM은 총 15.8GB 중 10.2GB 사용 (65%), SSD는 총 475.9GB 중 304.3GB 사용 (64%), 여유 171.6GB입니다. 네트워크 인터페이스는 Ethernet, Ethernet 2, Wi-Fi 기준입니다.",
+      "metrics": [
+        {
+          "label": "CPU 사용률",
+          "value": "24.6 %",
+          "pct": 24.6,
+          "tone": "normal"
+        },
+        {
+          "label": "CPU 클럭",
+          "value": "2419.2 MHz",
+          "pct": 69.11999999999999,
+          "tone": "normal"
+        },
+        {
+          "label": "버스 스피드",
+          "value": "100.8 MHz",
+          "pct": 100,
+          "tone": "normal"
+        },
+        {
+          "label": "CPU 온도",
+          "value": "54.0 °C",
+          "pct": 54.0,
+          "tone": "normal"
+        },
+        {
+          "label": "RAM 사용량",
+          "value": "10.2 / 15.8 GB (65%)",
+          "pct": 64.8,
+          "tone": "normal"
+        },
+        {
+          "label": "SSD 사용량",
+          "value": "304.3 / 475.9 GB (64%)",
+          "pct": 63.9,
+          "tone": "normal"
+        },
+        {
+          "label": "SSD 여유 공간",
+          "value": "171.6 / 475.9 GB",
+          "pct": 36.1,
+          "tone": "normal"
+        },
+        {
+          "label": "SSD 온도",
+          "value": "40.0 °C",
+          "pct": 40.0,
+          "tone": "normal"
+        },
+        {
+          "label": "업타임",
+          "value": "50시간 29분",
+          "pct": 100,
+          "tone": "normal"
+        },
+        {
+          "label": "네트워크 수신",
+          "value": "11069.7 MB",
+          "pct": 100,
+          "tone": "normal"
+        },
+        {
+          "label": "네트워크 송신",
+          "value": "596.9 MB",
+          "pct": 100,
+          "tone": "normal"
+        }
+      ]
+    },
+    "openclaw": {
+      "summary": "OpenClaw 2026.7.1-2 (0790d9f)",
+      "take": "Runtime: running (pid 14252, Gateway process detected for gateway port 18789.) | Listening: 127.0.0.1:18789",
+      "metrics": [
+        {
+          "label": "Gateway",
+          "value": "bind=loopback (127.0.0.1), port=18789 (service args)",
+          "pct": 100,
+          "tone": "normal"
+        },
+        {
+          "label": "Probe note",
+          "value": "Loopback-only gateway; only local clients can connect.",
+          "pct": 100,
+          "tone": "normal"
+        },
+        {
+          "label": "Runtime",
+          "value": "running (pid 14252, Gateway process detected for gateway port 18789.)",
+          "pct": 100,
+          "tone": "good"
+        },
+        {
+          "label": "Listening",
+          "value": "127.0.0.1:18789",
+          "pct": 100,
+          "tone": "good"
+        }
+      ]
+    }
+  },
+  "cards": [
+    {
+      "title": "오늘의 한마디",
+      "summary": "오늘은 누가 밀어붙이지 않아도 됩니다. 팀장님 리듬대로 중요한 것부터 차분히 끝내면 됩니다.",
+      "take": "습도가 높아 체감이 더 무겁습니다. 물을 자주 마시며 리듬을 유지하면 좋겠습니다. 오늘은 마음을 급하게 쓰지 말고, 가장 아쉬웠던 한 가지를 먼저 정리해 보시면 좋겠습니다. 그런 작은 정리가 하루의 기분을 꽤 크게 바꿉니다.",
+      "meta": [
+        "응원",
+        "중간 길이"
+      ],
+      "entities": [],
+      "keywords": [
+        "아침",
+        "집중"
+      ],
+      "links": []
+    },
+    {
+      "title": "오늘 일정",
+      "summary": "오늘 일정 없음",
+      "take": "오늘 등록된 일정이 없습니다. 이럴 때는 중요한 정리 한두 개만 분명하게 끝내도 충분합니다.",
+      "meta": [
+        "일정",
+        "calendar"
+      ],
+      "entities": [
+        "calendar"
+      ],
+      "keywords": [
+        "calendar"
+      ],
+      "links": []
+    },
+    {
+      "title": "주요 메일 / 중요 알림",
+      "summary": "[확인필요] [부채증명서 발급 신청] 채무자 오창재 / [확인필요] 아라테크 (제이에이치솔루션(JHS)->아라테크) / [중요인물,에러] 보안 알림",
+      "take": "지금 확인할 만한 메일만 추렸습니다. 결제, 업무, 보안성 알림 위주로 먼저 보면 됩니다.",
+      "meta": [
+        "메일",
+        "gmail",
+        "중요 알림"
+      ],
+      "entities": [
+        "에러",
+        "확인필요",
+        "중요인물"
+      ],
+      "keywords": [
+        "gmail",
+        "alert"
+      ],
+      "links": []
+    },
+    {
+      "title": "유튜브 업데이트",
+      "summary": "@JulianGoldieSEO NEW Apodex 1.1 is ABSOLU / @JulianGoldieSEO NEW Ollama Update is A G / @JulianGoldieSEO 100+ Hermes Agent Skills",
+      "take": "업로드 속도가 빠른 채널은 오늘도 여러 편이 들어왔습니다. 중요한 주제부터 2~3개만 골라 보면 효율이 좋습니다.",
+      "meta": [
+        "유튜브",
+        "AI 채널",
+        "중간 길이"
+      ],
+      "entities": [
+        "@JulianGoldieSEO",
+        "@JulianGoldieSEO",
+        "@JulianGoldieSEO",
+        "@fahdmirza"
+      ],
+      "keywords": [
+        "youtube",
+        "update",
+        "thumbnail"
+      ],
+      "links": [
+        {
+          "label": "@JulianGoldieSEO · 08-29 06:00",
+          "url": "https://www.youtube.com/watch?v=rnG1w8MWQgo",
+          "thumbnail": "https://i.ytimg.com/vi/rnG1w8MWQgo/hqdefault.jpg"
+        },
+        {
+          "label": "@JulianGoldieSEO · 08-29 04:00",
+          "url": "https://www.youtube.com/watch?v=J5TZal3Xs-o",
+          "thumbnail": "https://i.ytimg.com/vi/J5TZal3Xs-o/hqdefault.jpg"
+        },
+        {
+          "label": "@JulianGoldieSEO · 08-29 03:00",
+          "url": "https://www.youtube.com/watch?v=fAoxAMrnpNk",
+          "thumbnail": "https://i.ytimg.com/vi/fAoxAMrnpNk/hqdefault.jpg"
+        }
+      ]
+    },
+    {
+      "title": "시스템 상태 요약",
+      "summary": "CPU 24.6 % 사용 / 클럭 2419.2 MHz / RAM 10.2GB 사용, 총 15.8GB (65%) / SSD 304.3GB 사용, 총 475.9GB (64%)",
+      "take": "CPU는 현재 24.6 % 사용 중이고 클럭은 2419.2 MHz, 버스 스피드는 100.8 MHz, RAM은 총 15.8GB 중 10.2GB 사용 (65%), SSD는 총 475.9GB 중 304.3GB 사용 (64%), 여유 171.6GB입니다. 네트워크 인터페이스는 Ethernet, Ethernet 2, Wi-Fi 기준입니다.",
+      "meta": [
+        "시스템",
+        "LHM"
+      ],
+      "entities": [
+        "Intel N100",
+        "RAM",
+        "SSD"
+      ],
+      "keywords": [
+        "temperature",
+        "load",
+        "memory"
+      ],
+      "links": []
+    },
+    {
+      "title": "OpenClaw 상태 요약",
+      "summary": "OpenClaw 2026.7.1-2 (0790d9f)",
+      "take": "Runtime: running (pid 14252, Gateway process detected for gateway port 18789.) | Listening: 127.0.0.1:18789",
+      "meta": [
+        "OpenClaw",
+        "Gateway"
+      ],
+      "entities": [
+        "main",
+        "gateway"
+      ],
+      "keywords": [
+        "version",
+        "rpc",
+        "status"
+      ],
+      "links": []
+    }
+  ],
+  "footer": "AI-assisted morning briefing, unified data structure ready for stage 2"
+}
