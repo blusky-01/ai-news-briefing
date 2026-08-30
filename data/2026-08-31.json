@@ -1,0 +1,379 @@
+{
+  "date": "2026-08-31 07:00",
+  "title": "아침 브리핑",
+  "subtitle": "날씨 · 응원 · 일정 · 메일 · 유튜브 · 시스템 · OpenClaw",
+  "summary": "오늘은 누가 밀어붙이지 않아도 됩니다. 팀장님 리듬대로 중요한 것부터 차분히 끝내면 됩니다.",
+  "summary_box": "습도가 높아 체감이 더 무겁습니다. 물을 자주 마시며 리듬을 유지하면 좋겠습니다. 오늘은 마음을 급하게 쓰지 말고, 가장 아쉬웠던 한 가지를 먼저 정리해 보시면 좋겠습니다. 그런 작은 정리가 하루의 기분을 꽤 크게 바꿉니다.",
+  "weather": {
+    "loc": "김해",
+    "temp": "24°C",
+    "desc": "Mist",
+    "icon": "⛅",
+    "badges": [
+      "체감 29°C",
+      "습도 97%",
+      "강수확률 37%",
+      "풍속 4km/h",
+      "UV 0",
+      "미세먼지 정보 연동 예정"
+    ],
+    "detail": {
+      "feels_like": "29",
+      "humidity": "97",
+      "rain_chance": "37",
+      "wind_kmph": "4",
+      "uv": "0",
+      "pm": "미세먼지 정보 연동 예정"
+    },
+    "life_comment": "습도가 높아 체감이 더 무겁습니다. 물을 자주 마시며 리듬을 유지하면 좋겠습니다."
+  },
+  "sections": {
+    "calendar": {
+      "summary": "오늘 일정 없음",
+      "take": "오늘 등록된 일정이 없습니다. 이럴 때는 중요한 정리 한두 개만 분명하게 끝내도 충분합니다.",
+      "items": [],
+      "links": [],
+      "entities": [
+        "calendar"
+      ]
+    },
+    "mail": {
+      "summary": "[확인필요] GLM 5.3 & 5.3 Flash models",
+      "take": "지금 확인할 만한 메일만 추렸습니다. 결제, 업무, 보안성 알림 위주로 먼저 보면 됩니다.",
+      "items": [
+        {
+          "date": "2026-08-29 15:05",
+          "from": "Ollama <hello@ollama.com>",
+          "subject": "GLM 5.3 & 5.3 Flash models are now available",
+          "tags": [
+            "확인필요"
+          ]
+        }
+      ],
+      "links": [],
+      "entities": [
+        "확인필요"
+      ]
+    },
+    "youtube": {
+      "summary": "@JulianGoldieSEO NEW Claude Agent OS is A / @JulianGoldieSEO NEW Gemini Notebook Upda / @JulianGoldieSEO NEW Gemini Updates are G",
+      "take": "업로드 속도가 빠른 채널은 오늘도 여러 편이 들어왔습니다. 중요한 주제부터 2~3개만 골라 보면 효율이 좋습니다.",
+      "items": [
+        {
+          "channel": "@JulianGoldieSEO",
+          "title": "NEW Claude Agent OS is ABSURD! 🤯",
+          "published": "08-31 06:00",
+          "published_dt": "2026-08-31T06:00:20+09:00",
+          "url": "https://www.youtube.com/watch?v=PNoErTewyww",
+          "thumbnail": "https://i.ytimg.com/vi/PNoErTewyww/hqdefault.jpg",
+          "summary": "이 영상은 모델/LLM, 에이전트/자동화, 수익화/마케팅 중심 내용입니다. 구성은 Intro: The Claude Agent OS, The Permanent Memory Layer, Modular Agent Framework, Real-Time Voice Agents 순서로 이어집니다. The new Claude Agent OS is crazy good It is the most powerful AI setup I've ever built So, let me show you what's on screen right now",
+          "description_excerpt": "00:00 - Intro: The Claude Agent OS 00:55 - The Permanent Memory Layer 01:35 - Modular Agent Framework 02:13 - Real-Time Voice Agents 03:11 - The Oracle: Automated Content 03:47 - Competitive Intelligence Tools 04:54 - Building Systems Without Coding 06:10 - Mission Control Dashboard",
+          "transcript_excerpt": "The new Claude Agent OS is crazy good. It is the most powerful AI setup I've ever built. And in this video, I'm going to show you exactly what it does, walk you through each part of it, and tell you how you can get your hands on the whole t",
+          "shorts": false
+        },
+        {
+          "channel": "@JulianGoldieSEO",
+          "title": "NEW Gemini Notebook Update is AMAZING!",
+          "published": "08-31 06:00",
+          "published_dt": "2026-08-31T06:00:17+09:00",
+          "url": "https://www.youtube.com/watch?v=F-oonzKDDsk",
+          "thumbnail": "https://i.ytimg.com/vi/F-oonzKDDsk/hqdefault.jpg",
+          "summary": "이 영상은 모델/LLM, 에이전트/자동화, 수익화/마케팅 중심 내용입니다. 구성은 Expert Intelligence Explained, 100,000+ Books in Gemini, Step-by-Step Workflow Setup, AI Prompts for Business Growth 순서로 이어지며, 제목만으로는 보이지 않는 변화 배경·핵심 기능·실제 활용 포인트를 짚어보는 영상입니다.",
+          "description_excerpt": "00:00 - Intro 01:09 - Expert Intelligence Explained 01:56 - 100,000+ Books in Gemini 02:35 - Step-by-Step Workflow Setup 03:18 - AI Prompts for Business Growth 03:56 - Scaling Your SEO Traffic 05:42 - The Future of AI Workflows 06:15 - How to Get Started Today",
+          "transcript_excerpt": "New Gemini notebook update is amazing. Google just dropped something huge for anyone using AI to grow their business online. This update could change how you do SEO research, content strategy, and business growth forever. We are talking abo",
+          "shorts": false
+        },
+        {
+          "channel": "@JulianGoldieSEO",
+          "title": "NEW Gemini Updates are Game Changer! 🤯",
+          "published": "08-31 04:00",
+          "published_dt": "2026-08-31T04:00:13+09:00",
+          "url": "https://www.youtube.com/watch?v=5ghhS3tJUPA",
+          "thumbnail": "https://i.ytimg.com/vi/5ghhS3tJUPA/hqdefault.jpg",
+          "summary": "이 영상은 모델/LLM, 에이전트/자동화, 수익화/마케팅 중심 내용입니다. 구성은 Intro: 3 Big Gemini Updates, Expert Intelligence & Books, Gemini Notebook Workflows, Gemini Live Goes Agentic 순서로 이어지며, 제목만으로는 보이지 않는 변화 배경·핵심 기능·실제 활용 포인트를 짚어보는 영상입니다.",
+          "description_excerpt": "00:00 - Intro: 3 Big Gemini Updates 00:24 - Expert Intelligence & Books 01:07 - Gemini Notebook Workflows 03:42 - Gemini Live Goes Agentic 04:23 - How to Use Spark AI Agents 05:18 - Personal Avatars & Imagen 3 06:08 - Consistent AI Thumbnails 07:13 - Scaling Your Business with AI",
+          "transcript_excerpt": "New Gemini updates are genuinely game-changers, and I'm going to show you exactly why. There are three big things that dropped: expert intelligence, Gemini Live going fully agentic, and personal avatars with Imagen 3. On their own, each one",
+          "shorts": false
+        },
+        {
+          "channel": "@fahdmirza",
+          "title": "Install Pipecat PhoneLLM Locally for Free Voice AI Agent",
+          "published": "08-31 04:00",
+          "published_dt": "2026-08-31T04:00:01+09:00",
+          "url": "https://www.youtube.com/watch?v=jH0CWIHme_4",
+          "thumbnail": "https://i.ytimg.com/vi/jH0CWIHme_4/hqdefault.jpg",
+          "summary": "이 영상은 모델/LLM, 에이전트/자동화, 튜토리얼/설정 중심 내용입니다. 구성은 This video locally installs and tests Pipecat's PhoneLLM Alpha 1, an open-weights model for voice agent use cases 순서로 이어지며, 제목만으로는 보이지 않는 변화 배경·핵심 기능·실제 활용 포인트를 짚어보는 영상입니다.",
+          "description_excerpt": "This video locally installs and tests Pipecat's PhoneLLM Alpha 1, an open-weights model for voice agent use cases. 📬Weekly AI : 🔥 Get 50% Discount on any A6000 or A5000 GPU rental, use following link and coupon: Coupon code: FahdMirza 🔥 Buy Me a Coffee to support the channel: PLEASE FOLLOW ME: ▶ LinkedIn: / fahdmirza ▶ YouTube: / ▶ Blog: RESOURCES: ▶ All rig",
+          "transcript_excerpt": "This is a phone LLM from PipeCat team, a fine-tune of Nvidia's Nemo Tron 3 Nano, 30 billion parameter model, 3.5 billion active. This one is built specifically for voice agents, and that's the use case. Phone calls, not chat windows. And it",
+          "shorts": false
+        },
+        {
+          "channel": "@jocoding",
+          "title": "IT뉴스 - Astra 임박, 할라피뇨, Fable 5.1, 넥토리얼, GLM-5.3, 실시간 H3, Gemini Omni 1.1 등",
+          "published": "08-30 20:44",
+          "published_dt": "2026-08-30T20:44:05+09:00",
+          "url": "https://www.youtube.com/watch?v=Xs9wHHv-wak",
+          "thumbnail": "https://i.ytimg.com/vi/Xs9wHHv-wak/hqdefault.jpg",
+          "summary": "이 영상은 모델/LLM, 개발도구, 수익화/마케팅 중심 내용입니다. 구성은 • 지원 기간: 2026.08.25(화) ~ 09.07(월) 순서로 이어집니다. IT뉴스 - Astra 임박, 할라피뇨, Fable 5.1, 넥토리얼, GLM-5.3, 실시간 H3, Gemini Omni 1.1 등 [유료 광고 포함] 🎮 2026 넥슨컴퍼니 채용연계형 인턴십 '넥토리얼' (게임 프로그래머 모집) • 지원 기간...",
+          "description_excerpt": "IT뉴스 - Astra 임박, 할라피뇨, Fable 5.1, 넥토리얼, GLM-5.3, 실시간 H3, Gemini Omni 1.1 등 [유료 광고 포함] 🎮 2026 넥슨컴퍼니 채용연계형 인턴십 '넥토리얼' (게임 프로그래머 모집) • 지원 기간: 2026.08.25(화) ~ 09.07(월) 16:00 • 모집 포지션: 게임 프로그래머 (게임프로그래밍 직군) • 공식 채용 공고 바로가기: ✨ 주요 특징 - 정규직과 동일한 급여 및 복지 혜택 제공 - 알고리즘 코딩테스트 폐지 → 서류 지원자 전원 AI 면접 기회 제공 - AI 리터러시와 실무 역량을 검증하는 AI 활용 역량평가 도입 - 6년 연속 운영된 주니어 맞춤형 성장/케어링 프로그램",
+          "transcript_excerpt": "",
+          "shorts": false
+        }
+      ],
+      "links": [
+        {
+          "label": "@JulianGoldieSEO · 08-31 06:00",
+          "url": "https://www.youtube.com/watch?v=PNoErTewyww",
+          "thumbnail": "https://i.ytimg.com/vi/PNoErTewyww/hqdefault.jpg"
+        },
+        {
+          "label": "@JulianGoldieSEO · 08-31 06:00",
+          "url": "https://www.youtube.com/watch?v=F-oonzKDDsk",
+          "thumbnail": "https://i.ytimg.com/vi/F-oonzKDDsk/hqdefault.jpg"
+        },
+        {
+          "label": "@JulianGoldieSEO · 08-31 04:00",
+          "url": "https://www.youtube.com/watch?v=5ghhS3tJUPA",
+          "thumbnail": "https://i.ytimg.com/vi/5ghhS3tJUPA/hqdefault.jpg"
+        }
+      ],
+      "entities": [
+        "@JulianGoldieSEO",
+        "@JulianGoldieSEO",
+        "@JulianGoldieSEO",
+        "@fahdmirza"
+      ]
+    },
+    "system": {
+      "summary": "CPU 10.8 % 사용 / 클럭 604.8 MHz / RAM 9.9GB 사용, 총 15.8GB (63%) / SSD 303.4GB 사용, 총 475.9GB (64%)",
+      "take": "CPU는 현재 10.8 % 사용 중이고 클럭은 604.8 MHz, 버스 스피드는 100.8 MHz, RAM은 총 15.8GB 중 9.9GB 사용 (63%), SSD는 총 475.9GB 중 303.4GB 사용 (64%), 여유 172.5GB입니다. 네트워크 인터페이스는 Ethernet, Ethernet 2, Wi-Fi 기준입니다.",
+      "metrics": [
+        {
+          "label": "CPU 사용률",
+          "value": "10.8 %",
+          "pct": 10.8,
+          "tone": "normal"
+        },
+        {
+          "label": "CPU 클럭",
+          "value": "604.8 MHz",
+          "pct": 17.279999999999998,
+          "tone": "normal"
+        },
+        {
+          "label": "버스 스피드",
+          "value": "100.8 MHz",
+          "pct": 100,
+          "tone": "normal"
+        },
+        {
+          "label": "CPU 온도",
+          "value": "46.0 °C",
+          "pct": 46.0,
+          "tone": "normal"
+        },
+        {
+          "label": "RAM 사용량",
+          "value": "9.9 / 15.8 GB (63%)",
+          "pct": 62.6,
+          "tone": "normal"
+        },
+        {
+          "label": "SSD 사용량",
+          "value": "303.4 / 475.9 GB (64%)",
+          "pct": 63.8,
+          "tone": "normal"
+        },
+        {
+          "label": "SSD 여유 공간",
+          "value": "172.5 / 475.9 GB",
+          "pct": 36.2,
+          "tone": "normal"
+        },
+        {
+          "label": "SSD 온도",
+          "value": "40.0 °C",
+          "pct": 40.0,
+          "tone": "normal"
+        },
+        {
+          "label": "업타임",
+          "value": "98시간 29분",
+          "pct": 100,
+          "tone": "normal"
+        },
+        {
+          "label": "네트워크 수신",
+          "value": "13537.1 MB",
+          "pct": 100,
+          "tone": "normal"
+        },
+        {
+          "label": "네트워크 송신",
+          "value": "1433.8 MB",
+          "pct": 100,
+          "tone": "normal"
+        }
+      ]
+    },
+    "openclaw": {
+      "summary": "OpenClaw 2026.7.1-2 (0790d9f)",
+      "take": "Runtime: running (pid 14252, Gateway process detected for gateway port 18789.) | Listening: 127.0.0.1:18789",
+      "metrics": [
+        {
+          "label": "Gateway",
+          "value": "bind=loopback (127.0.0.1), port=18789 (service args)",
+          "pct": 100,
+          "tone": "normal"
+        },
+        {
+          "label": "Probe note",
+          "value": "Loopback-only gateway; only local clients can connect.",
+          "pct": 100,
+          "tone": "normal"
+        },
+        {
+          "label": "Runtime",
+          "value": "running (pid 14252, Gateway process detected for gateway port 18789.)",
+          "pct": 100,
+          "tone": "good"
+        },
+        {
+          "label": "Listening",
+          "value": "127.0.0.1:18789",
+          "pct": 100,
+          "tone": "good"
+        }
+      ]
+    }
+  },
+  "cards": [
+    {
+      "title": "오늘의 한마디",
+      "summary": "오늘은 누가 밀어붙이지 않아도 됩니다. 팀장님 리듬대로 중요한 것부터 차분히 끝내면 됩니다.",
+      "take": "습도가 높아 체감이 더 무겁습니다. 물을 자주 마시며 리듬을 유지하면 좋겠습니다. 오늘은 마음을 급하게 쓰지 말고, 가장 아쉬웠던 한 가지를 먼저 정리해 보시면 좋겠습니다. 그런 작은 정리가 하루의 기분을 꽤 크게 바꿉니다.",
+      "meta": [
+        "응원",
+        "중간 길이"
+      ],
+      "entities": [],
+      "keywords": [
+        "아침",
+        "집중"
+      ],
+      "links": []
+    },
+    {
+      "title": "오늘 일정",
+      "summary": "오늘 일정 없음",
+      "take": "오늘 등록된 일정이 없습니다. 이럴 때는 중요한 정리 한두 개만 분명하게 끝내도 충분합니다.",
+      "meta": [
+        "일정",
+        "calendar"
+      ],
+      "entities": [
+        "calendar"
+      ],
+      "keywords": [
+        "calendar"
+      ],
+      "links": []
+    },
+    {
+      "title": "주요 메일 / 중요 알림",
+      "summary": "[확인필요] GLM 5.3 & 5.3 Flash models",
+      "take": "지금 확인할 만한 메일만 추렸습니다. 결제, 업무, 보안성 알림 위주로 먼저 보면 됩니다.",
+      "meta": [
+        "메일",
+        "gmail",
+        "중요 알림"
+      ],
+      "entities": [
+        "확인필요"
+      ],
+      "keywords": [
+        "gmail",
+        "alert"
+      ],
+      "links": []
+    },
+    {
+      "title": "유튜브 업데이트",
+      "summary": "@JulianGoldieSEO NEW Claude Agent OS is A / @JulianGoldieSEO NEW Gemini Notebook Upda / @JulianGoldieSEO NEW Gemini Updates are G",
+      "take": "업로드 속도가 빠른 채널은 오늘도 여러 편이 들어왔습니다. 중요한 주제부터 2~3개만 골라 보면 효율이 좋습니다.",
+      "meta": [
+        "유튜브",
+        "AI 채널",
+        "중간 길이"
+      ],
+      "entities": [
+        "@JulianGoldieSEO",
+        "@JulianGoldieSEO",
+        "@JulianGoldieSEO",
+        "@fahdmirza"
+      ],
+      "keywords": [
+        "youtube",
+        "update",
+        "thumbnail"
+      ],
+      "links": [
+        {
+          "label": "@JulianGoldieSEO · 08-31 06:00",
+          "url": "https://www.youtube.com/watch?v=PNoErTewyww",
+          "thumbnail": "https://i.ytimg.com/vi/PNoErTewyww/hqdefault.jpg"
+        },
+        {
+          "label": "@JulianGoldieSEO · 08-31 06:00",
+          "url": "https://www.youtube.com/watch?v=F-oonzKDDsk",
+          "thumbnail": "https://i.ytimg.com/vi/F-oonzKDDsk/hqdefault.jpg"
+        },
+        {
+          "label": "@JulianGoldieSEO · 08-31 04:00",
+          "url": "https://www.youtube.com/watch?v=5ghhS3tJUPA",
+          "thumbnail": "https://i.ytimg.com/vi/5ghhS3tJUPA/hqdefault.jpg"
+        }
+      ]
+    },
+    {
+      "title": "시스템 상태 요약",
+      "summary": "CPU 10.8 % 사용 / 클럭 604.8 MHz / RAM 9.9GB 사용, 총 15.8GB (63%) / SSD 303.4GB 사용, 총 475.9GB (64%)",
+      "take": "CPU는 현재 10.8 % 사용 중이고 클럭은 604.8 MHz, 버스 스피드는 100.8 MHz, RAM은 총 15.8GB 중 9.9GB 사용 (63%), SSD는 총 475.9GB 중 303.4GB 사용 (64%), 여유 172.5GB입니다. 네트워크 인터페이스는 Ethernet, Ethernet 2, Wi-Fi 기준입니다.",
+      "meta": [
+        "시스템",
+        "LHM"
+      ],
+      "entities": [
+        "Intel N100",
+        "RAM",
+        "SSD"
+      ],
+      "keywords": [
+        "temperature",
+        "load",
+        "memory"
+      ],
+      "links": []
+    },
+    {
+      "title": "OpenClaw 상태 요약",
+      "summary": "OpenClaw 2026.7.1-2 (0790d9f)",
+      "take": "Runtime: running (pid 14252, Gateway process detected for gateway port 18789.) | Listening: 127.0.0.1:18789",
+      "meta": [
+        "OpenClaw",
+        "Gateway"
+      ],
+      "entities": [
+        "main",
+        "gateway"
+      ],
+      "keywords": [
+        "version",
+        "rpc",
+        "status"
+      ],
+      "links": []
+    }
+  ],
+  "footer": "AI-assisted morning briefing, unified data structure ready for stage 2"
+}
