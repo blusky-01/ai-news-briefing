@@ -1,0 +1,287 @@
+{
+  "date": "2026-09-01 07:00",
+  "title": "아침 브리핑",
+  "subtitle": "날씨 · 응원 · 일정 · 메일 · 유튜브 · 시스템 · OpenClaw",
+  "summary": "오늘은 누가 밀어붙이지 않아도 됩니다. 팀장님 리듬대로 중요한 것부터 차분히 끝내면 됩니다.",
+  "summary_box": "습도가 높아 체감이 더 무겁습니다. 물을 자주 마시며 리듬을 유지하면 좋겠습니다. 오늘은 마음을 급하게 쓰지 말고, 가장 아쉬웠던 한 가지를 먼저 정리해 보시면 좋겠습니다. 그런 작은 정리가 하루의 기분을 꽤 크게 바꿉니다.",
+  "weather": {
+    "loc": "김해",
+    "temp": "23°C",
+    "desc": "Mist",
+    "icon": "⛅",
+    "badges": [
+      "체감 28°C",
+      "습도 95%",
+      "강수확률 18%",
+      "풍속 4km/h",
+      "UV 0",
+      "미세먼지 정보 연동 예정"
+    ],
+    "detail": {
+      "feels_like": "28",
+      "humidity": "95",
+      "rain_chance": "18",
+      "wind_kmph": "4",
+      "uv": "0",
+      "pm": "미세먼지 정보 연동 예정"
+    },
+    "life_comment": "습도가 높아 체감이 더 무겁습니다. 물을 자주 마시며 리듬을 유지하면 좋겠습니다."
+  },
+  "sections": {
+    "calendar": {
+      "summary": "오늘 일정 없음",
+      "take": "오늘 등록된 일정이 없습니다. 이럴 때는 중요한 정리 한두 개만 분명하게 끝내도 충분합니다.",
+      "items": [],
+      "links": [],
+      "entities": [
+        "calendar"
+      ]
+    },
+    "mail": {
+      "summary": "[확인필요] [원고료 100% 반영💰] Liner 릴스 캠페",
+      "take": "지금 확인할 만한 메일만 추렸습니다. 결제, 업무, 보안성 알림 위주로 먼저 보면 됩니다.",
+      "items": [
+        {
+          "date": "2026-08-31 11:42",
+          "from": "\"뮤즈바이인플섭외\" <muse_by_influencer2@naver.com>",
+          "subject": "[원고료 100% 반영💰] Liner 릴스 캠페인 제안✨",
+          "tags": [
+            "확인필요"
+          ]
+        }
+      ],
+      "links": [],
+      "entities": [
+        "확인필요"
+      ]
+    },
+    "youtube": {
+      "summary": "@JulianGoldieSEO PaperClip + Hermes Just  / @JulianGoldieSEO NEW Google Update Change / @fahdmirza Breeze TTS 2 - Built for",
+      "take": "업로드 속도가 빠른 채널은 오늘도 여러 편이 들어왔습니다. 중요한 주제부터 2~3개만 골라 보면 효율이 좋습니다.",
+      "items": [
+        {
+          "channel": "@JulianGoldieSEO",
+          "title": "PaperClip + Hermes Just Changed Everything",
+          "published": "09-01 07:00",
+          "published_dt": "2026-09-01T07:00:20+09:00",
+          "url": "https://www.youtube.com/watch?v=FpUJAYDgZ1c",
+          "thumbnail": "https://i.ytimg.com/vi/FpUJAYDgZ1c/hqdefault.jpg",
+          "summary": "이 영상은 모델/LLM, 에이전트/자동화, 수익화/마케팅 중심 내용입니다. 구성은 Intro: The AI Agent OS, Inside the Agent Org Chart, Tracking Live Progress & Tickets, Voice Assistant & Studio Features 순서로 이어집니다. Paperclip plus Hermes just changed everything Today I'm going to show you my full agent OS setup No more chats, no more prompting all day",
+          "description_excerpt": "00:00 - Intro: The AI Agent OS 00:54 - Inside the Agent Org Chart 01:27 - Tracking Live Progress & Tickets 01:43 - Voice Assistant & Studio Features 02:05 - How to Automate Marketing Tasks 04:04 - Scheduling & Controlling Agents 05:34 - How to Get the Full Setup",
+          "transcript_excerpt": "Paperclip plus Hermes just changed everything. Today I'm going to show you my full agent OS setup. This is the exact system I use to run a whole team of AI agents. No more chats, no more prompting all day. Just a real AI team that works whi",
+          "shorts": false
+        },
+        {
+          "channel": "@JulianGoldieSEO",
+          "title": "NEW Google Update Changes AI Search! 🤯",
+          "published": "09-01 06:00",
+          "published_dt": "2026-09-01T06:00:24+09:00",
+          "url": "https://www.youtube.com/watch?v=Fu-U_nGr8fA",
+          "thumbnail": "https://i.ytimg.com/vi/Fu-U_nGr8fA/hqdefault.jpg",
+          "summary": "이 영상은 수익화/마케팅 중심 내용입니다. 구성은 Intro: The New Google AI Update, What Are Preferred Sources?, How This Changes SEO Forever, Growing Your Audience With AI 순서로 이어집니다. New Google update changes AI search Google just released a button that any website can add Not sometimes, every time they search your topic going forward",
+          "description_excerpt": "00:00 - Intro: The New Google AI Update 00:12 - What Are Preferred Sources? 01:15 - How This Changes SEO Forever 02:34 - Growing Your Audience With AI 03:56 - How to Install the Button 05:03 - Big Changes to Google Discover 06:26 - Customizable AI Audio Briefings",
+          "transcript_excerpt": "New Google update changes AI search. Google just released a button that any website can add. One click from a reader and your site starts showing up inside their Google AI answers. Not sometimes, every time they search your topic going forw",
+          "shorts": false
+        },
+        {
+          "channel": "@fahdmirza",
+          "title": "Breeze TTS 2 - Built for Real-Time Voice Design: Run Locally",
+          "published": "09-01 05:49",
+          "published_dt": "2026-09-01T05:49:55+09:00",
+          "url": "https://www.youtube.com/watch?v=0kuV7vPXWIs",
+          "thumbnail": "https://i.ytimg.com/vi/0kuV7vPXWIs/hqdefault.jpg",
+          "summary": "이 영상은 모델/LLM, 튜토리얼/설정 중심 내용입니다. 구성은 This video locally installs and tests Breeze TTS 2 which is an open-weight text-to-speech model built for real-time interaction 순서로 이어지며, 제목만으로는 보이지 않는 변화 배경·핵심 기능·실제 활용 포인트를 짚어보는 영상입니다.",
+          "description_excerpt": "This video locally installs and tests Breeze TTS 2 which is an open-weight text-to-speech model built for real-time interaction. 📬Weekly AI : 🔥 Get 50% Discount on any A6000 or A5000 GPU rental, use following link and coupon: Coupon code: FahdMirza 🔥 Buy Me a Coffee to support the channel: PLEASE FOLLOW ME: ▶ LinkedIn: / fahdmirza ▶ YouTube: / ▶ Blog: RESOUR",
+          "transcript_excerpt": "This model Breeze TTS2 is making lot of waves out there but we are not going to believe the hype. We are going to install it and test it out locally. This is Fad Miraa and I welcome you to the channel. Priests 2 is an openweight texttospech",
+          "shorts": false
+        },
+        {
+          "channel": "@JulianGoldieSEO",
+          "title": "Sparrow 2 The Sate of the ART AI MODEL! 🤯",
+          "published": "09-01 05:00",
+          "published_dt": "2026-09-01T05:00:15+09:00",
+          "url": "https://www.youtube.com/watch?v=ZCI4kvWPb3E",
+          "thumbnail": "https://i.ytimg.com/vi/ZCI4kvWPb3E/hqdefault.jpg",
+          "summary": "이 영상은 모델/LLM, 수익화/마케팅 중심 내용입니다. 구성은 Intro: The AI Interruption Problem, Why Sparrow 2 is Different, Mastering Conversational Understanding, Sparrow 2 Performance Benchmarks 순서로 이어집니다. Sparrow 2, the state-of-the-art AI model And I want to show you why this is one of the most interesting AI releases of 2026 Here's the problem",
+          "description_excerpt": "00:00 - Intro: The AI Interruption Problem 00:38 - Why Sparrow 2 is Different 01:31 - Mastering Conversational Understanding 02:21 - Sparrow 2 Performance Benchmarks 03:55 - AI Business Workflows & SOPs 04:42 - Technical Specs & Training Data 05:53 - Lead Qualification Case Study 06:50 - SEO Strategy & Final Thoughts",
+          "transcript_excerpt": "Sparrow 2, the state-of-the-art AI model. And I want to show you why this is one of the most interesting AI releases of 2026. Because it solves a problem that has been quietly breaking every AI voice tool you've ever used. Here's the proble",
+          "shorts": false
+        },
+        {
+          "channel": "@진바이브",
+          "title": "맥북 가격이 1500만 원입니다",
+          "published": "09-01 03:00",
+          "published_dt": "2026-09-01T03:00:15+09:00",
+          "url": "https://www.youtube.com/watch?v=HFcNOhB4V20",
+          "thumbnail": "https://i.ytimg.com/vi/HFcNOhB4V20/hqdefault.jpg",
+          "summary": "맥북 가격이 1500만 원입니다 주제를 중심으로 무엇이 새로 나왔는지, 또는 어떻게 활용하는지를 설명하는 영상입니다.",
+          "description_excerpt": "",
+          "transcript_excerpt": "",
+          "shorts": false
+        }
+      ],
+      "links": [
+        {
+          "label": "@JulianGoldieSEO · 09-01 07:00",
+          "url": "https://www.youtube.com/watch?v=FpUJAYDgZ1c",
+          "thumbnail": "https://i.ytimg.com/vi/FpUJAYDgZ1c/hqdefault.jpg"
+        },
+        {
+          "label": "@JulianGoldieSEO · 09-01 06:00",
+          "url": "https://www.youtube.com/watch?v=Fu-U_nGr8fA",
+          "thumbnail": "https://i.ytimg.com/vi/Fu-U_nGr8fA/hqdefault.jpg"
+        },
+        {
+          "label": "@fahdmirza · 09-01 05:49",
+          "url": "https://www.youtube.com/watch?v=0kuV7vPXWIs",
+          "thumbnail": "https://i.ytimg.com/vi/0kuV7vPXWIs/hqdefault.jpg"
+        }
+      ],
+      "entities": [
+        "@JulianGoldieSEO",
+        "@JulianGoldieSEO",
+        "@fahdmirza",
+        "@JulianGoldieSEO"
+      ]
+    },
+    "system": {
+      "summary": "시스템 상태 조회 실패",
+      "take": "LibreHardwareMonitor 또는 센서 데이터 확인이 필요합니다.",
+      "metrics": []
+    },
+    "openclaw": {
+      "summary": "OpenClaw 2026.7.1-2 (0790d9f)",
+      "take": "게이트웨이 상태 확인 실패",
+      "metrics": []
+    }
+  },
+  "cards": [
+    {
+      "title": "오늘의 한마디",
+      "summary": "오늘은 누가 밀어붙이지 않아도 됩니다. 팀장님 리듬대로 중요한 것부터 차분히 끝내면 됩니다.",
+      "take": "습도가 높아 체감이 더 무겁습니다. 물을 자주 마시며 리듬을 유지하면 좋겠습니다. 오늘은 마음을 급하게 쓰지 말고, 가장 아쉬웠던 한 가지를 먼저 정리해 보시면 좋겠습니다. 그런 작은 정리가 하루의 기분을 꽤 크게 바꿉니다.",
+      "meta": [
+        "응원",
+        "중간 길이"
+      ],
+      "entities": [],
+      "keywords": [
+        "아침",
+        "집중"
+      ],
+      "links": []
+    },
+    {
+      "title": "오늘 일정",
+      "summary": "오늘 일정 없음",
+      "take": "오늘 등록된 일정이 없습니다. 이럴 때는 중요한 정리 한두 개만 분명하게 끝내도 충분합니다.",
+      "meta": [
+        "일정",
+        "calendar"
+      ],
+      "entities": [
+        "calendar"
+      ],
+      "keywords": [
+        "calendar"
+      ],
+      "links": []
+    },
+    {
+      "title": "주요 메일 / 중요 알림",
+      "summary": "[확인필요] [원고료 100% 반영💰] Liner 릴스 캠페",
+      "take": "지금 확인할 만한 메일만 추렸습니다. 결제, 업무, 보안성 알림 위주로 먼저 보면 됩니다.",
+      "meta": [
+        "메일",
+        "gmail",
+        "중요 알림"
+      ],
+      "entities": [
+        "확인필요"
+      ],
+      "keywords": [
+        "gmail",
+        "alert"
+      ],
+      "links": []
+    },
+    {
+      "title": "유튜브 업데이트",
+      "summary": "@JulianGoldieSEO PaperClip + Hermes Just  / @JulianGoldieSEO NEW Google Update Change / @fahdmirza Breeze TTS 2 - Built for",
+      "take": "업로드 속도가 빠른 채널은 오늘도 여러 편이 들어왔습니다. 중요한 주제부터 2~3개만 골라 보면 효율이 좋습니다.",
+      "meta": [
+        "유튜브",
+        "AI 채널",
+        "중간 길이"
+      ],
+      "entities": [
+        "@JulianGoldieSEO",
+        "@JulianGoldieSEO",
+        "@fahdmirza",
+        "@JulianGoldieSEO"
+      ],
+      "keywords": [
+        "youtube",
+        "update",
+        "thumbnail"
+      ],
+      "links": [
+        {
+          "label": "@JulianGoldieSEO · 09-01 07:00",
+          "url": "https://www.youtube.com/watch?v=FpUJAYDgZ1c",
+          "thumbnail": "https://i.ytimg.com/vi/FpUJAYDgZ1c/hqdefault.jpg"
+        },
+        {
+          "label": "@JulianGoldieSEO · 09-01 06:00",
+          "url": "https://www.youtube.com/watch?v=Fu-U_nGr8fA",
+          "thumbnail": "https://i.ytimg.com/vi/Fu-U_nGr8fA/hqdefault.jpg"
+        },
+        {
+          "label": "@fahdmirza · 09-01 05:49",
+          "url": "https://www.youtube.com/watch?v=0kuV7vPXWIs",
+          "thumbnail": "https://i.ytimg.com/vi/0kuV7vPXWIs/hqdefault.jpg"
+        }
+      ]
+    },
+    {
+      "title": "시스템 상태 요약",
+      "summary": "시스템 상태 조회 실패",
+      "take": "LibreHardwareMonitor 또는 센서 데이터 확인이 필요합니다.",
+      "meta": [
+        "시스템",
+        "LHM"
+      ],
+      "entities": [
+        "Intel N100",
+        "RAM",
+        "SSD"
+      ],
+      "keywords": [
+        "temperature",
+        "load",
+        "memory"
+      ],
+      "links": []
+    },
+    {
+      "title": "OpenClaw 상태 요약",
+      "summary": "OpenClaw 2026.7.1-2 (0790d9f)",
+      "take": "게이트웨이 상태 확인 실패",
+      "meta": [
+        "OpenClaw",
+        "Gateway"
+      ],
+      "entities": [
+        "main",
+        "gateway"
+      ],
+      "keywords": [
+        "version",
+        "rpc",
+        "status"
+      ],
+      "links": []
+    }
+  ],
+  "footer": "AI-assisted morning briefing, unified data structure ready for stage 2"
+}
