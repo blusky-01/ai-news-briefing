@@ -1,0 +1,312 @@
+{
+  "date": "2026-09-02 07:00",
+  "title": "아침 브리핑",
+  "subtitle": "날씨 · 응원 · 일정 · 메일 · 유튜브 · 시스템 · OpenClaw",
+  "summary": "오늘 일정이 비어 있다면, 오히려 중요한 걸 조용히 정리할 수 있는 좋은 날입니다.",
+  "summary_box": "습도가 높아 체감이 더 무겁습니다. 물을 자주 마시며 리듬을 유지하면 좋겠습니다. 오늘은 마음을 급하게 쓰지 말고, 가장 아쉬웠던 한 가지를 먼저 정리해 보시면 좋겠습니다. 그런 작은 정리가 하루의 기분을 꽤 크게 바꿉니다.",
+  "weather": {
+    "loc": "김해",
+    "temp": "24°C",
+    "desc": "Overcast ",
+    "icon": "⛅",
+    "badges": [
+      "체감 28°C",
+      "습도 91%",
+      "강수확률 10%",
+      "풍속 4km/h",
+      "UV 0",
+      "미세먼지 정보 연동 예정"
+    ],
+    "detail": {
+      "feels_like": "28",
+      "humidity": "91",
+      "rain_chance": "10",
+      "wind_kmph": "4",
+      "uv": "0",
+      "pm": "미세먼지 정보 연동 예정"
+    },
+    "life_comment": "습도가 높아 체감이 더 무겁습니다. 물을 자주 마시며 리듬을 유지하면 좋겠습니다."
+  },
+  "sections": {
+    "calendar": {
+      "summary": "오늘 일정 없음",
+      "take": "오늘 등록된 일정이 없습니다. 이럴 때는 중요한 정리 한두 개만 분명하게 끝내도 충분합니다.",
+      "items": [],
+      "links": [],
+      "entities": [
+        "calendar"
+      ]
+    },
+    "mail": {
+      "summary": "[확인필요] [원고료 100% 반영💰] Liner 릴스 캠페",
+      "take": "지금 확인할 만한 메일만 추렸습니다. 결제, 업무, 보안성 알림 위주로 먼저 보면 됩니다.",
+      "items": [
+        {
+          "date": "2026-08-31 11:42",
+          "from": "\"뮤즈바이인플섭외\" <muse_by_influencer2@naver.com>",
+          "subject": "[원고료 100% 반영💰] Liner 릴스 캠페인 제안✨",
+          "tags": [
+            "확인필요"
+          ]
+        }
+      ],
+      "links": [],
+      "entities": [
+        "확인필요"
+      ]
+    },
+    "youtube": {
+      "summary": "@fahdmirza Fable 5.1 is Here and It / @JulianGoldieSEO How to Use GrokBot for A / @success_wiki 클로드 대사기극! 돈내는건 20배 사용량은 ",
+      "take": "업로드 속도가 빠른 채널은 오늘도 여러 편이 들어왔습니다. 중요한 주제부터 2~3개만 골라 보면 효율이 좋습니다.",
+      "items": [
+        {
+          "channel": "@fahdmirza",
+          "title": "Fable 5.1 is Here and It Failed This Multilingual Test",
+          "published": "09-02 06:32",
+          "published_dt": "2026-09-02T06:32:33+09:00",
+          "url": "https://www.youtube.com/watch?v=gRMezcE6nRQ",
+          "thumbnail": "https://i.ytimg.com/vi/gRMezcE6nRQ/hqdefault.jpg",
+          "summary": "이 영상은 모델/LLM, 에이전트/자동화, 수익화/마케팅 중심 내용입니다. 구성은 This video introduces and tests Fable 5.1 and Mythos 5.1 순서로 이어집니다. Enthropic is on the move They just released two new models, payable 5.1 and Mythos 5.1 Only usre mortals cannot touch it",
+          "description_excerpt": "This video introduces and tests Fable 5.1 and Mythos 5.1. 📬Weekly AI : 🔥 Buy Me a Coffee to support the channel: PLEASE FOLLOW ME: ▶ LinkedIn: / fahdmirza ▶ YouTube: / ▶ Blog: RESOURCES: ▶ All rights reserved © Fahd Mirza",
+          "transcript_excerpt": "Enthropic is on the move. They just released two new models, payable 5.1 and Mythos 5.1. Mythos is locked behind trusted access programs, cyber security, and life sciences. Only usre mortals cannot touch it. But Fable 5.1 that we can access",
+          "shorts": false
+        },
+        {
+          "channel": "@JulianGoldieSEO",
+          "title": "How to Use GrokBot for AI SEO",
+          "published": "09-02 06:00",
+          "published_dt": "2026-09-02T06:00:07+09:00",
+          "url": "https://www.youtube.com/watch?v=0UwbnSiJcag",
+          "thumbnail": "https://i.ytimg.com/vi/0UwbnSiJcag/hqdefault.jpg",
+          "summary": "이 영상은 개발도구, 수익화/마케팅 중심 내용입니다. How to use GrokBot for AI SEO? What if you never had to outrank anyone on Google again? Now your readers get a say",
+          "description_excerpt": "",
+          "transcript_excerpt": "How to use GrokBot for AI SEO? What if you never had to outrank anyone on Google again? Sounds impossible. For years, one thing decided who Google trusts, an algorithm. Now your readers get a say. One click and your site drops straight into",
+          "shorts": false
+        },
+        {
+          "channel": "@success_wiki",
+          "title": "클로드 대사기극! 돈내는건 20배 사용량은 고작 2배 ㄷㄷ.. 클로드 버리고 코덱스 써야되는 이유",
+          "published": "09-02 05:30",
+          "published_dt": "2026-09-02T05:30:35+09:00",
+          "url": "https://www.youtube.com/watch?v=Awkx8vleGn8",
+          "thumbnail": "https://i.ytimg.com/vi/Awkx8vleGn8/hqdefault.jpg",
+          "summary": "이 영상은 에이전트/자동화, 튜토리얼/설정 중심 내용입니다. 구성은 클로드 캔슬 러시, 사기라는 말이 나온 이유, 맥스 5배·20배가 5시간 윈도우 기준이었다, 맥스 20 계정 두 개 쓰던 제 경우, X 여론과 코덱스로 넘어가는 이유 (티보 답변) 순서로 이어지며, 제목만으로는 보이지 않는 변화 배경·핵심 기능·실제 활용 포인트를 짚어보는 영상입니다.",
+          "description_excerpt": "🎁 Webshare 가입만 하면 무료 프록시 10개 + 쿠폰 WIKI20 할인 지금 역대급으로 많은 사람이 클로드를 캔슬하고 있습니다. 클로드 맥스 5배 100불, 20배 200불이라는 배수가 알고 보니 주간 사용량이 아니라 5시간 윈도우 기준이었고, 이 내용으로 클로드를 고소한 사람까지 나왔습니다. 저도 맥스 20 계정 두 개를 쓰고 있었는데, 코덱스 20X는 주간 리밋 자체가 20배라고 OpenAI 쪽에서 못을 박아놨거든요. 그래서 클로드 코드 한도 얘기부터 오퍼스 성능 불만, 그리고 요즘 AI 에이전트 리서치가 왜 막히는지와 프록시로 뚫는 방법까지 같이 정리했습니다. 🔑 핵심 인사이트 - 클로드 맥스 20배는 전체 사용량이 아니라 ",
+          "transcript_excerpt": "",
+          "shorts": false
+        },
+        {
+          "channel": "@JulianGoldieSEO",
+          "title": "OpenMAIC AI Just Changed AI Agents Forever!",
+          "published": "09-02 05:00",
+          "published_dt": "2026-09-02T05:00:09+09:00",
+          "url": "https://www.youtube.com/watch?v=Gfe4V0zqhpc",
+          "thumbnail": "https://i.ytimg.com/vi/Gfe4V0zqhpc/hqdefault.jpg",
+          "summary": "이 영상은 모델/LLM, 에이전트/자동화, 수익화/마케팅 중심 내용입니다. 구성은 What is Open MIC?, 4 Core Lesson Features, AI Classmates & Discussions, Deep Interactive Mode 순서로 이어집니다. Open Make AI just changed AI agents forever Open Make AI builds a full class in minutes Here's the number that made me look twice",
+          "description_excerpt": "00:00 - Intro 01:08 - What is Open MIC? 01:26 - 4 Core Lesson Features 02:12 - AI Classmates & Discussions 03:44 - Deep Interactive Mode 05:36 - Exporting Your AI Course 06:56 - Messaging App Integration 07:33 - Quick Start Guide",
+          "transcript_excerpt": "Open Make AI just changed AI agents forever. Open Make AI builds a full class in minutes. Not a summary, not a set of notes, a real classroom with a teacher who talks out loud, draws on a whiteboard, and asks you questions while you sit the",
+          "shorts": false
+        },
+        {
+          "channel": "@JulianGoldieSEO",
+          "title": "NEW Hermes Agent Update Changes Everything!",
+          "published": "09-02 04:00",
+          "published_dt": "2026-09-02T04:00:38+09:00",
+          "url": "https://www.youtube.com/watch?v=rBPw8XDuXs0",
+          "thumbnail": "https://i.ytimg.com/vi/rBPw8XDuXs0/hqdefault.jpg",
+          "summary": "이 영상은 모델/LLM, 에이전트/자동화, 수익화/마케팅 중심 내용입니다. 구성은 Intro: The Pantheon Release, Hermes v0.21.0 Breakdown, Bot Mode: Creating Your AI Team, Hermes Peer & Agent Memory 순서로 이어지며, 제목만으로는 보이지 않는 변화 배경·핵심 기능·실제 활용 포인트를 짚어보는 영상입니다.",
+          "description_excerpt": "00:00 - Intro: The Pantheon Release 00:33 - Hermes v0.21.0 Breakdown 01:04 - Bot Mode: Creating Your AI Team 03:27 - Hermes Peer & Agent Memory 04:43 - Live Steering & Browser Control 05:20 - MCP Command Center & New Models 05:59 - Safety Features & Risk Control 07:10 - How to Install the Agent OS",
+          "transcript_excerpt": "New Hermes agent update changes everything. Today, I'm going to show you how one AI tool just turned into a whole team of AI workers. It's new, it's huge, and it's stupid easy to use. Stick around because by the end of this video, I'm going",
+          "shorts": false
+        }
+      ],
+      "links": [
+        {
+          "label": "@fahdmirza · 09-02 06:32",
+          "url": "https://www.youtube.com/watch?v=gRMezcE6nRQ",
+          "thumbnail": "https://i.ytimg.com/vi/gRMezcE6nRQ/hqdefault.jpg"
+        },
+        {
+          "label": "@JulianGoldieSEO · 09-02 06:00",
+          "url": "https://www.youtube.com/watch?v=0UwbnSiJcag",
+          "thumbnail": "https://i.ytimg.com/vi/0UwbnSiJcag/hqdefault.jpg"
+        },
+        {
+          "label": "@success_wiki · 09-02 05:30",
+          "url": "https://www.youtube.com/watch?v=Awkx8vleGn8",
+          "thumbnail": "https://i.ytimg.com/vi/Awkx8vleGn8/hqdefault.jpg"
+        }
+      ],
+      "entities": [
+        "@fahdmirza",
+        "@JulianGoldieSEO",
+        "@success_wiki",
+        "@JulianGoldieSEO"
+      ]
+    },
+    "system": {
+      "summary": "시스템 상태 조회 실패",
+      "take": "LibreHardwareMonitor 또는 센서 데이터 확인이 필요합니다.",
+      "metrics": []
+    },
+    "openclaw": {
+      "summary": "OpenClaw 2026.7.1-2 (0790d9f)",
+      "take": "Runtime: running (pid 14252, Gateway process detected for gateway port 18789.) | Listening: 127.0.0.1:18789",
+      "metrics": [
+        {
+          "label": "Gateway",
+          "value": "bind=loopback (127.0.0.1), port=18789 (service args)",
+          "pct": 100,
+          "tone": "normal"
+        },
+        {
+          "label": "Probe note",
+          "value": "Loopback-only gateway; only local clients can connect.",
+          "pct": 100,
+          "tone": "normal"
+        },
+        {
+          "label": "Runtime",
+          "value": "running (pid 14252, Gateway process detected for gateway port 18789.)",
+          "pct": 100,
+          "tone": "good"
+        },
+        {
+          "label": "Listening",
+          "value": "127.0.0.1:18789",
+          "pct": 100,
+          "tone": "good"
+        }
+      ]
+    }
+  },
+  "cards": [
+    {
+      "title": "오늘의 한마디",
+      "summary": "오늘 일정이 비어 있다면, 오히려 중요한 걸 조용히 정리할 수 있는 좋은 날입니다.",
+      "take": "습도가 높아 체감이 더 무겁습니다. 물을 자주 마시며 리듬을 유지하면 좋겠습니다. 오늘은 마음을 급하게 쓰지 말고, 가장 아쉬웠던 한 가지를 먼저 정리해 보시면 좋겠습니다. 그런 작은 정리가 하루의 기분을 꽤 크게 바꿉니다.",
+      "meta": [
+        "응원",
+        "중간 길이"
+      ],
+      "entities": [],
+      "keywords": [
+        "아침",
+        "집중"
+      ],
+      "links": []
+    },
+    {
+      "title": "오늘 일정",
+      "summary": "오늘 일정 없음",
+      "take": "오늘 등록된 일정이 없습니다. 이럴 때는 중요한 정리 한두 개만 분명하게 끝내도 충분합니다.",
+      "meta": [
+        "일정",
+        "calendar"
+      ],
+      "entities": [
+        "calendar"
+      ],
+      "keywords": [
+        "calendar"
+      ],
+      "links": []
+    },
+    {
+      "title": "주요 메일 / 중요 알림",
+      "summary": "[확인필요] [원고료 100% 반영💰] Liner 릴스 캠페",
+      "take": "지금 확인할 만한 메일만 추렸습니다. 결제, 업무, 보안성 알림 위주로 먼저 보면 됩니다.",
+      "meta": [
+        "메일",
+        "gmail",
+        "중요 알림"
+      ],
+      "entities": [
+        "확인필요"
+      ],
+      "keywords": [
+        "gmail",
+        "alert"
+      ],
+      "links": []
+    },
+    {
+      "title": "유튜브 업데이트",
+      "summary": "@fahdmirza Fable 5.1 is Here and It / @JulianGoldieSEO How to Use GrokBot for A / @success_wiki 클로드 대사기극! 돈내는건 20배 사용량은 ",
+      "take": "업로드 속도가 빠른 채널은 오늘도 여러 편이 들어왔습니다. 중요한 주제부터 2~3개만 골라 보면 효율이 좋습니다.",
+      "meta": [
+        "유튜브",
+        "AI 채널",
+        "중간 길이"
+      ],
+      "entities": [
+        "@fahdmirza",
+        "@JulianGoldieSEO",
+        "@success_wiki",
+        "@JulianGoldieSEO"
+      ],
+      "keywords": [
+        "youtube",
+        "update",
+        "thumbnail"
+      ],
+      "links": [
+        {
+          "label": "@fahdmirza · 09-02 06:32",
+          "url": "https://www.youtube.com/watch?v=gRMezcE6nRQ",
+          "thumbnail": "https://i.ytimg.com/vi/gRMezcE6nRQ/hqdefault.jpg"
+        },
+        {
+          "label": "@JulianGoldieSEO · 09-02 06:00",
+          "url": "https://www.youtube.com/watch?v=0UwbnSiJcag",
+          "thumbnail": "https://i.ytimg.com/vi/0UwbnSiJcag/hqdefault.jpg"
+        },
+        {
+          "label": "@success_wiki · 09-02 05:30",
+          "url": "https://www.youtube.com/watch?v=Awkx8vleGn8",
+          "thumbnail": "https://i.ytimg.com/vi/Awkx8vleGn8/hqdefault.jpg"
+        }
+      ]
+    },
+    {
+      "title": "시스템 상태 요약",
+      "summary": "시스템 상태 조회 실패",
+      "take": "LibreHardwareMonitor 또는 센서 데이터 확인이 필요합니다.",
+      "meta": [
+        "시스템",
+        "LHM"
+      ],
+      "entities": [
+        "Intel N100",
+        "RAM",
+        "SSD"
+      ],
+      "keywords": [
+        "temperature",
+        "load",
+        "memory"
+      ],
+      "links": []
+    },
+    {
+      "title": "OpenClaw 상태 요약",
+      "summary": "OpenClaw 2026.7.1-2 (0790d9f)",
+      "take": "Runtime: running (pid 14252, Gateway process detected for gateway port 18789.) | Listening: 127.0.0.1:18789",
+      "meta": [
+        "OpenClaw",
+        "Gateway"
+      ],
+      "entities": [
+        "main",
+        "gateway"
+      ],
+      "keywords": [
+        "version",
+        "rpc",
+        "status"
+      ],
+      "links": []
+    }
+  ],
+  "footer": "AI-assisted morning briefing, unified data structure ready for stage 2"
+}
