@@ -1,0 +1,287 @@
+{
+  "date": "2026-09-03 07:00",
+  "title": "아침 브리핑",
+  "subtitle": "날씨 · 응원 · 일정 · 메일 · 유튜브 · 시스템 · OpenClaw",
+  "summary": "비어 있는 하루는 느슨한 하루가 아니라, 진짜 필요한 걸 선명하게 끝낼 수 있는 하루입니다.",
+  "summary_box": "습도가 높아 체감이 더 무겁습니다. 물을 자주 마시며 리듬을 유지하면 좋겠습니다. 오늘은 마음을 급하게 쓰지 말고, 가장 아쉬웠던 한 가지를 먼저 정리해 보시면 좋겠습니다. 그런 작은 정리가 하루의 기분을 꽤 크게 바꿉니다.",
+  "weather": {
+    "loc": "김해",
+    "temp": "23°C",
+    "desc": "Clear ",
+    "icon": "⛅",
+    "badges": [
+      "체감 26°C",
+      "습도 93%",
+      "강수확률 18%",
+      "풍속 7km/h",
+      "UV 0",
+      "미세먼지 정보 연동 예정"
+    ],
+    "detail": {
+      "feels_like": "26",
+      "humidity": "93",
+      "rain_chance": "18",
+      "wind_kmph": "7",
+      "uv": "0",
+      "pm": "미세먼지 정보 연동 예정"
+    },
+    "life_comment": "습도가 높아 체감이 더 무겁습니다. 물을 자주 마시며 리듬을 유지하면 좋겠습니다."
+  },
+  "sections": {
+    "calendar": {
+      "summary": "오늘 일정 없음",
+      "take": "오늘 등록된 일정이 없습니다. 이럴 때는 중요한 정리 한두 개만 분명하게 끝내도 충분합니다.",
+      "items": [],
+      "links": [],
+      "entities": [
+        "calendar"
+      ]
+    },
+    "mail": {
+      "summary": "[결제] [FirstBill] 농협은행으로부터 아라테크 ",
+      "take": "지금 확인할 만한 메일만 추렸습니다. 결제, 업무, 보안성 알림 위주로 먼저 보면 됩니다.",
+      "items": [
+        {
+          "date": "2026-09-02 17:42",
+          "from": "nhebill@nonghyup.com",
+          "subject": "[FirstBill] 농협은행으로부터 아라테크 오창재님에게 세금계산서(기업공동(결제원)인증서수수료)가 발행되었습니다",
+          "tags": [
+            "결제"
+          ]
+        }
+      ],
+      "links": [],
+      "entities": [
+        "결제"
+      ]
+    },
+    "youtube": {
+      "summary": "@fahdmirza Gemini 3.8 Flash: Google / @JulianGoldieSEO This NEW Google AI Image / @JulianGoldieSEO NEW Google Gemini Update",
+      "take": "업로드 속도가 빠른 채널은 오늘도 여러 편이 들어왔습니다. 중요한 주제부터 2~3개만 골라 보면 효율이 좋습니다.",
+      "items": [
+        {
+          "channel": "@fahdmirza",
+          "title": "Gemini 3.8 Flash: Google is Back on AI Horse: Cheap and Fast",
+          "published": "09-03 06:06",
+          "published_dt": "2026-09-03T06:06:14+09:00",
+          "url": "https://www.youtube.com/watch?v=Y5fzKf9RkTY",
+          "thumbnail": "https://i.ytimg.com/vi/Y5fzKf9RkTY/hqdefault.jpg",
+          "summary": "이 영상은 모델/LLM, 에이전트/자동화 중심 내용입니다. 구성은 This video tests Gemini 3.8 Flash, which delivers next-generation intelligence for agentic workflows and cybersecurity 순서로 이어지며, 제목만으로는 보이지 않는 변화 배경·핵심 기능·실제 활용 포인트를 짚어보는 영상입니다.",
+          "description_excerpt": "This video tests Gemini 3.8 Flash, which delivers next-generation intelligence for agentic workflows and cybersecurity. 📬Weekly AI : 🔥 Buy Me a Coffee to support the channel: PLEASE FOLLOW ME: ▶ LinkedIn: / fahdmirza ▶ YouTube: / ▶ Blog: RESOURCES: ▶ All rights reserved © Fahd Mirza",
+          "transcript_excerpt": "I personally thought that due to their long history in machine learning, Google would lead the AI that never materialized. That is where this new release from Google Gemini 3.8 Flash is extremely important. They have been shipping flash mod",
+          "shorts": false
+        },
+        {
+          "channel": "@JulianGoldieSEO",
+          "title": "This NEW Google AI Image Tool is WILD!",
+          "published": "09-03 06:00",
+          "published_dt": "2026-09-03T06:00:01+09:00",
+          "url": "https://www.youtube.com/watch?v=Qb7A0a9xFzY",
+          "thumbnail": "https://i.ytimg.com/vi/Qb7A0a9xFzY/hqdefault.jpg",
+          "summary": "이 영상은 수익화/마케팅 중심 내용입니다. 구성은 Intro: Google's New AI Tool, The Problem with AI Image Tools, How Google Pics Fixes Everything, The Tech Behind Nano Banana 순서로 이어집니다. This new Google AI image tool is wild Today, I'm going to show you a brand new AI tool that Google just dropped It lives right inside Google Docs, Slides, and soon Drive",
+          "description_excerpt": "00:00 - Intro: Google's New AI Tool 00:47 - The Problem with AI Image Tools 01:02 - How Google Pics Fixes Everything 01:33 - The Tech Behind Nano Banana 02:41 - Google Docs & Slides Integration 04:38 - Collaborative Real-Time Editing 05:20 - Google Pics vs. Canva 06:07 - How to Get Access",
+          "transcript_excerpt": "This new Google AI image tool is wild. Today, I'm going to show you a brand new AI tool that Google just dropped. It lets you edit AI pictures like magic without messing up the rest of the image. It lives right inside Google Docs, Slides, a",
+          "shorts": false
+        },
+        {
+          "channel": "@JulianGoldieSEO",
+          "title": "NEW Google Gemini Update is CRAZY!",
+          "published": "09-03 05:00",
+          "published_dt": "2026-09-03T05:00:26+09:00",
+          "url": "https://www.youtube.com/watch?v=lO1i2zF14dQ",
+          "thumbnail": "https://i.ytimg.com/vi/lO1i2zF14dQ/hqdefault.jpg",
+          "summary": "이 영상은 모델/LLM, 에이전트/자동화, 수익화/마케팅 중심 내용입니다. 구성은 Intro: The New Gemini Update, What is Agentic Video?, Faster, Smarter, and More Efficient, Business Use Cases & Examples 순서로 이어지며, 제목만으로는 보이지 않는 변화 배경·핵심 기능·실제 활용 포인트를 짚어보는 영상입니다.",
+          "description_excerpt": "00:00 - Intro: The New Gemini Update 00:33 - What is Agentic Video? 01:03 - Faster, Smarter, and More Efficient 01:55 - Business Use Cases & Examples 03:43 - 3 Powerful Video Search Features 05:03 - How to Access Gemini API & Studio 05:32 - Limitations & Best Practices 06:50 - Key Takeaways for Your Business",
+          "transcript_excerpt": "New Google Gemini update is crazy. Today, I'm going to show you the new Google Gemini update that changes how AI watches video forever. It's brand new. It's kind of wild. It's stupid easy to use and it could save you a ton of time in your b",
+          "shorts": false
+        },
+        {
+          "channel": "@JulianGoldieSEO",
+          "title": "NEW Claude Fable & Mythos 5.1 is ABSURD!",
+          "published": "09-03 04:00",
+          "published_dt": "2026-09-03T04:00:24+09:00",
+          "url": "https://www.youtube.com/watch?v=wDSHtlvMIIU",
+          "thumbnail": "https://i.ytimg.com/vi/wDSHtlvMIIU/hqdefault.jpg",
+          "summary": "이 영상은 모델/LLM, 수익화/마케팅 중심 내용입니다. 구성은 Intro to Claude Fable 5.1, Fable vs. Mythos 5.1 Explained, The Research-Plan-Build-Test Loop, Massive Performance Benchmarks 순서로 이어집니다. New Claude Fable and Mythos 5.1 is absurd Today I'm going to show you the two brand new AI models that just dropped They can find bugs that stumped real engineers for years",
+          "description_excerpt": "00:00 - Intro to Claude Fable 5.1 00:45 - Fable vs. Mythos 5.1 Explained 01:13 - The Research-Plan-Build-Test Loop 02:25 - Massive Performance Benchmarks 04:26 - Sneaky Efficiency Upgrades 05:15 - The Shift to Project Ownership 07:50 - SEO & AI Automation Strategy",
+          "transcript_excerpt": "New Claude Fable and Mythos 5.1 is absurd. Today I'm going to show you the two brand new AI models that just dropped. They can work for hours by themselves. They can find bugs that stumped real engineers for years. They got way more efficie",
+          "shorts": false
+        },
+        {
+          "channel": "@jocoding",
+          "title": "보는 속도보다 만드는게 빨라졌다는 AI 영상 근황",
+          "published": "09-02 21:00",
+          "published_dt": "2026-09-02T21:00:38+09:00",
+          "url": "https://www.youtube.com/watch?v=1aK5vZ2ZBuo",
+          "thumbnail": "https://i.ytimg.com/vi/1aK5vZ2ZBuo/hqdefault.jpg",
+          "summary": "이 영상은 개발도구 중심 내용입니다. 조코딩의 바이브 코딩 1인 창업 책: AX 컨설팅 및 교육 문의: 조코헌트: VVIP 멤버십 후원 그림자그림자님, 차딩Chading TV님, Sicongbabe님, 정진균님, Tae hwan Kim님, 시원-r9u님, YCN유림방송님, 그래머피티...",
+          "description_excerpt": "조코딩의 바이브 코딩 1인 창업 책: AX 컨설팅 및 교육 문의: 조코헌트: VVIP 멤버십 후원 그림자그림자님, 차딩Chading TV님, Sicongbabe님, 정진균님, Tae hwan Kim님, 시원-r9u님, YCN유림방송님, 그래머피티님, GomnaStudio님, 천사슥님, 예스타님, shintony667님, bellati272님, happypink81님, kogurean9님 감사드립니다.",
+          "transcript_excerpt": "",
+          "shorts": false
+        }
+      ],
+      "links": [
+        {
+          "label": "@fahdmirza · 09-03 06:06",
+          "url": "https://www.youtube.com/watch?v=Y5fzKf9RkTY",
+          "thumbnail": "https://i.ytimg.com/vi/Y5fzKf9RkTY/hqdefault.jpg"
+        },
+        {
+          "label": "@JulianGoldieSEO · 09-03 06:00",
+          "url": "https://www.youtube.com/watch?v=Qb7A0a9xFzY",
+          "thumbnail": "https://i.ytimg.com/vi/Qb7A0a9xFzY/hqdefault.jpg"
+        },
+        {
+          "label": "@JulianGoldieSEO · 09-03 05:00",
+          "url": "https://www.youtube.com/watch?v=lO1i2zF14dQ",
+          "thumbnail": "https://i.ytimg.com/vi/lO1i2zF14dQ/hqdefault.jpg"
+        }
+      ],
+      "entities": [
+        "@fahdmirza",
+        "@JulianGoldieSEO",
+        "@JulianGoldieSEO",
+        "@JulianGoldieSEO"
+      ]
+    },
+    "system": {
+      "summary": "시스템 상태 조회 실패",
+      "take": "LibreHardwareMonitor 또는 센서 데이터 확인이 필요합니다.",
+      "metrics": []
+    },
+    "openclaw": {
+      "summary": "OpenClaw 2026.7.1-2 (0790d9f)",
+      "take": "게이트웨이 상태 확인 실패",
+      "metrics": []
+    }
+  },
+  "cards": [
+    {
+      "title": "오늘의 한마디",
+      "summary": "비어 있는 하루는 느슨한 하루가 아니라, 진짜 필요한 걸 선명하게 끝낼 수 있는 하루입니다.",
+      "take": "습도가 높아 체감이 더 무겁습니다. 물을 자주 마시며 리듬을 유지하면 좋겠습니다. 오늘은 마음을 급하게 쓰지 말고, 가장 아쉬웠던 한 가지를 먼저 정리해 보시면 좋겠습니다. 그런 작은 정리가 하루의 기분을 꽤 크게 바꿉니다.",
+      "meta": [
+        "응원",
+        "중간 길이"
+      ],
+      "entities": [],
+      "keywords": [
+        "아침",
+        "집중"
+      ],
+      "links": []
+    },
+    {
+      "title": "오늘 일정",
+      "summary": "오늘 일정 없음",
+      "take": "오늘 등록된 일정이 없습니다. 이럴 때는 중요한 정리 한두 개만 분명하게 끝내도 충분합니다.",
+      "meta": [
+        "일정",
+        "calendar"
+      ],
+      "entities": [
+        "calendar"
+      ],
+      "keywords": [
+        "calendar"
+      ],
+      "links": []
+    },
+    {
+      "title": "주요 메일 / 중요 알림",
+      "summary": "[결제] [FirstBill] 농협은행으로부터 아라테크 ",
+      "take": "지금 확인할 만한 메일만 추렸습니다. 결제, 업무, 보안성 알림 위주로 먼저 보면 됩니다.",
+      "meta": [
+        "메일",
+        "gmail",
+        "중요 알림"
+      ],
+      "entities": [
+        "결제"
+      ],
+      "keywords": [
+        "gmail",
+        "alert"
+      ],
+      "links": []
+    },
+    {
+      "title": "유튜브 업데이트",
+      "summary": "@fahdmirza Gemini 3.8 Flash: Google / @JulianGoldieSEO This NEW Google AI Image / @JulianGoldieSEO NEW Google Gemini Update",
+      "take": "업로드 속도가 빠른 채널은 오늘도 여러 편이 들어왔습니다. 중요한 주제부터 2~3개만 골라 보면 효율이 좋습니다.",
+      "meta": [
+        "유튜브",
+        "AI 채널",
+        "중간 길이"
+      ],
+      "entities": [
+        "@fahdmirza",
+        "@JulianGoldieSEO",
+        "@JulianGoldieSEO",
+        "@JulianGoldieSEO"
+      ],
+      "keywords": [
+        "youtube",
+        "update",
+        "thumbnail"
+      ],
+      "links": [
+        {
+          "label": "@fahdmirza · 09-03 06:06",
+          "url": "https://www.youtube.com/watch?v=Y5fzKf9RkTY",
+          "thumbnail": "https://i.ytimg.com/vi/Y5fzKf9RkTY/hqdefault.jpg"
+        },
+        {
+          "label": "@JulianGoldieSEO · 09-03 06:00",
+          "url": "https://www.youtube.com/watch?v=Qb7A0a9xFzY",
+          "thumbnail": "https://i.ytimg.com/vi/Qb7A0a9xFzY/hqdefault.jpg"
+        },
+        {
+          "label": "@JulianGoldieSEO · 09-03 05:00",
+          "url": "https://www.youtube.com/watch?v=lO1i2zF14dQ",
+          "thumbnail": "https://i.ytimg.com/vi/lO1i2zF14dQ/hqdefault.jpg"
+        }
+      ]
+    },
+    {
+      "title": "시스템 상태 요약",
+      "summary": "시스템 상태 조회 실패",
+      "take": "LibreHardwareMonitor 또는 센서 데이터 확인이 필요합니다.",
+      "meta": [
+        "시스템",
+        "LHM"
+      ],
+      "entities": [
+        "Intel N100",
+        "RAM",
+        "SSD"
+      ],
+      "keywords": [
+        "temperature",
+        "load",
+        "memory"
+      ],
+      "links": []
+    },
+    {
+      "title": "OpenClaw 상태 요약",
+      "summary": "OpenClaw 2026.7.1-2 (0790d9f)",
+      "take": "게이트웨이 상태 확인 실패",
+      "meta": [
+        "OpenClaw",
+        "Gateway"
+      ],
+      "entities": [
+        "main",
+        "gateway"
+      ],
+      "keywords": [
+        "version",
+        "rpc",
+        "status"
+      ],
+      "links": []
+    }
+  ],
+  "footer": "AI-assisted morning briefing, unified data structure ready for stage 2"
+}
