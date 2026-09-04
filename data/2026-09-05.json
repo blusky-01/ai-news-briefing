@@ -1,0 +1,376 @@
+{
+  "date": "2026-09-05 07:00",
+  "title": "아침 브리핑",
+  "subtitle": "날씨 · 응원 · 일정 · 메일 · 유튜브 · 시스템 · OpenClaw",
+  "summary": "오늘 일정이 비어 있다면, 오히려 중요한 걸 조용히 정리할 수 있는 좋은 날입니다.",
+  "summary_box": "큰 변수 없이 움직이기 좋은 날씨입니다. 일정만 잘 잡으면 리듬 있게 가기 좋겠습니다. 오늘은 마음을 급하게 쓰지 말고, 가장 아쉬웠던 한 가지를 먼저 정리해 보시면 좋겠습니다. 그런 작은 정리가 하루의 기분을 꽤 크게 바꿉니다.",
+  "weather": {
+    "loc": "김해",
+    "temp": "22°C",
+    "desc": "Cloudy ",
+    "icon": "⛅",
+    "badges": [
+      "체감 20°C",
+      "습도 65%",
+      "강수확률 2%",
+      "풍속 17km/h",
+      "UV 0",
+      "미세먼지 정보 연동 예정"
+    ],
+    "detail": {
+      "feels_like": "20",
+      "humidity": "65",
+      "rain_chance": "2",
+      "wind_kmph": "17",
+      "uv": "0",
+      "pm": "미세먼지 정보 연동 예정"
+    },
+    "life_comment": "큰 변수 없이 움직이기 좋은 날씨입니다. 일정만 잘 잡으면 리듬 있게 가기 좋겠습니다."
+  },
+  "sections": {
+    "calendar": {
+      "summary": "오늘 일정 없음",
+      "take": "오늘 등록된 일정이 없습니다. 이럴 때는 중요한 정리 한두 개만 분명하게 끝내도 충분합니다.",
+      "items": [],
+      "links": [],
+      "entities": [
+        "calendar"
+      ]
+    },
+    "mail": {
+      "summary": "[중요인물,에러] 보안 알림 / [확인필요] See Fei-Fei Li and Adam Gr / [확인필요] 아라테크 (제이에이치솔루션(JHS)->아라테크)",
+      "take": "지금 확인할 만한 메일만 추렸습니다. 결제, 업무, 보안성 알림 위주로 먼저 보면 됩니다.",
+      "items": [
+        {
+          "date": "2026-09-04 22:44",
+          "from": "Google <no-reply@accounts.google.com>",
+          "subject": "보안 알림",
+          "tags": [
+            "중요인물",
+            "에러"
+          ]
+        },
+        {
+          "date": "2026-09-04 18:29",
+          "from": "Cloudflare <em@em1.cloudflare.com>",
+          "subject": "See Fei-Fei Li and Adam Grant live at Cloudflare Connect",
+          "tags": [
+            "확인필요"
+          ]
+        },
+        {
+          "date": "2026-09-04 17:00",
+          "from": "\"국세청\" <hometaxadmin@hometax.go.kr>",
+          "subject": "아라테크 (제이에이치솔루션(JHS)->아라테크)",
+          "tags": [
+            "확인필요"
+          ]
+        }
+      ],
+      "links": [],
+      "entities": [
+        "에러",
+        "중요인물",
+        "확인필요"
+      ]
+    },
+    "youtube": {
+      "summary": "@JulianGoldieSEO NEW AGENT OS is WILD! 🤯 / @fahdmirza NVIDIA + Hugging Face: W / @JulianGoldieSEO Heres How to Run Qwen 3.",
+      "take": "업로드 속도가 빠른 채널은 오늘도 여러 편이 들어왔습니다. 중요한 주제부터 2~3개만 골라 보면 효율이 좋습니다.",
+      "items": [
+        {
+          "channel": "@JulianGoldieSEO",
+          "title": "NEW AGENT OS is WILD! 🤯",
+          "published": "09-05 06:00",
+          "published_dt": "2026-09-05T06:00:07+09:00",
+          "url": "https://www.youtube.com/watch?v=ubd4y_ym1lM",
+          "thumbnail": "https://i.ytimg.com/vi/ubd4y_ym1lM/hqdefault.jpg",
+          "summary": "이 영상은 모델/LLM, 에이전트/자동화, 수익화/마케팅 중심 내용입니다. 구성은 Why You Need an Agent OS, What is an Agent Operating System?, The Shared Memory Layer Explained, Managing AI Tasks with Kanban 순서로 이어지며, 제목만으로는 보이지 않는 변화 배경·핵심 기능·실제 활용 포인트를 짚어보는 영상입니다.",
+          "description_excerpt": "00:00 - Why You Need an Agent OS 00:54 - What is an Agent Operating System? 01:42 - The Shared Memory Layer Explained 02:40 - Managing AI Tasks with Kanban 04:37 - Should You Delete Memory Files? 05:22 - Building a Simple AI Architecture 06:22 - How to Install Your Agent OS",
+          "transcript_excerpt": "New Agent OS is wild. And if you're still running five different AI tools in five different tabs, this video is going to save you a lot of wasted time. Here's what's actually happening right now in 2026. Most people using AI are doing it th",
+          "shorts": false
+        },
+        {
+          "channel": "@fahdmirza",
+          "title": "NVIDIA + Hugging Face: Why I'm Cautiously Hopeful Now",
+          "published": "09-05 05:54",
+          "published_dt": "2026-09-05T05:54:04+09:00",
+          "url": "https://www.youtube.com/watch?v=1NrC-vSrje0",
+          "thumbnail": "https://i.ytimg.com/vi/1NrC-vSrje0/hqdefault.jpg",
+          "summary": "이 영상은 모델/LLM 중심 내용입니다. 구성은 NVIDIA's easter-egg purchase price, Jensen's written commitments, and the data behind why I've moved from worried to cautiously hopeful 순서로 이어지며, 제목만으로는 보이지 않는 변화 배경·핵심 기능·실제 활용 포인트를 짚어보는 영상입니다.",
+          "description_excerpt": "NVIDIA's easter-egg purchase price, Jensen's written commitments, and the data behind why I've moved from worried to cautiously hopeful. 📬Weekly AI : 🔥 Buy Me a Coffee to support the channel: PLEASE FOLLOW ME: ▶ LinkedIn: / fahdmirza ▶ YouTube: / ▶ Blog: RESOURCES: ▶ All rights reserved © Fahd Mirza",
+          "transcript_excerpt": "Before we get into the substance of this video, one quick fun fact because it's too good not to mention. The final price Nvidia paid for hugging face was 12 billion 930,300,000. And yes, that's oddly specific for a reason. The first six dig",
+          "shorts": false
+        },
+        {
+          "channel": "@JulianGoldieSEO",
+          "title": "Heres How to Run Qwen 3.8 Free Forever! 🤯",
+          "published": "09-05 05:00",
+          "published_dt": "2026-09-05T05:00:03+09:00",
+          "url": "https://www.youtube.com/watch?v=3YJDJRYP_RQ",
+          "thumbnail": "https://i.ytimg.com/vi/3YJDJRYP_RQ/hqdefault.jpg",
+          "summary": "이 영상은 모델/LLM, 에이전트/자동화, 수익화/마케팅 중심 내용입니다. 구성은 Intro to Qwen 3.8 Max, How to Access Qwen for Free, Technical Specs and Context Window, The Agent OS Dashboard 순서로 이어지며, 제목만으로는 보이지 않는 변화 배경·핵심 기능·실제 활용 포인트를 짚어보는 영상입니다.",
+          "description_excerpt": "00:00 - Intro to Qwen 3.8 Max 00:23 - How to Access Qwen for Free 01:02 - Technical Specs and Context Window 02:00 - The Agent OS Dashboard 02:50 - Real-World Automation Prompts 04:48 - Building Landing Pages with Qwen 06:22 - Scaling Your AI Business Workflow",
+          "transcript_excerpt": "Here's how to run Qwen 3.8 free forever Qwen 3.8 Max is free to use right now and most people have no idea. This is Alibaba's biggest AI model ever 2.4 trillion parameters a 1 million token context window and according to Alibaba is the sec",
+          "shorts": false
+        },
+        {
+          "channel": "@JulianGoldieSEO",
+          "title": "New Gemini Notebook Update Is AMAZING!",
+          "published": "09-05 04:00",
+          "published_dt": "2026-09-05T04:00:08+09:00",
+          "url": "https://www.youtube.com/watch?v=9poI0jHZToI",
+          "thumbnail": "https://i.ytimg.com/vi/9poI0jHZToI/hqdefault.jpg",
+          "summary": "이 영상은 모델/LLM, 개발도구 중심 내용입니다. 구성은 Intro: The Massive Gemini Update, How It Works: Docs to Video, 70+ Languages & New Accents, Choosing the Right Video Format 순서로 이어집니다. New Gemini notebook update is amazing and I want to show you exactly what just landed because Google quietly finished rolling out somethi... Here's what happened Not a test, not a wait list",
+          "description_excerpt": "00:00 - Intro: The Massive Gemini Update 00:33 - How It Works: Docs to Video 01:41 - 70+ Languages & New Accents 02:26 - Choosing the Right Video Format 04:07 - The Custom Instructions Secret 05:21 - 4 Huge Limits You Need to Know 06:22 - The End of Content Bottlenecks",
+          "transcript_excerpt": "New Gemini notebook update is amazing and I want to show you exactly what just landed because Google quietly finished rolling out something that changes how fast you can turn boring documents into short vertical videos. Here's what happened",
+          "shorts": false
+        },
+        {
+          "channel": "@fahdmirza",
+          "title": "Obscura + Ollama  Local AI Web Scraping with a Rust Headless Browser",
+          "published": "09-04 22:00",
+          "published_dt": "2026-09-04T22:00:35+09:00",
+          "url": "https://www.youtube.com/watch?v=FSV2wG3JdZ4",
+          "thumbnail": "https://i.ytimg.com/vi/FSV2wG3JdZ4/hqdefault.jpg",
+          "summary": "이 영상은 모델/LLM, 수익화/마케팅, 튜토리얼/설정 중심 내용입니다. 구성은 This video locally installs Obscura which is a headless browser engine written in Rust, built for web scraping and AI agent automation, 🔥 Buy Me a Coffee to support the channel: PLEASE FOLLOW ME: ▶ LinkedIn: ▶ YouTube: ▶ Blog: Resources: ▶ All rights reserved © Fahd Mirza 순서로 이어지며, 제목만으로는 보이지 않는 변화 배경·핵심 기능·실제 활용 포인트를 짚어보는 영상입니다.",
+          "description_excerpt": "This video locally installs Obscura which is a headless browser engine written in Rust, built for web scraping and AI agent automation. 🔥 Buy Me a Coffee to support the channel: PLEASE FOLLOW ME: ▶ LinkedIn: ▶ YouTube: ▶ Blog: Resources: ▶ All rights reserved © Fahd Mirza",
+          "transcript_excerpt": "Scraping the modern web for AI is still very painful. Most sites are JavaScript-heavy, so a plain HTTP request gives you nothing. And the usual fix is headless Chrome driven by Puppeteer or Playwright, which eats 200 plus megabytes of RAM, ",
+          "shorts": false
+        }
+      ],
+      "links": [
+        {
+          "label": "@JulianGoldieSEO · 09-05 06:00",
+          "url": "https://www.youtube.com/watch?v=ubd4y_ym1lM",
+          "thumbnail": "https://i.ytimg.com/vi/ubd4y_ym1lM/hqdefault.jpg"
+        },
+        {
+          "label": "@fahdmirza · 09-05 05:54",
+          "url": "https://www.youtube.com/watch?v=1NrC-vSrje0",
+          "thumbnail": "https://i.ytimg.com/vi/1NrC-vSrje0/hqdefault.jpg"
+        },
+        {
+          "label": "@JulianGoldieSEO · 09-05 05:00",
+          "url": "https://www.youtube.com/watch?v=3YJDJRYP_RQ",
+          "thumbnail": "https://i.ytimg.com/vi/3YJDJRYP_RQ/hqdefault.jpg"
+        }
+      ],
+      "entities": [
+        "@JulianGoldieSEO",
+        "@fahdmirza",
+        "@JulianGoldieSEO",
+        "@JulianGoldieSEO"
+      ]
+    },
+    "system": {
+      "summary": "CPU 6.0% 사용 / RAM 11.0GB 사용 (70%) / SSD 376.6GB 사용 (79%, 여유 99.3GB) / 업타임 218시간 29분",
+      "take": "CPU는 현재 6.0% 사용 중이며, RAM은 총 15.8GB 중 11.0GB (70%), SSD는 총 475.9GB 중 376.6GB 사용 (79%, 여유 99.3GB) 중입니다. 시스템 가동 시간은 218시간 29분이며, 네트워크 트래픽은 수신 22532.7 MB / 송신 4787.7 MB입니다.",
+      "metrics": [
+        {
+          "label": "CPU 사용률",
+          "value": "6.0%",
+          "pct": 6.0,
+          "tone": "normal"
+        },
+        {
+          "label": "RAM 사용량",
+          "value": "11.0 / 15.8 GB (70%)",
+          "pct": 69.5,
+          "tone": "normal"
+        },
+        {
+          "label": "SSD 사용량",
+          "value": "376.6 / 475.9 GB (79%)",
+          "pct": 79.1,
+          "tone": "normal"
+        },
+        {
+          "label": "SSD 여유 공간",
+          "value": "99.3 / 475.9 GB",
+          "pct": 20.900000000000006,
+          "tone": "normal"
+        },
+        {
+          "label": "업타임",
+          "value": "218시간 29분",
+          "pct": 100,
+          "tone": "normal"
+        },
+        {
+          "label": "네트워크 수신",
+          "value": "22532.7 MB",
+          "pct": 100,
+          "tone": "normal"
+        },
+        {
+          "label": "네트워크 송신",
+          "value": "4787.7 MB",
+          "pct": 100,
+          "tone": "normal"
+        }
+      ]
+    },
+    "openclaw": {
+      "summary": "OpenClaw 2026.7.1-2 (0790d9f)",
+      "take": "Runtime: running (pid 14252, Gateway process detected for gateway port 18789.) | Listening: 127.0.0.1:18789",
+      "metrics": [
+        {
+          "label": "Gateway",
+          "value": "bind=loopback (127.0.0.1), port=18789 (service args)",
+          "pct": 100,
+          "tone": "normal"
+        },
+        {
+          "label": "Probe note",
+          "value": "Loopback-only gateway; only local clients can connect.",
+          "pct": 100,
+          "tone": "normal"
+        },
+        {
+          "label": "Runtime",
+          "value": "running (pid 14252, Gateway process detected for gateway port 18789.)",
+          "pct": 100,
+          "tone": "good"
+        },
+        {
+          "label": "Listening",
+          "value": "127.0.0.1:18789",
+          "pct": 100,
+          "tone": "good"
+        }
+      ]
+    }
+  },
+  "cards": [
+    {
+      "title": "오늘의 한마디",
+      "summary": "오늘 일정이 비어 있다면, 오히려 중요한 걸 조용히 정리할 수 있는 좋은 날입니다.",
+      "take": "큰 변수 없이 움직이기 좋은 날씨입니다. 일정만 잘 잡으면 리듬 있게 가기 좋겠습니다. 오늘은 마음을 급하게 쓰지 말고, 가장 아쉬웠던 한 가지를 먼저 정리해 보시면 좋겠습니다. 그런 작은 정리가 하루의 기분을 꽤 크게 바꿉니다.",
+      "meta": [
+        "응원",
+        "중간 길이"
+      ],
+      "entities": [],
+      "keywords": [
+        "아침",
+        "집중"
+      ],
+      "links": []
+    },
+    {
+      "title": "오늘 일정",
+      "summary": "오늘 일정 없음",
+      "take": "오늘 등록된 일정이 없습니다. 이럴 때는 중요한 정리 한두 개만 분명하게 끝내도 충분합니다.",
+      "meta": [
+        "일정",
+        "calendar"
+      ],
+      "entities": [
+        "calendar"
+      ],
+      "keywords": [
+        "calendar"
+      ],
+      "links": []
+    },
+    {
+      "title": "주요 메일 / 중요 알림",
+      "summary": "[중요인물,에러] 보안 알림 / [확인필요] See Fei-Fei Li and Adam Gr / [확인필요] 아라테크 (제이에이치솔루션(JHS)->아라테크)",
+      "take": "지금 확인할 만한 메일만 추렸습니다. 결제, 업무, 보안성 알림 위주로 먼저 보면 됩니다.",
+      "meta": [
+        "메일",
+        "gmail",
+        "중요 알림"
+      ],
+      "entities": [
+        "에러",
+        "중요인물",
+        "확인필요"
+      ],
+      "keywords": [
+        "gmail",
+        "alert"
+      ],
+      "links": []
+    },
+    {
+      "title": "유튜브 업데이트",
+      "summary": "@JulianGoldieSEO NEW AGENT OS is WILD! 🤯 / @fahdmirza NVIDIA + Hugging Face: W / @JulianGoldieSEO Heres How to Run Qwen 3.",
+      "take": "업로드 속도가 빠른 채널은 오늘도 여러 편이 들어왔습니다. 중요한 주제부터 2~3개만 골라 보면 효율이 좋습니다.",
+      "meta": [
+        "유튜브",
+        "AI 채널",
+        "중간 길이"
+      ],
+      "entities": [
+        "@JulianGoldieSEO",
+        "@fahdmirza",
+        "@JulianGoldieSEO",
+        "@JulianGoldieSEO"
+      ],
+      "keywords": [
+        "youtube",
+        "update",
+        "thumbnail"
+      ],
+      "links": [
+        {
+          "label": "@JulianGoldieSEO · 09-05 06:00",
+          "url": "https://www.youtube.com/watch?v=ubd4y_ym1lM",
+          "thumbnail": "https://i.ytimg.com/vi/ubd4y_ym1lM/hqdefault.jpg"
+        },
+        {
+          "label": "@fahdmirza · 09-05 05:54",
+          "url": "https://www.youtube.com/watch?v=1NrC-vSrje0",
+          "thumbnail": "https://i.ytimg.com/vi/1NrC-vSrje0/hqdefault.jpg"
+        },
+        {
+          "label": "@JulianGoldieSEO · 09-05 05:00",
+          "url": "https://www.youtube.com/watch?v=3YJDJRYP_RQ",
+          "thumbnail": "https://i.ytimg.com/vi/3YJDJRYP_RQ/hqdefault.jpg"
+        }
+      ]
+    },
+    {
+      "title": "시스템 상태 요약",
+      "summary": "CPU 6.0% 사용 / RAM 11.0GB 사용 (70%) / SSD 376.6GB 사용 (79%, 여유 99.3GB) / 업타임 218시간 29분",
+      "take": "CPU는 현재 6.0% 사용 중이며, RAM은 총 15.8GB 중 11.0GB (70%), SSD는 총 475.9GB 중 376.6GB 사용 (79%, 여유 99.3GB) 중입니다. 시스템 가동 시간은 218시간 29분이며, 네트워크 트래픽은 수신 22532.7 MB / 송신 4787.7 MB입니다.",
+      "meta": [
+        "시스템",
+        "LHM"
+      ],
+      "entities": [
+        "Intel N100",
+        "RAM",
+        "SSD"
+      ],
+      "keywords": [
+        "temperature",
+        "load",
+        "memory"
+      ],
+      "links": []
+    },
+    {
+      "title": "OpenClaw 상태 요약",
+      "summary": "OpenClaw 2026.7.1-2 (0790d9f)",
+      "take": "Runtime: running (pid 14252, Gateway process detected for gateway port 18789.) | Listening: 127.0.0.1:18789",
+      "meta": [
+        "OpenClaw",
+        "Gateway"
+      ],
+      "entities": [
+        "main",
+        "gateway"
+      ],
+      "keywords": [
+        "version",
+        "rpc",
+        "status"
+      ],
+      "links": []
+    }
+  ],
+  "footer": "AI-assisted morning briefing, unified data structure ready for stage 2"
+}
