@@ -1,0 +1,376 @@
+{
+  "date": "2026-09-06 07:00",
+  "title": "아침 브리핑",
+  "subtitle": "날씨 · 응원 · 일정 · 메일 · 유튜브 · 시스템 · OpenClaw",
+  "summary": "오늘 일정이 비어 있다면, 오히려 중요한 걸 조용히 정리할 수 있는 좋은 날입니다.",
+  "summary_box": "큰 변수 없이 움직이기 좋은 날씨입니다. 일정만 잘 잡으면 리듬 있게 가기 좋겠습니다. 오늘은 마음을 급하게 쓰지 말고, 가장 아쉬웠던 한 가지를 먼저 정리해 보시면 좋겠습니다. 그런 작은 정리가 하루의 기분을 꽤 크게 바꿉니다.",
+  "weather": {
+    "loc": "김해",
+    "temp": "22°C",
+    "desc": "Patchy rain nearby",
+    "icon": "⛅",
+    "badges": [
+      "체감 21°C",
+      "습도 73%",
+      "강수확률 11%",
+      "풍속 17km/h",
+      "UV 0",
+      "미세먼지 정보 연동 예정"
+    ],
+    "detail": {
+      "feels_like": "21",
+      "humidity": "73",
+      "rain_chance": "11",
+      "wind_kmph": "17",
+      "uv": "0",
+      "pm": "미세먼지 정보 연동 예정"
+    },
+    "life_comment": "큰 변수 없이 움직이기 좋은 날씨입니다. 일정만 잘 잡으면 리듬 있게 가기 좋겠습니다."
+  },
+  "sections": {
+    "calendar": {
+      "summary": "오늘 일정 없음",
+      "take": "오늘 등록된 일정이 없습니다. 이럴 때는 중요한 정리 한두 개만 분명하게 끝내도 충분합니다.",
+      "items": [],
+      "links": [],
+      "entities": [
+        "calendar"
+      ]
+    },
+    "mail": {
+      "summary": "[중요인물,에러] 보안 알림 / [확인필요] See Fei-Fei Li and Adam Gr / [확인필요] 아라테크 (제이에이치솔루션(JHS)->아라테크)",
+      "take": "지금 확인할 만한 메일만 추렸습니다. 결제, 업무, 보안성 알림 위주로 먼저 보면 됩니다.",
+      "items": [
+        {
+          "date": "2026-09-04 22:44",
+          "from": "Google <no-reply@accounts.google.com>",
+          "subject": "보안 알림",
+          "tags": [
+            "중요인물",
+            "에러"
+          ]
+        },
+        {
+          "date": "2026-09-04 18:29",
+          "from": "Cloudflare <em@em1.cloudflare.com>",
+          "subject": "See Fei-Fei Li and Adam Grant live at Cloudflare Connect",
+          "tags": [
+            "확인필요"
+          ]
+        },
+        {
+          "date": "2026-09-04 17:00",
+          "from": "\"국세청\" <hometaxadmin@hometax.go.kr>",
+          "subject": "아라테크 (제이에이치솔루션(JHS)->아라테크)",
+          "tags": [
+            "확인필요"
+          ]
+        }
+      ],
+      "links": [],
+      "entities": [
+        "중요인물",
+        "확인필요",
+        "에러"
+      ]
+    },
+    "youtube": {
+      "summary": "@진바이브 바이브코딩, 무제한 무료로 쓰는 법(합법)  / @JulianGoldieSEO Hermes Agent OS Changes  / @JulianGoldieSEO Claude AI SEO: How to Ra",
+      "take": "업로드 속도가 빠른 채널은 오늘도 여러 편이 들어왔습니다. 중요한 주제부터 2~3개만 골라 보면 효율이 좋습니다.",
+      "items": [
+        {
+          "channel": "@진바이브",
+          "title": "바이브코딩, 무제한 무료로 쓰는 법(합법) | Opus 5.0 수준",
+          "published": "09-06 06:38",
+          "published_dt": "2026-09-06T06:38:02+09:00",
+          "url": "https://www.youtube.com/watch?v=cnI_i8Thn34",
+          "thumbnail": "https://i.ytimg.com/vi/cnI_i8Thn34/hqdefault.jpg",
+          "summary": "이 영상은 모델/LLM, 개발도구, 수익화/마케팅 중심 내용입니다. 구성은 지금 바로 지코드를 통해 한국시간 밤 시간 기준으로 GLM 5.3 Flash를 무제한 무료로 쓰실 수 있습니다, 아래 링크를 통해 접속 후, 지코드를 사용하시면 됩니다, 추가 GLM 모델 구독 링크는 아래와 같습니다, 스터디 관련 공지단톡 *바이브코딩과 함께 하는 수익화 방법은 아래로(할인 -26%, 기한) 순서로 이어지며, 제목만으로는 보이지 않는 변화 배경·핵심 기능·실제 활용 포인트를 짚어보는 영상입니다.",
+          "description_excerpt": "지금 바로 지코드를 통해 한국시간 밤 시간 기준으로 GLM 5.3 Flash를 무제한 무료로 쓰실 수 있습니다. 아래 링크를 통해 접속 후, 지코드를 사용하시면 됩니다. 추가 GLM 모델 구독 링크는 아래와 같습니다. 스터디 관련 공지단톡 *바이브코딩과 함께 하는 수익화 방법은 아래로(할인 -26%, 기한)",
+          "transcript_excerpt": "",
+          "shorts": false
+        },
+        {
+          "channel": "@JulianGoldieSEO",
+          "title": "Hermes Agent OS Changes Everything",
+          "published": "09-06 06:00",
+          "published_dt": "2026-09-06T06:00:06+09:00",
+          "url": "https://www.youtube.com/watch?v=BmCVx8sHzLs",
+          "thumbnail": "https://i.ytimg.com/vi/BmCVx8sHzLs/hqdefault.jpg",
+          "summary": "이 영상은 모델/LLM, 에이전트/자동화, 수익화/마케팅 중심 내용입니다. 구성은 Intro to Hermes Agent OS, Hermes Astros: Automated Trend Watching, AI Outreach & Lead Generation, Hermes Apollo: Real-Time Voice Agent 순서로 이어집니다. Today I'm going to show you the Hermes Agent OS and it changes everything This thing works while I sleep Stick around because the last part is the wildest",
+          "description_excerpt": "Get the Agent OS & INSERTTOOL Masterclass 👉 00:00 - 00:00 - Intro to Hermes Agent OS 00:52 - Hermes Astros: Automated Trend Watching 02:06 - AI Outreach & Lead Generation 02:44 - Hermes Apollo: Real-Time Voice Agent 04:21 - Hermes Oracle: Automated News & Content 05:42 - Mixture of Agents Explained 07:08 - Orchestration & Shared Agent Memory",
+          "transcript_excerpt": "Today I'm going to show you the Hermes Agent OS and it changes everything. This thing works while I sleep. It finds topics. It writes posts. It talks back. It's new. It's big. And it's stupid easy. Stick around because the last part is the ",
+          "shorts": false
+        },
+        {
+          "channel": "@JulianGoldieSEO",
+          "title": "Claude AI SEO: How to Rank #1 FAST",
+          "published": "09-06 04:00",
+          "published_dt": "2026-09-06T04:00:38+09:00",
+          "url": "https://www.youtube.com/watch?v=ZfDziMprJxM",
+          "thumbnail": "https://i.ytimg.com/vi/ZfDziMprJxM/hqdefault.jpg",
+          "summary": "이 영상은 모델/LLM, 에이전트/자동화, 수익화/마케팅 중심 내용입니다. 구성은 Intro – Why most AI content never ranks, The Mistake – Generic prompts Google ignores, The Fix – Turn real work into ranking content, Golden Rule – Claude can't invent facts 순서로 이어지며, 제목만으로는 보이지 않는 변화 배경·핵심 기능·실제 활용 포인트를 짚어보는 영상입니다.",
+          "description_excerpt": "Get the Agent OS & Claude Masterclass 👉 00:00 Intro – Why most AI content never ranks 00:52 The Mistake – Generic prompts Google ignores 01:00 The Fix – Turn real work into ranking content 01:29 Golden Rule – Claude can't invent facts 02:22 Search Intent – Matching what searchers actually want 03:43 Authority Stack – Schema, case studies & internal links 05:",
+          "transcript_excerpt": "Claude AI SEO. How to rank number one fast. What if your best ranking page isn't something you write? Most AI content flops the moment it goes live. Google's already seen a thousand versions of it, but one small change flips the whole thing",
+          "shorts": false
+        },
+        {
+          "channel": "@JulianGoldieSEO",
+          "title": "ChatGPT Astra 6 is here!",
+          "published": "09-06 02:09",
+          "published_dt": "2026-09-06T02:09:45+09:00",
+          "url": "https://www.youtube.com/watch?v=R21MMUPMQwc",
+          "thumbnail": "https://i.ytimg.com/vi/R21MMUPMQwc/hqdefault.jpg",
+          "summary": "이 영상은 모델/LLM 중심 내용입니다. 구성은 Get the Agent OS + ChatGPT Asra 6 Masterclass 순서로 이어집니다. So today we have a big new update We've got GPT Astra and I'll come on to that in a second And we're going to get straight into this",
+          "description_excerpt": "Get the Agent OS + ChatGPT Asra 6 Masterclass",
+          "transcript_excerpt": "So today we have a big new update. We've got GPT Astra and I'll come on to that in a second. If you have any questions as we're going along, feel free to ask as well. And we're going to get straight into this. All right. So GPT6 Astra has b",
+          "shorts": false
+        },
+        {
+          "channel": "@fahdmirza",
+          "title": "Extropic Z1T: AI Models 100x More Energy Efficient Than GPUs?",
+          "published": "09-06 00:00",
+          "published_dt": "2026-09-06T00:00:35+09:00",
+          "url": "https://www.youtube.com/watch?v=R_t9d337As8",
+          "thumbnail": "https://i.ytimg.com/vi/R_t9d337As8/hqdefault.jpg",
+          "summary": "이 영상은 모델/LLM 중심 내용입니다. 구성은 Extropic just released Z1T, a family of transformer- AI models built not for GPUs, but for a completely different kind of chip called Z1 순서로 이어지며, 제목만으로는 보이지 않는 변화 배경·핵심 기능·실제 활용 포인트를 짚어보는 영상입니다.",
+          "description_excerpt": "Extropic just released Z1T, a family of transformer- AI models built not for GPUs, but for a completely different kind of chip called Z1. 📬Weekly AI : 🔥 Buy Me a Coffee to support the channel: PLEASE FOLLOW ME: ▶ LinkedIn: / fahdmirza ▶ YouTube: / ▶ Blog: RESOURCES: ▶ All rights reserved © Fahd Mirza",
+          "transcript_excerpt": "Every time you run a model like Deep Seek or Fable, a data center somewhere burns a surprising amount of power to do it. And as these models get bigger and bigger, that energy cost is turning into a real limit on where AI can go. So, here i",
+          "shorts": false
+        }
+      ],
+      "links": [
+        {
+          "label": "@진바이브 · 09-06 06:38",
+          "url": "https://www.youtube.com/watch?v=cnI_i8Thn34",
+          "thumbnail": "https://i.ytimg.com/vi/cnI_i8Thn34/hqdefault.jpg"
+        },
+        {
+          "label": "@JulianGoldieSEO · 09-06 06:00",
+          "url": "https://www.youtube.com/watch?v=BmCVx8sHzLs",
+          "thumbnail": "https://i.ytimg.com/vi/BmCVx8sHzLs/hqdefault.jpg"
+        },
+        {
+          "label": "@JulianGoldieSEO · 09-06 04:00",
+          "url": "https://www.youtube.com/watch?v=ZfDziMprJxM",
+          "thumbnail": "https://i.ytimg.com/vi/ZfDziMprJxM/hqdefault.jpg"
+        }
+      ],
+      "entities": [
+        "@진바이브",
+        "@JulianGoldieSEO",
+        "@JulianGoldieSEO",
+        "@JulianGoldieSEO"
+      ]
+    },
+    "system": {
+      "summary": "CPU 36.0% 사용 / RAM 11.4GB 사용 (72%) / SSD 404.2GB 사용 (85%, 여유 71.7GB) / 업타임 242시간 29분",
+      "take": "CPU는 현재 36.0% 사용 중이며, RAM은 총 15.8GB 중 11.4GB (72%), SSD는 총 475.9GB 중 404.2GB 사용 (85%, 여유 71.7GB) 중입니다. 시스템 가동 시간은 242시간 29분이며, 네트워크 트래픽은 수신 24172.3 MB / 송신 6619.3 MB입니다.",
+      "metrics": [
+        {
+          "label": "CPU 사용률",
+          "value": "36.0%",
+          "pct": 36.0,
+          "tone": "normal"
+        },
+        {
+          "label": "RAM 사용량",
+          "value": "11.4 / 15.8 GB (72%)",
+          "pct": 72.0,
+          "tone": "normal"
+        },
+        {
+          "label": "SSD 사용량",
+          "value": "404.2 / 475.9 GB (85%)",
+          "pct": 84.9,
+          "tone": "normal"
+        },
+        {
+          "label": "SSD 여유 공간",
+          "value": "71.7 / 475.9 GB",
+          "pct": 15.099999999999994,
+          "tone": "normal"
+        },
+        {
+          "label": "업타임",
+          "value": "242시간 29분",
+          "pct": 100,
+          "tone": "normal"
+        },
+        {
+          "label": "네트워크 수신",
+          "value": "24172.3 MB",
+          "pct": 100,
+          "tone": "normal"
+        },
+        {
+          "label": "네트워크 송신",
+          "value": "6619.3 MB",
+          "pct": 100,
+          "tone": "normal"
+        }
+      ]
+    },
+    "openclaw": {
+      "summary": "OpenClaw 2026.7.1-2 (0790d9f)",
+      "take": "Runtime: running (pid 14252, Gateway process detected for gateway port 18789.) | Listening: 127.0.0.1:18789",
+      "metrics": [
+        {
+          "label": "Gateway",
+          "value": "bind=loopback (127.0.0.1), port=18789 (service args)",
+          "pct": 100,
+          "tone": "normal"
+        },
+        {
+          "label": "Probe note",
+          "value": "Loopback-only gateway; only local clients can connect.",
+          "pct": 100,
+          "tone": "normal"
+        },
+        {
+          "label": "Runtime",
+          "value": "running (pid 14252, Gateway process detected for gateway port 18789.)",
+          "pct": 100,
+          "tone": "good"
+        },
+        {
+          "label": "Listening",
+          "value": "127.0.0.1:18789",
+          "pct": 100,
+          "tone": "good"
+        }
+      ]
+    }
+  },
+  "cards": [
+    {
+      "title": "오늘의 한마디",
+      "summary": "오늘 일정이 비어 있다면, 오히려 중요한 걸 조용히 정리할 수 있는 좋은 날입니다.",
+      "take": "큰 변수 없이 움직이기 좋은 날씨입니다. 일정만 잘 잡으면 리듬 있게 가기 좋겠습니다. 오늘은 마음을 급하게 쓰지 말고, 가장 아쉬웠던 한 가지를 먼저 정리해 보시면 좋겠습니다. 그런 작은 정리가 하루의 기분을 꽤 크게 바꿉니다.",
+      "meta": [
+        "응원",
+        "중간 길이"
+      ],
+      "entities": [],
+      "keywords": [
+        "아침",
+        "집중"
+      ],
+      "links": []
+    },
+    {
+      "title": "오늘 일정",
+      "summary": "오늘 일정 없음",
+      "take": "오늘 등록된 일정이 없습니다. 이럴 때는 중요한 정리 한두 개만 분명하게 끝내도 충분합니다.",
+      "meta": [
+        "일정",
+        "calendar"
+      ],
+      "entities": [
+        "calendar"
+      ],
+      "keywords": [
+        "calendar"
+      ],
+      "links": []
+    },
+    {
+      "title": "주요 메일 / 중요 알림",
+      "summary": "[중요인물,에러] 보안 알림 / [확인필요] See Fei-Fei Li and Adam Gr / [확인필요] 아라테크 (제이에이치솔루션(JHS)->아라테크)",
+      "take": "지금 확인할 만한 메일만 추렸습니다. 결제, 업무, 보안성 알림 위주로 먼저 보면 됩니다.",
+      "meta": [
+        "메일",
+        "gmail",
+        "중요 알림"
+      ],
+      "entities": [
+        "중요인물",
+        "확인필요",
+        "에러"
+      ],
+      "keywords": [
+        "gmail",
+        "alert"
+      ],
+      "links": []
+    },
+    {
+      "title": "유튜브 업데이트",
+      "summary": "@진바이브 바이브코딩, 무제한 무료로 쓰는 법(합법)  / @JulianGoldieSEO Hermes Agent OS Changes  / @JulianGoldieSEO Claude AI SEO: How to Ra",
+      "take": "업로드 속도가 빠른 채널은 오늘도 여러 편이 들어왔습니다. 중요한 주제부터 2~3개만 골라 보면 효율이 좋습니다.",
+      "meta": [
+        "유튜브",
+        "AI 채널",
+        "중간 길이"
+      ],
+      "entities": [
+        "@진바이브",
+        "@JulianGoldieSEO",
+        "@JulianGoldieSEO",
+        "@JulianGoldieSEO"
+      ],
+      "keywords": [
+        "youtube",
+        "update",
+        "thumbnail"
+      ],
+      "links": [
+        {
+          "label": "@진바이브 · 09-06 06:38",
+          "url": "https://www.youtube.com/watch?v=cnI_i8Thn34",
+          "thumbnail": "https://i.ytimg.com/vi/cnI_i8Thn34/hqdefault.jpg"
+        },
+        {
+          "label": "@JulianGoldieSEO · 09-06 06:00",
+          "url": "https://www.youtube.com/watch?v=BmCVx8sHzLs",
+          "thumbnail": "https://i.ytimg.com/vi/BmCVx8sHzLs/hqdefault.jpg"
+        },
+        {
+          "label": "@JulianGoldieSEO · 09-06 04:00",
+          "url": "https://www.youtube.com/watch?v=ZfDziMprJxM",
+          "thumbnail": "https://i.ytimg.com/vi/ZfDziMprJxM/hqdefault.jpg"
+        }
+      ]
+    },
+    {
+      "title": "시스템 상태 요약",
+      "summary": "CPU 36.0% 사용 / RAM 11.4GB 사용 (72%) / SSD 404.2GB 사용 (85%, 여유 71.7GB) / 업타임 242시간 29분",
+      "take": "CPU는 현재 36.0% 사용 중이며, RAM은 총 15.8GB 중 11.4GB (72%), SSD는 총 475.9GB 중 404.2GB 사용 (85%, 여유 71.7GB) 중입니다. 시스템 가동 시간은 242시간 29분이며, 네트워크 트래픽은 수신 24172.3 MB / 송신 6619.3 MB입니다.",
+      "meta": [
+        "시스템",
+        "LHM"
+      ],
+      "entities": [
+        "Intel N100",
+        "RAM",
+        "SSD"
+      ],
+      "keywords": [
+        "temperature",
+        "load",
+        "memory"
+      ],
+      "links": []
+    },
+    {
+      "title": "OpenClaw 상태 요약",
+      "summary": "OpenClaw 2026.7.1-2 (0790d9f)",
+      "take": "Runtime: running (pid 14252, Gateway process detected for gateway port 18789.) | Listening: 127.0.0.1:18789",
+      "meta": [
+        "OpenClaw",
+        "Gateway"
+      ],
+      "entities": [
+        "main",
+        "gateway"
+      ],
+      "keywords": [
+        "version",
+        "rpc",
+        "status"
+      ],
+      "links": []
+    }
+  ],
+  "footer": "AI-assisted morning briefing, unified data structure ready for stage 2"
+}
