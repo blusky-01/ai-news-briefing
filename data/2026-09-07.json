@@ -1,0 +1,330 @@
+{
+  "date": "2026-09-07 07:00",
+  "title": "아침 브리핑",
+  "subtitle": "날씨 · 응원 · 일정 · 메일 · 유튜브 · 시스템 · OpenClaw",
+  "summary": "오늘은 누가 밀어붙이지 않아도 됩니다. 팀장님 리듬대로 중요한 것부터 차분히 끝내면 됩니다.",
+  "summary_box": "큰 변수 없이 움직이기 좋은 날씨입니다. 일정만 잘 잡으면 리듬 있게 가기 좋겠습니다. 오늘은 마음을 급하게 쓰지 말고, 가장 아쉬웠던 한 가지를 먼저 정리해 보시면 좋겠습니다. 그런 작은 정리가 하루의 기분을 꽤 크게 바꿉니다.",
+  "weather": {
+    "loc": "김해",
+    "temp": "22°C",
+    "desc": "Overcast ",
+    "icon": "⛅",
+    "badges": [
+      "체감 20°C",
+      "습도 70%",
+      "강수확률 2%",
+      "풍속 18km/h",
+      "UV 0",
+      "미세먼지 정보 연동 예정"
+    ],
+    "detail": {
+      "feels_like": "20",
+      "humidity": "70",
+      "rain_chance": "2",
+      "wind_kmph": "18",
+      "uv": "0",
+      "pm": "미세먼지 정보 연동 예정"
+    },
+    "life_comment": "큰 변수 없이 움직이기 좋은 날씨입니다. 일정만 잘 잡으면 리듬 있게 가기 좋겠습니다."
+  },
+  "sections": {
+    "calendar": {
+      "summary": "오늘 일정 없음",
+      "take": "오늘 등록된 일정이 없습니다. 이럴 때는 중요한 정리 한두 개만 분명하게 끝내도 충분합니다.",
+      "items": [],
+      "links": [],
+      "entities": [
+        "calendar"
+      ]
+    },
+    "mail": {
+      "summary": "주요 메일 없음",
+      "take": "최근 2일 기준 광고성 제외 후 결제·업무·중요인물·에러 메일이 감지되지 않았습니다.",
+      "items": [],
+      "links": [],
+      "entities": []
+    },
+    "youtube": {
+      "summary": "@fahdmirza How to Scan AI Agent Ski / @JulianGoldieSEO How to Automate Meta Ads / @JulianGoldieSEO How to Automate SEO With",
+      "take": "업로드 속도가 빠른 채널은 오늘도 여러 편이 들어왔습니다. 중요한 주제부터 2~3개만 골라 보면 효율이 좋습니다.",
+      "items": [
+        {
+          "channel": "@fahdmirza",
+          "title": "How to Scan AI Agent Skills for Hidden Malware: NVIDIA SkillSpector",
+          "published": "09-07 06:31",
+          "published_dt": "2026-09-07T06:31:21+09:00",
+          "url": "https://www.youtube.com/watch?v=ytpOsXoMigQ",
+          "thumbnail": "https://i.ytimg.com/vi/ytpOsXoMigQ/hqdefault.jpg",
+          "summary": "이 영상은 모델/LLM, 에이전트/자동화, 튜토리얼/설정 중심 내용입니다. 구성은 This video installs and tests SkillSpector, which is security scanner for AI agent skills, Detect vulnerabilities, malicious patterns, security risks, prompt injection, data exfiltration, and supply-chain risks 순서로 이어지며, 제목만으로는 보이지 않는 변화 배경·핵심 기능·실제 활용 포인트를 짚어보는 영상입니다.",
+          "description_excerpt": "This video installs and tests SkillSpector, which is security scanner for AI agent skills. Detect vulnerabilities, malicious patterns, security risks, prompt injection, data exfiltration, and supply-chain risks. 🔥 Get 50% Discount on any A6000 or A5000 GPU rental, use following link and coupon: Coupon code: FahdMirza 🔥 Buy Me a Coffee to support the channel:",
+          "transcript_excerpt": "Sometimes, Nvidia just creates a wow factor. Skill Specter from Nvidia is one such open-source project. Let me set the stage and explain why I believe this is one of the most important projects in AI these days. This video is not sponsored ",
+          "shorts": false
+        },
+        {
+          "channel": "@JulianGoldieSEO",
+          "title": "How to Automate Meta Ads With GPT-6 Astra",
+          "published": "09-07 06:00",
+          "published_dt": "2026-09-07T06:00:37+09:00",
+          "url": "https://www.youtube.com/watch?v=9OyaesAStME",
+          "thumbnail": "https://i.ytimg.com/vi/9OyaesAStME/hqdefault.jpg",
+          "summary": "이 영상은 모델/LLM, 에이전트/자동화, 수익화/마케팅 중심 내용입니다. 구성은 Intro – AI-powered ads setup, Add Skills – plug any skill into your agent OS, Connect Meta Ads – live ad reporting, Generate Ads – auto creatives & copy 순서로 이어지며, 제목만으로는 보이지 않는 변화 배경·핵심 기능·실제 활용 포인트를 짚어보는 영상입니다.",
+          "description_excerpt": "Get the Agent OS & GPT Masterclass 👉 00:00 Intro – AI-powered ads setup 01:06 Add Skills – plug any skill into your agent OS 02:11 Connect Meta Ads – live ad reporting 03:13 Generate Ads – auto creatives & copy 04:20 Reality Check – don't outsource decisions 05:19 Enable API – final connection step 06:01 Recap – full workflow, fast",
+          "transcript_excerpt": "So today we're going to be talking about how to use Astra and GPT6 for improving and monitoring meta ads. Right? So how to use ads with AI and also improve your systems for ads. Right? So Mazi asks inside the air boardroom agent OS for me a",
+          "shorts": false
+        },
+        {
+          "channel": "@JulianGoldieSEO",
+          "title": "How to Automate SEO With GPT-6 Astra",
+          "published": "09-07 04:00",
+          "published_dt": "2026-09-07T04:00:05+09:00",
+          "url": "https://www.youtube.com/watch?v=8iGiUvzbQtA",
+          "thumbnail": "https://i.ytimg.com/vi/8iGiUvzbQtA/hqdefault.jpg",
+          "summary": "이 영상은 모델/LLM, 에이전트/자동화, 수익화/마케팅 중심 내용입니다. 구성은 Intro – Real results (0 → 423 clicks/day), Keyword research from Search Console, Auto-generate 5 articles per site, Memory = unique, rankable content 순서로 이어지며, 제목만으로는 보이지 않는 변화 배경·핵심 기능·실제 활용 포인트를 짚어보는 영상입니다.",
+          "description_excerpt": "Get the Agent OS & GPT Masterclass 👉 00:00 Intro – Real results (0 → 423 clicks/day) 00:40 Keyword research from Search Console 02:45 Auto-generate 5 articles per site 03:11 Memory = unique, rankable content 05:01 24/7 cloud content routines 08:04 Astra vs Claude for SEO automation 09:50 Fully automated SEO machine (runs daily)",
+          "transcript_excerpt": "Today we are going to be looking at how to do AI SEO with GPT6 Astra plus codeex. So what we're going to do is build this into our aentic operating system and we're going to look at some of the best ways that we can use this for AICOR based",
+          "shorts": false
+        },
+        {
+          "channel": "@JulianGoldieSEO",
+          "title": "LIVE: Watch GPT 6 Astra Build The Ultimate Agent OS",
+          "published": "09-07 02:41",
+          "published_dt": "2026-09-07T02:41:55+09:00",
+          "url": "https://www.youtube.com/watch?v=BqG9VjEkZB0",
+          "thumbnail": "https://i.ytimg.com/vi/BqG9VjEkZB0/hqdefault.jpg",
+          "summary": "이 영상은 모델/LLM, 에이전트/자동화, 튜토리얼/설정 중심 내용입니다. 구성은 Get the Agent OS + GPT 6 Astra Masterclass 👉 순서로 이어지며, 제목만으로는 보이지 않는 변화 배경·핵심 기능·실제 활용 포인트를 짚어보는 영상입니다.",
+          "description_excerpt": "Get the Agent OS + GPT 6 Astra Masterclass 👉",
+          "transcript_excerpt": "Today we're going to be running through how to use GPT6 to build a powerful agentic operating system. So, one of the things I found with GT6 Astra is that it's incredibly powerful for building and designing your own tools, including the age",
+          "shorts": false
+        },
+        {
+          "channel": "@fahdmirza",
+          "title": "OmegaClaw: An AI Agent Built on Symbolic Logic, Not Just an LLM",
+          "published": "09-06 22:00",
+          "published_dt": "2026-09-06T22:00:17+09:00",
+          "url": "https://www.youtube.com/watch?v=ToU9gYXBBWI",
+          "thumbnail": "https://i.ytimg.com/vi/ToU9gYXBBWI/hqdefault.jpg",
+          "summary": "이 영상은 모델/LLM, 에이전트/자동화, 수익화/마케팅 중심 내용입니다. 구성은 This video locally installs and tests OmegaClaw, a neural-symbolic agent framework built on the Hyperon AGI stack 순서로 이어지며, 제목만으로는 보이지 않는 변화 배경·핵심 기능·실제 활용 포인트를 짚어보는 영상입니다.",
+          "description_excerpt": "This video locally installs and tests OmegaClaw, a neural-symbolic agent framework built on the Hyperon AGI stack. 🔥 Get 50% Discount on any A6000 or A5000 GPU rental, use following link and coupon: Coupon code: FahdMirza 🔥 Buy Me a Coffee to support the channel: PLEASE FOLLOW ME: ▶ LinkedIn: / fahdmirza ▶ YouTube: / ▶ Blog: RESOURCES: ▶ All rights reserved ",
+          "transcript_excerpt": "Most agents you run are a request and a response. You ask, it answers, and when the session closes, the whole thing is gone, including whatever reasoning got it there. Omega Claw is structured differently. It is an open-source agent framewo",
+          "shorts": false
+        }
+      ],
+      "links": [
+        {
+          "label": "@fahdmirza · 09-07 06:31",
+          "url": "https://www.youtube.com/watch?v=ytpOsXoMigQ",
+          "thumbnail": "https://i.ytimg.com/vi/ytpOsXoMigQ/hqdefault.jpg"
+        },
+        {
+          "label": "@JulianGoldieSEO · 09-07 06:00",
+          "url": "https://www.youtube.com/watch?v=9OyaesAStME",
+          "thumbnail": "https://i.ytimg.com/vi/9OyaesAStME/hqdefault.jpg"
+        },
+        {
+          "label": "@JulianGoldieSEO · 09-07 04:00",
+          "url": "https://www.youtube.com/watch?v=8iGiUvzbQtA",
+          "thumbnail": "https://i.ytimg.com/vi/8iGiUvzbQtA/hqdefault.jpg"
+        }
+      ],
+      "entities": [
+        "@fahdmirza",
+        "@JulianGoldieSEO",
+        "@JulianGoldieSEO",
+        "@JulianGoldieSEO"
+      ]
+    },
+    "system": {
+      "summary": "CPU 11.5% 사용 / RAM 11.9GB 사용 (75%) / SSD 432.3GB 사용 (91%, 여유 43.6GB) / 업타임 266시간 29분",
+      "take": "CPU는 현재 11.5% 사용 중이며, RAM은 총 15.8GB 중 11.9GB (75%), SSD는 총 475.9GB 중 432.3GB 사용 (91%, 여유 43.6GB) 중입니다. 시스템 가동 시간은 266시간 29분이며, 네트워크 트래픽은 수신 27918.6 MB / 송신 10542.8 MB입니다.",
+      "metrics": [
+        {
+          "label": "CPU 사용률",
+          "value": "11.5%",
+          "pct": 11.5,
+          "tone": "normal"
+        },
+        {
+          "label": "RAM 사용량",
+          "value": "11.9 / 15.8 GB (75%)",
+          "pct": 75.1,
+          "tone": "normal"
+        },
+        {
+          "label": "SSD 사용량",
+          "value": "432.3 / 475.9 GB (91%)",
+          "pct": 90.8,
+          "tone": "warm"
+        },
+        {
+          "label": "SSD 여유 공간",
+          "value": "43.6 / 475.9 GB",
+          "pct": 9.200000000000003,
+          "tone": "normal"
+        },
+        {
+          "label": "업타임",
+          "value": "266시간 29분",
+          "pct": 100,
+          "tone": "normal"
+        },
+        {
+          "label": "네트워크 수신",
+          "value": "27918.6 MB",
+          "pct": 100,
+          "tone": "normal"
+        },
+        {
+          "label": "네트워크 송신",
+          "value": "10542.8 MB",
+          "pct": 100,
+          "tone": "normal"
+        }
+      ]
+    },
+    "openclaw": {
+      "summary": "OpenClaw 2026.7.1-2 (0790d9f)",
+      "take": "OpenClaw 게이트웨이 정상 작동 중",
+      "metrics": [
+        {
+          "label": "Runtime",
+          "value": "running",
+          "pct": 100,
+          "tone": "good"
+        },
+        {
+          "label": "Gateway",
+          "value": "active",
+          "pct": 100,
+          "tone": "good"
+        }
+      ]
+    }
+  },
+  "cards": [
+    {
+      "title": "오늘의 한마디",
+      "summary": "오늘은 누가 밀어붙이지 않아도 됩니다. 팀장님 리듬대로 중요한 것부터 차분히 끝내면 됩니다.",
+      "take": "큰 변수 없이 움직이기 좋은 날씨입니다. 일정만 잘 잡으면 리듬 있게 가기 좋겠습니다. 오늘은 마음을 급하게 쓰지 말고, 가장 아쉬웠던 한 가지를 먼저 정리해 보시면 좋겠습니다. 그런 작은 정리가 하루의 기분을 꽤 크게 바꿉니다.",
+      "meta": [
+        "응원",
+        "중간 길이"
+      ],
+      "entities": [],
+      "keywords": [
+        "아침",
+        "집중"
+      ],
+      "links": []
+    },
+    {
+      "title": "오늘 일정",
+      "summary": "오늘 일정 없음",
+      "take": "오늘 등록된 일정이 없습니다. 이럴 때는 중요한 정리 한두 개만 분명하게 끝내도 충분합니다.",
+      "meta": [
+        "일정",
+        "calendar"
+      ],
+      "entities": [
+        "calendar"
+      ],
+      "keywords": [
+        "calendar"
+      ],
+      "links": []
+    },
+    {
+      "title": "주요 메일 / 중요 알림",
+      "summary": "주요 메일 없음",
+      "take": "최근 2일 기준 광고성 제외 후 결제·업무·중요인물·에러 메일이 감지되지 않았습니다.",
+      "meta": [
+        "메일",
+        "gmail",
+        "중요 알림"
+      ],
+      "entities": [],
+      "keywords": [
+        "gmail",
+        "alert"
+      ],
+      "links": []
+    },
+    {
+      "title": "유튜브 업데이트",
+      "summary": "@fahdmirza How to Scan AI Agent Ski / @JulianGoldieSEO How to Automate Meta Ads / @JulianGoldieSEO How to Automate SEO With",
+      "take": "업로드 속도가 빠른 채널은 오늘도 여러 편이 들어왔습니다. 중요한 주제부터 2~3개만 골라 보면 효율이 좋습니다.",
+      "meta": [
+        "유튜브",
+        "AI 채널",
+        "중간 길이"
+      ],
+      "entities": [
+        "@fahdmirza",
+        "@JulianGoldieSEO",
+        "@JulianGoldieSEO",
+        "@JulianGoldieSEO"
+      ],
+      "keywords": [
+        "youtube",
+        "update",
+        "thumbnail"
+      ],
+      "links": [
+        {
+          "label": "@fahdmirza · 09-07 06:31",
+          "url": "https://www.youtube.com/watch?v=ytpOsXoMigQ",
+          "thumbnail": "https://i.ytimg.com/vi/ytpOsXoMigQ/hqdefault.jpg"
+        },
+        {
+          "label": "@JulianGoldieSEO · 09-07 06:00",
+          "url": "https://www.youtube.com/watch?v=9OyaesAStME",
+          "thumbnail": "https://i.ytimg.com/vi/9OyaesAStME/hqdefault.jpg"
+        },
+        {
+          "label": "@JulianGoldieSEO · 09-07 04:00",
+          "url": "https://www.youtube.com/watch?v=8iGiUvzbQtA",
+          "thumbnail": "https://i.ytimg.com/vi/8iGiUvzbQtA/hqdefault.jpg"
+        }
+      ]
+    },
+    {
+      "title": "시스템 상태 요약",
+      "summary": "CPU 11.5% 사용 / RAM 11.9GB 사용 (75%) / SSD 432.3GB 사용 (91%, 여유 43.6GB) / 업타임 266시간 29분",
+      "take": "CPU는 현재 11.5% 사용 중이며, RAM은 총 15.8GB 중 11.9GB (75%), SSD는 총 475.9GB 중 432.3GB 사용 (91%, 여유 43.6GB) 중입니다. 시스템 가동 시간은 266시간 29분이며, 네트워크 트래픽은 수신 27918.6 MB / 송신 10542.8 MB입니다.",
+      "meta": [
+        "시스템",
+        "LHM"
+      ],
+      "entities": [
+        "Intel N100",
+        "RAM",
+        "SSD"
+      ],
+      "keywords": [
+        "temperature",
+        "load",
+        "memory"
+      ],
+      "links": []
+    },
+    {
+      "title": "OpenClaw 상태 요약",
+      "summary": "OpenClaw 2026.7.1-2 (0790d9f)",
+      "take": "OpenClaw 게이트웨이 정상 작동 중",
+      "meta": [
+        "OpenClaw",
+        "Gateway"
+      ],
+      "entities": [
+        "main",
+        "gateway"
+      ],
+      "keywords": [
+        "version",
+        "rpc",
+        "status"
+      ],
+      "links": []
+    }
+  ],
+  "footer": "AI-assisted morning briefing, unified data structure ready for stage 2"
+}
