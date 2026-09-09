@@ -1,0 +1,375 @@
+{
+  "date": "2026-09-10 07:00",
+  "title": "아침 브리핑",
+  "subtitle": "날씨 · 응원 · 일정 · 메일 · 유튜브 · 시스템 · OpenClaw",
+  "summary": "오늘은 누가 밀어붙이지 않아도 됩니다. 팀장님 리듬대로 중요한 것부터 차분히 끝내면 됩니다.",
+  "summary_box": "큰 변수 없이 움직이기 좋은 날씨입니다. 일정만 잘 잡으면 리듬 있게 가기 좋겠습니다. 오늘은 마음을 급하게 쓰지 말고, 가장 아쉬웠던 한 가지를 먼저 정리해 보시면 좋겠습니다. 그런 작은 정리가 하루의 기분을 꽤 크게 바꿉니다.",
+  "weather": {
+    "loc": "김해",
+    "temp": "18°C",
+    "desc": "Partly Cloudy ",
+    "icon": "⛅",
+    "badges": [
+      "체감 16°C",
+      "습도 63%",
+      "강수확률 3%",
+      "풍속 12km/h",
+      "UV 0",
+      "미세먼지 정보 연동 예정"
+    ],
+    "detail": {
+      "feels_like": "16",
+      "humidity": "63",
+      "rain_chance": "3",
+      "wind_kmph": "12",
+      "uv": "0",
+      "pm": "미세먼지 정보 연동 예정"
+    },
+    "life_comment": "큰 변수 없이 움직이기 좋은 날씨입니다. 일정만 잘 잡으면 리듬 있게 가기 좋겠습니다."
+  },
+  "sections": {
+    "calendar": {
+      "summary": "오늘 일정 없음",
+      "take": "오늘 등록된 일정이 없습니다. 이럴 때는 중요한 정리 한두 개만 분명하게 끝내도 충분합니다.",
+      "items": [],
+      "links": [],
+      "entities": [
+        "calendar"
+      ]
+    },
+    "mail": {
+      "summary": "[확인필요] Ollama's Team plan is now  / [확인필요] Your latest Trimble Sketch",
+      "take": "지금 확인할 만한 메일만 추렸습니다. 결제, 업무, 보안성 알림 위주로 먼저 보면 됩니다.",
+      "items": [
+        {
+          "date": "2026-09-09 10:37",
+          "from": "Ollama <hello@ollama.com>",
+          "subject": "Ollama's Team plan is now available",
+          "tags": [
+            "확인필요"
+          ]
+        },
+        {
+          "date": "2026-09-09 01:17",
+          "from": "SketchUp <sketchup@emails.trimble.com>",
+          "subject": "Your latest Trimble SketchUp product & technical updates",
+          "tags": [
+            "확인필요"
+          ]
+        }
+      ],
+      "links": [],
+      "entities": [
+        "확인필요"
+      ]
+    },
+    "youtube": {
+      "summary": "@JulianGoldieSEO New Hermes Kanban Agent  / @fahdmirza DeepSeek V4.1 Flash: The / @JulianGoldieSEO GPT 6 Astra Built a 3D G",
+      "take": "업로드 속도가 빠른 채널은 오늘도 여러 편이 들어왔습니다. 중요한 주제부터 2~3개만 골라 보면 효율이 좋습니다.",
+      "items": [
+        {
+          "channel": "@JulianGoldieSEO",
+          "title": "New Hermes Kanban Agent Is CRAZY!",
+          "published": "09-10 06:00",
+          "published_dt": "2026-09-10T06:00:23+09:00",
+          "url": "https://www.youtube.com/watch?v=L36JNpEHlc4",
+          "thumbnail": "https://i.ytimg.com/vi/L36JNpEHlc4/hqdefault.jpg",
+          "summary": "이 영상은 모델/LLM, 에이전트/자동화, 수익화/마케팅 중심 내용입니다. 구성은 Intro: The Problem with Manual Boards, Why Old Kanban Systems Fail, Introducing Kanban 2.0, The 5-Floor Agent Framework 순서로 이어지며, 제목만으로는 보이지 않는 변화 배경·핵심 기능·실제 활용 포인트를 짚어보는 영상입니다.",
+          "description_excerpt": "Get the Agent OS & Hermes Kanban Masterclass 👉 00:00 - Intro: The Problem with Manual Boards 01:00 - Why Old Kanban Systems Fail 01:37 - Introducing Kanban 2.0 02:00 - The 5-Floor Agent Framework 03:04 - Live Demo: Idea to Project 03:39 - The Human-in-the-Loop Gate 05:06 - Exploring the Project Gallery 05:44 - Obsidian & Agent Memory 08:02 - Scaling Traffic ",
+          "transcript_excerpt": "new Hermes Kambban agent is crazy and I'm going to show you exactly why on my screen right now. Okay, so most people right now have a board full of cards they drag around themselves or a to-do list that just gets longer or they're going bac",
+          "shorts": false
+        },
+        {
+          "channel": "@fahdmirza",
+          "title": "DeepSeek V4.1 Flash: The New Speed King That Also Thinks Straight",
+          "published": "09-10 05:57",
+          "published_dt": "2026-09-10T05:57:05+09:00",
+          "url": "https://www.youtube.com/watch?v=nAxFGBK01lY",
+          "thumbnail": "https://i.ytimg.com/vi/nAxFGBK01lY/hqdefault.jpg",
+          "summary": "이 영상은 모델/LLM, 에이전트/자동화 중심 내용입니다. 구성은 This video introduces and tests DeepSeek V4.1 Flash: Built a 3D Viewer, Caught an ATC Bug, Solved Physics — All From Scratch 순서로 이어지며, 제목만으로는 보이지 않는 변화 배경·핵심 기능·실제 활용 포인트를 짚어보는 영상입니다.",
+          "description_excerpt": "This video introduces and tests DeepSeek V4.1 Flash: Built a 3D Viewer, Caught an ATC Bug, Solved Physics — All From Scratch. 📬Weekly AI : 🔥 Buy Me a Coffee to support the channel: PLEASE FOLLOW ME: ▶ LinkedIn: / fahdmirza ▶ YouTube: / ▶ Blog: RESOURCES: ▶ All rights reserved © Fahd Mirza",
+          "transcript_excerpt": "Deepseek has just released a standard upgrade to their V4 model. This is V4.1 flash and they say that it is fast. Real world tests are clocking 300 to 400 plus tokens per second, hitting 98% of GPT6 Astra's design benchmark score. But today",
+          "shorts": false
+        },
+        {
+          "channel": "@JulianGoldieSEO",
+          "title": "GPT 6 Astra Built a 3D Game in 7 Minutes",
+          "published": "09-10 04:30",
+          "published_dt": "2026-09-10T04:30:13+09:00",
+          "url": "https://www.youtube.com/watch?v=mmkh8rSk1O4",
+          "thumbnail": "https://i.ytimg.com/vi/mmkh8rSk1O4/hqdefault.jpg",
+          "summary": "이 영상은 모델/LLM 중심 내용입니다. 구성은 Get the Agent OS & INSERTTOOL Masterclass 👉 순서로 이어집니다. GPT-6 Astra built a 3D game in 7 minutes With GPT-6 Astra connected to Blender, you can turn a single prompt into a playable 3D game in minutes You just describe the idea and it builds it live",
+          "description_excerpt": "Get the Agent OS & INSERTTOOL Masterclass 👉",
+          "transcript_excerpt": "GPT-6 Astra built a 3D game in 7 minutes. With GPT-6 Astra connected to Blender, you can turn a single prompt into a playable 3D game in minutes. No coding, no modeling skills. You just describe the idea and it builds it live. Racing games,",
+          "shorts": false
+        },
+        {
+          "channel": "@JulianGoldieSEO",
+          "title": "Omarchy Just Got $1.5 MILLION in FREE Meta AI Tokens",
+          "published": "09-10 04:00",
+          "published_dt": "2026-09-10T04:00:37+09:00",
+          "url": "https://www.youtube.com/watch?v=98XZfy7cYCo",
+          "thumbnail": "https://i.ytimg.com/vi/98XZfy7cYCo/hqdefault.jpg",
+          "summary": "이 영상은 모델/LLM, 에이전트/자동화, 수익화/마케팅 중심 내용입니다. 구성은 Intro – Omarchy gets $1.5M in AI tokens, What Omarchy Is – Arch Linux + Hyprland, built by DHH, The Big News – Meta, Anthropic, OpenAI back the project, Why Tokens Matter – Agents built most of the OS 순서로 이어지며, 제목만으로는 보이지 않는 변화 배경·핵심 기능·실제 활용 포인트를 짚어보는 영상입니다.",
+          "description_excerpt": "Get the Agent OS & Omarchy Masterclass 👉 00:00 Intro – Omarchy gets $1.5M in AI tokens 00:37 What Omarchy Is – Arch Linux + Hyprland, built by DHH 01:16 The Big News – Meta, Anthropic, OpenAI back the project 01:56 Why Tokens Matter – Agents built most of the OS 02:19 Reaction – Praise, criticism & security flaws 03:13 AI Profit Boardroom – Live coaching plu",
+          "transcript_excerpt": "Omar Key just got 1.5 million dollars in free meta AI tokens. A Linux desktop just got handed a mountain of AI tokens. Not a startup, not a research lab, an operating system. And here's the strange part. Agents already built most of it. 200",
+          "shorts": false
+        },
+        {
+          "channel": "@zerochotv",
+          "title": "밀레니엄 난제도, 캡챠도 다 풀어버린 GPT-6 Astra, 이래도 AGI가 아닌가? #나비에스톡스 #captcha",
+          "published": "09-09 18:07",
+          "published_dt": "2026-09-09T18:07:07+09:00",
+          "url": "https://www.youtube.com/watch?v=0SHWrgHow-4",
+          "thumbnail": "https://i.ytimg.com/vi/0SHWrgHow-4/hqdefault.jpg",
+          "summary": "이 영상은 개발도구 중심 내용입니다. 구성은 6.8만명이 수강한 제로초 강좌/로드맵 통합 링크!, 의지력이 약해 다른 사람들과 함께 수강하고 싶다면!, + 고민상담, 질문도 하고 싶다면 3천명이 모여있는 제로초스쿨에서! 순서로 이어집니다. 6.8만명이 수강한 제로초 강좌/로드맵 통합 링크! 의지력이 약해 다른 사람들과 함께 수강하고 싶다면! 제로초 덕분에 취업했다면 감사의 표시를 - 후원 및 멤버십 -- -- 깃헙 -- (레포지토리 스타 눌러주세요) -- 소개 -- Node.js 교과서, 코딩 자율학습 제로초의 자바스크립트 입문, 타입스크립트 교과서 저자 제로초닷컴(ZeroCho.c...",
+          "description_excerpt": "6.8만명이 수강한 제로초 강좌/로드맵 통합 링크! 의지력이 약해 다른 사람들과 함께 수강하고 싶다면! + 고민상담, 질문도 하고 싶다면 3천명이 모여있는 제로초스쿨에서! 제로초 덕분에 취업했다면 감사의 표시를 - 후원 및 멤버십 -- -- 깃헙 -- (레포지토리 스타 눌러주세요) -- 소개 -- Node.js 교과서, 코딩 자율학습 제로초의 자바스크립트 입문, 타입스크립트 교과서 저자 제로초닷컴(ZeroCho.com) 운영자 전)카카오모빌리티 파트장, 스모어톡/오늘의픽업/MYFIT CTO",
+          "transcript_excerpt": "",
+          "shorts": false
+        }
+      ],
+      "links": [
+        {
+          "label": "@JulianGoldieSEO · 09-10 06:00",
+          "url": "https://www.youtube.com/watch?v=L36JNpEHlc4",
+          "thumbnail": "https://i.ytimg.com/vi/L36JNpEHlc4/hqdefault.jpg"
+        },
+        {
+          "label": "@fahdmirza · 09-10 05:57",
+          "url": "https://www.youtube.com/watch?v=nAxFGBK01lY",
+          "thumbnail": "https://i.ytimg.com/vi/nAxFGBK01lY/hqdefault.jpg"
+        },
+        {
+          "label": "@JulianGoldieSEO · 09-10 04:30",
+          "url": "https://www.youtube.com/watch?v=mmkh8rSk1O4",
+          "thumbnail": "https://i.ytimg.com/vi/mmkh8rSk1O4/hqdefault.jpg"
+        }
+      ],
+      "entities": [
+        "@JulianGoldieSEO",
+        "@fahdmirza",
+        "@JulianGoldieSEO",
+        "@JulianGoldieSEO"
+      ]
+    },
+    "system": {
+      "summary": "CPU 26.2 % 사용 / RAM 7.2GB 사용 (46%) / SSD 295.6GB 사용 (62%, 여유 180.3GB) / 업타임 9시간 56분",
+      "take": "CPU는 현재 26.2 % 사용 중이며, RAM은 총 15.8GB 중 7.2GB (46%), SSD는 총 475.9GB 중 295.6GB 사용 (62%, 여유 180.3GB) 중입니다. 시스템 가동 시간은 9시간 56분이며, 네트워크 트래픽은 수신 539.8 MB / 송신 1262.3 MB입니다. CPU 클럭은 504.0 MHz, 버스 스피드는 100.8 MHz입니다.",
+      "metrics": [
+        {
+          "label": "CPU 사용률",
+          "value": "26.2 %",
+          "pct": 26.2,
+          "tone": "normal"
+        },
+        {
+          "label": "CPU 클럭",
+          "value": "504.0 MHz",
+          "pct": 14.4,
+          "tone": "normal"
+        },
+        {
+          "label": "버스 스피드",
+          "value": "100.8 MHz",
+          "pct": 100,
+          "tone": "normal"
+        },
+        {
+          "label": "CPU 온도",
+          "value": "47.0 °C",
+          "pct": 47.0,
+          "tone": "normal"
+        },
+        {
+          "label": "RAM 사용량",
+          "value": "7.2 / 15.8 GB (46%)",
+          "pct": 45.6,
+          "tone": "normal"
+        },
+        {
+          "label": "SSD 사용량",
+          "value": "295.6 / 475.9 GB (62%)",
+          "pct": 62.1,
+          "tone": "normal"
+        },
+        {
+          "label": "SSD 여유 공간",
+          "value": "180.3 / 475.9 GB",
+          "pct": 37.9,
+          "tone": "normal"
+        },
+        {
+          "label": "SSD 온도",
+          "value": "40.0 °C",
+          "pct": 40.0,
+          "tone": "normal"
+        },
+        {
+          "label": "업타임",
+          "value": "9시간 56분",
+          "pct": 36,
+          "tone": "normal"
+        },
+        {
+          "label": "네트워크 수신",
+          "value": "539.8 MB",
+          "pct": 100,
+          "tone": "normal"
+        },
+        {
+          "label": "네트워크 송신",
+          "value": "1262.3 MB",
+          "pct": 100,
+          "tone": "normal"
+        }
+      ]
+    },
+    "openclaw": {
+      "summary": "OpenClaw 2026.9.2 (3928bad)",
+      "take": "OpenClaw 게이트웨이 정상 작동 중",
+      "metrics": [
+        {
+          "label": "Runtime",
+          "value": "running",
+          "pct": 100,
+          "tone": "good"
+        },
+        {
+          "label": "Gateway",
+          "value": "active",
+          "pct": 100,
+          "tone": "good"
+        }
+      ]
+    }
+  },
+  "cards": [
+    {
+      "title": "오늘의 한마디",
+      "summary": "오늘은 누가 밀어붙이지 않아도 됩니다. 팀장님 리듬대로 중요한 것부터 차분히 끝내면 됩니다.",
+      "take": "큰 변수 없이 움직이기 좋은 날씨입니다. 일정만 잘 잡으면 리듬 있게 가기 좋겠습니다. 오늘은 마음을 급하게 쓰지 말고, 가장 아쉬웠던 한 가지를 먼저 정리해 보시면 좋겠습니다. 그런 작은 정리가 하루의 기분을 꽤 크게 바꿉니다.",
+      "meta": [
+        "응원",
+        "중간 길이"
+      ],
+      "entities": [],
+      "keywords": [
+        "아침",
+        "집중"
+      ],
+      "links": []
+    },
+    {
+      "title": "오늘 일정",
+      "summary": "오늘 일정 없음",
+      "take": "오늘 등록된 일정이 없습니다. 이럴 때는 중요한 정리 한두 개만 분명하게 끝내도 충분합니다.",
+      "meta": [
+        "일정",
+        "calendar"
+      ],
+      "entities": [
+        "calendar"
+      ],
+      "keywords": [
+        "calendar"
+      ],
+      "links": []
+    },
+    {
+      "title": "주요 메일 / 중요 알림",
+      "summary": "[확인필요] Ollama's Team plan is now  / [확인필요] Your latest Trimble Sketch",
+      "take": "지금 확인할 만한 메일만 추렸습니다. 결제, 업무, 보안성 알림 위주로 먼저 보면 됩니다.",
+      "meta": [
+        "메일",
+        "gmail",
+        "중요 알림"
+      ],
+      "entities": [
+        "확인필요"
+      ],
+      "keywords": [
+        "gmail",
+        "alert"
+      ],
+      "links": []
+    },
+    {
+      "title": "유튜브 업데이트",
+      "summary": "@JulianGoldieSEO New Hermes Kanban Agent  / @fahdmirza DeepSeek V4.1 Flash: The / @JulianGoldieSEO GPT 6 Astra Built a 3D G",
+      "take": "업로드 속도가 빠른 채널은 오늘도 여러 편이 들어왔습니다. 중요한 주제부터 2~3개만 골라 보면 효율이 좋습니다.",
+      "meta": [
+        "유튜브",
+        "AI 채널",
+        "중간 길이"
+      ],
+      "entities": [
+        "@JulianGoldieSEO",
+        "@fahdmirza",
+        "@JulianGoldieSEO",
+        "@JulianGoldieSEO"
+      ],
+      "keywords": [
+        "youtube",
+        "update",
+        "thumbnail"
+      ],
+      "links": [
+        {
+          "label": "@JulianGoldieSEO · 09-10 06:00",
+          "url": "https://www.youtube.com/watch?v=L36JNpEHlc4",
+          "thumbnail": "https://i.ytimg.com/vi/L36JNpEHlc4/hqdefault.jpg"
+        },
+        {
+          "label": "@fahdmirza · 09-10 05:57",
+          "url": "https://www.youtube.com/watch?v=nAxFGBK01lY",
+          "thumbnail": "https://i.ytimg.com/vi/nAxFGBK01lY/hqdefault.jpg"
+        },
+        {
+          "label": "@JulianGoldieSEO · 09-10 04:30",
+          "url": "https://www.youtube.com/watch?v=mmkh8rSk1O4",
+          "thumbnail": "https://i.ytimg.com/vi/mmkh8rSk1O4/hqdefault.jpg"
+        }
+      ]
+    },
+    {
+      "title": "시스템 상태 요약",
+      "summary": "CPU 26.2 % 사용 / RAM 7.2GB 사용 (46%) / SSD 295.6GB 사용 (62%, 여유 180.3GB) / 업타임 9시간 56분",
+      "take": "CPU는 현재 26.2 % 사용 중이며, RAM은 총 15.8GB 중 7.2GB (46%), SSD는 총 475.9GB 중 295.6GB 사용 (62%, 여유 180.3GB) 중입니다. 시스템 가동 시간은 9시간 56분이며, 네트워크 트래픽은 수신 539.8 MB / 송신 1262.3 MB입니다. CPU 클럭은 504.0 MHz, 버스 스피드는 100.8 MHz입니다.",
+      "meta": [
+        "시스템",
+        "LHM"
+      ],
+      "entities": [
+        "Intel N100",
+        "RAM",
+        "SSD"
+      ],
+      "keywords": [
+        "temperature",
+        "load",
+        "memory"
+      ],
+      "links": []
+    },
+    {
+      "title": "OpenClaw 상태 요약",
+      "summary": "OpenClaw 2026.9.2 (3928bad)",
+      "take": "OpenClaw 게이트웨이 정상 작동 중",
+      "meta": [
+        "OpenClaw",
+        "Gateway"
+      ],
+      "entities": [
+        "main",
+        "gateway"
+      ],
+      "keywords": [
+        "version",
+        "rpc",
+        "status"
+      ],
+      "links": []
+    }
+  ],
+  "footer": "AI-assisted morning briefing, unified data structure ready for stage 2"
+}
