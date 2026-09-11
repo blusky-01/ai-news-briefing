@@ -1,0 +1,391 @@
+{
+  "date": "2026-09-12 07:00",
+  "title": "아침 브리핑",
+  "subtitle": "날씨 · 응원 · 일정 · 메일 · 유튜브 · 시스템 · OpenClaw",
+  "summary": "오늘 일정이 비어 있다면, 오히려 중요한 걸 조용히 정리할 수 있는 좋은 날입니다.",
+  "summary_box": "습도가 높아 체감이 더 무겁습니다. 물을 자주 마시며 리듬을 유지하면 좋겠습니다. 오늘은 마음을 급하게 쓰지 말고, 가장 아쉬웠던 한 가지를 먼저 정리해 보시면 좋겠습니다. 그런 작은 정리가 하루의 기분을 꽤 크게 바꿉니다.",
+  "weather": {
+    "loc": "김해",
+    "temp": "17°C",
+    "desc": "Clear ",
+    "icon": "⛅",
+    "badges": [
+      "체감 18°C",
+      "습도 81%",
+      "강수확률 6%",
+      "풍속 7km/h",
+      "UV 0",
+      "미세먼지 정보 연동 예정"
+    ],
+    "detail": {
+      "feels_like": "18",
+      "humidity": "81",
+      "rain_chance": "6",
+      "wind_kmph": "7",
+      "uv": "0",
+      "pm": "미세먼지 정보 연동 예정"
+    },
+    "life_comment": "습도가 높아 체감이 더 무겁습니다. 물을 자주 마시며 리듬을 유지하면 좋겠습니다."
+  },
+  "sections": {
+    "calendar": {
+      "summary": "오늘 일정 없음",
+      "take": "오늘 등록된 일정이 없습니다. 이럴 때는 중요한 정리 한두 개만 분명하게 끝내도 충분합니다.",
+      "items": [],
+      "links": [],
+      "entities": [
+        "calendar"
+      ]
+    },
+    "mail": {
+      "summary": "[확인필요] ChatGPT (Codex) Desktop su / [확인필요] Start with these standout  / [확인필요] [토스증권] 최선집행기준 설명서 및 온라인 서비",
+      "take": "지금 확인할 만한 메일만 추렸습니다. 결제, 업무, 보안성 알림 위주로 먼저 보면 됩니다.",
+      "items": [
+        {
+          "date": "2026-09-11 12:54",
+          "from": "Ollama <hello@ollama.com>",
+          "subject": "ChatGPT (Codex) Desktop support",
+          "tags": [
+            "확인필요"
+          ]
+        },
+        {
+          "date": "2026-09-10 18:06",
+          "from": "Cloudflare <em@em1.cloudflare.com>",
+          "subject": "Start with these standout sessions at Connect",
+          "tags": [
+            "확인필요"
+          ]
+        },
+        {
+          "date": "2026-09-10 10:27",
+          "from": "\"토스증권\" <no.reply@mail.tossinvest.com>",
+          "subject": "[토스증권] 최선집행기준 설명서 및 온라인 서비스 이용약관 개정 안내",
+          "tags": [
+            "확인필요"
+          ]
+        },
+        {
+          "date": "2026-09-10 09:54",
+          "from": "\"국세청\" <hometaxadmin@hometax.go.kr>",
+          "subject": "아라테크 (제이에이치솔루션(JHS)->아라테크)",
+          "tags": [
+            "확인필요"
+          ]
+        }
+      ],
+      "links": [],
+      "entities": [
+        "확인필요"
+      ]
+    },
+    "youtube": {
+      "summary": "@JulianGoldieSEO NEW DeepSeek V4.1-Flash  / @JulianGoldieSEO NEW Hermes Project Manag / @fahdmirza Run 35B Model on Phone U",
+      "take": "업로드 속도가 빠른 채널은 오늘도 여러 편이 들어왔습니다. 중요한 주제부터 2~3개만 골라 보면 효율이 좋습니다.",
+      "items": [
+        {
+          "channel": "@JulianGoldieSEO",
+          "title": "NEW DeepSeek V4.1-Flash Is a GAME CHANGER!",
+          "published": "09-12 07:00",
+          "published_dt": "2026-09-12T07:00:35+09:00",
+          "url": "https://www.youtube.com/watch?v=UkeLD64iJfc",
+          "thumbnail": "https://i.ytimg.com/vi/UkeLD64iJfc/hqdefault.jpg",
+          "summary": "이 영상은 모델/LLM, 수익화/마케팅 중심 내용입니다. 구성은 Intro to Deepseek V4.1-Flash, Why V4 Pro is Being Retired, Multimodal Power for SEO, Benchmarks & Performance 순서로 이어집니다. New Deepseek V4.1- Flash is a gamecher Today, I'm going to show you the new AI model that could change SEO forever It's so good, the company that made it is retiring its own top model",
+          "description_excerpt": "Get the Agent OS & DeepSeek V4.1-Flash Masterclass 👉 00:00 - Intro to Deepseek V4.1-Flash 00:40 - Why V4 Pro is Being Retired 01:43 - Multimodal Power for SEO 02:23 - Benchmarks & Performance 04:44 - Practical SEO Use Cases 05:31 - The End of Big AI Models? 07:10 - Final Verdict & How to Start",
+          "transcript_excerpt": "New Deepseek V4.1- Flash is a gamecher. Today, I'm going to show you the new AI model that could change SEO forever. It's brand new. It's super light and easy to use. It's so good, the company that made it is retiring its own top model. I'l",
+          "shorts": false
+        },
+        {
+          "channel": "@JulianGoldieSEO",
+          "title": "NEW Hermes Project Manager Agent is AMAZING!",
+          "published": "09-12 06:00",
+          "published_dt": "2026-09-12T06:00:17+09:00",
+          "url": "https://www.youtube.com/watch?v=TQCSgpJk6wA",
+          "thumbnail": "https://i.ytimg.com/vi/TQCSgpJk6wA/hqdefault.jpg",
+          "summary": "이 영상은 모델/LLM, 에이전트/자동화, 수익화/마케팅 중심 내용입니다. 구성은 Meet the Hermes Project Manager, The 5-Step Automation Process, Building Tools & Landing Pages, The New Way vs. The Old Way 순서로 이어집니다. New Hermes Project Manager Agent is amazing Today I'm showing you something wild This thing takes your ideas and turns them into real working tools all by itself",
+          "description_excerpt": "Get the Agent OS & Hermes Masterclass 👉 00:00 - Meet the Hermes Project Manager 01:00 - The 5-Step Automation Process 02:06 - Building Tools & Landing Pages 03:18 - The New Way vs. The Old Way 04:03 - Voice Control & Obsidian Integration 04:46 - Running Local AI Models 06:31 - Summary & How to Get Started",
+          "transcript_excerpt": "New Hermes Project Manager Agent is amazing. Today I'm showing you something wild. It's called the Hermes Project Manager Agent and it lives inside my full Agent Operating System, the same system I use every single day to run my business. T",
+          "shorts": false
+        },
+        {
+          "channel": "@fahdmirza",
+          "title": "Run 35B Model on Phone Under 3GB Memory with Edge0",
+          "published": "09-12 05:39",
+          "published_dt": "2026-09-12T05:39:35+09:00",
+          "url": "https://www.youtube.com/watch?v=E_CtdAD-B9g",
+          "thumbnail": "https://i.ytimg.com/vi/E_CtdAD-B9g/hqdefault.jpg",
+          "summary": "이 영상은 모델/LLM, 튜토리얼/설정 중심 내용입니다. 구성은 This video introduces edge0 is an open-source streaming MoE inference framework 순서로 이어집니다. Now you can run quen 3.5 35 billion A3B in under 3 GB of active memory That's the claim behind Edge Zero, a new open-source streaming inference framework Forget about running it",
+          "description_excerpt": "This video introduces edge0 is an open-source streaming MoE inference framework. 📬Weekly AI : 🔥 Buy Me a Coffee to support the channel: PLEASE FOLLOW ME: ▶ LinkedIn: / fahdmirza ▶ YouTube: / ▶ Blog: RESOURCES: ▶ All rights reserved © Fahd Mirza",
+          "transcript_excerpt": "Now you can run quen 3.5 35 billion A3B in under 3 GB of active memory. That's the claim behind Edge Zero, a new open-source streaming inference framework. And it's a big deal because normally a model this size needs 20 plus gigs of VRAM ju",
+          "shorts": false
+        },
+        {
+          "channel": "@JulianGoldieSEO",
+          "title": "NEW Google AI Image Tool Update is WILD!",
+          "published": "09-12 05:00",
+          "published_dt": "2026-09-12T05:00:03+09:00",
+          "url": "https://www.youtube.com/watch?v=_f3ARMw7dK4",
+          "thumbnail": "https://i.ytimg.com/vi/_f3ARMw7dK4/hqdefault.jpg",
+          "summary": "이 영상은 수익화/마케팅 중심 내용입니다. 구성은 Intro: The Google Pix Update, Official Workspace Rollout, No More \"Prompt and Pray\", 6 Crazy New Features 순서로 이어집니다. New Google AI image tool update is wild Today, I'm going to show you Google's brand new AI image tool This thing lets you make an image, then edit one tiny piece of it without messing up the rest",
+          "description_excerpt": "Get the Agent OS & Google AI Image Tool Masterclass 👉 00:00 - Intro: The Google Pix Update 00:29 - Official Workspace Rollout 01:01 - No More \"Prompt and Pray\" 01:42 - 6 Crazy New Features 03:31 - Editing Inside Google Slides 04:17 - Will it Replace Canva? 06:33 - AI Speed for Business 07:34 - Scaling Your Business with AI",
+          "transcript_excerpt": "New Google AI image tool update is wild. Today, I'm going to show you Google's brand new AI image tool. It's called Google Pix, and it's kind of nuts. This thing lets you make an image, then edit one tiny piece of it without messing up the ",
+          "shorts": false
+        },
+        {
+          "channel": "@jocoding",
+          "title": "E-Book에 돈을 쓸 필요가 없는 이유",
+          "published": "09-11 20:00",
+          "published_dt": "2026-09-11T20:00:13+09:00",
+          "url": "https://www.youtube.com/watch?v=aV2mjr0x_Rw",
+          "thumbnail": "https://i.ytimg.com/vi/aV2mjr0x_Rw/hqdefault.jpg",
+          "summary": "이 영상은 개발도구 중심 내용입니다. 조코딩의 바이브 코딩 1인 창업 책: AX 컨설팅 및 교육 문의: 조코헌트: VVIP 멤버십 후원 그림자그림자님, 차딩Chading TV님, Sicongbabe님, 정진균님, Tae hwan Kim님, 시원-r9u님, YCN유림방송님, 그래머피티...",
+          "description_excerpt": "조코딩의 바이브 코딩 1인 창업 책: AX 컨설팅 및 교육 문의: 조코헌트: VVIP 멤버십 후원 그림자그림자님, 차딩Chading TV님, Sicongbabe님, 정진균님, Tae hwan Kim님, 시원-r9u님, YCN유림방송님, 그래머피티님, GomnaStudio님, 천사슥님, 예스타님, shintony667님, bellati272님, happypink81님, kogurean9님 감사드립니다.",
+          "transcript_excerpt": "",
+          "shorts": false
+        }
+      ],
+      "links": [
+        {
+          "label": "@JulianGoldieSEO · 09-12 07:00",
+          "url": "https://www.youtube.com/watch?v=UkeLD64iJfc",
+          "thumbnail": "https://i.ytimg.com/vi/UkeLD64iJfc/hqdefault.jpg"
+        },
+        {
+          "label": "@JulianGoldieSEO · 09-12 06:00",
+          "url": "https://www.youtube.com/watch?v=TQCSgpJk6wA",
+          "thumbnail": "https://i.ytimg.com/vi/TQCSgpJk6wA/hqdefault.jpg"
+        },
+        {
+          "label": "@fahdmirza · 09-12 05:39",
+          "url": "https://www.youtube.com/watch?v=E_CtdAD-B9g",
+          "thumbnail": "https://i.ytimg.com/vi/E_CtdAD-B9g/hqdefault.jpg"
+        }
+      ],
+      "entities": [
+        "@JulianGoldieSEO",
+        "@JulianGoldieSEO",
+        "@fahdmirza",
+        "@JulianGoldieSEO"
+      ]
+    },
+    "system": {
+      "summary": "CPU 47.3 % 사용 / RAM 8.3GB 사용 (53%) / SSD 316.4GB 사용 (66%, 여유 159.5GB) / 업타임 57시간 56분",
+      "take": "CPU는 현재 47.3 % 사용 중이며, RAM은 총 15.8GB 중 8.3GB (53%), SSD는 총 475.9GB 중 316.4GB 사용 (66%, 여유 159.5GB) 중입니다. 시스템 가동 시간은 57시간 56분이며, 네트워크 트래픽은 수신 5129.1 MB / 송신 10104.2 MB입니다. CPU 클럭은 2016.0 MHz, 버스 스피드는 100.8 MHz입니다.",
+      "metrics": [
+        {
+          "label": "CPU 사용률",
+          "value": "47.3 %",
+          "pct": 47.3,
+          "tone": "normal"
+        },
+        {
+          "label": "CPU 클럭",
+          "value": "2016.0 MHz",
+          "pct": 57.6,
+          "tone": "normal"
+        },
+        {
+          "label": "버스 스피드",
+          "value": "100.8 MHz",
+          "pct": 100,
+          "tone": "normal"
+        },
+        {
+          "label": "CPU 온도",
+          "value": "73.0 °C",
+          "pct": 73.0,
+          "tone": "normal"
+        },
+        {
+          "label": "RAM 사용량",
+          "value": "8.3 / 15.8 GB (53%)",
+          "pct": 52.7,
+          "tone": "normal"
+        },
+        {
+          "label": "SSD 사용량",
+          "value": "316.4 / 475.9 GB (66%)",
+          "pct": 66.5,
+          "tone": "normal"
+        },
+        {
+          "label": "SSD 여유 공간",
+          "value": "159.5 / 475.9 GB",
+          "pct": 33.5,
+          "tone": "normal"
+        },
+        {
+          "label": "SSD 온도",
+          "value": "40.0 °C",
+          "pct": 40.0,
+          "tone": "normal"
+        },
+        {
+          "label": "업타임",
+          "value": "57시간 56분",
+          "pct": 100,
+          "tone": "normal"
+        },
+        {
+          "label": "네트워크 수신",
+          "value": "5129.1 MB",
+          "pct": 100,
+          "tone": "normal"
+        },
+        {
+          "label": "네트워크 송신",
+          "value": "10104.2 MB",
+          "pct": 100,
+          "tone": "normal"
+        }
+      ]
+    },
+    "openclaw": {
+      "summary": "OpenClaw 2026.9.2 (3928bad)",
+      "take": "OpenClaw 게이트웨이 정상 작동 중",
+      "metrics": [
+        {
+          "label": "Runtime",
+          "value": "running",
+          "pct": 100,
+          "tone": "good"
+        },
+        {
+          "label": "Gateway",
+          "value": "active",
+          "pct": 100,
+          "tone": "good"
+        }
+      ]
+    }
+  },
+  "cards": [
+    {
+      "title": "오늘의 한마디",
+      "summary": "오늘 일정이 비어 있다면, 오히려 중요한 걸 조용히 정리할 수 있는 좋은 날입니다.",
+      "take": "습도가 높아 체감이 더 무겁습니다. 물을 자주 마시며 리듬을 유지하면 좋겠습니다. 오늘은 마음을 급하게 쓰지 말고, 가장 아쉬웠던 한 가지를 먼저 정리해 보시면 좋겠습니다. 그런 작은 정리가 하루의 기분을 꽤 크게 바꿉니다.",
+      "meta": [
+        "응원",
+        "중간 길이"
+      ],
+      "entities": [],
+      "keywords": [
+        "아침",
+        "집중"
+      ],
+      "links": []
+    },
+    {
+      "title": "오늘 일정",
+      "summary": "오늘 일정 없음",
+      "take": "오늘 등록된 일정이 없습니다. 이럴 때는 중요한 정리 한두 개만 분명하게 끝내도 충분합니다.",
+      "meta": [
+        "일정",
+        "calendar"
+      ],
+      "entities": [
+        "calendar"
+      ],
+      "keywords": [
+        "calendar"
+      ],
+      "links": []
+    },
+    {
+      "title": "주요 메일 / 중요 알림",
+      "summary": "[확인필요] ChatGPT (Codex) Desktop su / [확인필요] Start with these standout  / [확인필요] [토스증권] 최선집행기준 설명서 및 온라인 서비",
+      "take": "지금 확인할 만한 메일만 추렸습니다. 결제, 업무, 보안성 알림 위주로 먼저 보면 됩니다.",
+      "meta": [
+        "메일",
+        "gmail",
+        "중요 알림"
+      ],
+      "entities": [
+        "확인필요"
+      ],
+      "keywords": [
+        "gmail",
+        "alert"
+      ],
+      "links": []
+    },
+    {
+      "title": "유튜브 업데이트",
+      "summary": "@JulianGoldieSEO NEW DeepSeek V4.1-Flash  / @JulianGoldieSEO NEW Hermes Project Manag / @fahdmirza Run 35B Model on Phone U",
+      "take": "업로드 속도가 빠른 채널은 오늘도 여러 편이 들어왔습니다. 중요한 주제부터 2~3개만 골라 보면 효율이 좋습니다.",
+      "meta": [
+        "유튜브",
+        "AI 채널",
+        "중간 길이"
+      ],
+      "entities": [
+        "@JulianGoldieSEO",
+        "@JulianGoldieSEO",
+        "@fahdmirza",
+        "@JulianGoldieSEO"
+      ],
+      "keywords": [
+        "youtube",
+        "update",
+        "thumbnail"
+      ],
+      "links": [
+        {
+          "label": "@JulianGoldieSEO · 09-12 07:00",
+          "url": "https://www.youtube.com/watch?v=UkeLD64iJfc",
+          "thumbnail": "https://i.ytimg.com/vi/UkeLD64iJfc/hqdefault.jpg"
+        },
+        {
+          "label": "@JulianGoldieSEO · 09-12 06:00",
+          "url": "https://www.youtube.com/watch?v=TQCSgpJk6wA",
+          "thumbnail": "https://i.ytimg.com/vi/TQCSgpJk6wA/hqdefault.jpg"
+        },
+        {
+          "label": "@fahdmirza · 09-12 05:39",
+          "url": "https://www.youtube.com/watch?v=E_CtdAD-B9g",
+          "thumbnail": "https://i.ytimg.com/vi/E_CtdAD-B9g/hqdefault.jpg"
+        }
+      ]
+    },
+    {
+      "title": "시스템 상태 요약",
+      "summary": "CPU 47.3 % 사용 / RAM 8.3GB 사용 (53%) / SSD 316.4GB 사용 (66%, 여유 159.5GB) / 업타임 57시간 56분",
+      "take": "CPU는 현재 47.3 % 사용 중이며, RAM은 총 15.8GB 중 8.3GB (53%), SSD는 총 475.9GB 중 316.4GB 사용 (66%, 여유 159.5GB) 중입니다. 시스템 가동 시간은 57시간 56분이며, 네트워크 트래픽은 수신 5129.1 MB / 송신 10104.2 MB입니다. CPU 클럭은 2016.0 MHz, 버스 스피드는 100.8 MHz입니다.",
+      "meta": [
+        "시스템",
+        "LHM"
+      ],
+      "entities": [
+        "Intel N100",
+        "RAM",
+        "SSD"
+      ],
+      "keywords": [
+        "temperature",
+        "load",
+        "memory"
+      ],
+      "links": []
+    },
+    {
+      "title": "OpenClaw 상태 요약",
+      "summary": "OpenClaw 2026.9.2 (3928bad)",
+      "take": "OpenClaw 게이트웨이 정상 작동 중",
+      "meta": [
+        "OpenClaw",
+        "Gateway"
+      ],
+      "entities": [
+        "main",
+        "gateway"
+      ],
+      "keywords": [
+        "version",
+        "rpc",
+        "status"
+      ],
+      "links": []
+    }
+  ],
+  "footer": "AI-assisted morning briefing, unified data structure ready for stage 2"
+}
