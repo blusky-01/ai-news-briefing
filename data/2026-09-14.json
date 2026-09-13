@@ -1,0 +1,370 @@
+{
+  "date": "2026-09-14 07:00",
+  "title": "아침 브리핑",
+  "subtitle": "날씨 · 응원 · 일정 · 메일 · 유튜브 · 시스템 · OpenClaw",
+  "summary": "오늘 일정이 비어 있다면, 오히려 중요한 걸 조용히 정리할 수 있는 좋은 날입니다.",
+  "summary_box": "습도가 높아 체감이 더 무겁습니다. 물을 자주 마시며 리듬을 유지하면 좋겠습니다. 오늘은 마음을 급하게 쓰지 말고, 가장 아쉬웠던 한 가지를 먼저 정리해 보시면 좋겠습니다. 그런 작은 정리가 하루의 기분을 꽤 크게 바꿉니다.",
+  "weather": {
+    "loc": "김해",
+    "temp": "20°C",
+    "desc": "Clear ",
+    "icon": "⛅",
+    "badges": [
+      "체감 22°C",
+      "습도 84%",
+      "강수확률 1%",
+      "풍속 5km/h",
+      "UV 0",
+      "미세먼지 정보 연동 예정"
+    ],
+    "detail": {
+      "feels_like": "22",
+      "humidity": "84",
+      "rain_chance": "1",
+      "wind_kmph": "5",
+      "uv": "0",
+      "pm": "미세먼지 정보 연동 예정"
+    },
+    "life_comment": "습도가 높아 체감이 더 무겁습니다. 물을 자주 마시며 리듬을 유지하면 좋겠습니다."
+  },
+  "sections": {
+    "calendar": {
+      "summary": "오늘 일정 없음",
+      "take": "오늘 등록된 일정이 없습니다. 이럴 때는 중요한 정리 한두 개만 분명하게 끝내도 충분합니다.",
+      "items": [],
+      "links": [],
+      "entities": [
+        "calendar"
+      ]
+    },
+    "mail": {
+      "summary": "[중요인물,에러] 보안 알림",
+      "take": "지금 확인할 만한 메일만 추렸습니다. 결제, 업무, 보안성 알림 위주로 먼저 보면 됩니다.",
+      "items": [
+        {
+          "date": "2026-09-13 23:54",
+          "from": "Google <no-reply@accounts.google.com>",
+          "subject": "보안 알림",
+          "tags": [
+            "중요인물",
+            "에러"
+          ]
+        }
+      ],
+      "links": [],
+      "entities": [
+        "중요인물",
+        "에러"
+      ]
+    },
+    "youtube": {
+      "summary": "@JulianGoldieSEO GPT-6 Astra Gave My AI A / @fahdmirza AI Labs Want to Slow Dow / @JulianGoldieSEO My 5 Most Useful GPT-6 A",
+      "take": "업로드 속도가 빠른 채널은 오늘도 여러 편이 들어왔습니다. 중요한 주제부터 2~3개만 골라 보면 효율이 좋습니다.",
+      "items": [
+        {
+          "channel": "@JulianGoldieSEO",
+          "title": "GPT-6 Astra Gave My AI Agents a Second Brain",
+          "published": "09-14 06:00",
+          "published_dt": "2026-09-14T06:00:00+09:00",
+          "url": "https://www.youtube.com/watch?v=_6mcXdyVG7E",
+          "thumbnail": "https://i.ytimg.com/vi/_6mcXdyVG7E/hqdefault.jpg",
+          "summary": "이 영상은 에이전트/자동화, 수익화/마케팅 중심 내용입니다. 구성은 Intro – Why your agents need a second brain, Memories → Output – Turn past work into new creations, Live Demo – Pick memories, choose the format, Auto-Built App – From memory to working tool 순서로 이어지며, 제목만으로는 보이지 않는 변화 배경·핵심 기능·실제 활용 포인트를 짚어보는 영상입니다.",
+          "description_excerpt": "Get the Agent OS & GPT Masterclass 👉 00:00 Intro – Why your agents need a second brain 00:37 Memories → Output – Turn past work into new creations 01:09 Live Demo – Pick memories, choose the format 01:46 Auto-Built App – From memory to working tool 02:30 Social Content – Hooks, threads, LinkedIn posts on autopilot 03:37 The Engine – Obsidian, free and open s",
+          "transcript_excerpt": "Today I'm going to show you a powerful second brain system that built with GBC's Astra that basically allows you to give your AI agents a second brain that you can come back to and it's automatically set up for you. So, what this essentiall",
+          "shorts": false
+        },
+        {
+          "channel": "@fahdmirza",
+          "title": "AI Labs Want to Slow Down. China Isn't.",
+          "published": "09-14 05:46",
+          "published_dt": "2026-09-14T05:46:59+09:00",
+          "url": "https://www.youtube.com/watch?v=o3hd9ZZqzeE",
+          "thumbnail": "https://i.ytimg.com/vi/o3hd9ZZqzeE/hqdefault.jpg",
+          "summary": "이 영상은 모델/LLM, 수익화/마케팅 중심 내용입니다. 구성은 Anthropic, OpenAI, and Elon Musk just agreed AI needs to slow down, China's labs didn't get the memo 순서로 이어집니다. That's all it took I resigned from Enthropic today Neither company is acting responsibly",
+          "description_excerpt": "Anthropic, OpenAI, and Elon Musk just agreed AI needs to slow down. China's labs didn't get the memo. 📬Weekly AI : 🔥 Buy Me a Coffee to support the channel: PLEASE FOLLOW ME: ▶ LinkedIn: / fahdmirza ▶ YouTube: / ▶ Blog: RESOURCES: ▶ All rights reserved © Fahd Mirza",
+          "transcript_excerpt": "Four sentences. That's all it took. I resigned from Enthropic today. I spent the last 3 years doing pre-training research at both OpenAI and Enthropic. Neither company is acting responsibly. A researcher named Jacob Coxen posted that on a W",
+          "shorts": false
+        },
+        {
+          "channel": "@JulianGoldieSEO",
+          "title": "My 5 Most Useful GPT-6 Astra Automations After 90 Days",
+          "published": "09-14 04:00",
+          "published_dt": "2026-09-14T04:00:09+09:00",
+          "url": "https://www.youtube.com/watch?v=AsOCDVCvWgA",
+          "thumbnail": "https://i.ytimg.com/vi/AsOCDVCvWgA/hqdefault.jpg",
+          "summary": "이 영상은 모델/LLM, 에이전트/자동화, 수익화/마케팅 중심 내용입니다. 구성은 Intro – Why most AI automations are a waste of time (real 90-day results, not hype), Trend Research – Auto-scans X every 24hrs for what's actually worth creating content on, Second Brain – Self-updating memory system that suggests what to build next, Website Builder – One-click AI sites that rank (429 clicks/day case study) 순서로 이어지며, 제목만으로는 보이지 않는 변화 배경·핵심 기능·실제 활용 포인트를 짚어보는 영상입니다.",
+          "description_excerpt": "Get the Agent OS & GPT Masterclass 👉 00:00 Intro – Why most AI automations are a waste of time (real 90-day results, not hype) 00:38 Trend Research – Auto-scans X every 24hrs for what's actually worth creating content on 03:17 Second Brain – Self-updating memory system that suggests what to build next 06:08 Website Builder – One-click AI sites that rank (429",
+          "transcript_excerpt": "Today I'm going to show you the top AI automations I use and use cases with G6 Astra. Uh just number one to inspire you, but number two to show you what I'm actually using because I've built so many different automations at this point. As y",
+          "shorts": false
+        },
+        {
+          "channel": "@JulianGoldieSEO",
+          "title": "Stop Overcomplicating Hermes Agent... Do This Instead!",
+          "published": "09-14 03:00",
+          "published_dt": "2026-09-14T03:00:16+09:00",
+          "url": "https://www.youtube.com/watch?v=YEBA9zdK7Lg",
+          "thumbnail": "https://i.ytimg.com/vi/YEBA9zdK7Lg/hqdefault.jpg",
+          "summary": "이 영상은 모델/LLM, 에이전트/자동화, 튜토리얼/설정 중심 내용입니다. 구성은 Intro – Structure AI agents to automate anything, The Question – One AI manager over AI employees, Where It Broke – Setup done, model still errored, The Real Problem – Tool-hopping for years, same result 순서로 이어지며, 제목만으로는 보이지 않는 변화 배경·핵심 기능·실제 활용 포인트를 짚어보는 영상입니다.",
+          "description_excerpt": "Get the Agent OS & Hermes Masterclass 👉 00:00 Intro – Structure AI agents to automate anything 00:16 The Question – One AI manager over AI employees 01:17 Where It Broke – Setup done, model still errored 02:20 The Real Problem – Tool-hopping for years, same result 03:09 Fix – Simplify before you build 03:50 A to B – Why complexity kills momentum 04:31 The 3-",
+          "transcript_excerpt": "Today we're going to talk about how to use Hermes agent and structure your AI agent so you can actually automate anything that you want. You don't over complicate it. And this is based on a question I had recently inside the AR profit board",
+          "shorts": false
+        },
+        {
+          "channel": "@jocoding",
+          "title": "IT뉴스 - 초파리 열풍, OpenAI 밀레니엄 난제 해결, Images 2.5, AI의 발전 속도를 늦춰야하나, Google ARTEMIS, AlphaGenome Atlas 등",
+          "published": "09-13 20:41",
+          "published_dt": "2026-09-13T20:41:58+09:00",
+          "url": "https://www.youtube.com/watch?v=l7frz_bd5vM",
+          "thumbnail": "https://i.ytimg.com/vi/l7frz_bd5vM/hqdefault.jpg",
+          "summary": "구성은 IT뉴스 - 초파리 열풍, OpenAI 밀레니엄 난제 해결, Images 2.5, AI의 발전 속도를 늦춰야하나, Google ARTEMIS, AlphaGenome Atlas 등 순서로 이어집니다. IT뉴스 - 초파리 열풍, OpenAI 밀레니엄 난제 해결, Images 2.5, AI의 발전 속도를 늦춰야하나, Google ARTEMIS, AlphaGenome Atlas 등",
+          "description_excerpt": "IT뉴스 - 초파리 열풍, OpenAI 밀레니엄 난제 해결, Images 2.5, AI의 발전 속도를 늦춰야하나, Google ARTEMIS, AlphaGenome Atlas 등",
+          "transcript_excerpt": "",
+          "shorts": false
+        }
+      ],
+      "links": [
+        {
+          "label": "@JulianGoldieSEO · 09-14 06:00",
+          "url": "https://www.youtube.com/watch?v=_6mcXdyVG7E",
+          "thumbnail": "https://i.ytimg.com/vi/_6mcXdyVG7E/hqdefault.jpg"
+        },
+        {
+          "label": "@fahdmirza · 09-14 05:46",
+          "url": "https://www.youtube.com/watch?v=o3hd9ZZqzeE",
+          "thumbnail": "https://i.ytimg.com/vi/o3hd9ZZqzeE/hqdefault.jpg"
+        },
+        {
+          "label": "@JulianGoldieSEO · 09-14 04:00",
+          "url": "https://www.youtube.com/watch?v=AsOCDVCvWgA",
+          "thumbnail": "https://i.ytimg.com/vi/AsOCDVCvWgA/hqdefault.jpg"
+        }
+      ],
+      "entities": [
+        "@JulianGoldieSEO",
+        "@fahdmirza",
+        "@JulianGoldieSEO",
+        "@JulianGoldieSEO"
+      ]
+    },
+    "system": {
+      "summary": "CPU 10.9 % 사용 / RAM 9.0GB 사용 (57%) / SSD 318.1GB 사용 (67%, 여유 157.8GB) / 업타임 105시간 56분",
+      "take": "CPU는 현재 10.9 % 사용 중이며, RAM은 총 15.8GB 중 9.0GB (57%), SSD는 총 475.9GB 중 318.1GB 사용 (67%, 여유 157.8GB) 중입니다. 시스템 가동 시간은 105시간 56분이며, 네트워크 트래픽은 수신 7677.9 MB / 송신 13179.4 MB입니다. CPU 클럭은 907.2 MHz, 버스 스피드는 100.8 MHz입니다.",
+      "metrics": [
+        {
+          "label": "CPU 사용률",
+          "value": "10.9 %",
+          "pct": 10.9,
+          "tone": "normal"
+        },
+        {
+          "label": "CPU 클럭",
+          "value": "907.2 MHz",
+          "pct": 25.92,
+          "tone": "normal"
+        },
+        {
+          "label": "버스 스피드",
+          "value": "100.8 MHz",
+          "pct": 100,
+          "tone": "normal"
+        },
+        {
+          "label": "CPU 온도",
+          "value": "48.0 °C",
+          "pct": 48.0,
+          "tone": "normal"
+        },
+        {
+          "label": "RAM 사용량",
+          "value": "9.0 / 15.8 GB (57%)",
+          "pct": 56.9,
+          "tone": "normal"
+        },
+        {
+          "label": "SSD 사용량",
+          "value": "318.1 / 475.9 GB (67%)",
+          "pct": 66.8,
+          "tone": "normal"
+        },
+        {
+          "label": "SSD 여유 공간",
+          "value": "157.8 / 475.9 GB",
+          "pct": 33.2,
+          "tone": "normal"
+        },
+        {
+          "label": "SSD 온도",
+          "value": "40.0 °C",
+          "pct": 40.0,
+          "tone": "normal"
+        },
+        {
+          "label": "업타임",
+          "value": "105시간 56분",
+          "pct": 100,
+          "tone": "normal"
+        },
+        {
+          "label": "네트워크 수신",
+          "value": "7677.9 MB",
+          "pct": 100,
+          "tone": "normal"
+        },
+        {
+          "label": "네트워크 송신",
+          "value": "13179.4 MB",
+          "pct": 100,
+          "tone": "normal"
+        }
+      ]
+    },
+    "openclaw": {
+      "summary": "OpenClaw 2026.9.2 (3928bad)",
+      "take": "OpenClaw 게이트웨이 정상 작동 중",
+      "metrics": [
+        {
+          "label": "Runtime",
+          "value": "running",
+          "pct": 100,
+          "tone": "good"
+        },
+        {
+          "label": "Gateway",
+          "value": "active",
+          "pct": 100,
+          "tone": "good"
+        }
+      ]
+    }
+  },
+  "cards": [
+    {
+      "title": "오늘의 한마디",
+      "summary": "오늘 일정이 비어 있다면, 오히려 중요한 걸 조용히 정리할 수 있는 좋은 날입니다.",
+      "take": "습도가 높아 체감이 더 무겁습니다. 물을 자주 마시며 리듬을 유지하면 좋겠습니다. 오늘은 마음을 급하게 쓰지 말고, 가장 아쉬웠던 한 가지를 먼저 정리해 보시면 좋겠습니다. 그런 작은 정리가 하루의 기분을 꽤 크게 바꿉니다.",
+      "meta": [
+        "응원",
+        "중간 길이"
+      ],
+      "entities": [],
+      "keywords": [
+        "아침",
+        "집중"
+      ],
+      "links": []
+    },
+    {
+      "title": "오늘 일정",
+      "summary": "오늘 일정 없음",
+      "take": "오늘 등록된 일정이 없습니다. 이럴 때는 중요한 정리 한두 개만 분명하게 끝내도 충분합니다.",
+      "meta": [
+        "일정",
+        "calendar"
+      ],
+      "entities": [
+        "calendar"
+      ],
+      "keywords": [
+        "calendar"
+      ],
+      "links": []
+    },
+    {
+      "title": "주요 메일 / 중요 알림",
+      "summary": "[중요인물,에러] 보안 알림",
+      "take": "지금 확인할 만한 메일만 추렸습니다. 결제, 업무, 보안성 알림 위주로 먼저 보면 됩니다.",
+      "meta": [
+        "메일",
+        "gmail",
+        "중요 알림"
+      ],
+      "entities": [
+        "중요인물",
+        "에러"
+      ],
+      "keywords": [
+        "gmail",
+        "alert"
+      ],
+      "links": []
+    },
+    {
+      "title": "유튜브 업데이트",
+      "summary": "@JulianGoldieSEO GPT-6 Astra Gave My AI A / @fahdmirza AI Labs Want to Slow Dow / @JulianGoldieSEO My 5 Most Useful GPT-6 A",
+      "take": "업로드 속도가 빠른 채널은 오늘도 여러 편이 들어왔습니다. 중요한 주제부터 2~3개만 골라 보면 효율이 좋습니다.",
+      "meta": [
+        "유튜브",
+        "AI 채널",
+        "중간 길이"
+      ],
+      "entities": [
+        "@JulianGoldieSEO",
+        "@fahdmirza",
+        "@JulianGoldieSEO",
+        "@JulianGoldieSEO"
+      ],
+      "keywords": [
+        "youtube",
+        "update",
+        "thumbnail"
+      ],
+      "links": [
+        {
+          "label": "@JulianGoldieSEO · 09-14 06:00",
+          "url": "https://www.youtube.com/watch?v=_6mcXdyVG7E",
+          "thumbnail": "https://i.ytimg.com/vi/_6mcXdyVG7E/hqdefault.jpg"
+        },
+        {
+          "label": "@fahdmirza · 09-14 05:46",
+          "url": "https://www.youtube.com/watch?v=o3hd9ZZqzeE",
+          "thumbnail": "https://i.ytimg.com/vi/o3hd9ZZqzeE/hqdefault.jpg"
+        },
+        {
+          "label": "@JulianGoldieSEO · 09-14 04:00",
+          "url": "https://www.youtube.com/watch?v=AsOCDVCvWgA",
+          "thumbnail": "https://i.ytimg.com/vi/AsOCDVCvWgA/hqdefault.jpg"
+        }
+      ]
+    },
+    {
+      "title": "시스템 상태 요약",
+      "summary": "CPU 10.9 % 사용 / RAM 9.0GB 사용 (57%) / SSD 318.1GB 사용 (67%, 여유 157.8GB) / 업타임 105시간 56분",
+      "take": "CPU는 현재 10.9 % 사용 중이며, RAM은 총 15.8GB 중 9.0GB (57%), SSD는 총 475.9GB 중 318.1GB 사용 (67%, 여유 157.8GB) 중입니다. 시스템 가동 시간은 105시간 56분이며, 네트워크 트래픽은 수신 7677.9 MB / 송신 13179.4 MB입니다. CPU 클럭은 907.2 MHz, 버스 스피드는 100.8 MHz입니다.",
+      "meta": [
+        "시스템",
+        "LHM"
+      ],
+      "entities": [
+        "Intel N100",
+        "RAM",
+        "SSD"
+      ],
+      "keywords": [
+        "temperature",
+        "load",
+        "memory"
+      ],
+      "links": []
+    },
+    {
+      "title": "OpenClaw 상태 요약",
+      "summary": "OpenClaw 2026.9.2 (3928bad)",
+      "take": "OpenClaw 게이트웨이 정상 작동 중",
+      "meta": [
+        "OpenClaw",
+        "Gateway"
+      ],
+      "entities": [
+        "main",
+        "gateway"
+      ],
+      "keywords": [
+        "version",
+        "rpc",
+        "status"
+      ],
+      "links": []
+    }
+  ],
+  "footer": "AI-assisted morning briefing, unified data structure ready for stage 2"
+}
