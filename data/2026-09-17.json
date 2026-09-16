@@ -1,0 +1,417 @@
+{
+  "date": "2026-09-17 07:00",
+  "title": "아침 브리핑",
+  "subtitle": "날씨 · 응원 · 일정 · 메일 · 유튜브 · 시스템 · OpenClaw",
+  "summary": "오늘은 누가 밀어붙이지 않아도 됩니다. 팀장님 리듬대로 중요한 것부터 차분히 끝내면 됩니다.",
+  "summary_box": "큰 변수 없이 움직이기 좋은 날씨입니다. 일정만 잘 잡으면 리듬 있게 가기 좋겠습니다. 오늘은 마음을 급하게 쓰지 말고, 가장 아쉬웠던 한 가지를 먼저 정리해 보시면 좋겠습니다. 그런 작은 정리가 하루의 기분을 꽤 크게 바꿉니다.",
+  "weather": {
+    "loc": "김해",
+    "temp": "19°C",
+    "desc": "Overcast ",
+    "icon": "⛅",
+    "badges": [
+      "체감 18°C",
+      "습도 71%",
+      "강수확률 11%",
+      "풍속 11km/h",
+      "UV 0",
+      "미세먼지 정보 연동 예정"
+    ],
+    "detail": {
+      "feels_like": "18",
+      "humidity": "71",
+      "rain_chance": "11",
+      "wind_kmph": "11",
+      "uv": "0",
+      "pm": "미세먼지 정보 연동 예정"
+    },
+    "life_comment": "큰 변수 없이 움직이기 좋은 날씨입니다. 일정만 잘 잡으면 리듬 있게 가기 좋겠습니다."
+  },
+  "sections": {
+    "calendar": {
+      "summary": "오늘 일정 없음",
+      "take": "오늘 등록된 일정이 없습니다. 이럴 때는 중요한 정리 한두 개만 분명하게 끝내도 충분합니다.",
+      "items": [],
+      "links": [],
+      "entities": [
+        "calendar"
+      ]
+    },
+    "mail": {
+      "summary": "[중요인물,에러] 보안 알림 / [확인필요] 아라테크 (제이에이치솔루션(JHS)->아라테크) / [확인필요] Updates to managing AI cra",
+      "take": "지금 확인할 만한 메일만 추렸습니다. 결제, 업무, 보안성 알림 위주로 먼저 보면 됩니다.",
+      "items": [
+        {
+          "date": "2026-09-17 01:25",
+          "from": "Google <no-reply@accounts.google.com>",
+          "subject": "보안 알림",
+          "tags": [
+            "중요인물",
+            "에러"
+          ]
+        },
+        {
+          "date": "2026-09-16 14:46",
+          "from": "\"국세청\" <hometaxadmin@hometax.go.kr>",
+          "subject": "아라테크 (제이에이치솔루션(JHS)->아라테크)",
+          "tags": [
+            "확인필요"
+          ]
+        },
+        {
+          "date": "2026-09-16 08:50",
+          "from": "Cloudflare <em@em1.cloudflare.com>",
+          "subject": "Updates to managing AI crawlers on your account",
+          "tags": [
+            "확인필요"
+          ]
+        },
+        {
+          "date": "2026-09-16 02:37",
+          "from": "Google Cloud <CloudPlatform-noreply@google.com>",
+          "subject": "[Reminder] [Action Required] Review Gemini 2.5 model retirement schedules on Gemini Enterprise Agent Platform",
+          "tags": [
+            "중요인물"
+          ]
+        },
+        {
+          "date": "2026-09-15 21:54",
+          "from": "ChatGPT <noreply@tm.openai.com>",
+          "subject": "임시 ChatGPT 로그인 코드",
+          "tags": [
+            "중요인물",
+            "에러"
+          ]
+        }
+      ],
+      "links": [],
+      "entities": [
+        "중요인물",
+        "에러",
+        "확인필요"
+      ]
+    },
+    "youtube": {
+      "summary": "@fahdmirza Union Alpha Stealth Mode / @JulianGoldieSEO Claude + Obsidian is Abs / @JulianGoldieSEO GPT-6 Astra + Higgsfield",
+      "take": "업로드 속도가 빠른 채널은 오늘도 여러 편이 들어왔습니다. 중요한 주제부터 2~3개만 골라 보면 효율이 좋습니다.",
+      "items": [
+        {
+          "channel": "@fahdmirza",
+          "title": "Union Alpha Stealth Model Tested: Coding, Vision, Reasoning",
+          "published": "09-17 06:00",
+          "published_dt": "2026-09-17T06:00:21+09:00",
+          "url": "https://www.youtube.com/watch?v=IhbA_HimWHs",
+          "thumbnail": "https://i.ytimg.com/vi/IhbA_HimWHs/hqdefault.jpg",
+          "summary": "이 영상은 모델/LLM, 에이전트/자동화 중심 내용입니다. 구성은 This video tests Union Alpha is a multimodal model built for research, coding, and agentic workflows 순서로 이어지며, 제목만으로는 보이지 않는 변화 배경·핵심 기능·실제 활용 포인트를 짚어보는 영상입니다.",
+          "description_excerpt": "This video tests Union Alpha is a multimodal model built for research, coding, and agentic workflows. 📬Weekly AI : 🔥 Buy Me a Coffee to support the channel: PLEASE FOLLOW ME: ▶ LinkedIn: / fahdmirza ▶ YouTube: / ▶ Blog: RESOURCES: ▶ All rights reserved © Fahd Mirza",
+          "transcript_excerpt": "",
+          "shorts": false
+        },
+        {
+          "channel": "@JulianGoldieSEO",
+          "title": "Claude + Obsidian is Absolutely WILD!",
+          "published": "09-17 06:00",
+          "published_dt": "2026-09-17T06:00:14+09:00",
+          "url": "https://www.youtube.com/watch?v=HaZScZ5tu7c",
+          "thumbnail": "https://i.ytimg.com/vi/HaZScZ5tu7c/hqdefault.jpg",
+          "summary": "이 영상은 모델/LLM, 에이전트/자동화, 수익화/마케팅 중심 내용입니다. 구성은 Intro: Claude + Obsidian is Wild, The Memory Galaxy Explained, Solving the AI Blank Slate Problem, The 3-Tool Setup for AI Memory 순서로 이어집니다.",
+          "description_excerpt": "Get the Agent OS & Claude Obsidian Masterclass 👉 00:00 - Intro: Claude + Obsidian is Wild 01:10 - The Memory Galaxy Explained 01:41 - Solving the AI Blank Slate Problem 03:17 - The 3-Tool Setup for AI Memory 05:34 - The Infinite Context Engine Loop 06:41 - Navigating Your AI Note Galaxy 08:03 - The Agent Operating System 09:04 - Scaling with SEO Strategy",
+          "transcript_excerpt": "",
+          "shorts": false
+        },
+        {
+          "channel": "@JulianGoldieSEO",
+          "title": "GPT-6 Astra + Higgsfield MCP is SCARY GOOD!",
+          "published": "09-17 04:00",
+          "published_dt": "2026-09-17T04:00:28+09:00",
+          "url": "https://www.youtube.com/watch?v=PUqXPytj_J8",
+          "thumbnail": "https://i.ytimg.com/vi/PUqXPytj_J8/hqdefault.jpg",
+          "summary": "이 영상은 모델/LLM, 에이전트/자동화, 수익화/마케팅 중심 내용입니다. 구성은 Intro – Higgsfield MCP + Astra 6 for AI films, \"Nothing Real\" – a full short film from one prompt, Why not just use Higgsfield direct? (the real problem), The exact prompt behind the 60-sec AI movie 순서로 이어집니다.",
+          "description_excerpt": "Get the Agent OS & GPT + Higgsfield Masterclass 👉 0:00 Intro – Higgsfield MCP + Astra 6 for AI films 0:45 \"Nothing Real\" – a full short film from one prompt 2:38 Why not just use Higgsfield direct? (the real problem) 4:25 The exact prompt behind the 60-sec AI movie 5:37 Turn it into a reusable custom video tool 6:54 Beyond film: explainers, UGC & Facebook ad",
+          "transcript_excerpt": "",
+          "shorts": false
+        },
+        {
+          "channel": "@JulianGoldieSEO",
+          "title": "Agent OS + Orca + GPT 6 Astra + Blender!",
+          "published": "09-17 02:21",
+          "published_dt": "2026-09-17T02:21:19+09:00",
+          "url": "https://www.youtube.com/watch?v=Rj0vkOterjY",
+          "thumbnail": "https://i.ytimg.com/vi/Rj0vkOterjY/hqdefault.jpg",
+          "summary": "에이전트 OS + Orca + GPT 6 Astra + Blender! 내용을 다루는 영상입니다. 핵심은 에이전트, GPT 관련 변화나 활용 포인트를 소개하는 것입니다. 영상 설명 기준으로는 Get the Agent OS 👉",
+          "description_excerpt": "Get the Agent OS 👉",
+          "transcript_excerpt": "",
+          "shorts": false
+        },
+        {
+          "channel": "@zerochotv",
+          "title": "지금 API 공짜!! AI가 내 목소리로 화를 낸다?? Fish Audio 체험기",
+          "published": "09-16 20:57",
+          "published_dt": "2026-09-16T20:57:40+09:00",
+          "url": "https://www.youtube.com/watch?v=T_smr-nBJz0",
+          "thumbnail": "https://i.ytimg.com/vi/T_smr-nBJz0/hqdefault.jpg",
+          "summary": "구성은 Fish Audio 한국어 음성, 감정 표현 넣기, 내 목소리 복제하기, API(11월말까지 공짜) 순서로 이어집니다. 공짜 API 사용해보러 가기: 20% 할인 코드: ZEROCHO 본 영상은 Fish Audio의 지원을 받아 제작되었습니다",
+          "description_excerpt": "공짜 API 사용해보러 가기: 20% 할인 코드: ZEROCHO 본 영상은 Fish Audio의 지원을 받아 제작되었습니다. 00:00 인트로 00:56 Fish Audio 한국어 음성 02:20 감정 표현 넣기 03:19 내 목소리 복제하기 06:37 MCP 08:01 API(11월말까지 공짜) 10:49 아웃트로",
+          "transcript_excerpt": "",
+          "shorts": false
+        }
+      ],
+      "links": [
+        {
+          "label": "@fahdmirza · 09-17 06:00",
+          "url": "https://www.youtube.com/watch?v=IhbA_HimWHs",
+          "thumbnail": "https://i.ytimg.com/vi/IhbA_HimWHs/hqdefault.jpg"
+        },
+        {
+          "label": "@JulianGoldieSEO · 09-17 06:00",
+          "url": "https://www.youtube.com/watch?v=HaZScZ5tu7c",
+          "thumbnail": "https://i.ytimg.com/vi/HaZScZ5tu7c/hqdefault.jpg"
+        },
+        {
+          "label": "@JulianGoldieSEO · 09-17 04:00",
+          "url": "https://www.youtube.com/watch?v=PUqXPytj_J8",
+          "thumbnail": "https://i.ytimg.com/vi/PUqXPytj_J8/hqdefault.jpg"
+        }
+      ],
+      "entities": [
+        "@fahdmirza",
+        "@JulianGoldieSEO",
+        "@JulianGoldieSEO",
+        "@JulianGoldieSEO"
+      ]
+    },
+    "system": {
+      "summary": "CPU 64.5 % 사용 / RAM 8.4GB 사용 (53%) / SSD 322.3GB 사용 (68%, 여유 153.7GB) / 업타임 48시간 14분",
+      "take": "CPU는 현재 64.5 % 사용 중이며, RAM은 총 15.8GB 중 8.4GB (53%), SSD는 총 475.9GB 중 322.3GB 사용 (68%, 여유 153.7GB) 중입니다. 시스템 가동 시간은 48시간 14분이며, 네트워크 트래픽은 수신 2332.6 MB / 송신 1050.1 MB입니다. CPU 클럭은 3124.8 MHz, 버스 스피드는 100.8 MHz입니다.",
+      "metrics": [
+        {
+          "label": "CPU 사용률",
+          "value": "64.5 %",
+          "pct": 64.5,
+          "tone": "normal"
+        },
+        {
+          "label": "CPU 클럭",
+          "value": "3124.8 MHz",
+          "pct": 89.28,
+          "tone": "normal"
+        },
+        {
+          "label": "버스 스피드",
+          "value": "100.8 MHz",
+          "pct": 100,
+          "tone": "normal"
+        },
+        {
+          "label": "CPU 온도",
+          "value": "77.0 °C",
+          "pct": 77.0,
+          "tone": "warm"
+        },
+        {
+          "label": "RAM 사용량",
+          "value": "8.4 / 15.8 GB (53%)",
+          "pct": 53.4,
+          "tone": "normal"
+        },
+        {
+          "label": "SSD 사용량",
+          "value": "322.3 / 475.9 GB (68%)",
+          "pct": 67.7,
+          "tone": "normal"
+        },
+        {
+          "label": "SSD 여유 공간",
+          "value": "153.7 / 475.9 GB",
+          "pct": 32.3,
+          "tone": "normal"
+        },
+        {
+          "label": "SSD 온도",
+          "value": "40.0 °C",
+          "pct": 40.0,
+          "tone": "normal"
+        },
+        {
+          "label": "업타임",
+          "value": "48시간 14분",
+          "pct": 100,
+          "tone": "normal"
+        },
+        {
+          "label": "네트워크 수신",
+          "value": "2332.6 MB",
+          "pct": 100,
+          "tone": "normal"
+        },
+        {
+          "label": "네트워크 송신",
+          "value": "1050.1 MB",
+          "pct": 100,
+          "tone": "normal"
+        }
+      ]
+    },
+    "openclaw": {
+      "summary": "OpenClaw 2026.9.2 (3928bad)",
+      "take": "Runtime: running (pid 12916, last run 267009, last run time 2026-09-16T17:12:34.0000000Z, Gateway process detected for gateway port 18789.) | Listening: 127.0.0.1:18789",
+      "metrics": [
+        {
+          "label": "Gateway",
+          "value": "bind=loopback (127.0.0.1), port=18789 (service args)",
+          "pct": 100,
+          "tone": "normal"
+        },
+        {
+          "label": "Probe note",
+          "value": "Loopback-only gateway; only local clients can connect.",
+          "pct": 100,
+          "tone": "normal"
+        },
+        {
+          "label": "Runtime",
+          "value": "running (pid 12916, last run 267009, last run time 2026-09-16T17:12:34.0000000Z, Gateway process detected for gateway port 18789.)",
+          "pct": 100,
+          "tone": "good"
+        },
+        {
+          "label": "Listening",
+          "value": "127.0.0.1:18789",
+          "pct": 100,
+          "tone": "good"
+        }
+      ]
+    }
+  },
+  "cards": [
+    {
+      "title": "오늘의 한마디",
+      "summary": "오늘은 누가 밀어붙이지 않아도 됩니다. 팀장님 리듬대로 중요한 것부터 차분히 끝내면 됩니다.",
+      "take": "큰 변수 없이 움직이기 좋은 날씨입니다. 일정만 잘 잡으면 리듬 있게 가기 좋겠습니다. 오늘은 마음을 급하게 쓰지 말고, 가장 아쉬웠던 한 가지를 먼저 정리해 보시면 좋겠습니다. 그런 작은 정리가 하루의 기분을 꽤 크게 바꿉니다.",
+      "meta": [
+        "응원",
+        "중간 길이"
+      ],
+      "entities": [],
+      "keywords": [
+        "아침",
+        "집중"
+      ],
+      "links": []
+    },
+    {
+      "title": "오늘 일정",
+      "summary": "오늘 일정 없음",
+      "take": "오늘 등록된 일정이 없습니다. 이럴 때는 중요한 정리 한두 개만 분명하게 끝내도 충분합니다.",
+      "meta": [
+        "일정",
+        "calendar"
+      ],
+      "entities": [
+        "calendar"
+      ],
+      "keywords": [
+        "calendar"
+      ],
+      "links": []
+    },
+    {
+      "title": "주요 메일 / 중요 알림",
+      "summary": "[중요인물,에러] 보안 알림 / [확인필요] 아라테크 (제이에이치솔루션(JHS)->아라테크) / [확인필요] Updates to managing AI cra",
+      "take": "지금 확인할 만한 메일만 추렸습니다. 결제, 업무, 보안성 알림 위주로 먼저 보면 됩니다.",
+      "meta": [
+        "메일",
+        "gmail",
+        "중요 알림"
+      ],
+      "entities": [
+        "중요인물",
+        "에러",
+        "확인필요"
+      ],
+      "keywords": [
+        "gmail",
+        "alert"
+      ],
+      "links": []
+    },
+    {
+      "title": "유튜브 업데이트",
+      "summary": "@fahdmirza Union Alpha Stealth Mode / @JulianGoldieSEO Claude + Obsidian is Abs / @JulianGoldieSEO GPT-6 Astra + Higgsfield",
+      "take": "업로드 속도가 빠른 채널은 오늘도 여러 편이 들어왔습니다. 중요한 주제부터 2~3개만 골라 보면 효율이 좋습니다.",
+      "meta": [
+        "유튜브",
+        "AI 채널",
+        "중간 길이"
+      ],
+      "entities": [
+        "@fahdmirza",
+        "@JulianGoldieSEO",
+        "@JulianGoldieSEO",
+        "@JulianGoldieSEO"
+      ],
+      "keywords": [
+        "youtube",
+        "update",
+        "thumbnail"
+      ],
+      "links": [
+        {
+          "label": "@fahdmirza · 09-17 06:00",
+          "url": "https://www.youtube.com/watch?v=IhbA_HimWHs",
+          "thumbnail": "https://i.ytimg.com/vi/IhbA_HimWHs/hqdefault.jpg"
+        },
+        {
+          "label": "@JulianGoldieSEO · 09-17 06:00",
+          "url": "https://www.youtube.com/watch?v=HaZScZ5tu7c",
+          "thumbnail": "https://i.ytimg.com/vi/HaZScZ5tu7c/hqdefault.jpg"
+        },
+        {
+          "label": "@JulianGoldieSEO · 09-17 04:00",
+          "url": "https://www.youtube.com/watch?v=PUqXPytj_J8",
+          "thumbnail": "https://i.ytimg.com/vi/PUqXPytj_J8/hqdefault.jpg"
+        }
+      ]
+    },
+    {
+      "title": "시스템 상태 요약",
+      "summary": "CPU 64.5 % 사용 / RAM 8.4GB 사용 (53%) / SSD 322.3GB 사용 (68%, 여유 153.7GB) / 업타임 48시간 14분",
+      "take": "CPU는 현재 64.5 % 사용 중이며, RAM은 총 15.8GB 중 8.4GB (53%), SSD는 총 475.9GB 중 322.3GB 사용 (68%, 여유 153.7GB) 중입니다. 시스템 가동 시간은 48시간 14분이며, 네트워크 트래픽은 수신 2332.6 MB / 송신 1050.1 MB입니다. CPU 클럭은 3124.8 MHz, 버스 스피드는 100.8 MHz입니다.",
+      "meta": [
+        "시스템",
+        "LHM"
+      ],
+      "entities": [
+        "Intel N100",
+        "RAM",
+        "SSD"
+      ],
+      "keywords": [
+        "temperature",
+        "load",
+        "memory"
+      ],
+      "links": []
+    },
+    {
+      "title": "OpenClaw 상태 요약",
+      "summary": "OpenClaw 2026.9.2 (3928bad)",
+      "take": "Runtime: running (pid 12916, last run 267009, last run time 2026-09-16T17:12:34.0000000Z, Gateway process detected for gateway port 18789.) | Listening: 127.0.0.1:18789",
+      "meta": [
+        "OpenClaw",
+        "Gateway"
+      ],
+      "entities": [
+        "main",
+        "gateway"
+      ],
+      "keywords": [
+        "version",
+        "rpc",
+        "status"
+      ],
+      "links": []
+    }
+  ],
+  "footer": "AI-assisted morning briefing, unified data structure ready for stage 2"
+}
