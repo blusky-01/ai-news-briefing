@@ -1,0 +1,379 @@
+{
+  "date": "2026-09-19 07:00",
+  "title": "아침 브리핑",
+  "subtitle": "날씨 · 응원 · 일정 · 메일 · 유튜브 · 시스템 · OpenClaw",
+  "summary": "오늘 일정이 비어 있다면, 오히려 중요한 걸 조용히 정리할 수 있는 좋은 날입니다.",
+  "summary_box": "습도가 높아 체감이 더 무겁습니다. 물을 자주 마시며 리듬을 유지하면 좋겠습니다. 오늘은 마음을 급하게 쓰지 말고, 가장 아쉬웠던 한 가지를 먼저 정리해 보시면 좋겠습니다. 그런 작은 정리가 하루의 기분을 꽤 크게 바꿉니다.",
+  "weather": {
+    "loc": "김해",
+    "temp": "19°C",
+    "desc": "Cloudy ",
+    "icon": "⛅",
+    "badges": [
+      "체감 19°C",
+      "습도 87%",
+      "강수확률 13%",
+      "풍속 11km/h",
+      "UV 0",
+      "미세먼지 정보 연동 예정"
+    ],
+    "detail": {
+      "feels_like": "19",
+      "humidity": "87",
+      "rain_chance": "13",
+      "wind_kmph": "11",
+      "uv": "0",
+      "pm": "미세먼지 정보 연동 예정"
+    },
+    "life_comment": "습도가 높아 체감이 더 무겁습니다. 물을 자주 마시며 리듬을 유지하면 좋겠습니다."
+  },
+  "sections": {
+    "calendar": {
+      "summary": "오늘 일정 없음",
+      "take": "오늘 등록된 일정이 없습니다. 이럴 때는 중요한 정리 한두 개만 분명하게 끝내도 충분합니다.",
+      "items": [],
+      "links": [],
+      "entities": [
+        "calendar"
+      ]
+    },
+    "mail": {
+      "summary": "[확인필요] 아라테크 (제이에이치솔루션(JHS)->아라테크)",
+      "take": "지금 확인할 만한 메일만 추렸습니다. 결제, 업무, 보안성 알림 위주로 먼저 보면 됩니다.",
+      "items": [
+        {
+          "date": "2026-09-17 13:31",
+          "from": "\"국세청\" <hometaxadmin@hometax.go.kr>",
+          "subject": "아라테크 (제이에이치솔루션(JHS)->아라테크)",
+          "tags": [
+            "확인필요"
+          ]
+        }
+      ],
+      "links": [],
+      "entities": [
+        "확인필요"
+      ]
+    },
+    "youtube": {
+      "summary": "@JulianGoldieSEO How to Build a Custom HU / @fahdmirza Does Swift Qwen3.8 27B R / @JulianGoldieSEO How to Automate Lead Gen",
+      "take": "업로드 속도가 빠른 채널은 오늘도 여러 편이 들어왔습니다. 중요한 주제부터 2~3개만 골라 보면 효율이 좋습니다.",
+      "items": [
+        {
+          "channel": "@JulianGoldieSEO",
+          "title": "How to Build a Custom HUD for your AI Agents!",
+          "published": "09-19 05:00",
+          "published_dt": "2026-09-19T05:00:34+09:00",
+          "url": "https://www.youtube.com/watch?v=JbQ7jLF7DSI",
+          "thumbnail": "https://i.ytimg.com/vi/JbQ7jLF7DSI/hqdefault.jpg",
+          "summary": "이 영상은 에이전트/자동화, 튜토리얼/설정 중심 내용입니다. 구성은 Intro – Voice-controlled HUD overlay for AI agents, Demo – Opens apps (Obsidian) via voice, works over any window, Setup – Prep Mac + brief your coding agent to build the Swift app, Architecture – How voice/text commands trigger system actions 순서로 이어집니다.",
+          "description_excerpt": "Get the Agent OS Masterclass 👉 00:00 Intro – Voice-controlled HUD overlay for AI agents 00:35 Demo – Opens apps (Obsidian) via voice, works over any window 2:03 Setup – Prep Mac + brief your coding agent to build the Swift app 3:57 Architecture – How voice/text commands trigger system actions 4:49 Build – Compile, install, and launch the app 5:23 Debugging –",
+          "transcript_excerpt": "",
+          "shorts": false
+        },
+        {
+          "channel": "@fahdmirza",
+          "title": "Does Swift Qwen3.8 27B Really Think Less? Comparison with Original",
+          "published": "09-19 04:00",
+          "published_dt": "2026-09-19T04:00:24+09:00",
+          "url": "https://www.youtube.com/watch?v=kCLaOEp1Faw",
+          "thumbnail": "https://i.ytimg.com/vi/kCLaOEp1Faw/hqdefault.jpg",
+          "summary": "이 영상은 튜토리얼/설정 중심 내용입니다. 구성은 This video installs and compares Swift-Qwen3.8-27B with Original Qwen to see if fewer thought token claim holds up 순서로 이어지며, 제목만으로는 보이지 않는 변화 배경·핵심 기능·실제 활용 포인트를 짚어보는 영상입니다.",
+          "description_excerpt": "This video installs and compares Swift-Qwen3.8-27B with Original Qwen to see if fewer thought token claim holds up. 🔥 Get 50% Discount on any A6000 or A5000 GPU rental, use following link and coupon: Coupon code: FahdMirza 🔥 Buy Me a Coffee to support the channel: PLEASE FOLLOW ME: ▶ LinkedIn: ▶ YouTube: ▶ Blog: RESOURCES: ▶ All rights reserved © Fahd Mirza",
+          "transcript_excerpt": "",
+          "shorts": false
+        },
+        {
+          "channel": "@JulianGoldieSEO",
+          "title": "How to Automate Lead Gen + Outreach with Claude Fable 5.1",
+          "published": "09-19 03:00",
+          "published_dt": "2026-09-19T03:00:29+09:00",
+          "url": "https://www.youtube.com/watch?v=IOVx3a8Z59w",
+          "thumbnail": "https://i.ytimg.com/vi/IOVx3a8Z59w/hqdefault.jpg",
+          "summary": "이 영상은 모델/LLM, 에이전트/자동화, 수익화/마케팅 중심 내용입니다. 구성은 Intro – one prompt, full lead-gen pipeline, Setup – Hunter.io API key + booking calendar, Connect Gmail – link your AI agent to email, The Prompt – exact wording that runs the whole system 순서로 이어집니다.",
+          "description_excerpt": "Get the Agent OS & CLAUDE Masterclass 👉 0:00 Intro – one prompt, full lead-gen pipeline 0:14 Setup – Hunter.io API key + booking calendar 1:56 Connect Gmail – link your AI agent to email 2:30 The Prompt – exact wording that runs the whole system 3:02 Live Test – 376 domains → 20 verified leads 3:54 Personalized Emails – AI drafts ready to send 4:27 Automate ",
+          "transcript_excerpt": "",
+          "shorts": false
+        },
+        {
+          "channel": "@JulianGoldieSEO",
+          "title": "Union Alpha: New FREE AI API",
+          "published": "09-19 02:45",
+          "published_dt": "2026-09-19T02:45:10+09:00",
+          "url": "https://www.youtube.com/watch?v=FmAzkPi8coA",
+          "thumbnail": "https://i.ytimg.com/vi/FmAzkPi8coA/hqdefault.jpg",
+          "summary": "Union Alpha: New FREE AI API 내용을 다루는 영상입니다. 핵심은 AI 관련 변화나 활용 포인트를 소개하는 것입니다. 영상 설명 기준으로는 Get the Agent OS 👉",
+          "description_excerpt": "Get the Agent OS 👉",
+          "transcript_excerpt": "",
+          "shorts": false
+        },
+        {
+          "channel": "@zerochotv",
+          "title": "속도와 가성비 다 잡은 역대급 AI 모델 발견 😱 #ai #개발 #꿀팁",
+          "published": "09-18 18:25",
+          "published_dt": "2026-09-18T18:25:48+09:00",
+          "url": "https://www.youtube.com/watch?v=JCfYYbMJwgU",
+          "thumbnail": "https://i.ytimg.com/vi/JCfYYbMJwgU/hqdefault.jpg",
+          "summary": "이 영상은 개발도구 중심 내용입니다. 구성은 6.8만명이 수강한 제로초 강좌/로드맵 통합 링크!, 의지력이 약해 다른 사람들과 함께 수강하고 싶다면!, + 고민상담, 질문도 하고 싶다면 3천명이 모여있는 제로초스쿨에서! 순서로 이어집니다. 6.8만명이 수강한 제로초 강좌/로드맵 통합 링크! 의지력이 약해 다른 사람들과 함께 수강하고 싶다면! 제로초 덕분에 취업했다면 감사의 표시를 - 후원 및 멤버십 -- -- 깃헙 -- (레포지토리 스타 눌러주세요) -- 소개 -- Node.js 교과서, 코딩 자율학습 제로초의 자바스크립트 입문, 타입스크립트 교과서 저자 제로초닷컴(ZeroCho.c...",
+          "description_excerpt": "6.8만명이 수강한 제로초 강좌/로드맵 통합 링크! 의지력이 약해 다른 사람들과 함께 수강하고 싶다면! + 고민상담, 질문도 하고 싶다면 3천명이 모여있는 제로초스쿨에서! 제로초 덕분에 취업했다면 감사의 표시를 - 후원 및 멤버십 -- -- 깃헙 -- (레포지토리 스타 눌러주세요) -- 소개 -- Node.js 교과서, 코딩 자율학습 제로초의 자바스크립트 입문, 타입스크립트 교과서 저자 제로초닷컴(ZeroCho.com) 운영자 전)카카오모빌리티 파트장, 스모어톡/오늘의픽업/MYFIT CTO",
+          "transcript_excerpt": "",
+          "shorts": false
+        }
+      ],
+      "links": [
+        {
+          "label": "@JulianGoldieSEO · 09-19 05:00",
+          "url": "https://www.youtube.com/watch?v=JbQ7jLF7DSI",
+          "thumbnail": "https://i.ytimg.com/vi/JbQ7jLF7DSI/hqdefault.jpg"
+        },
+        {
+          "label": "@fahdmirza · 09-19 04:00",
+          "url": "https://www.youtube.com/watch?v=kCLaOEp1Faw",
+          "thumbnail": "https://i.ytimg.com/vi/kCLaOEp1Faw/hqdefault.jpg"
+        },
+        {
+          "label": "@JulianGoldieSEO · 09-19 03:00",
+          "url": "https://www.youtube.com/watch?v=IOVx3a8Z59w",
+          "thumbnail": "https://i.ytimg.com/vi/IOVx3a8Z59w/hqdefault.jpg"
+        }
+      ],
+      "entities": [
+        "@JulianGoldieSEO",
+        "@fahdmirza",
+        "@JulianGoldieSEO",
+        "@JulianGoldieSEO"
+      ]
+    },
+    "system": {
+      "summary": "CPU 10.7 % 사용 / RAM 8.1GB 사용 (51%) / SSD 321.4GB 사용 (68%, 여유 154.5GB) / 업타임 96시간 13분",
+      "take": "CPU는 현재 10.7 % 사용 중이며, RAM은 총 15.8GB 중 8.1GB (51%), SSD는 총 475.9GB 중 321.4GB 사용 (68%, 여유 154.5GB) 중입니다. 시스템 가동 시간은 96시간 13분이며, 네트워크 트래픽은 수신 4099.6 MB / 송신 1757.2 MB입니다. CPU 클럭은 806.4 MHz, 버스 스피드는 100.8 MHz입니다.",
+      "metrics": [
+        {
+          "label": "CPU 사용률",
+          "value": "10.7 %",
+          "pct": 10.7,
+          "tone": "normal"
+        },
+        {
+          "label": "CPU 클럭",
+          "value": "806.4 MHz",
+          "pct": 23.04,
+          "tone": "normal"
+        },
+        {
+          "label": "버스 스피드",
+          "value": "100.8 MHz",
+          "pct": 100,
+          "tone": "normal"
+        },
+        {
+          "label": "CPU 온도",
+          "value": "46.0 °C",
+          "pct": 46.0,
+          "tone": "normal"
+        },
+        {
+          "label": "RAM 사용량",
+          "value": "8.1 / 15.8 GB (51%)",
+          "pct": 51.1,
+          "tone": "normal"
+        },
+        {
+          "label": "SSD 사용량",
+          "value": "321.4 / 475.9 GB (68%)",
+          "pct": 67.5,
+          "tone": "normal"
+        },
+        {
+          "label": "SSD 여유 공간",
+          "value": "154.5 / 475.9 GB",
+          "pct": 32.5,
+          "tone": "normal"
+        },
+        {
+          "label": "SSD 온도",
+          "value": "40.0 °C",
+          "pct": 40.0,
+          "tone": "normal"
+        },
+        {
+          "label": "업타임",
+          "value": "96시간 13분",
+          "pct": 100,
+          "tone": "normal"
+        },
+        {
+          "label": "네트워크 수신",
+          "value": "4099.6 MB",
+          "pct": 100,
+          "tone": "normal"
+        },
+        {
+          "label": "네트워크 송신",
+          "value": "1757.2 MB",
+          "pct": 100,
+          "tone": "normal"
+        }
+      ]
+    },
+    "openclaw": {
+      "summary": "OpenClaw 2026.9.2 (3928bad)",
+      "take": "Runtime: running (pid 12916, last run 267009, last run time 2026-09-16T17:12:34.0000000Z, Gateway process detected for gateway port 18789.) | Listening: 127.0.0.1:18789",
+      "metrics": [
+        {
+          "label": "Gateway",
+          "value": "bind=loopback (127.0.0.1), port=18789 (service args)",
+          "pct": 100,
+          "tone": "normal"
+        },
+        {
+          "label": "Probe note",
+          "value": "Loopback-only gateway; only local clients can connect.",
+          "pct": 100,
+          "tone": "normal"
+        },
+        {
+          "label": "Runtime",
+          "value": "running (pid 12916, last run 267009, last run time 2026-09-16T17:12:34.0000000Z, Gateway process detected for gateway port 18789.)",
+          "pct": 100,
+          "tone": "good"
+        },
+        {
+          "label": "Listening",
+          "value": "127.0.0.1:18789",
+          "pct": 100,
+          "tone": "good"
+        }
+      ]
+    }
+  },
+  "cards": [
+    {
+      "title": "오늘의 한마디",
+      "summary": "오늘 일정이 비어 있다면, 오히려 중요한 걸 조용히 정리할 수 있는 좋은 날입니다.",
+      "take": "습도가 높아 체감이 더 무겁습니다. 물을 자주 마시며 리듬을 유지하면 좋겠습니다. 오늘은 마음을 급하게 쓰지 말고, 가장 아쉬웠던 한 가지를 먼저 정리해 보시면 좋겠습니다. 그런 작은 정리가 하루의 기분을 꽤 크게 바꿉니다.",
+      "meta": [
+        "응원",
+        "중간 길이"
+      ],
+      "entities": [],
+      "keywords": [
+        "아침",
+        "집중"
+      ],
+      "links": []
+    },
+    {
+      "title": "오늘 일정",
+      "summary": "오늘 일정 없음",
+      "take": "오늘 등록된 일정이 없습니다. 이럴 때는 중요한 정리 한두 개만 분명하게 끝내도 충분합니다.",
+      "meta": [
+        "일정",
+        "calendar"
+      ],
+      "entities": [
+        "calendar"
+      ],
+      "keywords": [
+        "calendar"
+      ],
+      "links": []
+    },
+    {
+      "title": "주요 메일 / 중요 알림",
+      "summary": "[확인필요] 아라테크 (제이에이치솔루션(JHS)->아라테크)",
+      "take": "지금 확인할 만한 메일만 추렸습니다. 결제, 업무, 보안성 알림 위주로 먼저 보면 됩니다.",
+      "meta": [
+        "메일",
+        "gmail",
+        "중요 알림"
+      ],
+      "entities": [
+        "확인필요"
+      ],
+      "keywords": [
+        "gmail",
+        "alert"
+      ],
+      "links": []
+    },
+    {
+      "title": "유튜브 업데이트",
+      "summary": "@JulianGoldieSEO How to Build a Custom HU / @fahdmirza Does Swift Qwen3.8 27B R / @JulianGoldieSEO How to Automate Lead Gen",
+      "take": "업로드 속도가 빠른 채널은 오늘도 여러 편이 들어왔습니다. 중요한 주제부터 2~3개만 골라 보면 효율이 좋습니다.",
+      "meta": [
+        "유튜브",
+        "AI 채널",
+        "중간 길이"
+      ],
+      "entities": [
+        "@JulianGoldieSEO",
+        "@fahdmirza",
+        "@JulianGoldieSEO",
+        "@JulianGoldieSEO"
+      ],
+      "keywords": [
+        "youtube",
+        "update",
+        "thumbnail"
+      ],
+      "links": [
+        {
+          "label": "@JulianGoldieSEO · 09-19 05:00",
+          "url": "https://www.youtube.com/watch?v=JbQ7jLF7DSI",
+          "thumbnail": "https://i.ytimg.com/vi/JbQ7jLF7DSI/hqdefault.jpg"
+        },
+        {
+          "label": "@fahdmirza · 09-19 04:00",
+          "url": "https://www.youtube.com/watch?v=kCLaOEp1Faw",
+          "thumbnail": "https://i.ytimg.com/vi/kCLaOEp1Faw/hqdefault.jpg"
+        },
+        {
+          "label": "@JulianGoldieSEO · 09-19 03:00",
+          "url": "https://www.youtube.com/watch?v=IOVx3a8Z59w",
+          "thumbnail": "https://i.ytimg.com/vi/IOVx3a8Z59w/hqdefault.jpg"
+        }
+      ]
+    },
+    {
+      "title": "시스템 상태 요약",
+      "summary": "CPU 10.7 % 사용 / RAM 8.1GB 사용 (51%) / SSD 321.4GB 사용 (68%, 여유 154.5GB) / 업타임 96시간 13분",
+      "take": "CPU는 현재 10.7 % 사용 중이며, RAM은 총 15.8GB 중 8.1GB (51%), SSD는 총 475.9GB 중 321.4GB 사용 (68%, 여유 154.5GB) 중입니다. 시스템 가동 시간은 96시간 13분이며, 네트워크 트래픽은 수신 4099.6 MB / 송신 1757.2 MB입니다. CPU 클럭은 806.4 MHz, 버스 스피드는 100.8 MHz입니다.",
+      "meta": [
+        "시스템",
+        "LHM"
+      ],
+      "entities": [
+        "Intel N100",
+        "RAM",
+        "SSD"
+      ],
+      "keywords": [
+        "temperature",
+        "load",
+        "memory"
+      ],
+      "links": []
+    },
+    {
+      "title": "OpenClaw 상태 요약",
+      "summary": "OpenClaw 2026.9.2 (3928bad)",
+      "take": "Runtime: running (pid 12916, last run 267009, last run time 2026-09-16T17:12:34.0000000Z, Gateway process detected for gateway port 18789.) | Listening: 127.0.0.1:18789",
+      "meta": [
+        "OpenClaw",
+        "Gateway"
+      ],
+      "entities": [
+        "main",
+        "gateway"
+      ],
+      "keywords": [
+        "version",
+        "rpc",
+        "status"
+      ],
+      "links": []
+    }
+  ],
+  "footer": "AI-assisted morning briefing, unified data structure ready for stage 2"
+}
