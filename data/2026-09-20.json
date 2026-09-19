@@ -1,0 +1,366 @@
+{
+  "date": "2026-09-20 07:00",
+  "title": "아침 브리핑",
+  "subtitle": "날씨 · 응원 · 일정 · 메일 · 유튜브 · 시스템 · OpenClaw",
+  "summary": "비어 있는 하루는 느슨한 하루가 아니라, 진짜 필요한 걸 선명하게 끝낼 수 있는 하루입니다.",
+  "summary_box": "습도가 높아 체감이 더 무겁습니다. 물을 자주 마시며 리듬을 유지하면 좋겠습니다. 오늘은 마음을 급하게 쓰지 말고, 가장 아쉬웠던 한 가지를 먼저 정리해 보시면 좋겠습니다. 그런 작은 정리가 하루의 기분을 꽤 크게 바꿉니다.",
+  "weather": {
+    "loc": "김해",
+    "temp": "18°C",
+    "desc": "Clear ",
+    "icon": "⛅",
+    "badges": [
+      "체감 18°C",
+      "습도 86%",
+      "강수확률 1%",
+      "풍속 8km/h",
+      "UV 0",
+      "미세먼지 정보 연동 예정"
+    ],
+    "detail": {
+      "feels_like": "18",
+      "humidity": "86",
+      "rain_chance": "1",
+      "wind_kmph": "8",
+      "uv": "0",
+      "pm": "미세먼지 정보 연동 예정"
+    },
+    "life_comment": "습도가 높아 체감이 더 무겁습니다. 물을 자주 마시며 리듬을 유지하면 좋겠습니다."
+  },
+  "sections": {
+    "calendar": {
+      "summary": "오늘 일정 없음",
+      "take": "오늘 등록된 일정이 없습니다. 이럴 때는 중요한 정리 한두 개만 분명하게 끝내도 충분합니다.",
+      "items": [],
+      "links": [],
+      "entities": [
+        "calendar"
+      ]
+    },
+    "mail": {
+      "summary": "주요 메일 없음",
+      "take": "최근 2일 기준 광고성 제외 후 결제·업무·중요인물·에러 메일이 감지되지 않았습니다.",
+      "items": [],
+      "links": [],
+      "entities": []
+    },
+    "youtube": {
+      "summary": "@JulianGoldieSEO I Built a Second Brain f / @진바이브 지피티와 클로드가 돈을 버는 방법 / @JulianGoldieSEO OpenAI’s GPT-Live-1 Just",
+      "take": "업로드 속도가 빠른 채널은 오늘도 여러 편이 들어왔습니다. 중요한 주제부터 2~3개만 골라 보면 효율이 좋습니다.",
+      "items": [
+        {
+          "channel": "@JulianGoldieSEO",
+          "title": "I Built a Second Brain for All My AI Agents",
+          "published": "09-20 07:00",
+          "published_dt": "2026-09-20T07:00:04+09:00",
+          "url": "https://www.youtube.com/watch?v=exCiVSpY-ic",
+          "thumbnail": "https://i.ytimg.com/vi/exCiVSpY-ic/hqdefault.jpg",
+          "summary": "이 영상은 에이전트/자동화 중심 내용입니다. 구성은 Hook – why generic AI answers aren't about your prompt, Overview – one shared memory across all your AI agents, How it works – pick a memory, agents build it out, The real problem – re-explaining yourself every chat 순서로 이어지며, 제목만으로는 보이지 않는 변화 배경·핵심 기능·실제 활용 포인트를 짚어보는 영상입니다.",
+          "description_excerpt": "Get the Agent OS & Obsidian Masterclass 👉 00:00 Hook – why generic AI answers aren't about your prompt 00:34 Overview – one shared memory across all your AI agents 01:03 How it works – pick a memory, agents build it out 01:48 The real problem – re-explaining yourself every chat 02:20 Obsidian – the free tool behind the memory layer 03:14 Memory galaxy – visu",
+          "transcript_excerpt": "I built a second brain for all my AI agents. What if the reason your AI keeps giving you generic answers has nothing to do with your prompt? Everyone's out there hunting for the perfect prompt and they're all missing the real problem. Your ",
+          "shorts": false
+        },
+        {
+          "channel": "@진바이브",
+          "title": "지피티와 클로드가 돈을 버는 방법",
+          "published": "09-20 06:06",
+          "published_dt": "2026-09-20T06:06:09+09:00",
+          "url": "https://www.youtube.com/watch?v=yP9flSAWRJg",
+          "thumbnail": "https://i.ytimg.com/vi/yP9flSAWRJg/hqdefault.jpg",
+          "summary": "지피티와 클로드가 돈을 버는 방법 주제를 중심으로 무엇이 새로 나왔는지, 또는 어떻게 활용하는지를 설명하는 영상입니다.",
+          "description_excerpt": "",
+          "transcript_excerpt": "",
+          "shorts": false
+        },
+        {
+          "channel": "@JulianGoldieSEO",
+          "title": "OpenAI’s GPT-Live-1 Just Beat Grok Voice?!",
+          "published": "09-20 06:00",
+          "published_dt": "2026-09-20T06:00:20+09:00",
+          "url": "https://www.youtube.com/watch?v=5W9AkTq6NYA",
+          "thumbnail": "https://i.ytimg.com/vi/5W9AkTq6NYA/hqdefault.jpg",
+          "summary": "이 영상은 모델/LLM, 에이전트/자동화 중심 내용입니다. 구성은 Intro – The voice AI showdown everyone's got wrong, GPT Live 1 Explained – What \"full duplex\" actually means, The Benchmark – Speech-to-Speech Index breakdown, The Real Score – 81.5 vs 81.3, why it's basically a tie 순서로 이어지며, 제목만으로는 보이지 않는 변화 배경·핵심 기능·실제 활용 포인트를 짚어보는 영상입니다.",
+          "description_excerpt": "Get the Agent OS & GPT-Live-1 + Grok Voice Masterclass 👉 00:00 Intro – The voice AI showdown everyone's got wrong 00:43 GPT Live 1 Explained – What \"full duplex\" actually means 01:28 The Benchmark – Speech-to-Speech Index breakdown 02:08 The Real Score – 81.5 vs 81.3, why it's basically a tie 02:55 Category Wins – Grok dominates reasoning & task success 03:3",
+          "transcript_excerpt": "OpenAI's GPT Live 1 just beat Grock voice. Did OpenAI's new voice AI really beat Grock? That's the headline all over the internet right now, but the real numbers tell a much weirder story because the model sitting at the top, it's not even ",
+          "shorts": false
+        },
+        {
+          "channel": "@JulianGoldieSEO",
+          "title": "The FREE Hermes Agent Is Absolutely WILD!",
+          "published": "09-20 05:00",
+          "published_dt": "2026-09-20T05:00:08+09:00",
+          "url": "https://www.youtube.com/watch?v=RP9vUxkGEG0",
+          "thumbnail": "https://i.ytimg.com/vi/RP9vUxkGEG0/hqdefault.jpg",
+          "summary": "이 영상은 모델/LLM, 에이전트/자동화, 튜토리얼/설정 중심 내용입니다. 구성은 Intro: The Free Hermes Agent, What is Omniroot?, RTK & Caveman Token Compression, Live Demo: Building a Landing Page 순서로 이어집니다. The free Hermes agent is absolutely wild Today, I'm going to show you something wild It's called Omni root",
+          "description_excerpt": "Get the Agent OS & Hermes Masterclass 👉 00:00 - Intro: The Free Hermes Agent 00:55 - What is Omniroot? 01:43 - RTK & Caveman Token Compression 03:36 - Live Demo: Building a Landing Page 04:45 - How the Routing System Works 06:07 - Installation & Free Providers 08:47 - Automating Your Business with AI",
+          "transcript_excerpt": "The free Hermes agent is absolutely wild. Today, I'm going to show you something wild. There's a tool that's been quietly blowing up since it first hit GitHub back in February 2026. It's called Omni root. It's picked up steam every month si",
+          "shorts": false
+        },
+        {
+          "channel": "@fahdmirza",
+          "title": "CUA S1 Forms: Jev-Like for GUI Form Filling Model Locally",
+          "published": "09-20 04:00",
+          "published_dt": "2026-09-20T04:00:00+09:00",
+          "url": "https://www.youtube.com/watch?v=Rzgd-y3mCPs",
+          "thumbnail": "https://i.ytimg.com/vi/Rzgd-y3mCPs/hqdefault.jpg",
+          "summary": "이 영상은 모델/LLM, 수익화/마케팅, 튜토리얼/설정 중심 내용입니다. 구성은 This video locally installs and tests cua-s1-forms, a small, jev- one-pass option scorer for GUI form filling 순서로 이어지며, 제목만으로는 보이지 않는 변화 배경·핵심 기능·실제 활용 포인트를 짚어보는 영상입니다.",
+          "description_excerpt": "This video locally installs and tests cua-s1-forms, a small, jev- one-pass option scorer for GUI form filling. 📬Weekly AI : 🔥 Get 50% Discount on any A6000 or A5000 GPU rental, use following link and coupon: Coupon code: FahdMirza 🔥 Buy Me a Coffee to support the channel: PLEASE FOLLOW ME: ▶ LinkedIn: / fahdmirza ▶ YouTube: / ▶ Blog: RESOURCES: ▶ All rights ",
+          "transcript_excerpt": "Today I present you a tiny but different model. This is CUA S1 forms, a tiny 706 K parameter model just 2.8 MB in size that does one job only. Fill out GUI forms. So, instead of an LLM reasoning step-by-step through every field, this model ",
+          "shorts": false
+        }
+      ],
+      "links": [
+        {
+          "label": "@JulianGoldieSEO · 09-20 07:00",
+          "url": "https://www.youtube.com/watch?v=exCiVSpY-ic",
+          "thumbnail": "https://i.ytimg.com/vi/exCiVSpY-ic/hqdefault.jpg"
+        },
+        {
+          "label": "@진바이브 · 09-20 06:06",
+          "url": "https://www.youtube.com/watch?v=yP9flSAWRJg",
+          "thumbnail": "https://i.ytimg.com/vi/yP9flSAWRJg/hqdefault.jpg"
+        },
+        {
+          "label": "@JulianGoldieSEO · 09-20 06:00",
+          "url": "https://www.youtube.com/watch?v=5W9AkTq6NYA",
+          "thumbnail": "https://i.ytimg.com/vi/5W9AkTq6NYA/hqdefault.jpg"
+        }
+      ],
+      "entities": [
+        "@JulianGoldieSEO",
+        "@진바이브",
+        "@JulianGoldieSEO",
+        "@JulianGoldieSEO"
+      ]
+    },
+    "system": {
+      "summary": "CPU 28.9 % 사용 / RAM 8.3GB 사용 (52%) / SSD 322.8GB 사용 (68%, 여유 153.1GB) / 업타임 120시간 13분",
+      "take": "CPU는 현재 28.9 % 사용 중이며, RAM은 총 15.8GB 중 8.3GB (52%), SSD는 총 475.9GB 중 322.8GB 사용 (68%, 여유 153.1GB) 중입니다. 시스템 가동 시간은 120시간 13분이며, 네트워크 트래픽은 수신 4960.2 MB / 송신 1940.1 MB입니다. CPU 클럭은 2923.2 MHz, 버스 스피드는 100.8 MHz입니다.",
+      "metrics": [
+        {
+          "label": "CPU 사용률",
+          "value": "28.9 %",
+          "pct": 28.9,
+          "tone": "normal"
+        },
+        {
+          "label": "CPU 클럭",
+          "value": "2923.2 MHz",
+          "pct": 83.52,
+          "tone": "normal"
+        },
+        {
+          "label": "버스 스피드",
+          "value": "100.8 MHz",
+          "pct": 100,
+          "tone": "normal"
+        },
+        {
+          "label": "CPU 온도",
+          "value": "68.0 °C",
+          "pct": 68.0,
+          "tone": "normal"
+        },
+        {
+          "label": "RAM 사용량",
+          "value": "8.3 / 15.8 GB (52%)",
+          "pct": 52.5,
+          "tone": "normal"
+        },
+        {
+          "label": "SSD 사용량",
+          "value": "322.8 / 475.9 GB (68%)",
+          "pct": 67.8,
+          "tone": "normal"
+        },
+        {
+          "label": "SSD 여유 공간",
+          "value": "153.1 / 475.9 GB",
+          "pct": 32.2,
+          "tone": "normal"
+        },
+        {
+          "label": "SSD 온도",
+          "value": "40.0 °C",
+          "pct": 40.0,
+          "tone": "normal"
+        },
+        {
+          "label": "업타임",
+          "value": "120시간 13분",
+          "pct": 100,
+          "tone": "normal"
+        },
+        {
+          "label": "네트워크 수신",
+          "value": "4960.2 MB",
+          "pct": 100,
+          "tone": "normal"
+        },
+        {
+          "label": "네트워크 송신",
+          "value": "1940.1 MB",
+          "pct": 100,
+          "tone": "normal"
+        }
+      ]
+    },
+    "openclaw": {
+      "summary": "OpenClaw 2026.9.2 (3928bad)",
+      "take": "Runtime: running (pid 12916, last run 267009, last run time 2026-09-16T17:12:34.0000000Z, Gateway process detected for gateway port 18789.) | Listening: 127.0.0.1:18789",
+      "metrics": [
+        {
+          "label": "Gateway",
+          "value": "bind=loopback (127.0.0.1), port=18789 (service args)",
+          "pct": 100,
+          "tone": "normal"
+        },
+        {
+          "label": "Probe note",
+          "value": "Loopback-only gateway; only local clients can connect.",
+          "pct": 100,
+          "tone": "normal"
+        },
+        {
+          "label": "Runtime",
+          "value": "running (pid 12916, last run 267009, last run time 2026-09-16T17:12:34.0000000Z, Gateway process detected for gateway port 18789.)",
+          "pct": 100,
+          "tone": "good"
+        },
+        {
+          "label": "Listening",
+          "value": "127.0.0.1:18789",
+          "pct": 100,
+          "tone": "good"
+        }
+      ]
+    }
+  },
+  "cards": [
+    {
+      "title": "오늘의 한마디",
+      "summary": "비어 있는 하루는 느슨한 하루가 아니라, 진짜 필요한 걸 선명하게 끝낼 수 있는 하루입니다.",
+      "take": "습도가 높아 체감이 더 무겁습니다. 물을 자주 마시며 리듬을 유지하면 좋겠습니다. 오늘은 마음을 급하게 쓰지 말고, 가장 아쉬웠던 한 가지를 먼저 정리해 보시면 좋겠습니다. 그런 작은 정리가 하루의 기분을 꽤 크게 바꿉니다.",
+      "meta": [
+        "응원",
+        "중간 길이"
+      ],
+      "entities": [],
+      "keywords": [
+        "아침",
+        "집중"
+      ],
+      "links": []
+    },
+    {
+      "title": "오늘 일정",
+      "summary": "오늘 일정 없음",
+      "take": "오늘 등록된 일정이 없습니다. 이럴 때는 중요한 정리 한두 개만 분명하게 끝내도 충분합니다.",
+      "meta": [
+        "일정",
+        "calendar"
+      ],
+      "entities": [
+        "calendar"
+      ],
+      "keywords": [
+        "calendar"
+      ],
+      "links": []
+    },
+    {
+      "title": "주요 메일 / 중요 알림",
+      "summary": "주요 메일 없음",
+      "take": "최근 2일 기준 광고성 제외 후 결제·업무·중요인물·에러 메일이 감지되지 않았습니다.",
+      "meta": [
+        "메일",
+        "gmail",
+        "중요 알림"
+      ],
+      "entities": [],
+      "keywords": [
+        "gmail",
+        "alert"
+      ],
+      "links": []
+    },
+    {
+      "title": "유튜브 업데이트",
+      "summary": "@JulianGoldieSEO I Built a Second Brain f / @진바이브 지피티와 클로드가 돈을 버는 방법 / @JulianGoldieSEO OpenAI’s GPT-Live-1 Just",
+      "take": "업로드 속도가 빠른 채널은 오늘도 여러 편이 들어왔습니다. 중요한 주제부터 2~3개만 골라 보면 효율이 좋습니다.",
+      "meta": [
+        "유튜브",
+        "AI 채널",
+        "중간 길이"
+      ],
+      "entities": [
+        "@JulianGoldieSEO",
+        "@진바이브",
+        "@JulianGoldieSEO",
+        "@JulianGoldieSEO"
+      ],
+      "keywords": [
+        "youtube",
+        "update",
+        "thumbnail"
+      ],
+      "links": [
+        {
+          "label": "@JulianGoldieSEO · 09-20 07:00",
+          "url": "https://www.youtube.com/watch?v=exCiVSpY-ic",
+          "thumbnail": "https://i.ytimg.com/vi/exCiVSpY-ic/hqdefault.jpg"
+        },
+        {
+          "label": "@진바이브 · 09-20 06:06",
+          "url": "https://www.youtube.com/watch?v=yP9flSAWRJg",
+          "thumbnail": "https://i.ytimg.com/vi/yP9flSAWRJg/hqdefault.jpg"
+        },
+        {
+          "label": "@JulianGoldieSEO · 09-20 06:00",
+          "url": "https://www.youtube.com/watch?v=5W9AkTq6NYA",
+          "thumbnail": "https://i.ytimg.com/vi/5W9AkTq6NYA/hqdefault.jpg"
+        }
+      ]
+    },
+    {
+      "title": "시스템 상태 요약",
+      "summary": "CPU 28.9 % 사용 / RAM 8.3GB 사용 (52%) / SSD 322.8GB 사용 (68%, 여유 153.1GB) / 업타임 120시간 13분",
+      "take": "CPU는 현재 28.9 % 사용 중이며, RAM은 총 15.8GB 중 8.3GB (52%), SSD는 총 475.9GB 중 322.8GB 사용 (68%, 여유 153.1GB) 중입니다. 시스템 가동 시간은 120시간 13분이며, 네트워크 트래픽은 수신 4960.2 MB / 송신 1940.1 MB입니다. CPU 클럭은 2923.2 MHz, 버스 스피드는 100.8 MHz입니다.",
+      "meta": [
+        "시스템",
+        "LHM"
+      ],
+      "entities": [
+        "Intel N100",
+        "RAM",
+        "SSD"
+      ],
+      "keywords": [
+        "temperature",
+        "load",
+        "memory"
+      ],
+      "links": []
+    },
+    {
+      "title": "OpenClaw 상태 요약",
+      "summary": "OpenClaw 2026.9.2 (3928bad)",
+      "take": "Runtime: running (pid 12916, last run 267009, last run time 2026-09-16T17:12:34.0000000Z, Gateway process detected for gateway port 18789.) | Listening: 127.0.0.1:18789",
+      "meta": [
+        "OpenClaw",
+        "Gateway"
+      ],
+      "entities": [
+        "main",
+        "gateway"
+      ],
+      "keywords": [
+        "version",
+        "rpc",
+        "status"
+      ],
+      "links": []
+    }
+  ],
+  "footer": "AI-assisted morning briefing, unified data structure ready for stage 2"
+}
