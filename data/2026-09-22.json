@@ -1,0 +1,403 @@
+{
+  "date": "2026-09-22 07:09",
+  "title": "아침 브리핑",
+  "subtitle": "날씨 · 응원 · 일정 · 메일 · 유튜브 · 시스템 · OpenClaw",
+  "summary": "비어 있는 하루는 느슨한 하루가 아니라, 진짜 필요한 걸 선명하게 끝낼 수 있는 하루입니다.",
+  "summary_box": "습도가 높아 체감이 더 무겁습니다. 물을 자주 마시며 리듬을 유지하면 좋겠습니다. 오늘은 마음을 급하게 쓰지 말고, 가장 아쉬웠던 한 가지를 먼저 정리해 보시면 좋겠습니다. 그런 작은 정리가 하루의 기분을 꽤 크게 바꿉니다.",
+  "weather": {
+    "loc": "김해",
+    "temp": "18°C",
+    "desc": "Clear ",
+    "icon": "⛅",
+    "badges": [
+      "체감 19°C",
+      "습도 87%",
+      "강수확률 1%",
+      "풍속 9km/h",
+      "UV 0",
+      "미세먼지 정보 연동 예정"
+    ],
+    "detail": {
+      "feels_like": "19",
+      "humidity": "87",
+      "rain_chance": "1",
+      "wind_kmph": "9",
+      "uv": "0",
+      "pm": "미세먼지 정보 연동 예정"
+    },
+    "life_comment": "습도가 높아 체감이 더 무겁습니다. 물을 자주 마시며 리듬을 유지하면 좋겠습니다."
+  },
+  "sections": {
+    "calendar": {
+      "summary": "오늘 일정 없음",
+      "take": "오늘 등록된 일정이 없습니다. 이럴 때는 중요한 정리 한두 개만 분명하게 끝내도 충분합니다.",
+      "items": [],
+      "links": [],
+      "entities": [
+        "calendar"
+      ]
+    },
+    "mail": {
+      "summary": "[중요인물]  [알림] [조치 필요] Gemini Enter / [중요인물] Google 계정 데이터 일부를 Hi3D에 공유 / [중요인물] 추천 강좌: Google AI Essential",
+      "take": "지금 확인할 만한 메일만 추렸습니다. 결제, 업무, 보안성 알림 위주로 먼저 보면 됩니다.",
+      "items": [
+        {
+          "date": "2026-09-22 00:15",
+          "from": "Google Cloud <CloudPlatform-noreply@google.com>",
+          "subject": " [알림] [조치 필요] Gemini Enterprise Agent Platform의 Gemini 2.5 모델 지원 종료 일정을 검토하세요",
+          "tags": [
+            "중요인물"
+          ]
+        },
+        {
+          "date": "2026-09-21 22:20",
+          "from": "Google <noreply-accounts@google.com>",
+          "subject": "Google 계정 데이터 일부를 Hi3D에 공유하셨습니다",
+          "tags": [
+            "중요인물"
+          ]
+        },
+        {
+          "date": "2026-09-21 21:37",
+          "from": "Coursera <Coursera@m.learn.coursera.org>",
+          "subject": "추천 강좌: Google AI Essentials",
+          "tags": [
+            "중요인물"
+          ]
+        },
+        {
+          "date": "2026-09-20 20:04",
+          "from": "Google <noreply-accounts@google.com>",
+          "subject": "Google 계정 데이터 일부를 QuiverAI에 공유하셨습니다",
+          "tags": [
+            "중요인물"
+          ]
+        }
+      ],
+      "links": [],
+      "entities": [
+        "중요인물"
+      ]
+    },
+    "youtube": {
+      "summary": "@fahdmirza Grok 4.7: I Gave It a Br / @JulianGoldieSEO This Is the Simplest Way / @JulianGoldieSEO Automate Anything using ",
+      "take": "업로드 속도가 빠른 채널은 오늘도 여러 편이 들어왔습니다. 중요한 주제부터 2~3개만 골라 보면 효율이 좋습니다.",
+      "items": [
+        {
+          "channel": "@fahdmirza",
+          "title": "Grok 4.7: I Gave It a Broken Championship, a Broken LED, and Coffee",
+          "published": "09-22 06:12",
+          "published_dt": "2026-09-22T06:12:29+09:00",
+          "url": "https://www.youtube.com/watch?v=zHhwrxfih14",
+          "thumbnail": "https://i.ytimg.com/vi/zHhwrxfih14/hqdefault.jpg",
+          "summary": "이 영상은 모델/LLM 중심 내용입니다. 구성은 This video tests Grok 4.7, their most capable model for coding and knowledge work 순서로 이어집니다. This video tests Grok 4.7, their most capable model for coding and knowledge work 📬Weekly AI : 🔥 Buy Me a Coffee to support the channel: PLEASE FOLLOW ME: ▶ LinkedIn: / fahdmirza ▶ YouTube: / ▶ Blog: RESOURCES: ▶ All ri...",
+          "description_excerpt": "This video tests Grok 4.7, their most capable model for coding and knowledge work. 📬Weekly AI : 🔥 Buy Me a Coffee to support the channel: PLEASE FOLLOW ME: ▶ LinkedIn: / fahdmirza ▶ YouTube: / ▶ Blog: RESOURCES: ▶ All rights reserved © Fahd Mirza",
+          "transcript_excerpt": "",
+          "shorts": false
+        },
+        {
+          "channel": "@JulianGoldieSEO",
+          "title": "This Is the Simplest Way to Build a Multi-Agent System",
+          "published": "09-22 06:00",
+          "published_dt": "2026-09-22T06:00:39+09:00",
+          "url": "https://www.youtube.com/watch?v=aN72k0W21vk",
+          "thumbnail": "https://i.ytimg.com/vi/aN72k0W21vk/hqdefault.jpg",
+          "summary": "이 영상은 모델/LLM, 에이전트/자동화, 튜토리얼/설정 중심 내용입니다. 구성은 Intro – Why multi-agent systems break, Common Mistake – API keys vs subscriptions, Clean Setup Example – One agent, one job, The Trap – Stacking models & personas 순서로 이어집니다.",
+          "description_excerpt": "Get the Agent OS & Hermes Masterclass 👉 00:00 Intro – Why multi-agent systems break 00:51 Common Mistake – API keys vs subscriptions 1:23 Clean Setup Example – One agent, one job 2:02 The Trap – Stacking models & personas 2:31 Key Rule – Fewest moving parts wins 3:35 Model Rotation Fails – Don't automate switching 4:50 Fix – Use built-in agent mastermind 5:0",
+          "transcript_excerpt": "",
+          "shorts": false
+        },
+        {
+          "channel": "@JulianGoldieSEO",
+          "title": "Automate Anything using the NEW AgentOS System!",
+          "published": "09-22 04:00",
+          "published_dt": "2026-09-22T04:00:37+09:00",
+          "url": "https://www.youtube.com/watch?v=k0DEvxhs1K4",
+          "thumbnail": "https://i.ytimg.com/vi/k0DEvxhs1K4/hqdefault.jpg",
+          "summary": "이 영상은 모델/LLM, 에이전트/자동화, 튜토리얼/설정 중심 내용입니다. 구성은 Intro to Agent OS, Multi-Device Setup via VPS, Hermes Mission Control, Best AI Models for Content 순서로 이어집니다.",
+          "description_excerpt": "Get the Agent OS Masterclass 👉 00:00 - Intro to Agent OS 01:18 - Multi-Device Setup via VPS 03:07 - Hermes Mission Control 04:05 - Best AI Models for Content 04:37 - Marketing Automation Strategy 05:07 - Building an AI Memory System 05:44 - Codeex & Website Building 06:19 - How to Get the Agent OS",
+          "transcript_excerpt": "",
+          "shorts": false
+        },
+        {
+          "channel": "@JulianGoldieSEO",
+          "title": "How to Setup Jev AI + Claude Code",
+          "published": "09-22 03:00",
+          "published_dt": "2026-09-22T03:00:21+09:00",
+          "url": "https://www.youtube.com/watch?v=iK88eHoilYw",
+          "thumbnail": "https://i.ytimg.com/vi/iK88eHoilYw/hqdefault.jpg",
+          "summary": "이 영상은 모델/LLM, 에이전트/자동화, 튜토리얼/설정 중심 내용입니다. 구성은 Intro – What Jev AI is + why pair it with Claude, Get API Key – OpenRouter setup (paid method), Connect to Claude – Add key + docs, Personalized Ideas – Claude scans your work for use cases 순서로 이어집니다.",
+          "description_excerpt": "Get the Agent OS & Jev AI + Claude Code Masterclass 👉 00:00 Intro – What Jev AI is + why pair it with Claude 00:16 Get API Key – OpenRouter setup (paid method) 00:57 Connect to Claude – Add key + docs 01:23 Personalized Ideas – Claude scans your work for use cases 02:30 Why It Works – Faster, cheaper decisions than Claude alone 03:16 Real Example – Auto-scor",
+          "transcript_excerpt": "",
+          "shorts": false
+        },
+        {
+          "channel": "@jocoding",
+          "title": "[LIVE] Mac Studio 2대 연결해서 돌려보기 with M5 Ultra, 512GB 통합 메모리",
+          "published": "09-22 01:13",
+          "published_dt": "2026-09-22T01:13:34+09:00",
+          "url": "https://www.youtube.com/watch?v=cR6rp110f50",
+          "thumbnail": "https://i.ytimg.com/vi/cR6rp110f50/hqdefault.jpg",
+          "summary": "구성은 [LIVE] Mac Studio 2대 연결해서 돌려보기 with M5 Ultra, 512GB 통합 메모리 * Apple에서 Mac Studio를 대여 받아 진행하는 콘텐츠 입니다 순서로 이어집니다. [LIVE] Mac Studio 2대 연결해서 돌려보기 with M5 Ultra, 512GB 통합 메모리 * Apple에서 Mac Studio를 대여 받아 진행하는 콘텐츠 입니다",
+          "description_excerpt": "[LIVE] Mac Studio 2대 연결해서 돌려보기 with M5 Ultra, 512GB 통합 메모리 * Apple에서 Mac Studio를 대여 받아 진행하는 콘텐츠 입니다.",
+          "transcript_excerpt": "",
+          "shorts": false
+        }
+      ],
+      "links": [
+        {
+          "label": "@fahdmirza · 09-22 06:12",
+          "url": "https://www.youtube.com/watch?v=zHhwrxfih14",
+          "thumbnail": "https://i.ytimg.com/vi/zHhwrxfih14/hqdefault.jpg"
+        },
+        {
+          "label": "@JulianGoldieSEO · 09-22 06:00",
+          "url": "https://www.youtube.com/watch?v=aN72k0W21vk",
+          "thumbnail": "https://i.ytimg.com/vi/aN72k0W21vk/hqdefault.jpg"
+        },
+        {
+          "label": "@JulianGoldieSEO · 09-22 04:00",
+          "url": "https://www.youtube.com/watch?v=k0DEvxhs1K4",
+          "thumbnail": "https://i.ytimg.com/vi/k0DEvxhs1K4/hqdefault.jpg"
+        }
+      ],
+      "entities": [
+        "@fahdmirza",
+        "@JulianGoldieSEO",
+        "@JulianGoldieSEO",
+        "@JulianGoldieSEO"
+      ]
+    },
+    "system": {
+      "summary": "CPU 15.0 % 사용 / RAM 9.2GB 사용 (58%) / SSD 324.1GB 사용 (68%, 여유 151.8GB) / 업타임 168시간 23분",
+      "take": "CPU는 현재 15.0 % 사용 중이며, RAM은 총 15.8GB 중 9.2GB (58%), SSD는 총 475.9GB 중 324.1GB 사용 (68%, 여유 151.8GB) 중입니다. 시스템 가동 시간은 168시간 23분이며, 네트워크 트래픽은 수신 6249.5 MB / 송신 2370.6 MB입니다. CPU 클럭은 1008.0 MHz, 버스 스피드는 100.8 MHz입니다.",
+      "metrics": [
+        {
+          "label": "CPU 사용률",
+          "value": "15.0 %",
+          "pct": 15.0,
+          "tone": "normal"
+        },
+        {
+          "label": "CPU 클럭",
+          "value": "1008.0 MHz",
+          "pct": 28.8,
+          "tone": "normal"
+        },
+        {
+          "label": "버스 스피드",
+          "value": "100.8 MHz",
+          "pct": 100,
+          "tone": "normal"
+        },
+        {
+          "label": "CPU 온도",
+          "value": "47.0 °C",
+          "pct": 47.0,
+          "tone": "normal"
+        },
+        {
+          "label": "RAM 사용량",
+          "value": "9.2 / 15.8 GB (58%)",
+          "pct": 58.1,
+          "tone": "normal"
+        },
+        {
+          "label": "SSD 사용량",
+          "value": "324.1 / 475.9 GB (68%)",
+          "pct": 68.1,
+          "tone": "normal"
+        },
+        {
+          "label": "SSD 여유 공간",
+          "value": "151.8 / 475.9 GB",
+          "pct": 31.900000000000006,
+          "tone": "normal"
+        },
+        {
+          "label": "SSD 온도",
+          "value": "40.0 °C",
+          "pct": 40.0,
+          "tone": "normal"
+        },
+        {
+          "label": "업타임",
+          "value": "168시간 23분",
+          "pct": 100,
+          "tone": "normal"
+        },
+        {
+          "label": "네트워크 수신",
+          "value": "6249.5 MB",
+          "pct": 100,
+          "tone": "normal"
+        },
+        {
+          "label": "네트워크 송신",
+          "value": "2370.6 MB",
+          "pct": 100,
+          "tone": "normal"
+        }
+      ]
+    },
+    "openclaw": {
+      "summary": "OpenClaw 2026.9.2 (3928bad)",
+      "take": "Runtime: running (pid 12916, last run 267009, last run time 2026-09-16T17:12:34.0000000Z, Gateway process detected for gateway port 18789.) | Listening: 127.0.0.1:18789",
+      "metrics": [
+        {
+          "label": "Gateway",
+          "value": "bind=loopback (127.0.0.1), port=18789 (service args)",
+          "pct": 100,
+          "tone": "normal"
+        },
+        {
+          "label": "Probe note",
+          "value": "Loopback-only gateway; only local clients can connect.",
+          "pct": 100,
+          "tone": "normal"
+        },
+        {
+          "label": "Runtime",
+          "value": "running (pid 12916, last run 267009, last run time 2026-09-16T17:12:34.0000000Z, Gateway process detected for gateway port 18789.)",
+          "pct": 100,
+          "tone": "good"
+        },
+        {
+          "label": "Listening",
+          "value": "127.0.0.1:18789",
+          "pct": 100,
+          "tone": "good"
+        }
+      ]
+    }
+  },
+  "cards": [
+    {
+      "title": "오늘의 한마디",
+      "summary": "비어 있는 하루는 느슨한 하루가 아니라, 진짜 필요한 걸 선명하게 끝낼 수 있는 하루입니다.",
+      "take": "습도가 높아 체감이 더 무겁습니다. 물을 자주 마시며 리듬을 유지하면 좋겠습니다. 오늘은 마음을 급하게 쓰지 말고, 가장 아쉬웠던 한 가지를 먼저 정리해 보시면 좋겠습니다. 그런 작은 정리가 하루의 기분을 꽤 크게 바꿉니다.",
+      "meta": [
+        "응원",
+        "중간 길이"
+      ],
+      "entities": [],
+      "keywords": [
+        "아침",
+        "집중"
+      ],
+      "links": []
+    },
+    {
+      "title": "오늘 일정",
+      "summary": "오늘 일정 없음",
+      "take": "오늘 등록된 일정이 없습니다. 이럴 때는 중요한 정리 한두 개만 분명하게 끝내도 충분합니다.",
+      "meta": [
+        "일정",
+        "calendar"
+      ],
+      "entities": [
+        "calendar"
+      ],
+      "keywords": [
+        "calendar"
+      ],
+      "links": []
+    },
+    {
+      "title": "주요 메일 / 중요 알림",
+      "summary": "[중요인물]  [알림] [조치 필요] Gemini Enter / [중요인물] Google 계정 데이터 일부를 Hi3D에 공유 / [중요인물] 추천 강좌: Google AI Essential",
+      "take": "지금 확인할 만한 메일만 추렸습니다. 결제, 업무, 보안성 알림 위주로 먼저 보면 됩니다.",
+      "meta": [
+        "메일",
+        "gmail",
+        "중요 알림"
+      ],
+      "entities": [
+        "중요인물"
+      ],
+      "keywords": [
+        "gmail",
+        "alert"
+      ],
+      "links": []
+    },
+    {
+      "title": "유튜브 업데이트",
+      "summary": "@fahdmirza Grok 4.7: I Gave It a Br / @JulianGoldieSEO This Is the Simplest Way / @JulianGoldieSEO Automate Anything using ",
+      "take": "업로드 속도가 빠른 채널은 오늘도 여러 편이 들어왔습니다. 중요한 주제부터 2~3개만 골라 보면 효율이 좋습니다.",
+      "meta": [
+        "유튜브",
+        "AI 채널",
+        "중간 길이"
+      ],
+      "entities": [
+        "@fahdmirza",
+        "@JulianGoldieSEO",
+        "@JulianGoldieSEO",
+        "@JulianGoldieSEO"
+      ],
+      "keywords": [
+        "youtube",
+        "update",
+        "thumbnail"
+      ],
+      "links": [
+        {
+          "label": "@fahdmirza · 09-22 06:12",
+          "url": "https://www.youtube.com/watch?v=zHhwrxfih14",
+          "thumbnail": "https://i.ytimg.com/vi/zHhwrxfih14/hqdefault.jpg"
+        },
+        {
+          "label": "@JulianGoldieSEO · 09-22 06:00",
+          "url": "https://www.youtube.com/watch?v=aN72k0W21vk",
+          "thumbnail": "https://i.ytimg.com/vi/aN72k0W21vk/hqdefault.jpg"
+        },
+        {
+          "label": "@JulianGoldieSEO · 09-22 04:00",
+          "url": "https://www.youtube.com/watch?v=k0DEvxhs1K4",
+          "thumbnail": "https://i.ytimg.com/vi/k0DEvxhs1K4/hqdefault.jpg"
+        }
+      ]
+    },
+    {
+      "title": "시스템 상태 요약",
+      "summary": "CPU 15.0 % 사용 / RAM 9.2GB 사용 (58%) / SSD 324.1GB 사용 (68%, 여유 151.8GB) / 업타임 168시간 23분",
+      "take": "CPU는 현재 15.0 % 사용 중이며, RAM은 총 15.8GB 중 9.2GB (58%), SSD는 총 475.9GB 중 324.1GB 사용 (68%, 여유 151.8GB) 중입니다. 시스템 가동 시간은 168시간 23분이며, 네트워크 트래픽은 수신 6249.5 MB / 송신 2370.6 MB입니다. CPU 클럭은 1008.0 MHz, 버스 스피드는 100.8 MHz입니다.",
+      "meta": [
+        "시스템",
+        "LHM"
+      ],
+      "entities": [
+        "Intel N100",
+        "RAM",
+        "SSD"
+      ],
+      "keywords": [
+        "temperature",
+        "load",
+        "memory"
+      ],
+      "links": []
+    },
+    {
+      "title": "OpenClaw 상태 요약",
+      "summary": "OpenClaw 2026.9.2 (3928bad)",
+      "take": "Runtime: running (pid 12916, last run 267009, last run time 2026-09-16T17:12:34.0000000Z, Gateway process detected for gateway port 18789.) | Listening: 127.0.0.1:18789",
+      "meta": [
+        "OpenClaw",
+        "Gateway"
+      ],
+      "entities": [
+        "main",
+        "gateway"
+      ],
+      "keywords": [
+        "version",
+        "rpc",
+        "status"
+      ],
+      "links": []
+    }
+  ],
+  "footer": "AI-assisted morning briefing, unified data structure ready for stage 2"
+}
