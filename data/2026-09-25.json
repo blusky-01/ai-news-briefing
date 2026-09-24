@@ -1,0 +1,387 @@
+{
+  "date": "2026-09-25 07:01",
+  "title": "아침 브리핑",
+  "subtitle": "날씨 · 응원 · 일정 · 메일 · 유튜브 · 시스템 · OpenClaw",
+  "summary": "오늘은 누가 밀어붙이지 않아도 됩니다. 팀장님 리듬대로 중요한 것부터 차분히 끝내면 됩니다.",
+  "summary_box": "큰 변수 없이 움직이기 좋은 날씨입니다. 일정만 잘 잡으면 리듬 있게 가기 좋겠습니다. 오늘은 마음을 급하게 쓰지 말고, 가장 아쉬웠던 한 가지를 먼저 정리해 보시면 좋겠습니다. 그런 작은 정리가 하루의 기분을 꽤 크게 바꿉니다.",
+  "weather": {
+    "loc": "김해",
+    "temp": "21°C",
+    "desc": "Overcast ",
+    "icon": "⛅",
+    "badges": [
+      "체감 22°C",
+      "습도 76%",
+      "강수확률 12%",
+      "풍속 5km/h",
+      "UV 0",
+      "미세먼지 정보 연동 예정"
+    ],
+    "detail": {
+      "feels_like": "22",
+      "humidity": "76",
+      "rain_chance": "12",
+      "wind_kmph": "5",
+      "uv": "0",
+      "pm": "미세먼지 정보 연동 예정"
+    },
+    "life_comment": "큰 변수 없이 움직이기 좋은 날씨입니다. 일정만 잘 잡으면 리듬 있게 가기 좋겠습니다."
+  },
+  "sections": {
+    "calendar": {
+      "summary": "오늘 일정 없음",
+      "take": "오늘 등록된 일정이 없습니다. 이럴 때는 중요한 정리 한두 개만 분명하게 끝내도 충분합니다.",
+      "items": [],
+      "links": [],
+      "entities": [
+        "calendar"
+      ]
+    },
+    "mail": {
+      "summary": "[확인필요] You’re invited onto the fi / [확인필요] 토스뱅크 상품가입 안내",
+      "take": "지금 확인할 만한 메일만 추렸습니다. 결제, 업무, 보안성 알림 위주로 먼저 보면 됩니다.",
+      "items": [
+        {
+          "date": "2026-09-24 03:51",
+          "from": "Cloudflare <em@em1.cloudflare.com>",
+          "subject": "You’re invited onto the field at Oracle Park + there’s a secret guest.",
+          "tags": [
+            "확인필요"
+          ]
+        },
+        {
+          "date": "2026-09-23 11:02",
+          "from": "\"토스뱅크\" <no.reply@mail.tossbank.com>",
+          "subject": "토스뱅크 상품가입 안내",
+          "tags": [
+            "확인필요"
+          ]
+        }
+      ],
+      "links": [],
+      "entities": [
+        "확인필요"
+      ]
+    },
+    "youtube": {
+      "summary": "@fahdmirza CLM 8B - Contrastive Lan / @JulianGoldieSEO Anthropic Just Turned Cl / @JulianGoldieSEO ChatGPT Voice Just Got I",
+      "take": "업로드 속도가 빠른 채널은 오늘도 여러 편이 들어왔습니다. 중요한 주제부터 2~3개만 골라 보면 효율이 좋습니다.",
+      "items": [
+        {
+          "channel": "@fahdmirza",
+          "title": "CLM 8B - Contrastive Language Models: Fastest AI Decision-Maker",
+          "published": "09-25 05:34",
+          "published_dt": "2026-09-25T05:34:44+09:00",
+          "url": "https://www.youtube.com/watch?v=TUHK3cAVkpg",
+          "thumbnail": "https://i.ytimg.com/vi/TUHK3cAVkpg/hqdefault.jpg",
+          "summary": "이 영상은 모델/LLM, 에이전트/자동화, 수익화/마케팅 중심 내용입니다. 구성은 Contrastive Language Model (CLM) is a new class of System One model trained with a contrastive learning objective that connects states and actions 순서로 이어지며, 제목만으로는 보이지 않는 변화 배경·핵심 기능·실제 활용 포인트를 짚어보는 영상입니다.",
+          "description_excerpt": "Contrastive Language Model (CLM) is a new class of System One model trained with a contrastive learning objective that connects states and actions. 📬Weekly AI : 🔥 Get 50% Discount on any A6000 or A5000 GPU rental, use following link and coupon: Coupon code: FahdMirza 🔥 Buy Me a Coffee to support the channel: PLEASE FOLLOW ME: ▶ LinkedIn: / fahdmirza ▶ YouTub",
+          "transcript_excerpt": "You look at AI social media and every new model finishes the game and changes everything forever. Same thing happened with this model from Nvidia and a team from Stanford CLM 8 billion. People have started saying that it is something very n",
+          "shorts": false
+        },
+        {
+          "channel": "@JulianGoldieSEO",
+          "title": "Anthropic Just Turned Claude Into an AI Ecosystem",
+          "published": "09-25 04:00",
+          "published_dt": "2026-09-25T04:00:39+09:00",
+          "url": "https://www.youtube.com/watch?v=UtEj8lcIQaM",
+          "thumbnail": "https://i.ytimg.com/vi/UtEj8lcIQaM/hqdefault.jpg",
+          "summary": "이 영상은 모델/LLM, 에이전트/자동화 중심 내용입니다. 구성은 Intro – Claude is now an AI ecosystem, What Changed – Claude's \"app store\" moment, Connectors & Plugins – 2,000+ tools Notion and Google, Why It Matters – Faster research and content 순서로 이어지며, 제목만으로는 보이지 않는 변화 배경·핵심 기능·실제 활용 포인트를 짚어보는 영상입니다.",
+          "description_excerpt": "00:00 Intro – Claude is now an AI ecosystem 00:45 What Changed – Claude's \"app store\" moment 01:08 Connectors & Plugins – 2,000+ tools Notion and Google 01:47 Why It Matters – Faster research and content 02:43 Partner Tools – Cursor, CrowdStrike, Snowflake and more 03:26 Service Partners – Accenture, BCG, Deloitte 04:05 The Hidden Advantage – MCP and Agent S",
+          "transcript_excerpt": "Anthropic just turned Claude into an AI ecosystem. Claude isn't just a chatbot anymore. I'm not being dramatic. Anthropic just wrapped a whole marketplace around it. Tools, agents, even expert partners all in one place. And it changes how y",
+          "shorts": false
+        },
+        {
+          "channel": "@JulianGoldieSEO",
+          "title": "ChatGPT Voice Just Got Its Biggest Upgrade Yet",
+          "published": "09-25 00:59",
+          "published_dt": "2026-09-25T00:59:25+09:00",
+          "url": "https://www.youtube.com/watch?v=HfiDGD_qaOU",
+          "thumbnail": "https://i.ytimg.com/vi/HfiDGD_qaOU/hqdefault.jpg",
+          "summary": "이 영상은 모델/LLM, 수익화/마케팅 중심 내용입니다. 구성은 Intro – you've been using voice wrong, What Changed – plugins in Live + voice in Work, Talk & It Builds – tasks survive hang-up, The Live Setting – the one switch to flip 순서로 이어집니다. Chat GPT voice just got its biggest upgrade yet Have you been using chat GPT voice wrong this whole time? That is not what it does anymore",
+          "description_excerpt": "00:00 Intro – you've been using voice wrong 00:26 What Changed – plugins in Live + voice in Work 01:05 Talk & It Builds – tasks survive hang-up 02:19 The Live Setting – the one switch to flip 02:43 The Catch – approvals are tapped, not spoken 04:11 Limits & Plans – what's restricted, who gets it 06:43 Hidden Settings – start-with-voice & CarPlay",
+          "transcript_excerpt": "Chat GPT voice just got its biggest upgrade yet. Have you been using chat GPT voice wrong this whole time? Most people talk to it like it's a search bar. That is not what it does anymore. As of yesterday, it can go and do the work and hardl",
+          "shorts": false
+        },
+        {
+          "channel": "@JulianGoldieSEO",
+          "title": "LIVE: Building with Claude 5.5 Opus...",
+          "published": "09-24 22:15",
+          "published_dt": "2026-09-24T22:15:34+09:00",
+          "url": "https://www.youtube.com/watch?v=mMdHL5rW-Pw",
+          "thumbnail": "https://i.ytimg.com/vi/mMdHL5rW-Pw/hqdefault.jpg",
+          "summary": "이 영상은 모델/LLM, 에이전트/자동화 중심 내용입니다. All right, we're live Going to be testing out Claude Opus This was from open source project, but pretty detailed",
+          "description_excerpt": "",
+          "transcript_excerpt": "All right, we're live. Going to be testing out Claude Opus. Doing some 3D world building at the minute, which is coming along pretty nicely as you can see. This was from open source project, but pretty detailed. It's crazy, right? Let's hav",
+          "shorts": false
+        },
+        {
+          "channel": "@fahdmirza",
+          "title": "Nemotron 3 Diarization with Parakeet Locally: Who Spoke When",
+          "published": "09-24 16:00",
+          "published_dt": "2026-09-24T16:00:16+09:00",
+          "url": "https://www.youtube.com/watch?v=B2kMtqr26ec",
+          "thumbnail": "https://i.ytimg.com/vi/B2kMtqr26ec/hqdefault.jpg",
+          "summary": "이 영상은 모델/LLM, 튜토리얼/설정 중심 내용입니다. 구성은 Nemotron 3 Diarization is an open-weight speaker diarization model designed to determine \"who spoke when\" in real-world audio 순서로 이어지며, 제목만으로는 보이지 않는 변화 배경·핵심 기능·실제 활용 포인트를 짚어보는 영상입니다.",
+          "description_excerpt": "Nemotron 3 Diarization is an open-weight speaker diarization model designed to determine \"who spoke when\" in real-world audio. 📬Weekly AI : 🔥 Get 50% Discount on any A6000 or A5000 GPU rental, use following link and coupon: Coupon code: FahdMirza 🔥 Buy Me a Coffee to support the channel: PLEASE FOLLOW ME: ▶ LinkedIn: / fahdmirza ▶ YouTube: / ▶ Blog: RESOURCE",
+          "transcript_excerpt": "Today Nvidia released much anticipated Neotron 3 diization an openweight model with 100 million parameters. It answers who spoke when in an audio recording for up to eight speakers. It works live or on recorded audio, handles overlapping sp",
+          "shorts": false
+        }
+      ],
+      "links": [
+        {
+          "label": "@fahdmirza · 09-25 05:34",
+          "url": "https://www.youtube.com/watch?v=TUHK3cAVkpg",
+          "thumbnail": "https://i.ytimg.com/vi/TUHK3cAVkpg/hqdefault.jpg"
+        },
+        {
+          "label": "@JulianGoldieSEO · 09-25 04:00",
+          "url": "https://www.youtube.com/watch?v=UtEj8lcIQaM",
+          "thumbnail": "https://i.ytimg.com/vi/UtEj8lcIQaM/hqdefault.jpg"
+        },
+        {
+          "label": "@JulianGoldieSEO · 09-25 00:59",
+          "url": "https://www.youtube.com/watch?v=HfiDGD_qaOU",
+          "thumbnail": "https://i.ytimg.com/vi/HfiDGD_qaOU/hqdefault.jpg"
+        }
+      ],
+      "entities": [
+        "@fahdmirza",
+        "@JulianGoldieSEO",
+        "@JulianGoldieSEO",
+        "@JulianGoldieSEO"
+      ]
+    },
+    "system": {
+      "summary": "CPU 12.3 % 사용 / RAM 10.3GB 사용 (66%) / SSD 350.2GB 사용 (74%, 여유 125.7GB) / 업타임 240시간 15분",
+      "take": "CPU는 현재 12.3 % 사용 중이며, RAM은 총 15.8GB 중 10.3GB (66%), SSD는 총 475.9GB 중 350.2GB 사용 (74%, 여유 125.7GB) 중입니다. 시스템 가동 시간은 240시간 15분이며, 네트워크 트래픽은 수신 10214.4 MB / 송신 3910.3 MB입니다. CPU 클럭은 907.2 MHz, 버스 스피드는 100.8 MHz입니다.",
+      "metrics": [
+        {
+          "label": "CPU 사용률",
+          "value": "12.3 %",
+          "pct": 12.3,
+          "tone": "normal"
+        },
+        {
+          "label": "CPU 클럭",
+          "value": "907.2 MHz",
+          "pct": 25.92,
+          "tone": "normal"
+        },
+        {
+          "label": "버스 스피드",
+          "value": "100.8 MHz",
+          "pct": 100,
+          "tone": "normal"
+        },
+        {
+          "label": "CPU 온도",
+          "value": "49.0 °C",
+          "pct": 49.0,
+          "tone": "normal"
+        },
+        {
+          "label": "RAM 사용량",
+          "value": "10.3 / 15.8 GB (66%)",
+          "pct": 65.5,
+          "tone": "normal"
+        },
+        {
+          "label": "SSD 사용량",
+          "value": "350.2 / 475.9 GB (74%)",
+          "pct": 73.6,
+          "tone": "normal"
+        },
+        {
+          "label": "SSD 여유 공간",
+          "value": "125.7 / 475.9 GB",
+          "pct": 26.400000000000006,
+          "tone": "normal"
+        },
+        {
+          "label": "SSD 온도",
+          "value": "40.0 °C",
+          "pct": 40.0,
+          "tone": "normal"
+        },
+        {
+          "label": "업타임",
+          "value": "240시간 15분",
+          "pct": 100,
+          "tone": "normal"
+        },
+        {
+          "label": "네트워크 수신",
+          "value": "10214.4 MB",
+          "pct": 100,
+          "tone": "normal"
+        },
+        {
+          "label": "네트워크 송신",
+          "value": "3910.3 MB",
+          "pct": 100,
+          "tone": "normal"
+        }
+      ]
+    },
+    "openclaw": {
+      "summary": "OpenClaw 2026.9.5 (ec9c1a1)",
+      "take": "Runtime: running (pid 16944, last run 267009, last run time 2026-09-24T06:11:11.0000000Z, Gateway process detected for gateway port 18789.) | Listening: 127.0.0.1:18789",
+      "metrics": [
+        {
+          "label": "Gateway",
+          "value": "bind=loopback (127.0.0.1), port=18789 (service args)",
+          "pct": 100,
+          "tone": "normal"
+        },
+        {
+          "label": "Probe note",
+          "value": "Loopback-only gateway; only local clients can connect.",
+          "pct": 100,
+          "tone": "normal"
+        },
+        {
+          "label": "Runtime",
+          "value": "running (pid 16944, last run 267009, last run time 2026-09-24T06:11:11.0000000Z, Gateway process detected for gateway port 18789.)",
+          "pct": 100,
+          "tone": "good"
+        },
+        {
+          "label": "Listening",
+          "value": "127.0.0.1:18789",
+          "pct": 100,
+          "tone": "good"
+        }
+      ]
+    }
+  },
+  "cards": [
+    {
+      "title": "오늘의 한마디",
+      "summary": "오늘은 누가 밀어붙이지 않아도 됩니다. 팀장님 리듬대로 중요한 것부터 차분히 끝내면 됩니다.",
+      "take": "큰 변수 없이 움직이기 좋은 날씨입니다. 일정만 잘 잡으면 리듬 있게 가기 좋겠습니다. 오늘은 마음을 급하게 쓰지 말고, 가장 아쉬웠던 한 가지를 먼저 정리해 보시면 좋겠습니다. 그런 작은 정리가 하루의 기분을 꽤 크게 바꿉니다.",
+      "meta": [
+        "응원",
+        "중간 길이"
+      ],
+      "entities": [],
+      "keywords": [
+        "아침",
+        "집중"
+      ],
+      "links": []
+    },
+    {
+      "title": "오늘 일정",
+      "summary": "오늘 일정 없음",
+      "take": "오늘 등록된 일정이 없습니다. 이럴 때는 중요한 정리 한두 개만 분명하게 끝내도 충분합니다.",
+      "meta": [
+        "일정",
+        "calendar"
+      ],
+      "entities": [
+        "calendar"
+      ],
+      "keywords": [
+        "calendar"
+      ],
+      "links": []
+    },
+    {
+      "title": "주요 메일 / 중요 알림",
+      "summary": "[확인필요] You’re invited onto the fi / [확인필요] 토스뱅크 상품가입 안내",
+      "take": "지금 확인할 만한 메일만 추렸습니다. 결제, 업무, 보안성 알림 위주로 먼저 보면 됩니다.",
+      "meta": [
+        "메일",
+        "gmail",
+        "중요 알림"
+      ],
+      "entities": [
+        "확인필요"
+      ],
+      "keywords": [
+        "gmail",
+        "alert"
+      ],
+      "links": []
+    },
+    {
+      "title": "유튜브 업데이트",
+      "summary": "@fahdmirza CLM 8B - Contrastive Lan / @JulianGoldieSEO Anthropic Just Turned Cl / @JulianGoldieSEO ChatGPT Voice Just Got I",
+      "take": "업로드 속도가 빠른 채널은 오늘도 여러 편이 들어왔습니다. 중요한 주제부터 2~3개만 골라 보면 효율이 좋습니다.",
+      "meta": [
+        "유튜브",
+        "AI 채널",
+        "중간 길이"
+      ],
+      "entities": [
+        "@fahdmirza",
+        "@JulianGoldieSEO",
+        "@JulianGoldieSEO",
+        "@JulianGoldieSEO"
+      ],
+      "keywords": [
+        "youtube",
+        "update",
+        "thumbnail"
+      ],
+      "links": [
+        {
+          "label": "@fahdmirza · 09-25 05:34",
+          "url": "https://www.youtube.com/watch?v=TUHK3cAVkpg",
+          "thumbnail": "https://i.ytimg.com/vi/TUHK3cAVkpg/hqdefault.jpg"
+        },
+        {
+          "label": "@JulianGoldieSEO · 09-25 04:00",
+          "url": "https://www.youtube.com/watch?v=UtEj8lcIQaM",
+          "thumbnail": "https://i.ytimg.com/vi/UtEj8lcIQaM/hqdefault.jpg"
+        },
+        {
+          "label": "@JulianGoldieSEO · 09-25 00:59",
+          "url": "https://www.youtube.com/watch?v=HfiDGD_qaOU",
+          "thumbnail": "https://i.ytimg.com/vi/HfiDGD_qaOU/hqdefault.jpg"
+        }
+      ]
+    },
+    {
+      "title": "시스템 상태 요약",
+      "summary": "CPU 12.3 % 사용 / RAM 10.3GB 사용 (66%) / SSD 350.2GB 사용 (74%, 여유 125.7GB) / 업타임 240시간 15분",
+      "take": "CPU는 현재 12.3 % 사용 중이며, RAM은 총 15.8GB 중 10.3GB (66%), SSD는 총 475.9GB 중 350.2GB 사용 (74%, 여유 125.7GB) 중입니다. 시스템 가동 시간은 240시간 15분이며, 네트워크 트래픽은 수신 10214.4 MB / 송신 3910.3 MB입니다. CPU 클럭은 907.2 MHz, 버스 스피드는 100.8 MHz입니다.",
+      "meta": [
+        "시스템",
+        "LHM"
+      ],
+      "entities": [
+        "Intel N100",
+        "RAM",
+        "SSD"
+      ],
+      "keywords": [
+        "temperature",
+        "load",
+        "memory"
+      ],
+      "links": []
+    },
+    {
+      "title": "OpenClaw 상태 요약",
+      "summary": "OpenClaw 2026.9.5 (ec9c1a1)",
+      "take": "Runtime: running (pid 16944, last run 267009, last run time 2026-09-24T06:11:11.0000000Z, Gateway process detected for gateway port 18789.) | Listening: 127.0.0.1:18789",
+      "meta": [
+        "OpenClaw",
+        "Gateway"
+      ],
+      "entities": [
+        "main",
+        "gateway"
+      ],
+      "keywords": [
+        "version",
+        "rpc",
+        "status"
+      ],
+      "links": []
+    }
+  ],
+  "footer": "AI-assisted morning briefing, unified data structure ready for stage 2"
+}
