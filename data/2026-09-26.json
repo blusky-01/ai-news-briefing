@@ -1,0 +1,354 @@
+{
+  "date": "2026-09-26 07:00",
+  "title": "아침 브리핑",
+  "subtitle": "날씨 · 응원 · 일정 · 메일 · 유튜브 · 시스템 · OpenClaw",
+  "summary": "비어 있는 하루는 느슨한 하루가 아니라, 진짜 필요한 걸 선명하게 끝낼 수 있는 하루입니다.",
+  "summary_box": "오늘은 우산을 챙겨두는 게 좋겠습니다. 비 맞으면 컨디션이 금방 떨어집니다. 습도가 높아 체감이 더 무겁습니다. 물을 자주 마시며 리듬을 유지하면 좋겠습니다. 오늘은 마음을 급하게 쓰지 말고, 가장 아쉬웠던 한 가지를 먼저 정리해 보시면 좋겠습니다. 그런 작은 정리가 하루의 기분을 꽤 크게 바꿉니다.",
+  "weather": {
+    "loc": "김해",
+    "temp": "17°C",
+    "desc": "Light rain",
+    "icon": "⛅",
+    "badges": [
+      "체감 18°C",
+      "습도 96%",
+      "강수확률 72%",
+      "풍속 7km/h",
+      "UV 0",
+      "미세먼지 정보 연동 예정"
+    ],
+    "detail": {
+      "feels_like": "18",
+      "humidity": "96",
+      "rain_chance": "72",
+      "wind_kmph": "7",
+      "uv": "0",
+      "pm": "미세먼지 정보 연동 예정"
+    },
+    "life_comment": "오늘은 우산을 챙겨두는 게 좋겠습니다. 비 맞으면 컨디션이 금방 떨어집니다. 습도가 높아 체감이 더 무겁습니다. 물을 자주 마시며 리듬을 유지하면 좋겠습니다."
+  },
+  "sections": {
+    "calendar": {
+      "summary": "오늘 일정 없음",
+      "take": "오늘 등록된 일정이 없습니다. 이럴 때는 중요한 정리 한두 개만 분명하게 끝내도 충분합니다.",
+      "items": [],
+      "links": [],
+      "entities": [
+        "calendar"
+      ]
+    },
+    "mail": {
+      "summary": "주요 메일 없음",
+      "take": "최근 2일 기준 광고성 제외 후 결제·업무·중요인물·에러 메일이 감지되지 않았습니다.",
+      "items": [],
+      "links": [],
+      "entities": []
+    },
+    "youtube": {
+      "summary": "@JulianGoldieSEO Odyssey Just Built a Mul / @fahdmirza ZDTaichu5.0-9B Locally:  / @JulianGoldieSEO How to Automate Video Ed",
+      "take": "업로드 속도가 빠른 채널은 오늘도 여러 편이 들어왔습니다. 중요한 주제부터 2~3개만 골라 보면 효율이 좋습니다.",
+      "items": [
+        {
+          "channel": "@JulianGoldieSEO",
+          "title": "Odyssey Just Built a Multiplayer World for AI",
+          "published": "09-26 07:00",
+          "published_dt": "2026-09-26T07:00:15+09:00",
+          "url": "https://www.youtube.com/watch?v=yjcs_fSyfaM",
+          "thumbnail": "https://i.ytimg.com/vi/yjcs_fSyfaM/hqdefault.jpg",
+          "summary": "이 영상은 모델/LLM, 에이전트/자동화 중심 내용입니다. 구성은 Intro – AI That Builds Worlds, What Is a World Model?, Agora 2 – 20 Players, One World, The Truth: 4 Humans + 16 Agents 순서로 이어집니다.",
+          "description_excerpt": "Get the Agent OS & Odyssey Masterclass 👉 00:00 Intro – AI That Builds Worlds 00:41 What Is a World Model? 01:03 Agora 2 – 20 Players, One World 02:04 The Truth: 4 Humans + 16 Agents 02:55 How the Shared State Works 03:33 Persistent Memory Off-Screen 03:59 Trained on Diablo II 04:13 Agora 1 vs Agora 2 04:55 Limits – 4 GPUs, Research Preview 05:20 Real Uses – ",
+          "transcript_excerpt": "",
+          "shorts": false
+        },
+        {
+          "channel": "@fahdmirza",
+          "title": "ZDTaichu5.0-9B Locally: Spatial Reasoning, Vision, and Embodied AI",
+          "published": "09-26 05:03",
+          "published_dt": "2026-09-26T05:03:31+09:00",
+          "url": "https://www.youtube.com/watch?v=q768bv-OSGQ",
+          "thumbnail": "https://i.ytimg.com/vi/q768bv-OSGQ/hqdefault.jpg",
+          "summary": "이 영상은 모델/LLM, 튜토리얼/설정 중심 내용입니다. 구성은 This video locally installs and tests DTaichu5.0-9B, a multimodal model for general visual understanding, and spatial reasoning 순서로 이어지며, 제목만으로는 보이지 않는 변화 배경·핵심 기능·실제 활용 포인트를 짚어보는 영상입니다.",
+          "description_excerpt": "This video locally installs and tests DTaichu5.0-9B, a multimodal model for general visual understanding, and spatial reasoning. 📬Weekly AI : 🔥 Get 50% Discount on any A6000 or A5000 GPU rental, use following link and coupon: Coupon code: FahdMirza 🔥 Buy Me a Coffee to support the channel: PLEASE FOLLOW ME: ▶ LinkedIn: / fahdmirza ▶ YouTube: / ▶ Blog: RESOUR",
+          "transcript_excerpt": "",
+          "shorts": false
+        },
+        {
+          "channel": "@JulianGoldieSEO",
+          "title": "How to Automate Video Editing With Claude Opus 5.5",
+          "published": "09-26 04:00",
+          "published_dt": "2026-09-26T04:00:01+09:00",
+          "url": "https://www.youtube.com/watch?v=flXfwevUJTk",
+          "thumbnail": "https://i.ytimg.com/vi/flXfwevUJTk/hqdefault.jpg",
+          "summary": "이 영상은 모델/LLM, 에이전트/자동화, 튜토리얼/설정 중심 내용입니다. 구성은 Intro – Automate video editing with Claude Opus 5.5, Auto-Post – Fully published video with captions, Before – Raw, unedited talking-head clip, Setup – Feed Opus 5.5 your footage + assets 순서로 이어집니다.",
+          "description_excerpt": "Get the Agent OS & Claude Masterclass 👉 00:00 Intro – Automate video editing with Claude Opus 5.5 00:22 Auto-Post – Fully published video with captions 01:00 Before – Raw, unedited talking-head clip 01:23 Setup – Feed Opus 5.5 your footage + assets 03:12 Tools – Claude Code Desktop + editing skill (Hyperframes/Remotion) 03:59 Publish – MCP connector auto-pos",
+          "transcript_excerpt": "",
+          "shorts": false
+        },
+        {
+          "channel": "@JulianGoldieSEO",
+          "title": "Claude Opus 5.5 Took This Site From 0 to 1,300 Clicks a Day",
+          "published": "09-26 02:00",
+          "published_dt": "2026-09-26T02:00:10+09:00",
+          "url": "https://www.youtube.com/watch?v=oZJp3IugiHM",
+          "thumbnail": "https://i.ytimg.com/vi/oZJp3IugiHM/hqdefault.jpg",
+          "summary": "이 영상은 모델/LLM, 에이전트/자동화, 수익화/마케팅 중심 내용입니다. 구성은 Intro – 0 to 1,300 clicks/day with Claude & Opus 5.5, Proof – 6 sites scaling, some ranking inside AI Overviews too, The System – how keyword research turns into content, Keyword Research – finding gaps in Search Console 순서로 이어집니다.",
+          "description_excerpt": "Get the Agent OS & Claude Masterclass 👉 00:00 Intro – 0 to 1,300 clicks/day with Claude & Opus 5.5 00:13 Proof – 6 sites scaling, some ranking inside AI Overviews too 01:43 The System – how keyword research turns into content 02:39 Keyword Research – finding gaps in Search Console 03:30 Content Engine – SEO skill + fast indexing (ranks in 24hrs) 06:02 Full W",
+          "transcript_excerpt": "",
+          "shorts": false
+        },
+        {
+          "channel": "@fahdmirza",
+          "title": "Open Code Review Tutorial: Alibaba Open-Sourced Their Internal Code Reviewer",
+          "published": "09-25 16:00",
+          "published_dt": "2026-09-25T16:00:30+09:00",
+          "url": "https://www.youtube.com/watch?v=HYLsulk3FdI",
+          "thumbnail": "https://i.ytimg.com/vi/HYLsulk3FdI/hqdefault.jpg",
+          "summary": "이 영상은 튜토리얼/설정 중심 내용입니다. 구성은 This video locally installs and tests Open Code Review, an AI-powered code review CLI tool 순서로 이어지며, 제목만으로는 보이지 않는 변화 배경·핵심 기능·실제 활용 포인트를 짚어보는 영상입니다.",
+          "description_excerpt": "This video locally installs and tests Open Code Review, an AI-powered code review CLI tool. 📬Weekly AI : 🔥 Get 50% Discount on any A6000 or A5000 GPU rental, use following link and coupon: Coupon code: FahdMirza 🔥 Buy Me a Coffee to support the channel: PLEASE FOLLOW ME: ▶ LinkedIn: / fahdmirza ▶ YouTube: / ▶ Blog: RESOURCES: ▶ All rights reserved © Fahd Mir",
+          "transcript_excerpt": "",
+          "shorts": false
+        }
+      ],
+      "links": [
+        {
+          "label": "@JulianGoldieSEO · 09-26 07:00",
+          "url": "https://www.youtube.com/watch?v=yjcs_fSyfaM",
+          "thumbnail": "https://i.ytimg.com/vi/yjcs_fSyfaM/hqdefault.jpg"
+        },
+        {
+          "label": "@fahdmirza · 09-26 05:03",
+          "url": "https://www.youtube.com/watch?v=q768bv-OSGQ",
+          "thumbnail": "https://i.ytimg.com/vi/q768bv-OSGQ/hqdefault.jpg"
+        },
+        {
+          "label": "@JulianGoldieSEO · 09-26 04:00",
+          "url": "https://www.youtube.com/watch?v=flXfwevUJTk",
+          "thumbnail": "https://i.ytimg.com/vi/flXfwevUJTk/hqdefault.jpg"
+        }
+      ],
+      "entities": [
+        "@JulianGoldieSEO",
+        "@fahdmirza",
+        "@JulianGoldieSEO",
+        "@JulianGoldieSEO"
+      ]
+    },
+    "system": {
+      "summary": "CPU 33.1 % 사용 / RAM 10.4GB 사용 (66%) / SSD 349.2GB 사용 (73%, 여유 126.7GB) / 업타임 264시간 13분",
+      "take": "CPU는 현재 33.1 % 사용 중이며, RAM은 총 15.8GB 중 10.4GB (66%), SSD는 총 475.9GB 중 349.2GB 사용 (73%, 여유 126.7GB) 중입니다. 시스템 가동 시간은 264시간 13분이며, 네트워크 트래픽은 수신 11431.4 MB / 송신 4247.2 MB입니다. CPU 클럭은 2923.2 MHz, 버스 스피드는 100.8 MHz입니다.",
+      "metrics": [
+        {
+          "label": "CPU 사용률",
+          "value": "33.1 %",
+          "pct": 33.1,
+          "tone": "normal"
+        },
+        {
+          "label": "CPU 클럭",
+          "value": "2923.2 MHz",
+          "pct": 83.52,
+          "tone": "normal"
+        },
+        {
+          "label": "버스 스피드",
+          "value": "100.8 MHz",
+          "pct": 100,
+          "tone": "normal"
+        },
+        {
+          "label": "CPU 온도",
+          "value": "58.0 °C",
+          "pct": 58.0,
+          "tone": "normal"
+        },
+        {
+          "label": "RAM 사용량",
+          "value": "10.4 / 15.8 GB (66%)",
+          "pct": 65.9,
+          "tone": "normal"
+        },
+        {
+          "label": "SSD 사용량",
+          "value": "349.2 / 475.9 GB (73%)",
+          "pct": 73.4,
+          "tone": "normal"
+        },
+        {
+          "label": "SSD 여유 공간",
+          "value": "126.7 / 475.9 GB",
+          "pct": 26.599999999999994,
+          "tone": "normal"
+        },
+        {
+          "label": "SSD 온도",
+          "value": "40.0 °C",
+          "pct": 40.0,
+          "tone": "normal"
+        },
+        {
+          "label": "업타임",
+          "value": "264시간 13분",
+          "pct": 100,
+          "tone": "normal"
+        },
+        {
+          "label": "네트워크 수신",
+          "value": "11431.4 MB",
+          "pct": 100,
+          "tone": "normal"
+        },
+        {
+          "label": "네트워크 송신",
+          "value": "4247.2 MB",
+          "pct": 100,
+          "tone": "normal"
+        }
+      ]
+    },
+    "openclaw": {
+      "summary": "OpenClaw 2026.9.5 (ec9c1a1)",
+      "take": "OpenClaw 게이트웨이 정상 작동 중",
+      "metrics": [
+        {
+          "label": "Runtime",
+          "value": "running",
+          "pct": 100,
+          "tone": "good"
+        },
+        {
+          "label": "Gateway",
+          "value": "active",
+          "pct": 100,
+          "tone": "good"
+        }
+      ]
+    }
+  },
+  "cards": [
+    {
+      "title": "오늘의 한마디",
+      "summary": "비어 있는 하루는 느슨한 하루가 아니라, 진짜 필요한 걸 선명하게 끝낼 수 있는 하루입니다.",
+      "take": "오늘은 우산을 챙겨두는 게 좋겠습니다. 비 맞으면 컨디션이 금방 떨어집니다. 습도가 높아 체감이 더 무겁습니다. 물을 자주 마시며 리듬을 유지하면 좋겠습니다. 오늘은 마음을 급하게 쓰지 말고, 가장 아쉬웠던 한 가지를 먼저 정리해 보시면 좋겠습니다. 그런 작은 정리가 하루의 기분을 꽤 크게 바꿉니다.",
+      "meta": [
+        "응원",
+        "중간 길이"
+      ],
+      "entities": [],
+      "keywords": [
+        "아침",
+        "집중"
+      ],
+      "links": []
+    },
+    {
+      "title": "오늘 일정",
+      "summary": "오늘 일정 없음",
+      "take": "오늘 등록된 일정이 없습니다. 이럴 때는 중요한 정리 한두 개만 분명하게 끝내도 충분합니다.",
+      "meta": [
+        "일정",
+        "calendar"
+      ],
+      "entities": [
+        "calendar"
+      ],
+      "keywords": [
+        "calendar"
+      ],
+      "links": []
+    },
+    {
+      "title": "주요 메일 / 중요 알림",
+      "summary": "주요 메일 없음",
+      "take": "최근 2일 기준 광고성 제외 후 결제·업무·중요인물·에러 메일이 감지되지 않았습니다.",
+      "meta": [
+        "메일",
+        "gmail",
+        "중요 알림"
+      ],
+      "entities": [],
+      "keywords": [
+        "gmail",
+        "alert"
+      ],
+      "links": []
+    },
+    {
+      "title": "유튜브 업데이트",
+      "summary": "@JulianGoldieSEO Odyssey Just Built a Mul / @fahdmirza ZDTaichu5.0-9B Locally:  / @JulianGoldieSEO How to Automate Video Ed",
+      "take": "업로드 속도가 빠른 채널은 오늘도 여러 편이 들어왔습니다. 중요한 주제부터 2~3개만 골라 보면 효율이 좋습니다.",
+      "meta": [
+        "유튜브",
+        "AI 채널",
+        "중간 길이"
+      ],
+      "entities": [
+        "@JulianGoldieSEO",
+        "@fahdmirza",
+        "@JulianGoldieSEO",
+        "@JulianGoldieSEO"
+      ],
+      "keywords": [
+        "youtube",
+        "update",
+        "thumbnail"
+      ],
+      "links": [
+        {
+          "label": "@JulianGoldieSEO · 09-26 07:00",
+          "url": "https://www.youtube.com/watch?v=yjcs_fSyfaM",
+          "thumbnail": "https://i.ytimg.com/vi/yjcs_fSyfaM/hqdefault.jpg"
+        },
+        {
+          "label": "@fahdmirza · 09-26 05:03",
+          "url": "https://www.youtube.com/watch?v=q768bv-OSGQ",
+          "thumbnail": "https://i.ytimg.com/vi/q768bv-OSGQ/hqdefault.jpg"
+        },
+        {
+          "label": "@JulianGoldieSEO · 09-26 04:00",
+          "url": "https://www.youtube.com/watch?v=flXfwevUJTk",
+          "thumbnail": "https://i.ytimg.com/vi/flXfwevUJTk/hqdefault.jpg"
+        }
+      ]
+    },
+    {
+      "title": "시스템 상태 요약",
+      "summary": "CPU 33.1 % 사용 / RAM 10.4GB 사용 (66%) / SSD 349.2GB 사용 (73%, 여유 126.7GB) / 업타임 264시간 13분",
+      "take": "CPU는 현재 33.1 % 사용 중이며, RAM은 총 15.8GB 중 10.4GB (66%), SSD는 총 475.9GB 중 349.2GB 사용 (73%, 여유 126.7GB) 중입니다. 시스템 가동 시간은 264시간 13분이며, 네트워크 트래픽은 수신 11431.4 MB / 송신 4247.2 MB입니다. CPU 클럭은 2923.2 MHz, 버스 스피드는 100.8 MHz입니다.",
+      "meta": [
+        "시스템",
+        "LHM"
+      ],
+      "entities": [
+        "Intel N100",
+        "RAM",
+        "SSD"
+      ],
+      "keywords": [
+        "temperature",
+        "load",
+        "memory"
+      ],
+      "links": []
+    },
+    {
+      "title": "OpenClaw 상태 요약",
+      "summary": "OpenClaw 2026.9.5 (ec9c1a1)",
+      "take": "OpenClaw 게이트웨이 정상 작동 중",
+      "meta": [
+        "OpenClaw",
+        "Gateway"
+      ],
+      "entities": [
+        "main",
+        "gateway"
+      ],
+      "keywords": [
+        "version",
+        "rpc",
+        "status"
+      ],
+      "links": []
+    }
+  ],
+  "footer": "AI-assisted morning briefing, unified data structure ready for stage 2"
+}
