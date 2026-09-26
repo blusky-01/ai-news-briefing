@@ -1,0 +1,399 @@
+{
+  "date": "2026-09-27 07:03",
+  "title": "아침 브리핑",
+  "subtitle": "날씨 · 응원 · 일정 · 메일 · 유튜브 · 시스템 · OpenClaw",
+  "summary": "오늘 일정이 비어 있다면, 오히려 중요한 걸 조용히 정리할 수 있는 좋은 날입니다.",
+  "summary_box": "습도가 높아 체감이 더 무겁습니다. 물을 자주 마시며 리듬을 유지하면 좋겠습니다. 오늘은 마음을 급하게 쓰지 말고, 가장 아쉬웠던 한 가지를 먼저 정리해 보시면 좋겠습니다. 그런 작은 정리가 하루의 기분을 꽤 크게 바꿉니다.",
+  "weather": {
+    "loc": "김해",
+    "temp": "19°C",
+    "desc": "Overcast ",
+    "icon": "⛅",
+    "badges": [
+      "체감 21°C",
+      "습도 89%",
+      "강수확률 16%",
+      "풍속 4km/h",
+      "UV 0",
+      "미세먼지 정보 연동 예정"
+    ],
+    "detail": {
+      "feels_like": "21",
+      "humidity": "89",
+      "rain_chance": "16",
+      "wind_kmph": "4",
+      "uv": "0",
+      "pm": "미세먼지 정보 연동 예정"
+    },
+    "life_comment": "습도가 높아 체감이 더 무겁습니다. 물을 자주 마시며 리듬을 유지하면 좋겠습니다."
+  },
+  "sections": {
+    "calendar": {
+      "summary": "오늘 일정 없음",
+      "take": "오늘 등록된 일정이 없습니다. 이럴 때는 중요한 정리 한두 개만 분명하게 끝내도 충분합니다.",
+      "items": [],
+      "links": [],
+      "entities": [
+        "calendar"
+      ]
+    },
+    "mail": {
+      "summary": "[중요인물] Your temporary ChatGPT log / [중요인물] New sign-in to your OpenAI / [중요인물] 새로운 가족 그룹 구성원",
+      "take": "지금 확인할 만한 메일만 추렸습니다. 결제, 업무, 보안성 알림 위주로 먼저 보면 됩니다.",
+      "items": [
+        {
+          "date": "2026-09-27 04:36",
+          "from": "ChatGPT <otp@tm1.openai.com>",
+          "subject": "Your temporary ChatGPT login code",
+          "tags": [
+            "중요인물"
+          ]
+        },
+        {
+          "date": "2026-09-27 04:25",
+          "from": "OpenAI <noreply@tm.openai.com>",
+          "subject": "New sign-in to your OpenAI account",
+          "tags": [
+            "중요인물"
+          ]
+        },
+        {
+          "date": "2026-09-27 02:25",
+          "from": "Google <families-noreply@google.com>",
+          "subject": "새로운 가족 그룹 구성원",
+          "tags": [
+            "중요인물"
+          ]
+        },
+        {
+          "date": "2026-09-27 01:02",
+          "from": "Google <no-reply@google.com>",
+          "subject": "✅ 아라테크님, Galaxy S25 Ultra 기기에서 Google 설정을 완료하세요.",
+          "tags": [
+            "중요인물"
+          ]
+        },
+        {
+          "date": "2026-09-27 04:36",
+          "from": "ChatGPT <noreply@tm.openai.com>",
+          "subject": "Your temporary ChatGPT login code",
+          "tags": [
+            "중요인물"
+          ]
+        }
+      ],
+      "links": [],
+      "entities": [
+        "중요인물"
+      ]
+    },
+    "youtube": {
+      "summary": "@JulianGoldieSEO Claude Opus 5.5 Changes  / @JulianGoldieSEO OpenRouter + Jev Just Ma / @JulianGoldieSEO Google Antigravity Can N",
+      "take": "업로드 속도가 빠른 채널은 오늘도 여러 편이 들어왔습니다. 중요한 주제부터 2~3개만 골라 보면 효율이 좋습니다.",
+      "items": [
+        {
+          "channel": "@JulianGoldieSEO",
+          "title": "Claude Opus 5.5 Changes How You Build! 🤯",
+          "published": "09-27 07:00",
+          "published_dt": "2026-09-27T07:00:01+09:00",
+          "url": "https://www.youtube.com/watch?v=IstGcG6z1gY",
+          "thumbnail": "https://i.ytimg.com/vi/IstGcG6z1gY/hqdefault.jpg",
+          "summary": "이 영상은 모델/LLM, 에이전트/자동화, 개발도구 중심 내용입니다. 구성은 **** – Claude Opus 5.5 Is Here, **** – What Opus 5.5 Is Built For, **** – 1 Million Token Context Window Explained, **** – Faster Output & Fast Mode 순서로 이어집니다.",
+          "description_excerpt": "Get the Agent OS & Claude Opus 5.5 Masterclass 👉 00:00** – Claude Opus 5.5 Is Here **00:32** – What Opus 5.5 Is Built For **00:41** – 1 Million Token Context Window Explained **01:21** – Faster Output & Fast Mode **01:52** – Opus 5.5 Benchmark Results **02:18** – Long-Running Agentic Work & Real Test Examples **02:50** – Opus 5.5 for Business & Knowledge Wor",
+          "transcript_excerpt": "",
+          "shorts": false
+        },
+        {
+          "channel": "@JulianGoldieSEO",
+          "title": "OpenRouter + Jev Just Made Model Routing WAY Smarter",
+          "published": "09-27 04:00",
+          "published_dt": "2026-09-27T04:00:38+09:00",
+          "url": "https://www.youtube.com/watch?v=TU2pBOiC_E0",
+          "thumbnail": "https://i.ytimg.com/vi/TU2pBOiC_E0/hqdefault.jpg",
+          "summary": "이 영상은 모델/LLM, 에이전트/자동화, 튜토리얼/설정 중심 내용입니다. 구성은 Intro – One AI picks your AI, What It Is – Jev router explained, Why It's Different – Fast decision model, not a chatbot, Cache-Aware Routing – The key edge over other routers 순서로 이어집니다.",
+          "description_excerpt": "Get the Agent OS & OpenRouter + Jev Masterclass 👉 00:00 Intro – One AI picks your AI 00:56 What It Is – Jev router explained 02:21 Why It's Different – Fast decision model, not a chatbot 03:24 Cache-Aware Routing – The key edge over other routers 04:16 Setup – Free, OpenAI-compatible, 1M context 04:36 Adapts Live – Shifts models mid-conversation 06:04 Realit",
+          "transcript_excerpt": "",
+          "shorts": false
+        },
+        {
+          "channel": "@JulianGoldieSEO",
+          "title": "Google Antigravity Can Now Run AI Agents Completely Offline",
+          "published": "09-27 03:30",
+          "published_dt": "2026-09-27T03:30:22+09:00",
+          "url": "https://www.youtube.com/watch?v=M0WXXMkdTPg",
+          "thumbnail": "https://i.ytimg.com/vi/M0WXXMkdTPg/hqdefault.jpg",
+          "summary": "이 영상은 에이전트/자동화 중심 내용입니다. 구성은 Get the Agent OS & INSERTTOOL Masterclass 👉 순서로 이어집니다. Get the Agent OS & INSERTTOOL Masterclass 👉",
+          "description_excerpt": "Get the Agent OS & INSERTTOOL Masterclass 👉",
+          "transcript_excerpt": "",
+          "shorts": false
+        },
+        {
+          "channel": "@fahdmirza",
+          "title": "Decision Model Showdown: CLM vs Laya vs OpenJev vs Kev vs Jev",
+          "published": "09-26 23:25",
+          "published_dt": "2026-09-26T23:25:37+09:00",
+          "url": "https://www.youtube.com/watch?v=UF0z3afz9V8",
+          "thumbnail": "https://i.ytimg.com/vi/UF0z3afz9V8/hqdefault.jpg",
+          "summary": "이 영상은 모델/LLM 중심 내용입니다. 구성은 First Test, Showdown Table, Second Test 순서로 이어집니다. Five AI decision models, one angry customer, one security trap — only two passed 🔥 Get 50% Discount on any A6000 or A5000 GPU rental, use following link and coupon: Coupon code: FahdMirza 🔥 Buy Me a Coffee to support t...",
+          "description_excerpt": "Five AI decision models, one angry customer, one security trap — only two passed. 🔥 Get 50% Discount on any A6000 or A5000 GPU rental, use following link and coupon: Coupon code: FahdMirza 🔥 Buy Me a Coffee to support the channel: PLEASE FOLLOW ME: ▶ LinkedIn: ▶ YouTube: ▶ Blog: 00:00 Intro 00:55 First Test 05:10 Showdown Table 06:35 Second Test 07:50 Verdic",
+          "transcript_excerpt": "",
+          "shorts": false
+        },
+        {
+          "channel": "@zerochotv",
+          "title": "GPT-6 Astra가 감독이라면? AI로 광고 영상 만들기(with Higgsfield)",
+          "published": "09-26 20:57",
+          "published_dt": "2026-09-26T20:57:20+09:00",
+          "url": "https://www.youtube.com/watch?v=sMxXmfgWLVo",
+          "thumbnail": "https://i.ytimg.com/vi/sMxXmfgWLVo/hqdefault.jpg",
+          "summary": "이 영상은 모델/LLM, 에이전트/자동화, 수익화/마케팅 중심 내용입니다. 구성은 아스트라 + 힉스필드 소개, 힉스필드 MCP, 아스트라 프롬프트 입력 순서로 이어집니다. Higgsfield 바로 보기: 이 영상은 Higgsfield의 유료광고를 포함하고 있습니다 오늘은 GPT-6 Astra를 광고 감독처럼 두고, Higgsfield를 촬영팀처럼 활용해서 제 서비스 광고 영상을 실제로 만들어봤습니다 그래서 이번에는 ChatGPT 안에서 Higgsfield MCP를 연결해 Astra가 기획과 지시를 맡고, Higgsfield가 실제 이미지와 영상 생성을 진행하는 방식으로 실험해봤습니다",
+          "description_excerpt": "Higgsfield 바로 보기: 이 영상은 Higgsfield의 유료광고를 포함하고 있습니다. 오늘은 GPT-6 Astra를 광고 감독처럼 두고, Higgsfield를 촬영팀처럼 활용해서 제 서비스 광고 영상을 실제로 만들어봤습니다. 대화만 잘하는 AI가 아니라, 진짜로 기획하고 만들 수 있는지 궁금했어요. 그래서 이번에는 ChatGPT 안에서 Higgsfield MCP를 연결해 Astra가 기획과 지시를 맡고, Higgsfield가 실제 이미지와 영상 생성을 진행하는 방식으로 실험해봤습니다. 영상에서는 - Higgsfield 웹사이트에서 실제 생성 흐름을 확인하고 - GPT-6 Astra가 어떤 식으로 콘셉트와 대사를 잡는지 보고 - ",
+          "transcript_excerpt": "",
+          "shorts": false
+        }
+      ],
+      "links": [
+        {
+          "label": "@JulianGoldieSEO · 09-27 07:00",
+          "url": "https://www.youtube.com/watch?v=IstGcG6z1gY",
+          "thumbnail": "https://i.ytimg.com/vi/IstGcG6z1gY/hqdefault.jpg"
+        },
+        {
+          "label": "@JulianGoldieSEO · 09-27 04:00",
+          "url": "https://www.youtube.com/watch?v=TU2pBOiC_E0",
+          "thumbnail": "https://i.ytimg.com/vi/TU2pBOiC_E0/hqdefault.jpg"
+        },
+        {
+          "label": "@JulianGoldieSEO · 09-27 03:30",
+          "url": "https://www.youtube.com/watch?v=M0WXXMkdTPg",
+          "thumbnail": "https://i.ytimg.com/vi/M0WXXMkdTPg/hqdefault.jpg"
+        }
+      ],
+      "entities": [
+        "@JulianGoldieSEO",
+        "@JulianGoldieSEO",
+        "@JulianGoldieSEO",
+        "@fahdmirza"
+      ]
+    },
+    "system": {
+      "summary": "CPU 25.0 % 사용 / RAM 11.4GB 사용 (72%) / SSD 350.6GB 사용 (74%, 여유 125.3GB) / 업타임 288시간 17분",
+      "take": "CPU는 현재 25.0 % 사용 중이며, RAM은 총 15.8GB 중 11.4GB (72%), SSD는 총 475.9GB 중 350.6GB 사용 (74%, 여유 125.3GB) 중입니다. 시스템 가동 시간은 288시간 17분이며, 네트워크 트래픽은 수신 13274.3 MB / 송신 4796.0 MB입니다. CPU 클럭은 403.2 MHz, 버스 스피드는 100.8 MHz입니다.",
+      "metrics": [
+        {
+          "label": "CPU 사용률",
+          "value": "25.0 %",
+          "pct": 25.0,
+          "tone": "normal"
+        },
+        {
+          "label": "CPU 클럭",
+          "value": "403.2 MHz",
+          "pct": 11.52,
+          "tone": "normal"
+        },
+        {
+          "label": "버스 스피드",
+          "value": "100.8 MHz",
+          "pct": 100,
+          "tone": "normal"
+        },
+        {
+          "label": "CPU 온도",
+          "value": "53.0 °C",
+          "pct": 53.0,
+          "tone": "normal"
+        },
+        {
+          "label": "RAM 사용량",
+          "value": "11.4 / 15.8 GB (72%)",
+          "pct": 72.2,
+          "tone": "normal"
+        },
+        {
+          "label": "SSD 사용량",
+          "value": "350.6 / 475.9 GB (74%)",
+          "pct": 73.7,
+          "tone": "normal"
+        },
+        {
+          "label": "SSD 여유 공간",
+          "value": "125.3 / 475.9 GB",
+          "pct": 26.299999999999997,
+          "tone": "normal"
+        },
+        {
+          "label": "SSD 온도",
+          "value": "40.0 °C",
+          "pct": 40.0,
+          "tone": "normal"
+        },
+        {
+          "label": "업타임",
+          "value": "288시간 17분",
+          "pct": 100,
+          "tone": "normal"
+        },
+        {
+          "label": "네트워크 수신",
+          "value": "13274.3 MB",
+          "pct": 100,
+          "tone": "normal"
+        },
+        {
+          "label": "네트워크 송신",
+          "value": "4796.0 MB",
+          "pct": 100,
+          "tone": "normal"
+        }
+      ]
+    },
+    "openclaw": {
+      "summary": "OpenClaw 2026.9.5 (ec9c1a1)",
+      "take": "OpenClaw 게이트웨이 정상 작동 중",
+      "metrics": [
+        {
+          "label": "Runtime",
+          "value": "running",
+          "pct": 100,
+          "tone": "good"
+        },
+        {
+          "label": "Gateway",
+          "value": "active",
+          "pct": 100,
+          "tone": "good"
+        }
+      ]
+    }
+  },
+  "cards": [
+    {
+      "title": "오늘의 한마디",
+      "summary": "오늘 일정이 비어 있다면, 오히려 중요한 걸 조용히 정리할 수 있는 좋은 날입니다.",
+      "take": "습도가 높아 체감이 더 무겁습니다. 물을 자주 마시며 리듬을 유지하면 좋겠습니다. 오늘은 마음을 급하게 쓰지 말고, 가장 아쉬웠던 한 가지를 먼저 정리해 보시면 좋겠습니다. 그런 작은 정리가 하루의 기분을 꽤 크게 바꿉니다.",
+      "meta": [
+        "응원",
+        "중간 길이"
+      ],
+      "entities": [],
+      "keywords": [
+        "아침",
+        "집중"
+      ],
+      "links": []
+    },
+    {
+      "title": "오늘 일정",
+      "summary": "오늘 일정 없음",
+      "take": "오늘 등록된 일정이 없습니다. 이럴 때는 중요한 정리 한두 개만 분명하게 끝내도 충분합니다.",
+      "meta": [
+        "일정",
+        "calendar"
+      ],
+      "entities": [
+        "calendar"
+      ],
+      "keywords": [
+        "calendar"
+      ],
+      "links": []
+    },
+    {
+      "title": "주요 메일 / 중요 알림",
+      "summary": "[중요인물] Your temporary ChatGPT log / [중요인물] New sign-in to your OpenAI / [중요인물] 새로운 가족 그룹 구성원",
+      "take": "지금 확인할 만한 메일만 추렸습니다. 결제, 업무, 보안성 알림 위주로 먼저 보면 됩니다.",
+      "meta": [
+        "메일",
+        "gmail",
+        "중요 알림"
+      ],
+      "entities": [
+        "중요인물"
+      ],
+      "keywords": [
+        "gmail",
+        "alert"
+      ],
+      "links": []
+    },
+    {
+      "title": "유튜브 업데이트",
+      "summary": "@JulianGoldieSEO Claude Opus 5.5 Changes  / @JulianGoldieSEO OpenRouter + Jev Just Ma / @JulianGoldieSEO Google Antigravity Can N",
+      "take": "업로드 속도가 빠른 채널은 오늘도 여러 편이 들어왔습니다. 중요한 주제부터 2~3개만 골라 보면 효율이 좋습니다.",
+      "meta": [
+        "유튜브",
+        "AI 채널",
+        "중간 길이"
+      ],
+      "entities": [
+        "@JulianGoldieSEO",
+        "@JulianGoldieSEO",
+        "@JulianGoldieSEO",
+        "@fahdmirza"
+      ],
+      "keywords": [
+        "youtube",
+        "update",
+        "thumbnail"
+      ],
+      "links": [
+        {
+          "label": "@JulianGoldieSEO · 09-27 07:00",
+          "url": "https://www.youtube.com/watch?v=IstGcG6z1gY",
+          "thumbnail": "https://i.ytimg.com/vi/IstGcG6z1gY/hqdefault.jpg"
+        },
+        {
+          "label": "@JulianGoldieSEO · 09-27 04:00",
+          "url": "https://www.youtube.com/watch?v=TU2pBOiC_E0",
+          "thumbnail": "https://i.ytimg.com/vi/TU2pBOiC_E0/hqdefault.jpg"
+        },
+        {
+          "label": "@JulianGoldieSEO · 09-27 03:30",
+          "url": "https://www.youtube.com/watch?v=M0WXXMkdTPg",
+          "thumbnail": "https://i.ytimg.com/vi/M0WXXMkdTPg/hqdefault.jpg"
+        }
+      ]
+    },
+    {
+      "title": "시스템 상태 요약",
+      "summary": "CPU 25.0 % 사용 / RAM 11.4GB 사용 (72%) / SSD 350.6GB 사용 (74%, 여유 125.3GB) / 업타임 288시간 17분",
+      "take": "CPU는 현재 25.0 % 사용 중이며, RAM은 총 15.8GB 중 11.4GB (72%), SSD는 총 475.9GB 중 350.6GB 사용 (74%, 여유 125.3GB) 중입니다. 시스템 가동 시간은 288시간 17분이며, 네트워크 트래픽은 수신 13274.3 MB / 송신 4796.0 MB입니다. CPU 클럭은 403.2 MHz, 버스 스피드는 100.8 MHz입니다.",
+      "meta": [
+        "시스템",
+        "LHM"
+      ],
+      "entities": [
+        "Intel N100",
+        "RAM",
+        "SSD"
+      ],
+      "keywords": [
+        "temperature",
+        "load",
+        "memory"
+      ],
+      "links": []
+    },
+    {
+      "title": "OpenClaw 상태 요약",
+      "summary": "OpenClaw 2026.9.5 (ec9c1a1)",
+      "take": "OpenClaw 게이트웨이 정상 작동 중",
+      "meta": [
+        "OpenClaw",
+        "Gateway"
+      ],
+      "entities": [
+        "main",
+        "gateway"
+      ],
+      "keywords": [
+        "version",
+        "rpc",
+        "status"
+      ],
+      "links": []
+    }
+  ],
+  "footer": "AI-assisted morning briefing, unified data structure ready for stage 2"
+}
