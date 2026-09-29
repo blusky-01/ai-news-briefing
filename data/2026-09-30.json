@@ -1,0 +1,415 @@
+{
+  "date": "2026-09-30 07:00",
+  "title": "아침 브리핑",
+  "subtitle": "날씨 · 응원 · 일정 · 메일 · 유튜브 · 시스템 · OpenClaw",
+  "summary": "오늘은 누가 밀어붙이지 않아도 됩니다. 팀장님 리듬대로 중요한 것부터 차분히 끝내면 됩니다.",
+  "summary_box": "습도가 높아 체감이 더 무겁습니다. 물을 자주 마시며 리듬을 유지하면 좋겠습니다. 오늘은 마음을 급하게 쓰지 말고, 가장 아쉬웠던 한 가지를 먼저 정리해 보시면 좋겠습니다. 그런 작은 정리가 하루의 기분을 꽤 크게 바꿉니다.",
+  "weather": {
+    "loc": "김해",
+    "temp": "17°C",
+    "desc": "Clear ",
+    "icon": "⛅",
+    "badges": [
+      "체감 18°C",
+      "습도 83%",
+      "강수확률 2%",
+      "풍속 5km/h",
+      "UV 0",
+      "미세먼지 정보 연동 예정"
+    ],
+    "detail": {
+      "feels_like": "18",
+      "humidity": "83",
+      "rain_chance": "2",
+      "wind_kmph": "5",
+      "uv": "0",
+      "pm": "미세먼지 정보 연동 예정"
+    },
+    "life_comment": "습도가 높아 체감이 더 무겁습니다. 물을 자주 마시며 리듬을 유지하면 좋겠습니다."
+  },
+  "sections": {
+    "calendar": {
+      "summary": "오늘 일정 없음",
+      "take": "오늘 등록된 일정이 없습니다. 이럴 때는 중요한 정리 한두 개만 분명하게 끝내도 충분합니다.",
+      "items": [],
+      "links": [],
+      "entities": [
+        "calendar"
+      ]
+    },
+    "mail": {
+      "summary": "[업무] Let AI take the notes next / [중요인물] Google에서 aratech.digital의  / [중요인물] Google 계정 데이터 일부를 GSC Wiza",
+      "take": "지금 확인할 만한 메일만 추렸습니다. 결제, 업무, 보안성 알림 위주로 먼저 보면 됩니다.",
+      "items": [
+        {
+          "date": "2026-09-29 21:00",
+          "from": "Notion Team <team@mail.notion.so>",
+          "subject": "Let AI take the notes next meeting",
+          "tags": [
+            "업무"
+          ]
+        },
+        {
+          "date": "2026-09-29 18:35",
+          "from": "Google Search Console Team <sc-noreply@google.com>",
+          "subject": "Google에서 aratech.digital의 인지도 높이기",
+          "tags": [
+            "중요인물"
+          ]
+        },
+        {
+          "date": "2026-09-29 18:28",
+          "from": "Google <noreply-accounts@google.com>",
+          "subject": "Google 계정 데이터 일부를 GSC Wizard App에 공유하셨습니다",
+          "tags": [
+            "중요인물"
+          ]
+        },
+        {
+          "date": "2026-09-29 03:16",
+          "from": "Cloudflare <em@em1.cloudflare.com>",
+          "subject": "Welcome to Birthday Week 2026!",
+          "tags": [
+            "확인필요"
+          ]
+        },
+        {
+          "date": "2026-09-29 03:00",
+          "from": "Google <noreply-accounts@google.com>",
+          "subject": "Google 계정 데이터 일부를 Desktop Commander에 공유하셨습니다",
+          "tags": [
+            "중요인물"
+          ]
+        }
+      ],
+      "links": [],
+      "entities": [
+        "업무",
+        "확인필요",
+        "중요인물"
+      ]
+    },
+    "youtube": {
+      "summary": "@JulianGoldieSEO I Built Rank-and-Rent We / @fahdmirza Voice of Reason from Kyu / @JulianGoldieSEO OpenCode Just Leaked 5 U",
+      "take": "업로드 속도가 빠른 채널은 오늘도 여러 편이 들어왔습니다. 중요한 주제부터 2~3개만 골라 보면 효율이 좋습니다.",
+      "items": [
+        {
+          "channel": "@JulianGoldieSEO",
+          "title": "I Built Rank-and-Rent Websites in ONE Click With AI",
+          "published": "09-30 06:00",
+          "published_dt": "2026-09-30T06:00:22+09:00",
+          "url": "https://www.youtube.com/watch?v=1JoBR4oGHJg",
+          "thumbnail": "https://i.ytimg.com/vi/1JoBR4oGHJg/hqdefault.jpg",
+          "summary": "이 영상은 모델/LLM, 에이전트/자동화, 수익화/마케팅 중심 내용입니다. 구성은 One-Click Local Sites That AI Search Finds, Examples: 3 Niches, 3 Full Sites, The Brief: City, Niche, Services, Preview on Desktop & Mobile 순서로 이어지며, 제목만으로는 보이지 않는 변화 배경·핵심 기능·실제 활용 포인트를 짚어보는 영상입니다.",
+          "description_excerpt": "FREE AI SEO Course → Free SEO Strategy session → Build a full local-service website (pages, form, CTAs, images) in one click, for any city and niche, and structure it so Google, ChatGPT, Perplexity, and Gemini can find it. See the brief-to-live workflow, plus the built-in SEO dashboard that shows you which keyword and town to build next. 00:00 One-Click Loca",
+          "transcript_excerpt": "",
+          "shorts": false
+        },
+        {
+          "channel": "@fahdmirza",
+          "title": "Voice of Reason from Kyutai on Top of GLM: Run Locally",
+          "published": "09-30 05:23",
+          "published_dt": "2026-09-30T05:23:57+09:00",
+          "url": "https://www.youtube.com/watch?v=Wza0WpjuWGg",
+          "thumbnail": "https://i.ytimg.com/vi/Wza0WpjuWGg/hqdefault.jpg",
+          "summary": "이 영상은 모델/LLM, 튜토리얼/설정 중심 내용입니다. 구성은 This video locally installs GLM-4-Voice of Reason, a speech-to-speech model that reasons before it speaks 순서로 이어지며, 제목만으로는 보이지 않는 변화 배경·핵심 기능·실제 활용 포인트를 짚어보는 영상입니다.",
+          "description_excerpt": "This video locally installs GLM-4-Voice of Reason, a speech-to-speech model that reasons before it speaks. 📬Weekly AI : 🔥 Get 50% Discount on any A6000 or A5000 GPU rental, use following link and coupon: Coupon code: FahdMirza 🔥 Buy Me a Coffee to support the channel: PLEASE FOLLOW ME: ▶ LinkedIn: / fahdmirza ▶ YouTube: / ▶ Blog: RESOURCES: ▶ All rights rese",
+          "transcript_excerpt": "",
+          "shorts": false
+        },
+        {
+          "channel": "@JulianGoldieSEO",
+          "title": "OpenCode Just Leaked 5 Upcoming AI Models 💀",
+          "published": "09-30 05:00",
+          "published_dt": "2026-09-30T05:00:14+09:00",
+          "url": "https://www.youtube.com/watch?v=0LNjntaHoJA",
+          "thumbnail": "https://i.ytimg.com/vi/0LNjntaHoJA/hqdefault.jpg",
+          "summary": "이 영상은 모델/LLM, 에이전트/자동화 중심 내용입니다. 구성은 Intro – 5 AI Models Leaked, How the Leak Happened, The 5 Leaked Models, GLM 5.4 & 5.5 Flash 순서로 이어집니다.",
+          "description_excerpt": "Get the Agent OS & OpenCode Masterclass 👉 00:00 Intro – 5 AI Models Leaked 00:36 How the Leak Happened 01:17 The 5 Leaked Models 02:23 GLM 5.4 & 5.5 Flash 03:21 Kimi K4 03:45 DeepSeek V4.1 Pro 04:21 Muse Spark 1.4 05:11 3 Tips to Get Ready 06:29 Mistakes to Avoid 07:19 the AI Profit Boardroom",
+          "transcript_excerpt": "",
+          "shorts": false
+        },
+        {
+          "channel": "@jocoding",
+          "title": "[LIVE] OpenAI DevDay 2026 함께봐요!!",
+          "published": "09-30 04:04",
+          "published_dt": "2026-09-30T04:04:45+09:00",
+          "url": "https://www.youtube.com/watch?v=KBlCLO7u-QY",
+          "thumbnail": "https://i.ytimg.com/vi/KBlCLO7u-QY/hqdefault.jpg",
+          "summary": "이 영상은 '[LIVE] OpenAI DevDay 2026 함께봐요!!' 주제의 업데이트/튜토리얼입니다. 핵심 흐름은 [LIVE] OpenAI DevDay 2026 함께봐요!!이며, 새 기능이나 모델 변화가 실제 작업에 어떤 의미가 있는지 짚는 내용입니다.",
+          "description_excerpt": "[LIVE] OpenAI DevDay 2026 함께봐요!!",
+          "transcript_excerpt": "",
+          "shorts": false
+        },
+        {
+          "channel": "@JulianGoldieSEO",
+          "title": "Google's New AI Update Is WILD!",
+          "published": "09-30 04:00",
+          "published_dt": "2026-09-30T04:00:28+09:00",
+          "url": "https://www.youtube.com/watch?v=LEr7At-2qUQ",
+          "thumbnail": "https://i.ytimg.com/vi/LEr7At-2qUQ/hqdefault.jpg",
+          "summary": "이 영상은 모델/LLM, 에이전트/자동화 중심 내용입니다. 구성은 Intro – Google’s New AI Update Is WILD!, Feature 1 – Gemini Understands Videos & Podcasts, Best Prompts – Summarize & Explain Any Video, Feature 2 – Turn Any Page Into an AI Quiz 순서로 이어집니다.",
+          "description_excerpt": "Get the Agent OS & Google's AI Update Masterclass 👉 00:00 Intro – Google’s New AI Update Is WILD! 01:13 Feature 1 – Gemini Understands Videos & Podcasts 01:46 Best Prompts – Summarize & Explain Any Video 02:57 Feature 2 – Turn Any Page Into an AI Quiz 03:37 Quiz Workflow – Prompts, Hints & Follow-Up Questions 03:53 The Catch – Quiz Availability Explained 04:",
+          "transcript_excerpt": "",
+          "shorts": false
+        }
+      ],
+      "links": [
+        {
+          "label": "@JulianGoldieSEO · 09-30 06:00",
+          "url": "https://www.youtube.com/watch?v=1JoBR4oGHJg",
+          "thumbnail": "https://i.ytimg.com/vi/1JoBR4oGHJg/hqdefault.jpg"
+        },
+        {
+          "label": "@fahdmirza · 09-30 05:23",
+          "url": "https://www.youtube.com/watch?v=Wza0WpjuWGg",
+          "thumbnail": "https://i.ytimg.com/vi/Wza0WpjuWGg/hqdefault.jpg"
+        },
+        {
+          "label": "@JulianGoldieSEO · 09-30 05:00",
+          "url": "https://www.youtube.com/watch?v=0LNjntaHoJA",
+          "thumbnail": "https://i.ytimg.com/vi/0LNjntaHoJA/hqdefault.jpg"
+        }
+      ],
+      "entities": [
+        "@JulianGoldieSEO",
+        "@fahdmirza",
+        "@JulianGoldieSEO",
+        "@jocoding"
+      ]
+    },
+    "system": {
+      "summary": "CPU 40.6 % 사용 / RAM 8.1GB 사용 (52%) / SSD 343.9GB 사용 (72%, 여유 132.0GB) / 업타임 32시간 37분",
+      "take": "CPU는 현재 40.6 % 사용 중이며, RAM은 총 15.8GB 중 8.1GB (52%), SSD는 총 475.9GB 중 343.9GB 사용 (72%, 여유 132.0GB) 중입니다. 시스템 가동 시간은 32시간 37분이며, 네트워크 트래픽은 수신 2662.7 MB / 송신 1312.1 MB입니다. CPU 클럭은 2923.2 MHz, 버스 스피드는 100.8 MHz입니다.",
+      "metrics": [
+        {
+          "label": "CPU 사용률",
+          "value": "40.6 %",
+          "pct": 40.6,
+          "tone": "normal"
+        },
+        {
+          "label": "CPU 클럭",
+          "value": "2923.2 MHz",
+          "pct": 83.52,
+          "tone": "normal"
+        },
+        {
+          "label": "버스 스피드",
+          "value": "100.8 MHz",
+          "pct": 100,
+          "tone": "normal"
+        },
+        {
+          "label": "CPU 온도",
+          "value": "67.0 °C",
+          "pct": 67.0,
+          "tone": "normal"
+        },
+        {
+          "label": "RAM 사용량",
+          "value": "8.1 / 15.8 GB (52%)",
+          "pct": 51.6,
+          "tone": "normal"
+        },
+        {
+          "label": "SSD 사용량",
+          "value": "343.9 / 475.9 GB (72%)",
+          "pct": 72.3,
+          "tone": "normal"
+        },
+        {
+          "label": "SSD 여유 공간",
+          "value": "132.0 / 475.9 GB",
+          "pct": 27.700000000000003,
+          "tone": "normal"
+        },
+        {
+          "label": "SSD 온도",
+          "value": "40.0 °C",
+          "pct": 40.0,
+          "tone": "normal"
+        },
+        {
+          "label": "업타임",
+          "value": "32시간 37분",
+          "pct": 100,
+          "tone": "normal"
+        },
+        {
+          "label": "네트워크 수신",
+          "value": "2662.7 MB",
+          "pct": 100,
+          "tone": "normal"
+        },
+        {
+          "label": "네트워크 송신",
+          "value": "1312.1 MB",
+          "pct": 100,
+          "tone": "normal"
+        }
+      ]
+    },
+    "openclaw": {
+      "summary": "OpenClaw 2026.9.5 (ec9c1a1)",
+      "take": "Runtime: running (pid 10020, last run 267009, last run time 2026-09-28T13:22:50.0000000Z, Gateway process detected for gateway port 18789.) | Listening: 127.0.0.1:18789",
+      "metrics": [
+        {
+          "label": "Gateway",
+          "value": "bind=loopback (127.0.0.1), port=18789 (service args)",
+          "pct": 100,
+          "tone": "normal"
+        },
+        {
+          "label": "Probe note",
+          "value": "Loopback-only gateway; only local clients can connect.",
+          "pct": 100,
+          "tone": "normal"
+        },
+        {
+          "label": "Runtime",
+          "value": "running (pid 10020, last run 267009, last run time 2026-09-28T13:22:50.0000000Z, Gateway process detected for gateway port 18789.)",
+          "pct": 100,
+          "tone": "good"
+        },
+        {
+          "label": "Listening",
+          "value": "127.0.0.1:18789",
+          "pct": 100,
+          "tone": "good"
+        }
+      ]
+    }
+  },
+  "cards": [
+    {
+      "title": "오늘의 한마디",
+      "summary": "오늘은 누가 밀어붙이지 않아도 됩니다. 팀장님 리듬대로 중요한 것부터 차분히 끝내면 됩니다.",
+      "take": "습도가 높아 체감이 더 무겁습니다. 물을 자주 마시며 리듬을 유지하면 좋겠습니다. 오늘은 마음을 급하게 쓰지 말고, 가장 아쉬웠던 한 가지를 먼저 정리해 보시면 좋겠습니다. 그런 작은 정리가 하루의 기분을 꽤 크게 바꿉니다.",
+      "meta": [
+        "응원",
+        "중간 길이"
+      ],
+      "entities": [],
+      "keywords": [
+        "아침",
+        "집중"
+      ],
+      "links": []
+    },
+    {
+      "title": "오늘 일정",
+      "summary": "오늘 일정 없음",
+      "take": "오늘 등록된 일정이 없습니다. 이럴 때는 중요한 정리 한두 개만 분명하게 끝내도 충분합니다.",
+      "meta": [
+        "일정",
+        "calendar"
+      ],
+      "entities": [
+        "calendar"
+      ],
+      "keywords": [
+        "calendar"
+      ],
+      "links": []
+    },
+    {
+      "title": "주요 메일 / 중요 알림",
+      "summary": "[업무] Let AI take the notes next / [중요인물] Google에서 aratech.digital의  / [중요인물] Google 계정 데이터 일부를 GSC Wiza",
+      "take": "지금 확인할 만한 메일만 추렸습니다. 결제, 업무, 보안성 알림 위주로 먼저 보면 됩니다.",
+      "meta": [
+        "메일",
+        "gmail",
+        "중요 알림"
+      ],
+      "entities": [
+        "업무",
+        "확인필요",
+        "중요인물"
+      ],
+      "keywords": [
+        "gmail",
+        "alert"
+      ],
+      "links": []
+    },
+    {
+      "title": "유튜브 업데이트",
+      "summary": "@JulianGoldieSEO I Built Rank-and-Rent We / @fahdmirza Voice of Reason from Kyu / @JulianGoldieSEO OpenCode Just Leaked 5 U",
+      "take": "업로드 속도가 빠른 채널은 오늘도 여러 편이 들어왔습니다. 중요한 주제부터 2~3개만 골라 보면 효율이 좋습니다.",
+      "meta": [
+        "유튜브",
+        "AI 채널",
+        "중간 길이"
+      ],
+      "entities": [
+        "@JulianGoldieSEO",
+        "@fahdmirza",
+        "@JulianGoldieSEO",
+        "@jocoding"
+      ],
+      "keywords": [
+        "youtube",
+        "update",
+        "thumbnail"
+      ],
+      "links": [
+        {
+          "label": "@JulianGoldieSEO · 09-30 06:00",
+          "url": "https://www.youtube.com/watch?v=1JoBR4oGHJg",
+          "thumbnail": "https://i.ytimg.com/vi/1JoBR4oGHJg/hqdefault.jpg"
+        },
+        {
+          "label": "@fahdmirza · 09-30 05:23",
+          "url": "https://www.youtube.com/watch?v=Wza0WpjuWGg",
+          "thumbnail": "https://i.ytimg.com/vi/Wza0WpjuWGg/hqdefault.jpg"
+        },
+        {
+          "label": "@JulianGoldieSEO · 09-30 05:00",
+          "url": "https://www.youtube.com/watch?v=0LNjntaHoJA",
+          "thumbnail": "https://i.ytimg.com/vi/0LNjntaHoJA/hqdefault.jpg"
+        }
+      ]
+    },
+    {
+      "title": "시스템 상태 요약",
+      "summary": "CPU 40.6 % 사용 / RAM 8.1GB 사용 (52%) / SSD 343.9GB 사용 (72%, 여유 132.0GB) / 업타임 32시간 37분",
+      "take": "CPU는 현재 40.6 % 사용 중이며, RAM은 총 15.8GB 중 8.1GB (52%), SSD는 총 475.9GB 중 343.9GB 사용 (72%, 여유 132.0GB) 중입니다. 시스템 가동 시간은 32시간 37분이며, 네트워크 트래픽은 수신 2662.7 MB / 송신 1312.1 MB입니다. CPU 클럭은 2923.2 MHz, 버스 스피드는 100.8 MHz입니다.",
+      "meta": [
+        "시스템",
+        "LHM"
+      ],
+      "entities": [
+        "Intel N100",
+        "RAM",
+        "SSD"
+      ],
+      "keywords": [
+        "temperature",
+        "load",
+        "memory"
+      ],
+      "links": []
+    },
+    {
+      "title": "OpenClaw 상태 요약",
+      "summary": "OpenClaw 2026.9.5 (ec9c1a1)",
+      "take": "Runtime: running (pid 10020, last run 267009, last run time 2026-09-28T13:22:50.0000000Z, Gateway process detected for gateway port 18789.) | Listening: 127.0.0.1:18789",
+      "meta": [
+        "OpenClaw",
+        "Gateway"
+      ],
+      "entities": [
+        "main",
+        "gateway"
+      ],
+      "keywords": [
+        "version",
+        "rpc",
+        "status"
+      ],
+      "links": []
+    }
+  ],
+  "footer": "AI-assisted morning briefing, unified data structure ready for stage 2"
+}
