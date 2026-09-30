@@ -1,0 +1,396 @@
+{
+  "date": "2026-10-01 07:00",
+  "title": "아침 브리핑",
+  "subtitle": "날씨 · 응원 · 일정 · 메일 · 유튜브 · 시스템 · OpenClaw",
+  "summary": "비어 있는 하루는 느슨한 하루가 아니라, 진짜 필요한 걸 선명하게 끝낼 수 있는 하루입니다.",
+  "summary_box": "습도가 높아 체감이 더 무겁습니다. 물을 자주 마시며 리듬을 유지하면 좋겠습니다. 오늘은 마음을 급하게 쓰지 말고, 가장 아쉬웠던 한 가지를 먼저 정리해 보시면 좋겠습니다. 그런 작은 정리가 하루의 기분을 꽤 크게 바꿉니다.",
+  "weather": {
+    "loc": "김해",
+    "temp": "18°C",
+    "desc": "Overcast ",
+    "icon": "⛅",
+    "badges": [
+      "체감 19°C",
+      "습도 89%",
+      "강수확률 6%",
+      "풍속 6km/h",
+      "UV 0",
+      "미세먼지 정보 연동 예정"
+    ],
+    "detail": {
+      "feels_like": "19",
+      "humidity": "89",
+      "rain_chance": "6",
+      "wind_kmph": "6",
+      "uv": "0",
+      "pm": "미세먼지 정보 연동 예정"
+    },
+    "life_comment": "습도가 높아 체감이 더 무겁습니다. 물을 자주 마시며 리듬을 유지하면 좋겠습니다."
+  },
+  "sections": {
+    "calendar": {
+      "summary": "오늘 일정 없음",
+      "take": "오늘 등록된 일정이 없습니다. 이럴 때는 중요한 정리 한두 개만 분명하게 끝내도 충분합니다.",
+      "items": [],
+      "links": [],
+      "entities": [
+        "calendar"
+      ]
+    },
+    "mail": {
+      "summary": "[중요인물,에러] 임시 ChatGPT 로그인 코드 / [업무] Let AI take the notes next / [중요인물] Google에서 aratech.digital의 ",
+      "take": "지금 확인할 만한 메일만 추렸습니다. 결제, 업무, 보안성 알림 위주로 먼저 보면 됩니다.",
+      "items": [
+        {
+          "date": "2026-09-30 10:37",
+          "from": "ChatGPT <noreply@tm.openai.com>",
+          "subject": "임시 ChatGPT 로그인 코드",
+          "tags": [
+            "중요인물",
+            "에러"
+          ]
+        },
+        {
+          "date": "2026-09-29 21:00",
+          "from": "Notion Team <team@mail.notion.so>",
+          "subject": "Let AI take the notes next meeting",
+          "tags": [
+            "업무"
+          ]
+        },
+        {
+          "date": "2026-09-29 18:35",
+          "from": "Google Search Console Team <sc-noreply@google.com>",
+          "subject": "Google에서 aratech.digital의 인지도 높이기",
+          "tags": [
+            "중요인물"
+          ]
+        },
+        {
+          "date": "2026-09-29 18:28",
+          "from": "Google <noreply-accounts@google.com>",
+          "subject": "Google 계정 데이터 일부를 GSC Wizard App에 공유하셨습니다",
+          "tags": [
+            "중요인물"
+          ]
+        }
+      ],
+      "links": [],
+      "entities": [
+        "에러",
+        "업무",
+        "중요인물"
+      ]
+    },
+    "youtube": {
+      "summary": "@JulianGoldieSEO NEW Hermes Project Manag / @JulianGoldieSEO ChatGPT NEW Dots Update  / @fahdmirza DeepSeek + Huawei Just W",
+      "take": "업로드 속도가 빠른 채널은 오늘도 여러 편이 들어왔습니다. 중요한 주제부터 2~3개만 골라 보면 효율이 좋습니다.",
+      "items": [
+        {
+          "channel": "@JulianGoldieSEO",
+          "title": "NEW Hermes Project Manager Agent is Absolutely INSANE!",
+          "published": "10-01 07:00",
+          "published_dt": "2026-10-01T07:00:17+09:00",
+          "url": "https://www.youtube.com/watch?v=M2ufFY2TBSc",
+          "thumbnail": "https://i.ytimg.com/vi/M2ufFY2TBSc/hqdefault.jpg",
+          "summary": "이 영상은 모델/LLM, 에이전트/자동화, 수익화/마케팅 중심 내용입니다. 구성은 Intro – New Hermes Project Manager Agent Is INSANE, Agent OS Dashboard – From Ideas to Shipped Projects, The Problem – Why Most Ideas Never Get Built, Goldie Idea Foundry – Your AI Project Team 순서로 이어집니다. New Hermes project manager agent is absolutely insane I typed one messy line into a box I tapped one button",
+          "description_excerpt": "Get the Agent OS & Hermes Masterclass 👉 00:00 Intro – New Hermes Project Manager Agent Is INSANE 01:06 Agent OS Dashboard – From Ideas to Shipped Projects 01:34 The Problem – Why Most Ideas Never Get Built 01:56 Goldie Idea Foundry – Your AI Project Team 03:05 Step 1 – Capture Any Idea Instantly 03:48 Step 2 – AI Classifies & Routes Your Ideas 04:13 Step 3 –",
+          "transcript_excerpt": "New Hermes project manager agent is absolutely insane. I typed one messy line into a box. A few seconds later, a team of AI agents had read it, sorted it, and written a full plan. I tapped one button. Then they went off and built the whole ",
+          "shorts": false
+        },
+        {
+          "channel": "@JulianGoldieSEO",
+          "title": "ChatGPT NEW Dots Update is SCARY GOOD! 🤯",
+          "published": "10-01 06:00",
+          "published_dt": "2026-10-01T06:00:22+09:00",
+          "url": "https://www.youtube.com/watch?v=x8Pb9BSjp-k",
+          "thumbnail": "https://i.ytimg.com/vi/x8Pb9BSjp-k/hqdefault.jpg",
+          "summary": "이 영상은 모델/LLM, 에이전트/자동화, 수익화/마케팅 중심 내용입니다. 구성은 ChatGPT Dots: The New AI Agents, What Makes Dots Different?, From ChatGPT Agent to Always-On Dots, How ChatGPT Dots Actually Work 순서로 이어집니다. The new Chat GPT update is crazy good and it's called Dots Here's the big idea Open AAI announced DOTS on September 29th, 2026",
+          "description_excerpt": "00:00 — ChatGPT Dots: The New AI Agents 00:32 — What Makes Dots Different? 01:03 — From ChatGPT Agent to Always-On Dots 01:33 — How ChatGPT Dots Actually Work 02:03 — Multiple Dots & Future AI Teams 02:35 — 30-Day ChatGPT Dots Roadmap 03:38 — Dots Have Their Own Cloud Computer 04:01 — Real-World Example: AI Research Agent 04:17 — Use Dots Through ChatGPT, Sl",
+          "transcript_excerpt": "The new Chat GPT update is crazy good and it's called Dots. Here's the big idea. What if you could give ChatG a job, close your laptop, and go for a walk. Open AAI announced DOTS on September 29th, 2026. They are always on AI agents powered",
+          "shorts": false
+        },
+        {
+          "channel": "@fahdmirza",
+          "title": "DeepSeek + Huawei Just Went After Nvidia's CUDA Moat",
+          "published": "10-01 05:51",
+          "published_dt": "2026-10-01T05:51:12+09:00",
+          "url": "https://www.youtube.com/watch?v=IBBrasRn9mk",
+          "thumbnail": "https://i.ytimg.com/vi/IBBrasRn9mk/hqdefault.jpg",
+          "summary": "이 영상은 업데이트/튜토리얼 중심 내용입니다. 구성은 Why this is buzzing today, The tweet that started it, Why CUDA is Nvidia's real moat, DeepGEMM Ascend explained 순서로 이어지며, 제목만으로는 보이지 않는 변화 배경·핵심 기능·실제 활용 포인트를 짚어보는 영상입니다.",
+          "description_excerpt": "DeepSeek and Huawei just open-sourced DeepGEMM Ascend and backed TileLang. 📬Weekly AI : 🔥 Buy Me a Coffee to support the channel: PLEASE FOLLOW ME: ▶ LinkedIn: / fahdmirza ▶ YouTube: / ▶ Blog: 0:00 Why this is buzzing today 0:35 The tweet that started it 2:00 Why CUDA is Nvidia's real moat 3:10 DeepGEMM Ascend explained 5:23 The benchmark numbers 6:14 TileLa",
+          "transcript_excerpt": "AI social media is going crazy about this some new magical tool which is going to not only break Nvidia's monopoly on hardware but more importantly on CUDA software. The thing is that almost a year ago I made this video Chinese chips are ri",
+          "shorts": false
+        },
+        {
+          "channel": "@JulianGoldieSEO",
+          "title": "This New AI Changes How You Work Forever 🤯",
+          "published": "10-01 05:00",
+          "published_dt": "2026-10-01T05:00:04+09:00",
+          "url": "https://www.youtube.com/watch?v=fX7nx5fwsDs",
+          "thumbnail": "https://i.ytimg.com/vi/fX7nx5fwsDs/hqdefault.jpg",
+          "summary": "이 영상은 에이전트/자동화, 개발도구, 수익화/마케팅 중심 내용입니다. 구성은 Intro – This New AI Changes How You Work Forever, What Is Open Slide 2.0? – Slides Built for AI Agents, The Big Upgrade – Agent Builds, You Finish, Turn One Video Into a Full Training Deck 순서로 이어지며, 제목만으로는 보이지 않는 변화 배경·핵심 기능·실제 활용 포인트를 짚어보는 영상입니다.",
+          "description_excerpt": "00:00 Intro – This New AI Changes How You Work Forever 00:56 What Is Open Slide 2.0? – Slides Built for AI Agents 01:12 The Big Upgrade – Agent Builds, You Finish 01:28 Turn One Video Into a Full Training Deck 02:39 The Content Scaling Workflow – One Idea, Multiple Assets 03:20 Feature 1 – New Visual Editor 03:55 Fix Slides Without Starting Over 04:39 Featur",
+          "transcript_excerpt": "This new AI changes how you work forever. Today, I'm showing you Open Slide 2.0. You tell your AI agent what you want, it builds the whole slide deck, you just make the final touches. One video in, a full training deck out. Wild. And here's",
+          "shorts": false
+        },
+        {
+          "channel": "@dante-labs",
+          "title": "Jev 같은 판단 모델을 내 PC에서? 오픈 모델 3개 실측해봤습니다.",
+          "published": "10-01 01:41",
+          "published_dt": "2026-10-01T01:41:16+09:00",
+          "url": "https://www.youtube.com/watch?v=_H_5Zz1hb0Q",
+          "thumbnail": "https://i.ytimg.com/vi/_H_5Zz1hb0Q/hqdefault.jpg",
+          "summary": "이 영상은 모델/LLM, 에이전트/자동화, 튜토리얼/설정 중심 내용입니다. 구성은 0. Jev는 무엇을 받고 무엇을 돌려줄까 (n8n), 1. 판단 모델 활용 사례 (고객지원 챗봇), 2. 가벼운 판단을 꼭 클라우드로 불러야 할까, 3. 늘어나는 오픈 판단 모델과 다음 글자 확률 방식 순서로 이어지며, 제목만으로는 보이지 않는 변화 배경·핵심 기능·실제 활용 포인트를 짚어보는 영상입니다.",
+          "description_excerpt": "✔️ 사내 문서를 클라우드 AI에 올리기 전에, 올리면 안 되는 문서를 먼저 골라내야 할 때가 있습니다. 그런데 Jev 같은 클라우드 판단 모델에 \"민감한 문서인가요?\"라고 물으려면, 그 문서를 먼저 밖으로 보내야 하죠. 이번 영상에서는 Jev처럼 선택지 확률만 돌려주는 판단 모델을 오픈웨이트 모델로 바꿔, Minisforum AI X1 Pro-370 미니PC 한 대에서 외부 호출 없이 돌려봤습니다. 먼저 n8n 워크플로와 고객지원 챗봇으로 Jev가 무엇을 받고 무엇을 돌려주는지 보여드리고, 빠르게 늘고 있는 오픈 판단 모델과 그중 기존 LLM의 다음 글자 확률을 읽는 방식을 살펴봤습니다. 측정에는 방식이 다른 세 모델을 썼습니다. 1.",
+          "transcript_excerpt": "",
+          "shorts": false
+        }
+      ],
+      "links": [
+        {
+          "label": "@JulianGoldieSEO · 10-01 07:00",
+          "url": "https://www.youtube.com/watch?v=M2ufFY2TBSc",
+          "thumbnail": "https://i.ytimg.com/vi/M2ufFY2TBSc/hqdefault.jpg"
+        },
+        {
+          "label": "@JulianGoldieSEO · 10-01 06:00",
+          "url": "https://www.youtube.com/watch?v=x8Pb9BSjp-k",
+          "thumbnail": "https://i.ytimg.com/vi/x8Pb9BSjp-k/hqdefault.jpg"
+        },
+        {
+          "label": "@fahdmirza · 10-01 05:51",
+          "url": "https://www.youtube.com/watch?v=IBBrasRn9mk",
+          "thumbnail": "https://i.ytimg.com/vi/IBBrasRn9mk/hqdefault.jpg"
+        }
+      ],
+      "entities": [
+        "@JulianGoldieSEO",
+        "@JulianGoldieSEO",
+        "@fahdmirza",
+        "@JulianGoldieSEO"
+      ]
+    },
+    "system": {
+      "summary": "CPU 36.3 % 사용 / RAM 7.9GB 사용 (50%) / SSD 348.1GB 사용 (73%, 여유 127.9GB) / 업타임 56시간 37분",
+      "take": "CPU는 현재 36.3 % 사용 중이며, RAM은 총 15.8GB 중 7.9GB (50%), SSD는 총 475.9GB 중 348.1GB 사용 (73%, 여유 127.9GB) 중입니다. 시스템 가동 시간은 56시간 37분이며, 네트워크 트래픽은 수신 5533.5 MB / 송신 2338.4 MB입니다. CPU 클럭은 3124.8 MHz, 버스 스피드는 100.8 MHz입니다.",
+      "metrics": [
+        {
+          "label": "CPU 사용률",
+          "value": "36.3 %",
+          "pct": 36.3,
+          "tone": "normal"
+        },
+        {
+          "label": "CPU 클럭",
+          "value": "3124.8 MHz",
+          "pct": 89.28,
+          "tone": "normal"
+        },
+        {
+          "label": "버스 스피드",
+          "value": "100.8 MHz",
+          "pct": 100,
+          "tone": "normal"
+        },
+        {
+          "label": "CPU 온도",
+          "value": "63.0 °C",
+          "pct": 63.0,
+          "tone": "normal"
+        },
+        {
+          "label": "RAM 사용량",
+          "value": "7.9 / 15.8 GB (50%)",
+          "pct": 49.8,
+          "tone": "normal"
+        },
+        {
+          "label": "SSD 사용량",
+          "value": "348.1 / 475.9 GB (73%)",
+          "pct": 73.1,
+          "tone": "normal"
+        },
+        {
+          "label": "SSD 여유 공간",
+          "value": "127.9 / 475.9 GB",
+          "pct": 26.900000000000006,
+          "tone": "normal"
+        },
+        {
+          "label": "SSD 온도",
+          "value": "40.0 °C",
+          "pct": 40.0,
+          "tone": "normal"
+        },
+        {
+          "label": "업타임",
+          "value": "56시간 37분",
+          "pct": 100,
+          "tone": "normal"
+        },
+        {
+          "label": "네트워크 수신",
+          "value": "5533.5 MB",
+          "pct": 100,
+          "tone": "normal"
+        },
+        {
+          "label": "네트워크 송신",
+          "value": "2338.4 MB",
+          "pct": 100,
+          "tone": "normal"
+        }
+      ]
+    },
+    "openclaw": {
+      "summary": "OpenClaw 2026.9.5 (ec9c1a1)",
+      "take": "OpenClaw 게이트웨이 정상 작동 중",
+      "metrics": [
+        {
+          "label": "Runtime",
+          "value": "running",
+          "pct": 100,
+          "tone": "good"
+        },
+        {
+          "label": "Gateway",
+          "value": "active",
+          "pct": 100,
+          "tone": "good"
+        }
+      ]
+    }
+  },
+  "cards": [
+    {
+      "title": "오늘의 한마디",
+      "summary": "비어 있는 하루는 느슨한 하루가 아니라, 진짜 필요한 걸 선명하게 끝낼 수 있는 하루입니다.",
+      "take": "습도가 높아 체감이 더 무겁습니다. 물을 자주 마시며 리듬을 유지하면 좋겠습니다. 오늘은 마음을 급하게 쓰지 말고, 가장 아쉬웠던 한 가지를 먼저 정리해 보시면 좋겠습니다. 그런 작은 정리가 하루의 기분을 꽤 크게 바꿉니다.",
+      "meta": [
+        "응원",
+        "중간 길이"
+      ],
+      "entities": [],
+      "keywords": [
+        "아침",
+        "집중"
+      ],
+      "links": []
+    },
+    {
+      "title": "오늘 일정",
+      "summary": "오늘 일정 없음",
+      "take": "오늘 등록된 일정이 없습니다. 이럴 때는 중요한 정리 한두 개만 분명하게 끝내도 충분합니다.",
+      "meta": [
+        "일정",
+        "calendar"
+      ],
+      "entities": [
+        "calendar"
+      ],
+      "keywords": [
+        "calendar"
+      ],
+      "links": []
+    },
+    {
+      "title": "주요 메일 / 중요 알림",
+      "summary": "[중요인물,에러] 임시 ChatGPT 로그인 코드 / [업무] Let AI take the notes next / [중요인물] Google에서 aratech.digital의 ",
+      "take": "지금 확인할 만한 메일만 추렸습니다. 결제, 업무, 보안성 알림 위주로 먼저 보면 됩니다.",
+      "meta": [
+        "메일",
+        "gmail",
+        "중요 알림"
+      ],
+      "entities": [
+        "에러",
+        "업무",
+        "중요인물"
+      ],
+      "keywords": [
+        "gmail",
+        "alert"
+      ],
+      "links": []
+    },
+    {
+      "title": "유튜브 업데이트",
+      "summary": "@JulianGoldieSEO NEW Hermes Project Manag / @JulianGoldieSEO ChatGPT NEW Dots Update  / @fahdmirza DeepSeek + Huawei Just W",
+      "take": "업로드 속도가 빠른 채널은 오늘도 여러 편이 들어왔습니다. 중요한 주제부터 2~3개만 골라 보면 효율이 좋습니다.",
+      "meta": [
+        "유튜브",
+        "AI 채널",
+        "중간 길이"
+      ],
+      "entities": [
+        "@JulianGoldieSEO",
+        "@JulianGoldieSEO",
+        "@fahdmirza",
+        "@JulianGoldieSEO"
+      ],
+      "keywords": [
+        "youtube",
+        "update",
+        "thumbnail"
+      ],
+      "links": [
+        {
+          "label": "@JulianGoldieSEO · 10-01 07:00",
+          "url": "https://www.youtube.com/watch?v=M2ufFY2TBSc",
+          "thumbnail": "https://i.ytimg.com/vi/M2ufFY2TBSc/hqdefault.jpg"
+        },
+        {
+          "label": "@JulianGoldieSEO · 10-01 06:00",
+          "url": "https://www.youtube.com/watch?v=x8Pb9BSjp-k",
+          "thumbnail": "https://i.ytimg.com/vi/x8Pb9BSjp-k/hqdefault.jpg"
+        },
+        {
+          "label": "@fahdmirza · 10-01 05:51",
+          "url": "https://www.youtube.com/watch?v=IBBrasRn9mk",
+          "thumbnail": "https://i.ytimg.com/vi/IBBrasRn9mk/hqdefault.jpg"
+        }
+      ]
+    },
+    {
+      "title": "시스템 상태 요약",
+      "summary": "CPU 36.3 % 사용 / RAM 7.9GB 사용 (50%) / SSD 348.1GB 사용 (73%, 여유 127.9GB) / 업타임 56시간 37분",
+      "take": "CPU는 현재 36.3 % 사용 중이며, RAM은 총 15.8GB 중 7.9GB (50%), SSD는 총 475.9GB 중 348.1GB 사용 (73%, 여유 127.9GB) 중입니다. 시스템 가동 시간은 56시간 37분이며, 네트워크 트래픽은 수신 5533.5 MB / 송신 2338.4 MB입니다. CPU 클럭은 3124.8 MHz, 버스 스피드는 100.8 MHz입니다.",
+      "meta": [
+        "시스템",
+        "LHM"
+      ],
+      "entities": [
+        "Intel N100",
+        "RAM",
+        "SSD"
+      ],
+      "keywords": [
+        "temperature",
+        "load",
+        "memory"
+      ],
+      "links": []
+    },
+    {
+      "title": "OpenClaw 상태 요약",
+      "summary": "OpenClaw 2026.9.5 (ec9c1a1)",
+      "take": "OpenClaw 게이트웨이 정상 작동 중",
+      "meta": [
+        "OpenClaw",
+        "Gateway"
+      ],
+      "entities": [
+        "main",
+        "gateway"
+      ],
+      "keywords": [
+        "version",
+        "rpc",
+        "status"
+      ],
+      "links": []
+    }
+  ],
+  "footer": "AI-assisted morning briefing, unified data structure ready for stage 2"
+}
