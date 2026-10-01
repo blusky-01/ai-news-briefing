@@ -1,0 +1,406 @@
+{
+  "date": "2026-10-02 07:00",
+  "title": "아침 브리핑",
+  "subtitle": "날씨 · 응원 · 일정 · 메일 · 유튜브 · 시스템 · OpenClaw",
+  "summary": "오늘은 누가 밀어붙이지 않아도 됩니다. 팀장님 리듬대로 중요한 것부터 차분히 끝내면 됩니다.",
+  "summary_box": "큰 변수 없이 움직이기 좋은 날씨입니다. 일정만 잘 잡으면 리듬 있게 가기 좋겠습니다. 오늘은 마음을 급하게 쓰지 말고, 가장 아쉬웠던 한 가지를 먼저 정리해 보시면 좋겠습니다. 그런 작은 정리가 하루의 기분을 꽤 크게 바꿉니다.",
+  "weather": {
+    "loc": "김해",
+    "temp": "13°C",
+    "desc": "Overcast ",
+    "icon": "⛅",
+    "badges": [
+      "체감 11°C",
+      "습도 54%",
+      "강수확률 1%",
+      "풍속 8km/h",
+      "UV 0",
+      "미세먼지 정보 연동 예정"
+    ],
+    "detail": {
+      "feels_like": "11",
+      "humidity": "54",
+      "rain_chance": "1",
+      "wind_kmph": "8",
+      "uv": "0",
+      "pm": "미세먼지 정보 연동 예정"
+    },
+    "life_comment": "큰 변수 없이 움직이기 좋은 날씨입니다. 일정만 잘 잡으면 리듬 있게 가기 좋겠습니다."
+  },
+  "sections": {
+    "calendar": {
+      "summary": "오늘 일정 없음",
+      "take": "오늘 등록된 일정이 없습니다. 이럴 때는 중요한 정리 한두 개만 분명하게 끝내도 충분합니다.",
+      "items": [],
+      "links": [],
+      "entities": [
+        "calendar"
+      ]
+    },
+    "mail": {
+      "summary": "[중요인물] aratech.digital에 대한 Google / [업무] Stop splitting your attent / [중요인물] Google 계정 데이터 일부를 Pinteres",
+      "take": "지금 확인할 만한 메일만 추렸습니다. 결제, 업무, 보안성 알림 위주로 먼저 보면 됩니다.",
+      "items": [
+        {
+          "date": "2026-10-02 00:57",
+          "from": "Google Search Console Team <sc-noreply@google.com>",
+          "subject": "aratech.digital에 대한 Google 검색 트래픽 모니터링",
+          "tags": [
+            "중요인물"
+          ]
+        },
+        {
+          "date": "2026-10-01 21:00",
+          "from": "Notion Team <team@mail.notion.so>",
+          "subject": "Stop splitting your attention in meetings",
+          "tags": [
+            "업무"
+          ]
+        },
+        {
+          "date": "2026-10-01 16:09",
+          "from": "Google <noreply-accounts@google.com>",
+          "subject": "Google 계정 데이터 일부를 Pinterest에 공유하셨습니다",
+          "tags": [
+            "중요인물"
+          ]
+        },
+        {
+          "date": "2026-10-01 14:48",
+          "from": "Google <no-reply@accounts.google.com>",
+          "subject": "보안 알림",
+          "tags": [
+            "중요인물",
+            "에러"
+          ]
+        },
+        {
+          "date": "2026-10-01 12:02",
+          "from": "Xiaomi Corporation <noreply@notice.xiaomi.com>",
+          "subject": "Xiaomi 계정 인증",
+          "tags": [
+            "확인필요"
+          ]
+        }
+      ],
+      "links": [],
+      "entities": [
+        "에러",
+        "확인필요",
+        "업무",
+        "중요인물"
+      ]
+    },
+    "youtube": {
+      "summary": "@JulianGoldieSEO NEW Nvidia Model is SCAR / @JulianGoldieSEO GPT-6.1 Sol Is Nearly As / @fahdmirza MAI-Voice-2.1 and MAI-Tr",
+      "take": "업로드 속도가 빠른 채널은 오늘도 여러 편이 들어왔습니다. 중요한 주제부터 2~3개만 골라 보면 효율이 좋습니다.",
+      "items": [
+        {
+          "channel": "@JulianGoldieSEO",
+          "title": "NEW Nvidia Model is SCARY GOOD! 🤯",
+          "published": "10-02 07:00",
+          "published_dt": "2026-10-02T07:00:39+09:00",
+          "url": "https://www.youtube.com/watch?v=1B4aHnoR9x4",
+          "thumbnail": "https://i.ytimg.com/vi/1B4aHnoR9x4/hqdefault.jpg",
+          "summary": "이 영상은 모델/LLM, 수익화/마케팅 중심 내용입니다. 구성은 New Nvidia Model Is Scary Good (Nemotron 3 Nano 4B), What Makes Nemotron 3 Nano Different?, How Nvidia Made a Small Model Powerful, The Secret Architecture: Attention + Mamba 2 순서로 이어지며, 제목만으로는 보이지 않는 변화 배경·핵심 기능·실제 활용 포인트를 짚어보는 영상입니다.",
+          "description_excerpt": "0:00 New Nvidia Model Is Scary Good (Nemotron 3 Nano 4B) 0:47 What Makes Nemotron 3 Nano Different? 1:35 How Nvidia Made a Small Model Powerful 2:02 The Secret Architecture: Attention + Mamba 2 2:32 AI Automation + Nemotron Roadmap 3:39 Nemotron Performance Tests & Long Context Power 4:18 The Smartest Feature: Thinking Mode 4:42 6 Real Business AI Workflows ",
+          "transcript_excerpt": "New Nvidia model is scary good. This is Nvidia Neatron 3 Nano4B and it has been downloaded about 4.8 million times on hugging face. Let me say that again in a simple way. A tiny AI model from NVIDIA has almost 5 million downloads and the mo",
+          "shorts": false
+        },
+        {
+          "channel": "@JulianGoldieSEO",
+          "title": "GPT-6.1 Sol Is Nearly Astra-Level for 1/5 the Price",
+          "published": "10-02 06:00",
+          "published_dt": "2026-10-02T06:00:29+09:00",
+          "url": "https://www.youtube.com/watch?v=bOMamqY2fdc",
+          "thumbnail": "https://i.ytimg.com/vi/bOMamqY2fdc/hqdefault.jpg",
+          "summary": "이 영상은 모델/LLM 중심 내용입니다. 구성은 Intro – Near-flagship AI at 1/5 the price, Astra vs Soul vs Luna – Pick the right tier, What It Does – Coding, PDFs, computer use, 1M Context + 95% Cheaper Caching 순서로 이어지며, 제목만으로는 보이지 않는 변화 배경·핵심 기능·실제 활용 포인트를 짚어보는 영상입니다.",
+          "description_excerpt": "00:00 Intro – Near-flagship AI at 1/5 the price 00:52 Astra vs Soul vs Luna – Pick the right tier 01:27 What It Does – Coding, PDFs, computer use 02:00 1M Context + 95% Cheaper Caching 02:52 Live Test – 3D game + website build 04:38 Benchmarks – Matches Astra for less 05:46 Who It's For 06:10 When to Use Astra Instead 06:44 How to Access It",
+          "transcript_excerpt": "GPT6.1 Soul is nearly Astro level for 1/5if the price. Ever grab the biggest, most powerful AI for a job that never needed it? Most people do it every single day, and they're paying way more than they have to. Open AAI just made that mistak",
+          "shorts": false
+        },
+        {
+          "channel": "@fahdmirza",
+          "title": "MAI-Voice-2.1 and MAI-Transcribe-2: Microsoft's New Voice AI Tested",
+          "published": "10-02 05:13",
+          "published_dt": "2026-10-02T05:13:38+09:00",
+          "url": "https://www.youtube.com/watch?v=_IKvX8BWdFs",
+          "thumbnail": "https://i.ytimg.com/vi/_IKvX8BWdFs/hqdefault.jpg",
+          "summary": "How's your day going? >> Well, I think I have seen better days, but at this point in time, I'm just battling an issue You can call Lifeline at 13114 for help right away",
+          "description_excerpt": "MAI-Transcribe and MAI-Voice models: accurate, fast, low cost, and chart-topping audio understanding and generation for building the conversational voice agents. 📬Weekly AI : 🔥 Buy Me a Coffee to support the channel: PLEASE FOLLOW ME: ▶ LinkedIn: / fahdmirza ▶ YouTube: / ▶ Blog: RESOURCES: ▶ All rights reserved © Fahd Mirza",
+          "transcript_excerpt": "Hello there. >> Hello. How's your day going? >> Well, I think I have seen better days, but at this point in time, I'm just battling an issue. >> I hear you're really hurting right now. You can call Lifeline at 13114 for help right away. I'm",
+          "shorts": false
+        },
+        {
+          "channel": "@JulianGoldieSEO",
+          "title": "NEW Hermes Kanban Agent Is WILD!",
+          "published": "10-02 05:00",
+          "published_dt": "2026-10-02T05:00:36+09:00",
+          "url": "https://www.youtube.com/watch?v=C2-VuaUh74k",
+          "thumbnail": "https://i.ytimg.com/vi/C2-VuaUh74k/hqdefault.jpg",
+          "summary": "이 영상은 모델/LLM, 에이전트/자동화, 수익화/마케팅 중심 내용입니다. 구성은 Intro – The AI Board That Builds For You, What Is Hermes Kanban? – Your AI Project Manager, The Problem – When AI Agents Work Without You, Kanban 2.0 – Adding Human Approval Before Building 순서로 이어지며, 제목만으로는 보이지 않는 변화 배경·핵심 기능·실제 활용 포인트를 짚어보는 영상입니다.",
+          "description_excerpt": "Get the Agent OS & Hermes Kanban Masterclass 00:00 Intro – The AI Board That Builds For You 00:42 What Is Hermes Kanban? – Your AI Project Manager 01:02 The Problem – When AI Agents Work Without You 01:39 Kanban 2.0 – Adding Human Approval Before Building 02:17 Live Demo – One Idea Becomes a Full Project 03:01 Get The Self-Driving Agent Board 03:55 The Workf",
+          "transcript_excerpt": "New Hermes Kanban agent is wild. This new Hermes Kanban board plans your work, builds it, and checks it all by itself. You type one idea, a team of AI agents picks it up, they make a plan, they ask you to say yes, then they build it and dro",
+          "shorts": false
+        },
+        {
+          "channel": "@jocoding",
+          "title": "git에서 파일을 날려도 안전한 이유",
+          "published": "10-01 22:30",
+          "published_dt": "2026-10-01T22:30:33+09:00",
+          "url": "https://www.youtube.com/watch?v=CIjvQ1uGkGA",
+          "thumbnail": "https://i.ytimg.com/vi/CIjvQ1uGkGA/hqdefault.jpg",
+          "summary": "There is a file that returns even after you delete it I deleted the hello text and even saved the record, but one command brings it right back It's a program that tracks changes in Git",
+          "description_excerpt": "조코딩의 바이브 코딩 1인 창업 책: AX 컨설팅 및 교육 문의: 조코헌트: VVIP 멤버십 후원 그림자그림자님, 차딩Chading TV님, Sicongbabe님, 정진균님, Tae hwan Kim님, 시원-r9u님, YCN유림방송님, 그래머피티님, GomnaStudio님, 천사슥님, 예스타님, shintony667님, bellati272님, happypink81님, kogurean9님 감사드립니다.",
+          "transcript_excerpt": "There is a file that returns even after  you delete it. I deleted the hello text  and even saved the record, but one  command brings it right back. You might  ask, was there a recycle bin? No, there  wasn't. It's a program that tracks  chan",
+          "shorts": false
+        }
+      ],
+      "links": [
+        {
+          "label": "@JulianGoldieSEO · 10-02 07:00",
+          "url": "https://www.youtube.com/watch?v=1B4aHnoR9x4",
+          "thumbnail": "https://i.ytimg.com/vi/1B4aHnoR9x4/hqdefault.jpg"
+        },
+        {
+          "label": "@JulianGoldieSEO · 10-02 06:00",
+          "url": "https://www.youtube.com/watch?v=bOMamqY2fdc",
+          "thumbnail": "https://i.ytimg.com/vi/bOMamqY2fdc/hqdefault.jpg"
+        },
+        {
+          "label": "@fahdmirza · 10-02 05:13",
+          "url": "https://www.youtube.com/watch?v=_IKvX8BWdFs",
+          "thumbnail": "https://i.ytimg.com/vi/_IKvX8BWdFs/hqdefault.jpg"
+        }
+      ],
+      "entities": [
+        "@JulianGoldieSEO",
+        "@JulianGoldieSEO",
+        "@fahdmirza",
+        "@JulianGoldieSEO"
+      ]
+    },
+    "system": {
+      "summary": "CPU 23.4 % 사용 / RAM 8.0GB 사용 (51%) / SSD 364.3GB 사용 (76%, 여유 111.6GB) / 업타임 80시간 37분",
+      "take": "CPU는 현재 23.4 % 사용 중이며, RAM은 총 15.8GB 중 8.0GB (51%), SSD는 총 475.9GB 중 364.3GB 사용 (76%, 여유 111.6GB) 중입니다. 시스템 가동 시간은 80시간 37분이며, 네트워크 트래픽은 수신 6647.6 MB / 송신 3473.4 MB입니다. CPU 클럭은 1008.0 MHz, 버스 스피드는 100.8 MHz입니다.",
+      "metrics": [
+        {
+          "label": "CPU 사용률",
+          "value": "23.4 %",
+          "pct": 23.4,
+          "tone": "normal"
+        },
+        {
+          "label": "CPU 클럭",
+          "value": "1008.0 MHz",
+          "pct": 28.8,
+          "tone": "normal"
+        },
+        {
+          "label": "버스 스피드",
+          "value": "100.8 MHz",
+          "pct": 100,
+          "tone": "normal"
+        },
+        {
+          "label": "CPU 온도",
+          "value": "46.0 °C",
+          "pct": 46.0,
+          "tone": "normal"
+        },
+        {
+          "label": "RAM 사용량",
+          "value": "8.0 / 15.8 GB (51%)",
+          "pct": 50.9,
+          "tone": "normal"
+        },
+        {
+          "label": "SSD 사용량",
+          "value": "364.3 / 475.9 GB (76%)",
+          "pct": 76.5,
+          "tone": "normal"
+        },
+        {
+          "label": "SSD 여유 공간",
+          "value": "111.6 / 475.9 GB",
+          "pct": 23.5,
+          "tone": "normal"
+        },
+        {
+          "label": "SSD 온도",
+          "value": "40.0 °C",
+          "pct": 40.0,
+          "tone": "normal"
+        },
+        {
+          "label": "업타임",
+          "value": "80시간 37분",
+          "pct": 100,
+          "tone": "normal"
+        },
+        {
+          "label": "네트워크 수신",
+          "value": "6647.6 MB",
+          "pct": 100,
+          "tone": "normal"
+        },
+        {
+          "label": "네트워크 송신",
+          "value": "3473.4 MB",
+          "pct": 100,
+          "tone": "normal"
+        }
+      ]
+    },
+    "openclaw": {
+      "summary": "OpenClaw 2026.9.5 (ec9c1a1)",
+      "take": "OpenClaw 게이트웨이 정상 작동 중",
+      "metrics": [
+        {
+          "label": "Runtime",
+          "value": "running",
+          "pct": 100,
+          "tone": "good"
+        },
+        {
+          "label": "Gateway",
+          "value": "active",
+          "pct": 100,
+          "tone": "good"
+        }
+      ]
+    }
+  },
+  "cards": [
+    {
+      "title": "오늘의 한마디",
+      "summary": "오늘은 누가 밀어붙이지 않아도 됩니다. 팀장님 리듬대로 중요한 것부터 차분히 끝내면 됩니다.",
+      "take": "큰 변수 없이 움직이기 좋은 날씨입니다. 일정만 잘 잡으면 리듬 있게 가기 좋겠습니다. 오늘은 마음을 급하게 쓰지 말고, 가장 아쉬웠던 한 가지를 먼저 정리해 보시면 좋겠습니다. 그런 작은 정리가 하루의 기분을 꽤 크게 바꿉니다.",
+      "meta": [
+        "응원",
+        "중간 길이"
+      ],
+      "entities": [],
+      "keywords": [
+        "아침",
+        "집중"
+      ],
+      "links": []
+    },
+    {
+      "title": "오늘 일정",
+      "summary": "오늘 일정 없음",
+      "take": "오늘 등록된 일정이 없습니다. 이럴 때는 중요한 정리 한두 개만 분명하게 끝내도 충분합니다.",
+      "meta": [
+        "일정",
+        "calendar"
+      ],
+      "entities": [
+        "calendar"
+      ],
+      "keywords": [
+        "calendar"
+      ],
+      "links": []
+    },
+    {
+      "title": "주요 메일 / 중요 알림",
+      "summary": "[중요인물] aratech.digital에 대한 Google / [업무] Stop splitting your attent / [중요인물] Google 계정 데이터 일부를 Pinteres",
+      "take": "지금 확인할 만한 메일만 추렸습니다. 결제, 업무, 보안성 알림 위주로 먼저 보면 됩니다.",
+      "meta": [
+        "메일",
+        "gmail",
+        "중요 알림"
+      ],
+      "entities": [
+        "에러",
+        "확인필요",
+        "업무",
+        "중요인물"
+      ],
+      "keywords": [
+        "gmail",
+        "alert"
+      ],
+      "links": []
+    },
+    {
+      "title": "유튜브 업데이트",
+      "summary": "@JulianGoldieSEO NEW Nvidia Model is SCAR / @JulianGoldieSEO GPT-6.1 Sol Is Nearly As / @fahdmirza MAI-Voice-2.1 and MAI-Tr",
+      "take": "업로드 속도가 빠른 채널은 오늘도 여러 편이 들어왔습니다. 중요한 주제부터 2~3개만 골라 보면 효율이 좋습니다.",
+      "meta": [
+        "유튜브",
+        "AI 채널",
+        "중간 길이"
+      ],
+      "entities": [
+        "@JulianGoldieSEO",
+        "@JulianGoldieSEO",
+        "@fahdmirza",
+        "@JulianGoldieSEO"
+      ],
+      "keywords": [
+        "youtube",
+        "update",
+        "thumbnail"
+      ],
+      "links": [
+        {
+          "label": "@JulianGoldieSEO · 10-02 07:00",
+          "url": "https://www.youtube.com/watch?v=1B4aHnoR9x4",
+          "thumbnail": "https://i.ytimg.com/vi/1B4aHnoR9x4/hqdefault.jpg"
+        },
+        {
+          "label": "@JulianGoldieSEO · 10-02 06:00",
+          "url": "https://www.youtube.com/watch?v=bOMamqY2fdc",
+          "thumbnail": "https://i.ytimg.com/vi/bOMamqY2fdc/hqdefault.jpg"
+        },
+        {
+          "label": "@fahdmirza · 10-02 05:13",
+          "url": "https://www.youtube.com/watch?v=_IKvX8BWdFs",
+          "thumbnail": "https://i.ytimg.com/vi/_IKvX8BWdFs/hqdefault.jpg"
+        }
+      ]
+    },
+    {
+      "title": "시스템 상태 요약",
+      "summary": "CPU 23.4 % 사용 / RAM 8.0GB 사용 (51%) / SSD 364.3GB 사용 (76%, 여유 111.6GB) / 업타임 80시간 37분",
+      "take": "CPU는 현재 23.4 % 사용 중이며, RAM은 총 15.8GB 중 8.0GB (51%), SSD는 총 475.9GB 중 364.3GB 사용 (76%, 여유 111.6GB) 중입니다. 시스템 가동 시간은 80시간 37분이며, 네트워크 트래픽은 수신 6647.6 MB / 송신 3473.4 MB입니다. CPU 클럭은 1008.0 MHz, 버스 스피드는 100.8 MHz입니다.",
+      "meta": [
+        "시스템",
+        "LHM"
+      ],
+      "entities": [
+        "Intel N100",
+        "RAM",
+        "SSD"
+      ],
+      "keywords": [
+        "temperature",
+        "load",
+        "memory"
+      ],
+      "links": []
+    },
+    {
+      "title": "OpenClaw 상태 요약",
+      "summary": "OpenClaw 2026.9.5 (ec9c1a1)",
+      "take": "OpenClaw 게이트웨이 정상 작동 중",
+      "meta": [
+        "OpenClaw",
+        "Gateway"
+      ],
+      "entities": [
+        "main",
+        "gateway"
+      ],
+      "keywords": [
+        "version",
+        "rpc",
+        "status"
+      ],
+      "links": []
+    }
+  ],
+  "footer": "AI-assisted morning briefing, unified data structure ready for stage 2"
+}
