@@ -1,0 +1,395 @@
+{
+  "date": "2026-10-06 07:00",
+  "title": "아침 브리핑",
+  "subtitle": "날씨 · 응원 · 일정 · 메일 · 유튜브 · 시스템 · OpenClaw",
+  "summary": "오늘 일정이 비어 있다면, 오히려 중요한 걸 조용히 정리할 수 있는 좋은 날입니다.",
+  "summary_box": "큰 변수 없이 움직이기 좋은 날씨입니다. 일정만 잘 잡으면 리듬 있게 가기 좋겠습니다. 오늘은 마음을 급하게 쓰지 말고, 가장 아쉬웠던 한 가지를 먼저 정리해 보시면 좋겠습니다. 그런 작은 정리가 하루의 기분을 꽤 크게 바꿉니다.",
+  "weather": {
+    "loc": "김해",
+    "temp": "11°C",
+    "desc": "Clear ",
+    "icon": "⛅",
+    "badges": [
+      "체감 10°C",
+      "습도 67%",
+      "강수확률 1%",
+      "풍속 8km/h",
+      "UV 0",
+      "미세먼지 정보 연동 예정"
+    ],
+    "detail": {
+      "feels_like": "10",
+      "humidity": "67",
+      "rain_chance": "1",
+      "wind_kmph": "8",
+      "uv": "0",
+      "pm": "미세먼지 정보 연동 예정"
+    },
+    "life_comment": "큰 변수 없이 움직이기 좋은 날씨입니다. 일정만 잘 잡으면 리듬 있게 가기 좋겠습니다."
+  },
+  "sections": {
+    "calendar": {
+      "summary": "오늘 일정 없음",
+      "take": "오늘 등록된 일정이 없습니다. 이럴 때는 중요한 정리 한두 개만 분명하게 끝내도 충분합니다.",
+      "items": [],
+      "links": [],
+      "entities": [
+        "calendar"
+      ]
+    },
+    "mail": {
+      "summary": "[확인필요] That's a wrap on our 16th  / [중요인물] [Action Required] Migrate  / [에러] 새 기기에서의 Slack 계정 로그인",
+      "take": "지금 확인할 만한 메일만 추렸습니다. 결제, 업무, 보안성 알림 위주로 먼저 보면 됩니다.",
+      "items": [
+        {
+          "date": "2026-10-06 06:13",
+          "from": "Cloudflare <em@em1.cloudflare.com>",
+          "subject": "That's a wrap on our 16th Birthday Week!",
+          "tags": [
+            "확인필요"
+          ]
+        },
+        {
+          "date": "2026-10-06 05:32",
+          "from": "Google Cloud <CloudPlatform-noreply@google.com>",
+          "subject": "[Action Required] Migrate Gemini 3.6 Flash and 3.7 Flash models traffic on Gemini Enterprise",
+          "tags": [
+            "중요인물"
+          ]
+        },
+        {
+          "date": "2026-10-05 19:09",
+          "from": "Slack <feedback@slack.com>",
+          "subject": "새 기기에서의 Slack 계정 로그인",
+          "tags": [
+            "에러"
+          ]
+        },
+        {
+          "date": "2026-10-05 19:08",
+          "from": "Google <noreply-accounts@google.com>",
+          "subject": "Google 계정 데이터 일부를 Slack에 공유하셨습니다",
+          "tags": [
+            "중요인물"
+          ]
+        }
+      ],
+      "links": [],
+      "entities": [
+        "에러",
+        "확인필요",
+        "중요인물"
+      ]
+    },
+    "youtube": {
+      "summary": "@JulianGoldieSEO Mercury Decision : Most  / @fahdmirza Reflection Beam and Cohe / @JulianGoldieSEO Gemini 4 Argon Just Set ",
+      "take": "업로드 속도가 빠른 채널은 오늘도 여러 편이 들어왔습니다. 중요한 주제부터 2~3개만 골라 보면 효율이 좋습니다.",
+      "items": [
+        {
+          "channel": "@JulianGoldieSEO",
+          "title": "Mercury Decision : Most Intelligent Decision Model! 😱",
+          "published": "10-06 07:00",
+          "published_dt": "2026-10-06T07:00:21+09:00",
+          "url": "https://www.youtube.com/watch?v=lWv9kyQ7Qps",
+          "thumbnail": "https://i.ytimg.com/vi/lWv9kyQ7Qps/hqdefault.jpg",
+          "summary": "이 영상은 모델/LLM, 에이전트/자동화, 수익화/마케팅 중심 내용입니다. 구성은 Mercury Decide: The AI Decision Model, What Makes Mercury Decide Different, Why AI Agents Need Fast Decisions, Mercury Decide vs. Jev 순서로 이어집니다.",
+          "description_excerpt": "0:00 — Mercury Decide: The AI Decision Model 0:16 — What Makes Mercury Decide Different 0:23 — Why AI Agents Need Fast Decisions 0:48 — Mercury Decide vs. Jev 1:03 — The Most Important Feature: Confidence Scores 1:26 — Mercury Decide Explained Simply 1:50 — System 1 vs. System 2 AI 2:10 — Mercury Decide for Business Automation 2:19 — 30-Day Mercury Decide Ro",
+          "transcript_excerpt": "",
+          "shorts": false
+        },
+        {
+          "channel": "@fahdmirza",
+          "title": "Reflection Beam and Cohere North 2: Open Weights vs Locked Down AI",
+          "published": "10-06 05:16",
+          "published_dt": "2026-10-06T05:16:07+09:00",
+          "url": "https://www.youtube.com/watch?v=WSKFY9OlGYc",
+          "thumbnail": "https://i.ytimg.com/vi/WSKFY9OlGYc/hqdefault.jpg",
+          "summary": "이 영상은 업데이트/튜토리얼 중심 내용입니다. 구성은 Two big AI releases today: Reflection's 501B open-weight Beam and Cohere's North 2 enterprise platform, and what they say about who controls AI 순서로 이어지며, 제목만으로는 보이지 않는 변화 배경·핵심 기능·실제 활용 포인트를 짚어보는 영상입니다.",
+          "description_excerpt": "Two big AI releases today: Reflection's 501B open-weight Beam and Cohere's North 2 enterprise platform, and what they say about who controls AI. 📬Weekly AI : 🔥 Buy Me a Coffee to support the channel: PLEASE FOLLOW ME: ▶ LinkedIn: / fahdmirza ▶ YouTube: / ▶ Blog: RESOURCES: ▶ All rights reserved © Fahd Mirza",
+          "transcript_excerpt": "",
+          "shorts": false
+        },
+        {
+          "channel": "@JulianGoldieSEO",
+          "title": "Gemini 4 Argon Just Set a New Coding Benchmark",
+          "published": "10-06 04:00",
+          "published_dt": "2026-10-06T04:00:13+09:00",
+          "url": "https://www.youtube.com/watch?v=grYKPpIT_Lo",
+          "thumbnail": "https://i.ytimg.com/vi/grYKPpIT_Lo/hqdefault.jpg",
+          "summary": "Gemini 4 Argon Just Set a New Coding Benchmark 내용을 다루는 영상입니다. 핵심은 Gemini 관련 변화나 활용 포인트를 소개하는 것입니다.",
+          "description_excerpt": "",
+          "transcript_excerpt": "",
+          "shorts": false
+        },
+        {
+          "channel": "@JulianGoldieSEO",
+          "title": "Claude Code Just Got Mods... This Is HUGE!",
+          "published": "10-06 04:00",
+          "published_dt": "2026-10-06T04:00:10+09:00",
+          "url": "https://www.youtube.com/watch?v=yBB-Nbe9gU0",
+          "thumbnail": "https://i.ytimg.com/vi/yBB-Nbe9gU0/hqdefault.jpg",
+          "summary": "Claude Code Just Got Mods... This Is HUGE! 내용을 다루는 영상입니다. 핵심은 Claude 관련 변화나 활용 포인트를 소개하는 것입니다.",
+          "description_excerpt": "",
+          "transcript_excerpt": "",
+          "shorts": false
+        },
+        {
+          "channel": "@jocoding",
+          "title": "AI뉴스 - Gemini 4 Argon, DevDay, Tavus 영상 튜링테스트 통과, Eleven V4, ideogram 4.5, Kling 4.0 등",
+          "published": "10-05 19:30",
+          "published_dt": "2026-10-05T19:30:22+09:00",
+          "url": "https://www.youtube.com/watch?v=bdp9Crdw0hw",
+          "thumbnail": "https://i.ytimg.com/vi/bdp9Crdw0hw/hqdefault.jpg",
+          "summary": "이 영상은 모델/LLM, 에이전트/자동화, 개발도구 중심 내용입니다. 구성은 Gemini 4, Gemini 4 / 코딩 성능 논란, Gemini 정책 변화, Stitch CLI 출시 순서로 이어집니다.",
+          "description_excerpt": "조코딩의 바이브 코딩 1인 창업: AX 컨설팅 및 교육 문의: AI Limits Tracker: AiRay: 조코헌트: 🕖목차 00:00 Gemini 4 01:27 Gemini 4 / 코딩 성능 논란 02:07 Gemini 정책 변화 02:35 Stitch CLI 출시 03:05 SynthID Bio 03:55 OpenAI Dots 05:54 GPT-6.1 Sol 06:34 Ultrafast 모드 07:03 OpenAI Decisions API 07:22 ChatGPT Space 08:07 ChatGPT로 로그인 08:35 ChatGPT 쇼핑 기능 — 한국 이용 제한 09:16 일론 머스크 dot 닷컴 09:31 OpenAI dots d",
+          "transcript_excerpt": "",
+          "shorts": false
+        }
+      ],
+      "links": [
+        {
+          "label": "@JulianGoldieSEO · 10-06 07:00",
+          "url": "https://www.youtube.com/watch?v=lWv9kyQ7Qps",
+          "thumbnail": "https://i.ytimg.com/vi/lWv9kyQ7Qps/hqdefault.jpg"
+        },
+        {
+          "label": "@fahdmirza · 10-06 05:16",
+          "url": "https://www.youtube.com/watch?v=WSKFY9OlGYc",
+          "thumbnail": "https://i.ytimg.com/vi/WSKFY9OlGYc/hqdefault.jpg"
+        },
+        {
+          "label": "@JulianGoldieSEO · 10-06 04:00",
+          "url": "https://www.youtube.com/watch?v=grYKPpIT_Lo",
+          "thumbnail": "https://i.ytimg.com/vi/grYKPpIT_Lo/hqdefault.jpg"
+        }
+      ],
+      "entities": [
+        "@JulianGoldieSEO",
+        "@fahdmirza",
+        "@JulianGoldieSEO",
+        "@JulianGoldieSEO"
+      ]
+    },
+    "system": {
+      "summary": "CPU 77.0 % 사용 / RAM 9.9GB 사용 (63%) / SSD 357.7GB 사용 (75%, 여유 118.2GB) / 업타임 42시간 56분",
+      "take": "CPU는 현재 77.0 % 사용 중이며, RAM은 총 15.8GB 중 9.9GB (63%), SSD는 총 475.9GB 중 357.7GB 사용 (75%, 여유 118.2GB) 중입니다. 시스템 가동 시간은 42시간 56분이며, 네트워크 트래픽은 수신 1067.5 MB / 송신 2479.3 MB입니다. CPU 클럭은 2923.2 MHz, 버스 스피드는 100.8 MHz입니다.",
+      "metrics": [
+        {
+          "label": "CPU 사용률",
+          "value": "77.0 %",
+          "pct": 77.0,
+          "tone": "normal"
+        },
+        {
+          "label": "CPU 클럭",
+          "value": "2923.2 MHz",
+          "pct": 83.52,
+          "tone": "normal"
+        },
+        {
+          "label": "버스 스피드",
+          "value": "100.8 MHz",
+          "pct": 100,
+          "tone": "normal"
+        },
+        {
+          "label": "CPU 온도",
+          "value": "71.0 °C",
+          "pct": 71.0,
+          "tone": "normal"
+        },
+        {
+          "label": "RAM 사용량",
+          "value": "9.9 / 15.8 GB (63%)",
+          "pct": 63.0,
+          "tone": "normal"
+        },
+        {
+          "label": "SSD 사용량",
+          "value": "357.7 / 475.9 GB (75%)",
+          "pct": 75.2,
+          "tone": "normal"
+        },
+        {
+          "label": "SSD 여유 공간",
+          "value": "118.2 / 475.9 GB",
+          "pct": 24.799999999999997,
+          "tone": "normal"
+        },
+        {
+          "label": "SSD 온도",
+          "value": "40.0 °C",
+          "pct": 40.0,
+          "tone": "normal"
+        },
+        {
+          "label": "업타임",
+          "value": "42시간 56분",
+          "pct": 100,
+          "tone": "normal"
+        },
+        {
+          "label": "네트워크 수신",
+          "value": "1067.5 MB",
+          "pct": 100,
+          "tone": "normal"
+        },
+        {
+          "label": "네트워크 송신",
+          "value": "2479.3 MB",
+          "pct": 100,
+          "tone": "normal"
+        }
+      ]
+    },
+    "openclaw": {
+      "summary": "OpenClaw 2026.9.5 (ec9c1a1)",
+      "take": "OpenClaw 게이트웨이 정상 작동 중",
+      "metrics": [
+        {
+          "label": "Runtime",
+          "value": "running",
+          "pct": 100,
+          "tone": "good"
+        },
+        {
+          "label": "Gateway",
+          "value": "active",
+          "pct": 100,
+          "tone": "good"
+        }
+      ]
+    }
+  },
+  "cards": [
+    {
+      "title": "오늘의 한마디",
+      "summary": "오늘 일정이 비어 있다면, 오히려 중요한 걸 조용히 정리할 수 있는 좋은 날입니다.",
+      "take": "큰 변수 없이 움직이기 좋은 날씨입니다. 일정만 잘 잡으면 리듬 있게 가기 좋겠습니다. 오늘은 마음을 급하게 쓰지 말고, 가장 아쉬웠던 한 가지를 먼저 정리해 보시면 좋겠습니다. 그런 작은 정리가 하루의 기분을 꽤 크게 바꿉니다.",
+      "meta": [
+        "응원",
+        "중간 길이"
+      ],
+      "entities": [],
+      "keywords": [
+        "아침",
+        "집중"
+      ],
+      "links": []
+    },
+    {
+      "title": "오늘 일정",
+      "summary": "오늘 일정 없음",
+      "take": "오늘 등록된 일정이 없습니다. 이럴 때는 중요한 정리 한두 개만 분명하게 끝내도 충분합니다.",
+      "meta": [
+        "일정",
+        "calendar"
+      ],
+      "entities": [
+        "calendar"
+      ],
+      "keywords": [
+        "calendar"
+      ],
+      "links": []
+    },
+    {
+      "title": "주요 메일 / 중요 알림",
+      "summary": "[확인필요] That's a wrap on our 16th  / [중요인물] [Action Required] Migrate  / [에러] 새 기기에서의 Slack 계정 로그인",
+      "take": "지금 확인할 만한 메일만 추렸습니다. 결제, 업무, 보안성 알림 위주로 먼저 보면 됩니다.",
+      "meta": [
+        "메일",
+        "gmail",
+        "중요 알림"
+      ],
+      "entities": [
+        "에러",
+        "확인필요",
+        "중요인물"
+      ],
+      "keywords": [
+        "gmail",
+        "alert"
+      ],
+      "links": []
+    },
+    {
+      "title": "유튜브 업데이트",
+      "summary": "@JulianGoldieSEO Mercury Decision : Most  / @fahdmirza Reflection Beam and Cohe / @JulianGoldieSEO Gemini 4 Argon Just Set ",
+      "take": "업로드 속도가 빠른 채널은 오늘도 여러 편이 들어왔습니다. 중요한 주제부터 2~3개만 골라 보면 효율이 좋습니다.",
+      "meta": [
+        "유튜브",
+        "AI 채널",
+        "중간 길이"
+      ],
+      "entities": [
+        "@JulianGoldieSEO",
+        "@fahdmirza",
+        "@JulianGoldieSEO",
+        "@JulianGoldieSEO"
+      ],
+      "keywords": [
+        "youtube",
+        "update",
+        "thumbnail"
+      ],
+      "links": [
+        {
+          "label": "@JulianGoldieSEO · 10-06 07:00",
+          "url": "https://www.youtube.com/watch?v=lWv9kyQ7Qps",
+          "thumbnail": "https://i.ytimg.com/vi/lWv9kyQ7Qps/hqdefault.jpg"
+        },
+        {
+          "label": "@fahdmirza · 10-06 05:16",
+          "url": "https://www.youtube.com/watch?v=WSKFY9OlGYc",
+          "thumbnail": "https://i.ytimg.com/vi/WSKFY9OlGYc/hqdefault.jpg"
+        },
+        {
+          "label": "@JulianGoldieSEO · 10-06 04:00",
+          "url": "https://www.youtube.com/watch?v=grYKPpIT_Lo",
+          "thumbnail": "https://i.ytimg.com/vi/grYKPpIT_Lo/hqdefault.jpg"
+        }
+      ]
+    },
+    {
+      "title": "시스템 상태 요약",
+      "summary": "CPU 77.0 % 사용 / RAM 9.9GB 사용 (63%) / SSD 357.7GB 사용 (75%, 여유 118.2GB) / 업타임 42시간 56분",
+      "take": "CPU는 현재 77.0 % 사용 중이며, RAM은 총 15.8GB 중 9.9GB (63%), SSD는 총 475.9GB 중 357.7GB 사용 (75%, 여유 118.2GB) 중입니다. 시스템 가동 시간은 42시간 56분이며, 네트워크 트래픽은 수신 1067.5 MB / 송신 2479.3 MB입니다. CPU 클럭은 2923.2 MHz, 버스 스피드는 100.8 MHz입니다.",
+      "meta": [
+        "시스템",
+        "LHM"
+      ],
+      "entities": [
+        "Intel N100",
+        "RAM",
+        "SSD"
+      ],
+      "keywords": [
+        "temperature",
+        "load",
+        "memory"
+      ],
+      "links": []
+    },
+    {
+      "title": "OpenClaw 상태 요약",
+      "summary": "OpenClaw 2026.9.5 (ec9c1a1)",
+      "take": "OpenClaw 게이트웨이 정상 작동 중",
+      "meta": [
+        "OpenClaw",
+        "Gateway"
+      ],
+      "entities": [
+        "main",
+        "gateway"
+      ],
+      "keywords": [
+        "version",
+        "rpc",
+        "status"
+      ],
+      "links": []
+    }
+  ],
+  "footer": "AI-assisted morning briefing, unified data structure ready for stage 2"
+}
