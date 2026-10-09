@@ -1,0 +1,396 @@
+{
+  "date": "2026-10-10 07:00",
+  "title": "아침 브리핑",
+  "subtitle": "날씨 · 응원 · 일정 · 메일 · 유튜브 · 시스템 · OpenClaw",
+  "summary": "오늘 일정이 비어 있다면, 오히려 중요한 걸 조용히 정리할 수 있는 좋은 날입니다.",
+  "summary_box": "큰 변수 없이 움직이기 좋은 날씨입니다. 일정만 잘 잡으면 리듬 있게 가기 좋겠습니다. 오늘은 마음을 급하게 쓰지 말고, 가장 아쉬웠던 한 가지를 먼저 정리해 보시면 좋겠습니다. 그런 작은 정리가 하루의 기분을 꽤 크게 바꿉니다.",
+  "weather": {
+    "loc": "김해",
+    "temp": "19°C",
+    "desc": "Overcast ",
+    "icon": "⛅",
+    "badges": [
+      "체감 19°C",
+      "습도 65%",
+      "강수확률 2%",
+      "풍속 4km/h",
+      "UV 0",
+      "미세먼지 정보 연동 예정"
+    ],
+    "detail": {
+      "feels_like": "19",
+      "humidity": "65",
+      "rain_chance": "2",
+      "wind_kmph": "4",
+      "uv": "0",
+      "pm": "미세먼지 정보 연동 예정"
+    },
+    "life_comment": "큰 변수 없이 움직이기 좋은 날씨입니다. 일정만 잘 잡으면 리듬 있게 가기 좋겠습니다."
+  },
+  "sections": {
+    "calendar": {
+      "summary": "오늘 일정 없음",
+      "take": "오늘 등록된 일정이 없습니다. 이럴 때는 중요한 정리 한두 개만 분명하게 끝내도 충분합니다.",
+      "items": [],
+      "links": [],
+      "entities": [
+        "calendar"
+      ]
+    },
+    "mail": {
+      "summary": "[중요인물] 새로운 가족 그룹 구성원 / [중요인물]  최신 버전의 Voice Match를 사용 중입 / [중요인물,에러] 보안 알림",
+      "take": "지금 확인할 만한 메일만 추렸습니다. 결제, 업무, 보안성 알림 위주로 먼저 보면 됩니다.",
+      "items": [
+        {
+          "date": "2026-10-10 00:47",
+          "from": "Google <families-noreply@google.com>",
+          "subject": "새로운 가족 그룹 구성원",
+          "tags": [
+            "중요인물"
+          ]
+        },
+        {
+          "date": "2026-10-08 12:59",
+          "from": "Google Voice Match Team <voice-match-noreply@google.com>",
+          "subject": " 최신 버전의 Voice Match를 사용 중입니다.",
+          "tags": [
+            "중요인물"
+          ]
+        },
+        {
+          "date": "2026-10-08 12:32",
+          "from": "Google <no-reply@accounts.google.com>",
+          "subject": "보안 알림",
+          "tags": [
+            "중요인물",
+            "에러"
+          ]
+        },
+        {
+          "date": "2026-10-08 08:44",
+          "from": "Cloudflare <em@em1.cloudflare.com>",
+          "subject": "The secret's out: Noah Kahan is coming to Cloudflare Connect.",
+          "tags": [
+            "확인필요"
+          ]
+        }
+      ],
+      "links": [],
+      "entities": [
+        "에러",
+        "중요인물",
+        "확인필요"
+      ]
+    },
+    "youtube": {
+      "summary": "@JulianGoldieSEO NEW Beam 501B Just Dropp / @JulianGoldieSEO This Hermes Agent OS Doe / @JulianGoldieSEO Mistral Large 4 Just Dro",
+      "take": "업로드 속도가 빠른 채널은 오늘도 여러 편이 들어왔습니다. 중요한 주제부터 2~3개만 골라 보면 효율이 좋습니다.",
+      "items": [
+        {
+          "channel": "@JulianGoldieSEO",
+          "title": "NEW Beam 501B Just Dropped! 🔥",
+          "published": "10-10 07:00",
+          "published_dt": "2026-10-10T07:00:00+09:00",
+          "url": "https://www.youtube.com/watch?v=ob3So7DcYDc",
+          "thumbnail": "https://i.ytimg.com/vi/ob3So7DcYDc/hqdefault.jpg",
+          "summary": "이 영상은 에이전트/자동화 중심 내용입니다. 구성은 NEW Beam 501B Just Dropped, Who Built Beam?, What Is Beam 501B?, Beam's Efficiency & Performance 순서로 이어집니다.",
+          "description_excerpt": "00:00 — NEW Beam 501B Just Dropped 00:31 — Who Built Beam? 01:04 — What Is Beam 501B? 01:38 — Beam's Efficiency & Performance 01:58 — Beam Benchmark Results 03:53 — Built for Agentic AI 04:10 — How Beam Was Trained 04:55 — The Secret to Beam's Efficiency 05:20 — Controlling Beam's Reasoning Effort 05:29 — Beam Builds a NYC Subway App 06:00 — Beam Builds an A",
+          "transcript_excerpt": "",
+          "shorts": false
+        },
+        {
+          "channel": "@JulianGoldieSEO",
+          "title": "This Hermes Agent OS Does EVERYTHING",
+          "published": "10-10 06:00",
+          "published_dt": "2026-10-10T06:00:34+09:00",
+          "url": "https://www.youtube.com/watch?v=WQ89Iv2KThw",
+          "thumbnail": "https://i.ytimg.com/vi/WQ89Iv2KThw/hqdefault.jpg",
+          "summary": "이 영상은 모델/LLM, 에이전트/자동화 중심 내용입니다. 구성은 Intro – One AI system to replace endless tool-hopping, Hermes Brain – Swap in any model, including free ones, Bot Screens – Cloud agents that work 24/7, Apollo – Real-time voice assistant that builds as you talk 순서로 이어집니다.",
+          "description_excerpt": "00:00 Intro – One AI system to replace endless tool-hopping 00:41 Hermes Brain – Swap in any model, including free ones 01:28 Bot Screens – Cloud agents that work 24/7 01:53 Apollo – Real-time voice assistant that builds as you talk 02:24 Oracle – 24/7 news scanner that turns stories into posts 03:24 Muse & Astros – AI content ideas + angles competitors miss",
+          "transcript_excerpt": "",
+          "shorts": false
+        },
+        {
+          "channel": "@JulianGoldieSEO",
+          "title": "Mistral Large 4 Just Dropped! 🤯",
+          "published": "10-10 05:00",
+          "published_dt": "2026-10-10T05:00:17+09:00",
+          "url": "https://www.youtube.com/watch?v=Goc2JnWs2Ic",
+          "thumbnail": "https://i.ytimg.com/vi/Goc2JnWs2Ic/hqdefault.jpg",
+          "summary": "Mistral Large 4 Just Dropped! 🤯 주제를 중심으로 무엇이 새로 나왔는지, 또는 어떻게 활용하는지를 설명하는 영상입니다.",
+          "description_excerpt": "",
+          "transcript_excerpt": "",
+          "shorts": false
+        },
+        {
+          "channel": "@fahdmirza",
+          "title": "Iris-3B: General Vision Learner and Pixel-Space Generation Locally",
+          "published": "10-10 03:00",
+          "published_dt": "2026-10-10T03:00:20+09:00",
+          "url": "https://www.youtube.com/watch?v=vyl1vcgBs2M",
+          "thumbnail": "https://i.ytimg.com/vi/vyl1vcgBs2M/hqdefault.jpg",
+          "summary": "이 영상은 모델/LLM, 튜토리얼/설정 중심 내용입니다. 구성은 This video locally installs and tests Iris 3B, a model that paints every pixel directly 순서로 이어지며, 제목만으로는 보이지 않는 변화 배경·핵심 기능·실제 활용 포인트를 짚어보는 영상입니다.",
+          "description_excerpt": "This video locally installs and tests Iris 3B, a model that paints every pixel directly. 📬Weekly AI : 🔥 Get 50% Discount on any A6000 or A5000 GPU rental, use following link and coupon: Coupon code: FahdMirza 🔥 Buy Me a Coffee to support the channel: PLEASE FOLLOW ME: ▶ LinkedIn: / fahdmirza ▶ YouTube: / ▶ Blog: RESOURCES: ▶ All rights reserved © Fahd Mirza",
+          "transcript_excerpt": "",
+          "shorts": false
+        },
+        {
+          "channel": "@jocoding",
+          "title": "AI가 못 받은 돈 받아줌 ㄷㄷ",
+          "published": "10-09 21:00",
+          "published_dt": "2026-10-09T21:00:06+09:00",
+          "url": "https://www.youtube.com/watch?v=7WP8rRcHwYU",
+          "thumbnail": "https://i.ytimg.com/vi/7WP8rRcHwYU/hqdefault.jpg",
+          "summary": "이 영상은 개발도구 중심 내용입니다. 조코딩의 바이브 코딩 1인 창업 책: AX 컨설팅 및 교육 문의: 조코헌트: VVIP 멤버십 후원 그림자그림자님, 차딩Chading TV님, Sicongbabe님, 정진균님, Tae hwan Kim님, 시원-r9u님, YCN유림방송님, 그래머피티...",
+          "description_excerpt": "조코딩의 바이브 코딩 1인 창업 책: AX 컨설팅 및 교육 문의: 조코헌트: VVIP 멤버십 후원 그림자그림자님, 차딩Chading TV님, Sicongbabe님, 정진균님, Tae hwan Kim님, 시원-r9u님, YCN유림방송님, 그래머피티님, GomnaStudio님, 천사슥님, 예스타님, shintony667님, bellati272님, happypink81님, kogurean9님 감사드립니다.",
+          "transcript_excerpt": "",
+          "shorts": false
+        }
+      ],
+      "links": [
+        {
+          "label": "@JulianGoldieSEO · 10-10 07:00",
+          "url": "https://www.youtube.com/watch?v=ob3So7DcYDc",
+          "thumbnail": "https://i.ytimg.com/vi/ob3So7DcYDc/hqdefault.jpg"
+        },
+        {
+          "label": "@JulianGoldieSEO · 10-10 06:00",
+          "url": "https://www.youtube.com/watch?v=WQ89Iv2KThw",
+          "thumbnail": "https://i.ytimg.com/vi/WQ89Iv2KThw/hqdefault.jpg"
+        },
+        {
+          "label": "@JulianGoldieSEO · 10-10 05:00",
+          "url": "https://www.youtube.com/watch?v=Goc2JnWs2Ic",
+          "thumbnail": "https://i.ytimg.com/vi/Goc2JnWs2Ic/hqdefault.jpg"
+        }
+      ],
+      "entities": [
+        "@JulianGoldieSEO",
+        "@JulianGoldieSEO",
+        "@JulianGoldieSEO",
+        "@fahdmirza"
+      ]
+    },
+    "system": {
+      "summary": "CPU 22.7 % 사용 / RAM 10.5GB 사용 (67%) / SSD 172.5GB 사용 (36%, 여유 303.4GB) / 업타임 138시간 56분",
+      "take": "CPU는 현재 22.7 % 사용 중이며, RAM은 총 15.8GB 중 10.5GB (67%), SSD는 총 475.9GB 중 172.5GB 사용 (36%, 여유 303.4GB) 중입니다. 시스템 가동 시간은 138시간 56분이며, 네트워크 트래픽은 수신 7021.4 MB / 송신 10236.3 MB입니다. CPU 클럭은 2721.6 MHz, 버스 스피드는 100.8 MHz입니다.",
+      "metrics": [
+        {
+          "label": "CPU 사용률",
+          "value": "22.7 %",
+          "pct": 22.7,
+          "tone": "normal"
+        },
+        {
+          "label": "CPU 클럭",
+          "value": "2721.6 MHz",
+          "pct": 77.75999999999999,
+          "tone": "normal"
+        },
+        {
+          "label": "버스 스피드",
+          "value": "100.8 MHz",
+          "pct": 100,
+          "tone": "normal"
+        },
+        {
+          "label": "CPU 온도",
+          "value": "68.0 °C",
+          "pct": 68.0,
+          "tone": "normal"
+        },
+        {
+          "label": "RAM 사용량",
+          "value": "10.5 / 15.8 GB (67%)",
+          "pct": 66.6,
+          "tone": "normal"
+        },
+        {
+          "label": "SSD 사용량",
+          "value": "172.5 / 475.9 GB (36%)",
+          "pct": 36.2,
+          "tone": "normal"
+        },
+        {
+          "label": "SSD 여유 공간",
+          "value": "303.4 / 475.9 GB",
+          "pct": 63.8,
+          "tone": "normal"
+        },
+        {
+          "label": "SSD 온도",
+          "value": "40.0 °C",
+          "pct": 40.0,
+          "tone": "normal"
+        },
+        {
+          "label": "업타임",
+          "value": "138시간 56분",
+          "pct": 100,
+          "tone": "normal"
+        },
+        {
+          "label": "네트워크 수신",
+          "value": "7021.4 MB",
+          "pct": 100,
+          "tone": "normal"
+        },
+        {
+          "label": "네트워크 송신",
+          "value": "10236.3 MB",
+          "pct": 100,
+          "tone": "normal"
+        }
+      ]
+    },
+    "openclaw": {
+      "summary": "OpenClaw 2026.9.5 (ec9c1a1)",
+      "take": "OpenClaw 게이트웨이 정상 작동 중",
+      "metrics": [
+        {
+          "label": "Runtime",
+          "value": "running",
+          "pct": 100,
+          "tone": "good"
+        },
+        {
+          "label": "Gateway",
+          "value": "active",
+          "pct": 100,
+          "tone": "good"
+        }
+      ]
+    }
+  },
+  "cards": [
+    {
+      "title": "오늘의 한마디",
+      "summary": "오늘 일정이 비어 있다면, 오히려 중요한 걸 조용히 정리할 수 있는 좋은 날입니다.",
+      "take": "큰 변수 없이 움직이기 좋은 날씨입니다. 일정만 잘 잡으면 리듬 있게 가기 좋겠습니다. 오늘은 마음을 급하게 쓰지 말고, 가장 아쉬웠던 한 가지를 먼저 정리해 보시면 좋겠습니다. 그런 작은 정리가 하루의 기분을 꽤 크게 바꿉니다.",
+      "meta": [
+        "응원",
+        "중간 길이"
+      ],
+      "entities": [],
+      "keywords": [
+        "아침",
+        "집중"
+      ],
+      "links": []
+    },
+    {
+      "title": "오늘 일정",
+      "summary": "오늘 일정 없음",
+      "take": "오늘 등록된 일정이 없습니다. 이럴 때는 중요한 정리 한두 개만 분명하게 끝내도 충분합니다.",
+      "meta": [
+        "일정",
+        "calendar"
+      ],
+      "entities": [
+        "calendar"
+      ],
+      "keywords": [
+        "calendar"
+      ],
+      "links": []
+    },
+    {
+      "title": "주요 메일 / 중요 알림",
+      "summary": "[중요인물] 새로운 가족 그룹 구성원 / [중요인물]  최신 버전의 Voice Match를 사용 중입 / [중요인물,에러] 보안 알림",
+      "take": "지금 확인할 만한 메일만 추렸습니다. 결제, 업무, 보안성 알림 위주로 먼저 보면 됩니다.",
+      "meta": [
+        "메일",
+        "gmail",
+        "중요 알림"
+      ],
+      "entities": [
+        "에러",
+        "중요인물",
+        "확인필요"
+      ],
+      "keywords": [
+        "gmail",
+        "alert"
+      ],
+      "links": []
+    },
+    {
+      "title": "유튜브 업데이트",
+      "summary": "@JulianGoldieSEO NEW Beam 501B Just Dropp / @JulianGoldieSEO This Hermes Agent OS Doe / @JulianGoldieSEO Mistral Large 4 Just Dro",
+      "take": "업로드 속도가 빠른 채널은 오늘도 여러 편이 들어왔습니다. 중요한 주제부터 2~3개만 골라 보면 효율이 좋습니다.",
+      "meta": [
+        "유튜브",
+        "AI 채널",
+        "중간 길이"
+      ],
+      "entities": [
+        "@JulianGoldieSEO",
+        "@JulianGoldieSEO",
+        "@JulianGoldieSEO",
+        "@fahdmirza"
+      ],
+      "keywords": [
+        "youtube",
+        "update",
+        "thumbnail"
+      ],
+      "links": [
+        {
+          "label": "@JulianGoldieSEO · 10-10 07:00",
+          "url": "https://www.youtube.com/watch?v=ob3So7DcYDc",
+          "thumbnail": "https://i.ytimg.com/vi/ob3So7DcYDc/hqdefault.jpg"
+        },
+        {
+          "label": "@JulianGoldieSEO · 10-10 06:00",
+          "url": "https://www.youtube.com/watch?v=WQ89Iv2KThw",
+          "thumbnail": "https://i.ytimg.com/vi/WQ89Iv2KThw/hqdefault.jpg"
+        },
+        {
+          "label": "@JulianGoldieSEO · 10-10 05:00",
+          "url": "https://www.youtube.com/watch?v=Goc2JnWs2Ic",
+          "thumbnail": "https://i.ytimg.com/vi/Goc2JnWs2Ic/hqdefault.jpg"
+        }
+      ]
+    },
+    {
+      "title": "시스템 상태 요약",
+      "summary": "CPU 22.7 % 사용 / RAM 10.5GB 사용 (67%) / SSD 172.5GB 사용 (36%, 여유 303.4GB) / 업타임 138시간 56분",
+      "take": "CPU는 현재 22.7 % 사용 중이며, RAM은 총 15.8GB 중 10.5GB (67%), SSD는 총 475.9GB 중 172.5GB 사용 (36%, 여유 303.4GB) 중입니다. 시스템 가동 시간은 138시간 56분이며, 네트워크 트래픽은 수신 7021.4 MB / 송신 10236.3 MB입니다. CPU 클럭은 2721.6 MHz, 버스 스피드는 100.8 MHz입니다.",
+      "meta": [
+        "시스템",
+        "LHM"
+      ],
+      "entities": [
+        "Intel N100",
+        "RAM",
+        "SSD"
+      ],
+      "keywords": [
+        "temperature",
+        "load",
+        "memory"
+      ],
+      "links": []
+    },
+    {
+      "title": "OpenClaw 상태 요약",
+      "summary": "OpenClaw 2026.9.5 (ec9c1a1)",
+      "take": "OpenClaw 게이트웨이 정상 작동 중",
+      "meta": [
+        "OpenClaw",
+        "Gateway"
+      ],
+      "entities": [
+        "main",
+        "gateway"
+      ],
+      "keywords": [
+        "version",
+        "rpc",
+        "status"
+      ],
+      "links": []
+    }
+  ],
+  "footer": "AI-assisted morning briefing, unified data structure ready for stage 2"
+}
