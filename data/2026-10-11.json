@@ -1,0 +1,375 @@
+{
+  "date": "2026-10-11 07:03",
+  "title": "아침 브리핑",
+  "subtitle": "날씨 · 응원 · 일정 · 메일 · 유튜브 · 시스템 · OpenClaw",
+  "summary": "비어 있는 하루는 느슨한 하루가 아니라, 진짜 필요한 걸 선명하게 끝낼 수 있는 하루입니다.",
+  "summary_box": "습도가 높아 체감이 더 무겁습니다. 물을 자주 마시며 리듬을 유지하면 좋겠습니다. 오늘은 마음을 급하게 쓰지 말고, 가장 아쉬웠던 한 가지를 먼저 정리해 보시면 좋겠습니다. 그런 작은 정리가 하루의 기분을 꽤 크게 바꿉니다.",
+  "weather": {
+    "loc": "김해",
+    "temp": "19°C",
+    "desc": "Clear ",
+    "icon": "⛅",
+    "badges": [
+      "체감 20°C",
+      "습도 93%",
+      "강수확률 2%",
+      "풍속 5km/h",
+      "UV 0",
+      "미세먼지 정보 연동 예정"
+    ],
+    "detail": {
+      "feels_like": "20",
+      "humidity": "93",
+      "rain_chance": "2",
+      "wind_kmph": "5",
+      "uv": "0",
+      "pm": "미세먼지 정보 연동 예정"
+    },
+    "life_comment": "습도가 높아 체감이 더 무겁습니다. 물을 자주 마시며 리듬을 유지하면 좋겠습니다."
+  },
+  "sections": {
+    "calendar": {
+      "summary": "오늘 일정 없음",
+      "take": "오늘 등록된 일정이 없습니다. 이럴 때는 중요한 정리 한두 개만 분명하게 끝내도 충분합니다.",
+      "items": [],
+      "links": [],
+      "entities": [
+        "calendar"
+      ]
+    },
+    "mail": {
+      "summary": "[중요인물] Google 계정 데이터 일부를 typecast / [중요인물] 새로운 가족 그룹 구성원",
+      "take": "지금 확인할 만한 메일만 추렸습니다. 결제, 업무, 보안성 알림 위주로 먼저 보면 됩니다.",
+      "items": [
+        {
+          "date": "2026-10-10 23:20",
+          "from": "Google <noreply-accounts@google.com>",
+          "subject": "Google 계정 데이터 일부를 typecast에 공유하셨습니다",
+          "tags": [
+            "중요인물"
+          ]
+        },
+        {
+          "date": "2026-10-10 00:47",
+          "from": "Google <families-noreply@google.com>",
+          "subject": "새로운 가족 그룹 구성원",
+          "tags": [
+            "중요인물"
+          ]
+        }
+      ],
+      "links": [],
+      "entities": [
+        "중요인물"
+      ]
+    },
+    "youtube": {
+      "summary": "@JulianGoldieSEO NEW Limite 1B - Violetto / @JulianGoldieSEO This Agentic OS Can Auto / @JulianGoldieSEO NEW 𝗩𝗲𝗹𝗮 𝟮.𝟬 ABSOLUTELY ",
+      "take": "업로드 속도가 빠른 채널은 오늘도 여러 편이 들어왔습니다. 중요한 주제부터 2~3개만 골라 보면 효율이 좋습니다.",
+      "items": [
+        {
+          "channel": "@JulianGoldieSEO",
+          "title": "NEW Limite 1B - Violetto: High Frequency Model! 🤯",
+          "published": "10-11 07:00",
+          "published_dt": "2026-10-11T07:00:07+09:00",
+          "url": "https://www.youtube.com/watch?v=Xo1nKCpAZKE",
+          "thumbnail": "https://i.ytimg.com/vi/Xo1nKCpAZKE/hqdefault.jpg",
+          "summary": "NEW Limite 1B - Violetto: High Frequency Model! 🤯 주제를 중심으로 무엇이 새로 나왔는지, 또는 어떻게 활용하는지를 설명하는 영상입니다.",
+          "description_excerpt": "",
+          "transcript_excerpt": "",
+          "shorts": false
+        },
+        {
+          "channel": "@JulianGoldieSEO",
+          "title": "This Agentic OS Can Automate Almost EVERYTHING",
+          "published": "10-11 06:00",
+          "published_dt": "2026-10-11T06:00:31+09:00",
+          "url": "https://www.youtube.com/watch?v=U40rPaapqm8",
+          "thumbnail": "https://i.ytimg.com/vi/U40rPaapqm8/hqdefault.jpg",
+          "summary": "이 영상은 모델/LLM, 에이전트/자동화, 수익화/마케팅 중심 내용입니다. 구성은 Intro – One AI system running everything, What an Agentic OS Is – And why it beats a dozen tabs, Hermes Workers – Auto content ideas from news, your wins & competitors, Video Agent – Idea to finished video on autopilot 순서로 이어집니다.",
+          "description_excerpt": "00:00 Intro – One AI system running everything 00:46 What an Agentic OS Is – And why it beats a dozen tabs 01:14 Hermes Workers – Auto content ideas from news, your wins & competitors 02:29 Video Agent – Idea to finished video on autopilot 04:00 SEO Agent – Search Console data → ready-to-rank articles 04:48 Lead Gen – Find, pitch & manage replies in one flow",
+          "transcript_excerpt": "",
+          "shorts": false
+        },
+        {
+          "channel": "@JulianGoldieSEO",
+          "title": "NEW 𝗩𝗲𝗹𝗮 𝟮.𝟬 ABSOLUTELY INSANE! 🤯",
+          "published": "10-11 05:00",
+          "published_dt": "2026-10-11T05:00:22+09:00",
+          "url": "https://www.youtube.com/watch?v=lPvH1Voym8E",
+          "thumbnail": "https://i.ytimg.com/vi/lPvH1Voym8E/hqdefault.jpg",
+          "summary": "이 영상은 모델/LLM 중심 내용입니다. 구성은 Veiler 2.0 Explained, How Veiler Replaces 9 Models, The AI Decision Layer, Span-Level Decisions 순서로 이어집니다.",
+          "description_excerpt": "0:00 — Veiler 2.0 Explained 0:33 — How Veiler Replaces 9 Models 0:50 — The AI Decision Layer 1:30 — Span-Level Decisions 2:11 — The Four Veiler Models 2:27 — Why Veiler Is Different From Chat Models 3:19 — Why AI Routing Matters 3:45 — Smart AI Model Routing 4:10 — Veiler’s Speed 4:24 — Veiler 2.0 Benchmarks 5:25 — One Tiny Model Replaces Nine 5:42 — Five Ty",
+          "transcript_excerpt": "",
+          "shorts": false
+        },
+        {
+          "channel": "@fahdmirza",
+          "title": "Underdog Saluki 27B 1.0 Locally: Beyond Qwen and GSQ+RCO",
+          "published": "10-11 03:00",
+          "published_dt": "2026-10-11T03:00:09+09:00",
+          "url": "https://www.youtube.com/watch?v=96WTWX_inRY",
+          "thumbnail": "https://i.ytimg.com/vi/96WTWX_inRY/hqdefault.jpg",
+          "summary": "이 영상은 튜토리얼/설정 중심 내용입니다. 구성은 This video locally installs and tests Underdog Saluki 27B 1.0 순서로 이어집니다. This video locally installs and tests Underdog Saluki 27B 1.0 📬Weekly AI : 🔥 Get 50% Discount on any A6000 or A5000 GPU rental, use following link and coupon: Coupon code: FahdMirza 🔥 Buy Me a Coffee...",
+          "description_excerpt": "This video locally installs and tests Underdog Saluki 27B 1.0. 📬Weekly AI : 🔥 Get 50% Discount on any A6000 or A5000 GPU rental, use following link and coupon: Coupon code: FahdMirza 🔥 Buy Me a Coffee to support the channel: PLEASE FOLLOW ME: ▶ LinkedIn: / fahdmirza ▶ YouTube: / ▶ Blog: RESOURCES: ▶ All rights reserved © Fahd Mirza",
+          "transcript_excerpt": "",
+          "shorts": false
+        },
+        {
+          "channel": "@진바이브",
+          "title": "AI로 사주 웹 만들었더니 이 정도 벌었습니다 | 수익인증",
+          "published": "10-11 01:11",
+          "published_dt": "2026-10-11T01:11:10+09:00",
+          "url": "https://www.youtube.com/watch?v=J5E1g62r83c",
+          "thumbnail": "https://i.ytimg.com/vi/J5E1g62r83c/hqdefault.jpg",
+          "summary": "이 영상은 수익화/마케팅 중심 내용입니다. How much can an AI-powered fortune-telling service actually earn? Today, I'll introduce a service I built and launched in three days at a KTX cafe over Chuseok that makes up to 500,000 won a day, and I'l... This is the revenue for the service launched on September 28th",
+          "description_excerpt": "",
+          "transcript_excerpt": "How much can an AI-powered  fortune-telling service actually earn?  Today, I'll introduce a service I built  and launched in three days at a KTX  cafe over Chuseok that makes up to  500,000 won a day, and I'll verify the  revenue. I'll show",
+          "shorts": false
+        }
+      ],
+      "links": [
+        {
+          "label": "@JulianGoldieSEO · 10-11 07:00",
+          "url": "https://www.youtube.com/watch?v=Xo1nKCpAZKE",
+          "thumbnail": "https://i.ytimg.com/vi/Xo1nKCpAZKE/hqdefault.jpg"
+        },
+        {
+          "label": "@JulianGoldieSEO · 10-11 06:00",
+          "url": "https://www.youtube.com/watch?v=U40rPaapqm8",
+          "thumbnail": "https://i.ytimg.com/vi/U40rPaapqm8/hqdefault.jpg"
+        },
+        {
+          "label": "@JulianGoldieSEO · 10-11 05:00",
+          "url": "https://www.youtube.com/watch?v=lPvH1Voym8E",
+          "thumbnail": "https://i.ytimg.com/vi/lPvH1Voym8E/hqdefault.jpg"
+        }
+      ],
+      "entities": [
+        "@JulianGoldieSEO",
+        "@JulianGoldieSEO",
+        "@JulianGoldieSEO",
+        "@fahdmirza"
+      ]
+    },
+    "system": {
+      "summary": "CPU 78.2 % 사용 / RAM 11.2GB 사용 (71%) / SSD 183.1GB 사용 (38%, 여유 292.8GB) / 업타임 163시간 0분",
+      "take": "CPU는 현재 78.2 % 사용 중이며, RAM은 총 15.8GB 중 11.2GB (71%), SSD는 총 475.9GB 중 183.1GB 사용 (38%, 여유 292.8GB) 중입니다. 시스템 가동 시간은 163시간 0분이며, 네트워크 트래픽은 수신 8447.7 MB / 송신 10680.9 MB입니다. CPU 클럭은 2923.2 MHz, 버스 스피드는 100.8 MHz입니다.",
+      "metrics": [
+        {
+          "label": "CPU 사용률",
+          "value": "78.2 %",
+          "pct": 78.2,
+          "tone": "normal"
+        },
+        {
+          "label": "CPU 클럭",
+          "value": "2923.2 MHz",
+          "pct": 83.52,
+          "tone": "normal"
+        },
+        {
+          "label": "버스 스피드",
+          "value": "100.8 MHz",
+          "pct": 100,
+          "tone": "normal"
+        },
+        {
+          "label": "CPU 온도",
+          "value": "74.0 °C",
+          "pct": 74.0,
+          "tone": "normal"
+        },
+        {
+          "label": "RAM 사용량",
+          "value": "11.2 / 15.8 GB (71%)",
+          "pct": 70.7,
+          "tone": "normal"
+        },
+        {
+          "label": "SSD 사용량",
+          "value": "183.1 / 475.9 GB (38%)",
+          "pct": 38.5,
+          "tone": "normal"
+        },
+        {
+          "label": "SSD 여유 공간",
+          "value": "292.8 / 475.9 GB",
+          "pct": 61.5,
+          "tone": "normal"
+        },
+        {
+          "label": "SSD 온도",
+          "value": "40.0 °C",
+          "pct": 40.0,
+          "tone": "normal"
+        },
+        {
+          "label": "업타임",
+          "value": "163시간 0분",
+          "pct": 100,
+          "tone": "normal"
+        },
+        {
+          "label": "네트워크 수신",
+          "value": "8447.7 MB",
+          "pct": 100,
+          "tone": "normal"
+        },
+        {
+          "label": "네트워크 송신",
+          "value": "10680.9 MB",
+          "pct": 100,
+          "tone": "normal"
+        }
+      ]
+    },
+    "openclaw": {
+      "summary": "OpenClaw 2026.9.5 (ec9c1a1)",
+      "take": "OpenClaw 게이트웨이 정상 작동 중",
+      "metrics": [
+        {
+          "label": "Runtime",
+          "value": "running",
+          "pct": 100,
+          "tone": "good"
+        },
+        {
+          "label": "Gateway",
+          "value": "active",
+          "pct": 100,
+          "tone": "good"
+        }
+      ]
+    }
+  },
+  "cards": [
+    {
+      "title": "오늘의 한마디",
+      "summary": "비어 있는 하루는 느슨한 하루가 아니라, 진짜 필요한 걸 선명하게 끝낼 수 있는 하루입니다.",
+      "take": "습도가 높아 체감이 더 무겁습니다. 물을 자주 마시며 리듬을 유지하면 좋겠습니다. 오늘은 마음을 급하게 쓰지 말고, 가장 아쉬웠던 한 가지를 먼저 정리해 보시면 좋겠습니다. 그런 작은 정리가 하루의 기분을 꽤 크게 바꿉니다.",
+      "meta": [
+        "응원",
+        "중간 길이"
+      ],
+      "entities": [],
+      "keywords": [
+        "아침",
+        "집중"
+      ],
+      "links": []
+    },
+    {
+      "title": "오늘 일정",
+      "summary": "오늘 일정 없음",
+      "take": "오늘 등록된 일정이 없습니다. 이럴 때는 중요한 정리 한두 개만 분명하게 끝내도 충분합니다.",
+      "meta": [
+        "일정",
+        "calendar"
+      ],
+      "entities": [
+        "calendar"
+      ],
+      "keywords": [
+        "calendar"
+      ],
+      "links": []
+    },
+    {
+      "title": "주요 메일 / 중요 알림",
+      "summary": "[중요인물] Google 계정 데이터 일부를 typecast / [중요인물] 새로운 가족 그룹 구성원",
+      "take": "지금 확인할 만한 메일만 추렸습니다. 결제, 업무, 보안성 알림 위주로 먼저 보면 됩니다.",
+      "meta": [
+        "메일",
+        "gmail",
+        "중요 알림"
+      ],
+      "entities": [
+        "중요인물"
+      ],
+      "keywords": [
+        "gmail",
+        "alert"
+      ],
+      "links": []
+    },
+    {
+      "title": "유튜브 업데이트",
+      "summary": "@JulianGoldieSEO NEW Limite 1B - Violetto / @JulianGoldieSEO This Agentic OS Can Auto / @JulianGoldieSEO NEW 𝗩𝗲𝗹𝗮 𝟮.𝟬 ABSOLUTELY ",
+      "take": "업로드 속도가 빠른 채널은 오늘도 여러 편이 들어왔습니다. 중요한 주제부터 2~3개만 골라 보면 효율이 좋습니다.",
+      "meta": [
+        "유튜브",
+        "AI 채널",
+        "중간 길이"
+      ],
+      "entities": [
+        "@JulianGoldieSEO",
+        "@JulianGoldieSEO",
+        "@JulianGoldieSEO",
+        "@fahdmirza"
+      ],
+      "keywords": [
+        "youtube",
+        "update",
+        "thumbnail"
+      ],
+      "links": [
+        {
+          "label": "@JulianGoldieSEO · 10-11 07:00",
+          "url": "https://www.youtube.com/watch?v=Xo1nKCpAZKE",
+          "thumbnail": "https://i.ytimg.com/vi/Xo1nKCpAZKE/hqdefault.jpg"
+        },
+        {
+          "label": "@JulianGoldieSEO · 10-11 06:00",
+          "url": "https://www.youtube.com/watch?v=U40rPaapqm8",
+          "thumbnail": "https://i.ytimg.com/vi/U40rPaapqm8/hqdefault.jpg"
+        },
+        {
+          "label": "@JulianGoldieSEO · 10-11 05:00",
+          "url": "https://www.youtube.com/watch?v=lPvH1Voym8E",
+          "thumbnail": "https://i.ytimg.com/vi/lPvH1Voym8E/hqdefault.jpg"
+        }
+      ]
+    },
+    {
+      "title": "시스템 상태 요약",
+      "summary": "CPU 78.2 % 사용 / RAM 11.2GB 사용 (71%) / SSD 183.1GB 사용 (38%, 여유 292.8GB) / 업타임 163시간 0분",
+      "take": "CPU는 현재 78.2 % 사용 중이며, RAM은 총 15.8GB 중 11.2GB (71%), SSD는 총 475.9GB 중 183.1GB 사용 (38%, 여유 292.8GB) 중입니다. 시스템 가동 시간은 163시간 0분이며, 네트워크 트래픽은 수신 8447.7 MB / 송신 10680.9 MB입니다. CPU 클럭은 2923.2 MHz, 버스 스피드는 100.8 MHz입니다.",
+      "meta": [
+        "시스템",
+        "LHM"
+      ],
+      "entities": [
+        "Intel N100",
+        "RAM",
+        "SSD"
+      ],
+      "keywords": [
+        "temperature",
+        "load",
+        "memory"
+      ],
+      "links": []
+    },
+    {
+      "title": "OpenClaw 상태 요약",
+      "summary": "OpenClaw 2026.9.5 (ec9c1a1)",
+      "take": "OpenClaw 게이트웨이 정상 작동 중",
+      "meta": [
+        "OpenClaw",
+        "Gateway"
+      ],
+      "entities": [
+        "main",
+        "gateway"
+      ],
+      "keywords": [
+        "version",
+        "rpc",
+        "status"
+      ],
+      "links": []
+    }
+  ],
+  "footer": "AI-assisted morning briefing, unified data structure ready for stage 2"
+}
