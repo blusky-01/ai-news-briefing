@@ -1,0 +1,390 @@
+{
+  "date": "2026-10-16 07:00",
+  "title": "아침 브리핑",
+  "subtitle": "날씨 · 응원 · 일정 · 메일 · 유튜브 · 시스템 · OpenClaw",
+  "summary": "오늘은 누가 밀어붙이지 않아도 됩니다. 팀장님 리듬대로 중요한 것부터 차분히 끝내면 됩니다.",
+  "summary_box": "큰 변수 없이 움직이기 좋은 날씨입니다. 일정만 잘 잡으면 리듬 있게 가기 좋겠습니다. 오늘은 마음을 급하게 쓰지 말고, 가장 아쉬웠던 한 가지를 먼저 정리해 보시면 좋겠습니다. 그런 작은 정리가 하루의 기분을 꽤 크게 바꿉니다.",
+  "weather": {
+    "loc": "김해",
+    "temp": "13°C",
+    "desc": "Overcast ",
+    "icon": "⛅",
+    "badges": [
+      "체감 11°C",
+      "습도 59%",
+      "강수확률 9%",
+      "풍속 5km/h",
+      "UV 0",
+      "미세먼지 정보 연동 예정"
+    ],
+    "detail": {
+      "feels_like": "11",
+      "humidity": "59",
+      "rain_chance": "9",
+      "wind_kmph": "5",
+      "uv": "0",
+      "pm": "미세먼지 정보 연동 예정"
+    },
+    "life_comment": "큰 변수 없이 움직이기 좋은 날씨입니다. 일정만 잘 잡으면 리듬 있게 가기 좋겠습니다."
+  },
+  "sections": {
+    "calendar": {
+      "summary": "오늘 일정 없음",
+      "take": "오늘 등록된 일정이 없습니다. 이럴 때는 중요한 정리 한두 개만 분명하게 끝내도 충분합니다.",
+      "items": [],
+      "links": [],
+      "entities": [
+        "calendar"
+      ]
+    },
+    "mail": {
+      "summary": "[중요인물] 🔥 Introducing Gemini 4 Arg / [중요인물,에러] 보안 알림",
+      "take": "지금 확인할 만한 메일만 추렸습니다. 결제, 업무, 보안성 알림 위주로 먼저 보면 됩니다.",
+      "items": [
+        {
+          "date": "2026-10-15 09:39",
+          "from": "Google AI Studio <googleaistudio-noreply@google.com>",
+          "subject": "🔥 Introducing Gemini 4 Argon in Google AI Studio",
+          "tags": [
+            "중요인물"
+          ]
+        },
+        {
+          "date": "2026-10-14 13:39",
+          "from": "Google <no-reply@accounts.google.com>",
+          "subject": "보안 알림",
+          "tags": [
+            "중요인물",
+            "에러"
+          ]
+        }
+      ],
+      "links": [],
+      "entities": [
+        "중요인물",
+        "에러"
+      ]
+    },
+    "youtube": {
+      "summary": "@JulianGoldieSEO NEW Google Updates Chang / @JulianGoldieSEO Stop Creating Content Ma / @JulianGoldieSEO NEW Underdog Images: on-",
+      "take": "업로드 속도가 빠른 채널은 오늘도 여러 편이 들어왔습니다. 중요한 주제부터 2~3개만 골라 보면 효율이 좋습니다.",
+      "items": [
+        {
+          "channel": "@JulianGoldieSEO",
+          "title": "NEW Google Updates Changes How You Work! 🤯",
+          "published": "10-16 06:00",
+          "published_dt": "2026-10-16T06:00:39+09:00",
+          "url": "https://www.youtube.com/watch?v=nu4-sjuWOzo",
+          "thumbnail": "https://i.ytimg.com/vi/nu4-sjuWOzo/hqdefault.jpg",
+          "summary": "이 영상은 모델/LLM, 에이전트/자동화 중심 내용입니다. 구성은 Google AI Updates Change How You Work, Meet the Gemini Agent, How Gemini Agent Memory Works, Why This Is More Than a Chatbot 순서로 이어집니다.",
+          "description_excerpt": "00:00 Google AI Updates Change How You Work 00:35 Meet the Gemini Agent 01:37 How Gemini Agent Memory Works 02:33 Why This Is More Than a Chatbot 03:12 Real Business Workflows With AI Agents 04:26 Google Nano Banana 2.1 Image Editing 05:30 Google SynthID Detector Goes Global 06:16 Embedding Gemma 2 Explained 06:56 How Businesses Can Get Ahead With AI 07:44 F",
+          "transcript_excerpt": "",
+          "shorts": false
+        },
+        {
+          "channel": "@JulianGoldieSEO",
+          "title": "Stop Creating Content Manually... Let Opus 5.5 Do It!",
+          "published": "10-16 05:00",
+          "published_dt": "2026-10-16T05:00:02+09:00",
+          "url": "https://www.youtube.com/watch?v=iHQXnT_MNkM",
+          "thumbnail": "https://i.ytimg.com/vi/iHQXnT_MNkM/hqdefault.jpg",
+          "summary": "구성은 Intro – The Content Loop, Treadmill vs. Loop, Step 1 – Find Ideas Automatically, Step 2 – Seed From Search Console 순서로 이어집니다.",
+          "description_excerpt": "00:00 Intro – The Content Loop 00:53 Treadmill vs. Loop 01:26 Step 1 – Find Ideas Automatically 02:09 Step 2 – Seed From Search Console 03:37 Step 3 – Multiply Into Every Format 04:19 Step 4 – Deploy With Human Approval 04:58 Step 5 – Remember What Worked 06:01 Objections Answered",
+          "transcript_excerpt": "",
+          "shorts": false
+        },
+        {
+          "channel": "@JulianGoldieSEO",
+          "title": "NEW Underdog Images: on-device Image Gen! 🔥",
+          "published": "10-16 04:00",
+          "published_dt": "2026-10-16T04:00:32+09:00",
+          "url": "https://www.youtube.com/watch?v=ODH1mHnRd_o",
+          "thumbnail": "https://i.ytimg.com/vi/ODH1mHnRd_o/hqdefault.jpg",
+          "summary": "이 영상은 모델/LLM, 에이전트/자동화, 수익화/마케팅 중심 내용입니다. 구성은 Underdog Images: AI Image Generation On Your Device, Create AI Images Without the Cloud, Meet the AI Models Powering Underdog Images, Generate and Edit Product Photos With AI 순서로 이어집니다.",
+          "description_excerpt": "00:00 Underdog Images: AI Image Generation On Your Device 00:23 Create AI Images Without the Cloud 01:27 Meet the AI Models Powering Underdog Images 02:01 Generate and Edit Product Photos With AI 02:29 What This Means for Small Businesses 02:55 Create Professional Ads Without a Photographer 03:42 The 30-Day AI Image Automation Roadmap 04:20 Hardware Requirem",
+          "transcript_excerpt": "",
+          "shorts": false
+        },
+        {
+          "channel": "@fahdmirza",
+          "title": "Grok Voice 3.0: World’s Most Intelligent Speech-to-Speech Model?",
+          "published": "10-16 01:00",
+          "published_dt": "2026-10-16T01:00:21+09:00",
+          "url": "https://www.youtube.com/watch?v=lLsJZ8j-VDg",
+          "thumbnail": "https://i.ytimg.com/vi/lLsJZ8j-VDg/hqdefault.jpg",
+          "summary": "이 영상은 튜토리얼/설정 중심 내용입니다. 구성은 This video tests Grok Voice 3.0, the world’s most intelligent voice model 순서로 이어집니다. How can I help you today? >> Look, I badly need your help with a personal issue I feel a safe connection with you, so please don't judge me, just help me",
+          "description_excerpt": "This video tests Grok Voice 3.0, the world’s most intelligent voice model. 📬Weekly AI : 🔥 Buy Me a Coffee to support the channel: PLEASE FOLLOW ME: ▶ LinkedIn: / fahdmirza ▶ YouTube: / ▶ Blog: RESOURCES: ▶ All rights reserved © Fahd Mirza",
+          "transcript_excerpt": "Hello. How can I help you today? >> Look, I badly need your help with a personal issue. It's really eating away at me, but I cannot tell anyone because it's really embarrassing. I feel a safe connection with you, so please don't judge me, j",
+          "shorts": false
+        },
+        {
+          "channel": "@jocoding",
+          "title": "조코딩의 AI 리터러시 특강 3강 : 2026, AI 에이전트가 바꾼 우리의 업무",
+          "published": "10-15 20:50",
+          "published_dt": "2026-10-15T20:50:41+09:00",
+          "url": "https://www.youtube.com/watch?v=Y3Xz4C3kgBA",
+          "thumbnail": "https://i.ytimg.com/vi/Y3Xz4C3kgBA/hqdefault.jpg",
+          "summary": "이 영상은 모델/LLM, 에이전트/자동화 중심 내용입니다. 구성은 AI의 3단계 – 챗봇, 추론 모델, 에이전트, AI 에이전트란? 목표를 주면 끝까지 해오는 일꾼, 오픈클로 열풍과 “모든 회사에 필요한 전략”, 스킬과 도구 연결 – 매트릭스의 헬기 조종 순서로 이어지며, 제목만으로는 보이지 않는 변화 배경·핵심 기능·실제 활용 포인트를 짚어보는 영상입니다.",
+          "description_excerpt": "조코딩의 AI 리터러시 특강 3강입니다. 묻고 답하는 챗봇에서, 스스로 생각하는 추론 모델을 거쳐, 이제는 목표만 주면 계획하고 도구를 쓰고 결과까지 확인하는 AI 에이전트의 시대입니다. 이번 영상에서는 조코딩이 직접 에이전트에게 일을 맡겨본 사례를 보여드립니다. 광고 캠페인 생성과 집행, 3D 모델링, 메일·세금처리, AI 인플루언서 공장까지. 이제 우리는 7개월 마다 두 배로 좋아지는 AI에게 무엇을 시키고 무엇을 통과시킬지가 남았습니다. 📚 AI 리터러시 6시간 전체 강의는 AX인재전쟁 온라인에서 이어집니다. 👉 업무를 위한 AI 리터러시 (6시간 · 영상 39개 · 평생 소장) 바이브코딩 IT 기초 (52분) AI 역량평가 응시권",
+          "transcript_excerpt": "Hello. I'm Jo Coding. This is the third  video in the first part of our AI  Literacy course. I’ve prepared this  lecture for those who want to go beyond  just asking AI questions and getting  answers, and actually want to delegate  entire r",
+          "shorts": false
+        }
+      ],
+      "links": [
+        {
+          "label": "@JulianGoldieSEO · 10-16 06:00",
+          "url": "https://www.youtube.com/watch?v=nu4-sjuWOzo",
+          "thumbnail": "https://i.ytimg.com/vi/nu4-sjuWOzo/hqdefault.jpg"
+        },
+        {
+          "label": "@JulianGoldieSEO · 10-16 05:00",
+          "url": "https://www.youtube.com/watch?v=iHQXnT_MNkM",
+          "thumbnail": "https://i.ytimg.com/vi/iHQXnT_MNkM/hqdefault.jpg"
+        },
+        {
+          "label": "@JulianGoldieSEO · 10-16 04:00",
+          "url": "https://www.youtube.com/watch?v=ODH1mHnRd_o",
+          "thumbnail": "https://i.ytimg.com/vi/ODH1mHnRd_o/hqdefault.jpg"
+        }
+      ],
+      "entities": [
+        "@JulianGoldieSEO",
+        "@JulianGoldieSEO",
+        "@JulianGoldieSEO",
+        "@fahdmirza"
+      ]
+    },
+    "system": {
+      "summary": "CPU 48.1 % 사용 / RAM 10.5GB 사용 (67%) / SSD 182.3GB 사용 (38%, 여유 293.6GB) / 업타임 48시간 38분",
+      "take": "CPU는 현재 48.1 % 사용 중이며, RAM은 총 15.8GB 중 10.5GB (67%), SSD는 총 475.9GB 중 182.3GB 사용 (38%, 여유 293.6GB) 중입니다. 시스템 가동 시간은 48시간 38분이며, 네트워크 트래픽은 수신 5478.1 MB / 송신 13813.6 MB입니다. CPU 클럭은 2923.2 MHz, 버스 스피드는 100.8 MHz입니다.",
+      "metrics": [
+        {
+          "label": "CPU 사용률",
+          "value": "48.1 %",
+          "pct": 48.1,
+          "tone": "normal"
+        },
+        {
+          "label": "CPU 클럭",
+          "value": "2923.2 MHz",
+          "pct": 83.52,
+          "tone": "normal"
+        },
+        {
+          "label": "버스 스피드",
+          "value": "100.8 MHz",
+          "pct": 100,
+          "tone": "normal"
+        },
+        {
+          "label": "CPU 온도",
+          "value": "65.0 °C",
+          "pct": 65.0,
+          "tone": "normal"
+        },
+        {
+          "label": "RAM 사용량",
+          "value": "10.5 / 15.8 GB (67%)",
+          "pct": 66.7,
+          "tone": "normal"
+        },
+        {
+          "label": "SSD 사용량",
+          "value": "182.3 / 475.9 GB (38%)",
+          "pct": 38.3,
+          "tone": "normal"
+        },
+        {
+          "label": "SSD 여유 공간",
+          "value": "293.6 / 475.9 GB",
+          "pct": 61.7,
+          "tone": "normal"
+        },
+        {
+          "label": "SSD 온도",
+          "value": "40.0 °C",
+          "pct": 40.0,
+          "tone": "normal"
+        },
+        {
+          "label": "업타임",
+          "value": "48시간 38분",
+          "pct": 100,
+          "tone": "normal"
+        },
+        {
+          "label": "네트워크 수신",
+          "value": "5478.1 MB",
+          "pct": 100,
+          "tone": "normal"
+        },
+        {
+          "label": "네트워크 송신",
+          "value": "13813.6 MB",
+          "pct": 100,
+          "tone": "normal"
+        }
+      ]
+    },
+    "openclaw": {
+      "summary": "OpenClaw 2026.7",
+      "take": "OpenClaw 게이트웨이 정상 작동 중",
+      "metrics": [
+        {
+          "label": "Runtime",
+          "value": "running",
+          "pct": 100,
+          "tone": "good"
+        },
+        {
+          "label": "RPC probe",
+          "value": "ok",
+          "pct": 100,
+          "tone": "good"
+        },
+        {
+          "label": "Listening",
+          "value": "active",
+          "pct": 100,
+          "tone": "good"
+        },
+        {
+          "label": "Gateway",
+          "value": "active",
+          "pct": 100,
+          "tone": "good"
+        }
+      ]
+    }
+  },
+  "cards": [
+    {
+      "title": "오늘의 한마디",
+      "summary": "오늘은 누가 밀어붙이지 않아도 됩니다. 팀장님 리듬대로 중요한 것부터 차분히 끝내면 됩니다.",
+      "take": "큰 변수 없이 움직이기 좋은 날씨입니다. 일정만 잘 잡으면 리듬 있게 가기 좋겠습니다. 오늘은 마음을 급하게 쓰지 말고, 가장 아쉬웠던 한 가지를 먼저 정리해 보시면 좋겠습니다. 그런 작은 정리가 하루의 기분을 꽤 크게 바꿉니다.",
+      "meta": [
+        "응원",
+        "중간 길이"
+      ],
+      "entities": [],
+      "keywords": [
+        "아침",
+        "집중"
+      ],
+      "links": []
+    },
+    {
+      "title": "오늘 일정",
+      "summary": "오늘 일정 없음",
+      "take": "오늘 등록된 일정이 없습니다. 이럴 때는 중요한 정리 한두 개만 분명하게 끝내도 충분합니다.",
+      "meta": [
+        "일정",
+        "calendar"
+      ],
+      "entities": [
+        "calendar"
+      ],
+      "keywords": [
+        "calendar"
+      ],
+      "links": []
+    },
+    {
+      "title": "주요 메일 / 중요 알림",
+      "summary": "[중요인물] 🔥 Introducing Gemini 4 Arg / [중요인물,에러] 보안 알림",
+      "take": "지금 확인할 만한 메일만 추렸습니다. 결제, 업무, 보안성 알림 위주로 먼저 보면 됩니다.",
+      "meta": [
+        "메일",
+        "gmail",
+        "중요 알림"
+      ],
+      "entities": [
+        "중요인물",
+        "에러"
+      ],
+      "keywords": [
+        "gmail",
+        "alert"
+      ],
+      "links": []
+    },
+    {
+      "title": "유튜브 업데이트",
+      "summary": "@JulianGoldieSEO NEW Google Updates Chang / @JulianGoldieSEO Stop Creating Content Ma / @JulianGoldieSEO NEW Underdog Images: on-",
+      "take": "업로드 속도가 빠른 채널은 오늘도 여러 편이 들어왔습니다. 중요한 주제부터 2~3개만 골라 보면 효율이 좋습니다.",
+      "meta": [
+        "유튜브",
+        "AI 채널",
+        "중간 길이"
+      ],
+      "entities": [
+        "@JulianGoldieSEO",
+        "@JulianGoldieSEO",
+        "@JulianGoldieSEO",
+        "@fahdmirza"
+      ],
+      "keywords": [
+        "youtube",
+        "update",
+        "thumbnail"
+      ],
+      "links": [
+        {
+          "label": "@JulianGoldieSEO · 10-16 06:00",
+          "url": "https://www.youtube.com/watch?v=nu4-sjuWOzo",
+          "thumbnail": "https://i.ytimg.com/vi/nu4-sjuWOzo/hqdefault.jpg"
+        },
+        {
+          "label": "@JulianGoldieSEO · 10-16 05:00",
+          "url": "https://www.youtube.com/watch?v=iHQXnT_MNkM",
+          "thumbnail": "https://i.ytimg.com/vi/iHQXnT_MNkM/hqdefault.jpg"
+        },
+        {
+          "label": "@JulianGoldieSEO · 10-16 04:00",
+          "url": "https://www.youtube.com/watch?v=ODH1mHnRd_o",
+          "thumbnail": "https://i.ytimg.com/vi/ODH1mHnRd_o/hqdefault.jpg"
+        }
+      ]
+    },
+    {
+      "title": "시스템 상태 요약",
+      "summary": "CPU 48.1 % 사용 / RAM 10.5GB 사용 (67%) / SSD 182.3GB 사용 (38%, 여유 293.6GB) / 업타임 48시간 38분",
+      "take": "CPU는 현재 48.1 % 사용 중이며, RAM은 총 15.8GB 중 10.5GB (67%), SSD는 총 475.9GB 중 182.3GB 사용 (38%, 여유 293.6GB) 중입니다. 시스템 가동 시간은 48시간 38분이며, 네트워크 트래픽은 수신 5478.1 MB / 송신 13813.6 MB입니다. CPU 클럭은 2923.2 MHz, 버스 스피드는 100.8 MHz입니다.",
+      "meta": [
+        "시스템",
+        "LHM"
+      ],
+      "entities": [
+        "Intel N100",
+        "RAM",
+        "SSD"
+      ],
+      "keywords": [
+        "temperature",
+        "load",
+        "memory"
+      ],
+      "links": []
+    },
+    {
+      "title": "OpenClaw 상태 요약",
+      "summary": "OpenClaw 2026.7",
+      "take": "OpenClaw 게이트웨이 정상 작동 중",
+      "meta": [
+        "OpenClaw",
+        "Gateway"
+      ],
+      "entities": [
+        "main",
+        "gateway"
+      ],
+      "keywords": [
+        "version",
+        "rpc",
+        "status"
+      ],
+      "links": []
+    }
+  ],
+  "footer": "AI-assisted morning briefing, unified data structure ready for stage 2"
+}
