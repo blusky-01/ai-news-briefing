@@ -1,0 +1,389 @@
+{
+  "date": "2026-10-17 07:01",
+  "title": "아침 브리핑",
+  "subtitle": "날씨 · 응원 · 일정 · 메일 · 유튜브 · 시스템 · OpenClaw",
+  "summary": "오늘 일정이 비어 있다면, 오히려 중요한 걸 조용히 정리할 수 있는 좋은 날입니다.",
+  "summary_box": "습도가 높아 체감이 더 무겁습니다. 물을 자주 마시며 리듬을 유지하면 좋겠습니다. 오늘은 마음을 급하게 쓰지 말고, 가장 아쉬웠던 한 가지를 먼저 정리해 보시면 좋겠습니다. 그런 작은 정리가 하루의 기분을 꽤 크게 바꿉니다.",
+  "weather": {
+    "loc": "김해",
+    "temp": "16°C",
+    "desc": "Overcast ",
+    "icon": "⛅",
+    "badges": [
+      "체감 15°C",
+      "습도 83%",
+      "강수확률 1%",
+      "풍속 6km/h",
+      "UV 0",
+      "미세먼지 정보 연동 예정"
+    ],
+    "detail": {
+      "feels_like": "15",
+      "humidity": "83",
+      "rain_chance": "1",
+      "wind_kmph": "6",
+      "uv": "0",
+      "pm": "미세먼지 정보 연동 예정"
+    },
+    "life_comment": "습도가 높아 체감이 더 무겁습니다. 물을 자주 마시며 리듬을 유지하면 좋겠습니다."
+  },
+  "sections": {
+    "calendar": {
+      "summary": "오늘 일정 없음",
+      "take": "오늘 등록된 일정이 없습니다. 이럴 때는 중요한 정리 한두 개만 분명하게 끝내도 충분합니다.",
+      "items": [],
+      "links": [],
+      "entities": [
+        "calendar"
+      ]
+    },
+    "mail": {
+      "summary": "[확인필요] [토스뱅크] 현금카드 약관 개정 안내 / [중요인물] 🔥 Introducing Gemini 4 Arg",
+      "take": "지금 확인할 만한 메일만 추렸습니다. 결제, 업무, 보안성 알림 위주로 먼저 보면 됩니다.",
+      "items": [
+        {
+          "date": "2026-10-17 04:44",
+          "from": "\"토스뱅크\" <no.reply@mail.tossbank.com>",
+          "subject": "[토스뱅크] 현금카드 약관 개정 안내",
+          "tags": [
+            "확인필요"
+          ]
+        },
+        {
+          "date": "2026-10-15 09:39",
+          "from": "Google AI Studio <googleaistudio-noreply@google.com>",
+          "subject": "🔥 Introducing Gemini 4 Argon in Google AI Studio",
+          "tags": [
+            "중요인물"
+          ]
+        }
+      ],
+      "links": [],
+      "entities": [
+        "중요인물",
+        "확인필요"
+      ]
+    },
+    "youtube": {
+      "summary": "@JulianGoldieSEO Free Claude Code is Abso / @JulianGoldieSEO New ChatGPT Update Is a  / @JulianGoldieSEO Stitch CLI Just Changes ",
+      "take": "업로드 속도가 빠른 채널은 오늘도 여러 편이 들어왔습니다. 중요한 주제부터 2~3개만 골라 보면 효율이 좋습니다.",
+      "items": [
+        {
+          "channel": "@JulianGoldieSEO",
+          "title": "Free Claude Code is Absolutely WILD!",
+          "published": "10-17 07:00",
+          "published_dt": "2026-10-17T07:00:34+09:00",
+          "url": "https://www.youtube.com/watch?v=u_nDqCjkIZ8",
+          "thumbnail": "https://i.ytimg.com/vi/u_nDqCjkIZ8/hqdefault.jpg",
+          "summary": "이 영상은 모델/LLM, 에이전트/자동화, 튜토리얼/설정 중심 내용입니다. 구성은 Free Claude Code Is WILD!, What Is Free Claude Code?, The Agent OS Setup, Building a Website 순서로 이어집니다.",
+          "description_excerpt": "Get the Agent OS & Free Claude Code Masterclass 00:00 Free Claude Code Is WILD! 00:37 What Is Free Claude Code? 01:19 The Agent OS Setup 01:43 Building a Website 02:24 Why It Doesn't Hit Limits 03:03 Get The Full Setup 03:49 What Is OmniRoute? 04:23 Automatic Fallback 04:49 Token Compression 05:27 Free Models vs Frontier Models 06:31 The 5 Layers 07:01 Fast ",
+          "transcript_excerpt": "",
+          "shorts": false
+        },
+        {
+          "channel": "@JulianGoldieSEO",
+          "title": "New ChatGPT Update Is a GAME CHANGER!",
+          "published": "10-17 05:00",
+          "published_dt": "2026-10-17T05:00:34+09:00",
+          "url": "https://www.youtube.com/watch?v=aO8Dsri74sY",
+          "thumbnail": "https://i.ytimg.com/vi/aO8Dsri74sY/hqdefault.jpg",
+          "summary": "이 영상은 모델/LLM 중심 내용입니다. 구성은 ChatGPT Space Is A GAME CHANGER!, What Is ChatGPT Space?, Pages & Projects, Why Space Matters 순서로 이어집니다. La nouvelle mise à jour de ChatGPT change la donne OpenAI vient d'offrir à ChatGPT un véritable espace de travail Voici cela fonctionne",
+          "description_excerpt": "00:00 ChatGPT Space Is A GAME CHANGER! 00:40 What Is ChatGPT Space? 01:16 Pages & Projects 01:49 Why Space Matters 02:20 ChatGPT + Your Team 03:14 Working With Pages 04:06 Comments & AI Helpers 04:51 ChatGPT Dots 05:41 Automatic Page Updates 06:00 Scheduled Task Workaround 06:30 Connected Files & Permissions 06:49 Meetings Plugin 06:57 The Privacy Catch 07:2",
+          "transcript_excerpt": "La nouvelle mise à jour de ChatGPT  change la donne. OpenAI vient d'offrir  à ChatGPT un véritable espace de  travail. Cela s'appelle ChatGPT Space,  et cela permet à votre équipe et  vous-même de créer des documents  évolutifs avec l'IA di",
+          "shorts": false
+        },
+        {
+          "channel": "@JulianGoldieSEO",
+          "title": "Stitch CLI Just Changes Everything!",
+          "published": "10-17 04:00",
+          "published_dt": "2026-10-17T04:00:13+09:00",
+          "url": "https://www.youtube.com/watch?v=3ukYxwAaOMI",
+          "thumbnail": "https://i.ytimg.com/vi/3ukYxwAaOMI/hqdefault.jpg",
+          "summary": "이 영상은 에이전트/자동화, 수익화/마케팅, 튜토리얼/설정 중심 내용입니다. 구성은 Introduction to Stitch CLI, What Does Stitch CLI Actually Do?, How to Setup and Use Stitch CLI, Three Ways to Use Stitch CLI for Your Business 순서로 이어지며, 제목만으로는 보이지 않는 변화 배경·핵심 기능·실제 활용 포인트를 짚어보는 영상입니다.",
+          "description_excerpt": "FREE AI SEO Course → Free SEO Strategy session → Rank with AI SEO → Stitch CLI: The Ultimate AI Web Design Tool for SEO Discover Stitch CLI, a groundbreaking AI tool by Google that brings web design directly into your coding workflow. Learn how to build high-converting, SEO-friendly web pages faster than ever. 00:00 - Introduction to Stitch CLI 01:13 - What ",
+          "transcript_excerpt": "",
+          "shorts": false
+        },
+        {
+          "channel": "@fahdmirza",
+          "title": "NVIDIA Nemotron-3.5 Bolt-74B-A9B Locally: It's Not Over",
+          "published": "10-17 03:00",
+          "published_dt": "2026-10-17T03:00:23+09:00",
+          "url": "https://www.youtube.com/watch?v=B4HQ-c8i3NM",
+          "thumbnail": "https://i.ytimg.com/vi/B4HQ-c8i3NM/hqdefault.jpg",
+          "summary": "이 영상은 모델/LLM 중심 내용입니다. 구성은 StudBook Manager and the planted bug, Model Intro, Bug fix result, Döner kebab skewer test 순서로 이어집니다. This is a stud book manager A breeding operations dashboard for a horse stud farm Predicts each mare's falling date, and counts down the days so staff knows when to start a falling watch",
+          "description_excerpt": "This video locally installs and tests NVIDIA Nemotron 3.5 Bolt 74B-A9B 24GB, a VLM designed to run everyday agentic tasks locally. 📬Weekly AI : 🔥 Get 50% Discount on any A6000 or A5000 GPU rental, use following link and coupon: Coupon code: FahdMirza 🔥 Buy Me a Coffee to support the channel: PLEASE FOLLOW ME: ▶ LinkedIn: / fahdmirza ▶ YouTube: / ▶ Blog: 0:00",
+          "transcript_excerpt": "This is a stud book manager. A breeding operations dashboard for a horse stud farm. It tracks stallions, mares, and coverings. Predicts each mare's falling date, and counts down the days so staff knows when to start a falling watch. Hidden ",
+          "shorts": false
+        },
+        {
+          "channel": "@jocoding",
+          "title": "Google AdMob의 광고 검토 센터에 검색 조건 저장과 알림 기능이 추가 됩니다 @AdMob",
+          "published": "10-16 19:42",
+          "published_dt": "2026-10-16T19:42:14+09:00",
+          "url": "https://www.youtube.com/watch?v=T6rQgdseqBM",
+          "thumbnail": "https://i.ytimg.com/vi/T6rQgdseqBM/hqdefault.jpg",
+          "summary": "이 영상은 수익화/마케팅 중심 내용입니다. 구성은 Google AdMob의 광고 검토 센터에 검색 조건 저장과 알림 기능이 추가됩니다, 반복해서 확인하는 조건을 저장하고, 관련 광고를 알림으로 확인해 광고 품질을 관리할 수 있게 되었습니다, AdMob 새 기능 관련 링크는 아래 Google Form 작성 후 확인할 수 있습니다 순서로 이어지며, 제목만으로는 보이지 않는 변화 배경·핵심 기능·실제 활용 포인트를 짚어보는 영상입니다.",
+          "description_excerpt": "Google AdMob의 광고 검토 센터에 검색 조건 저장과 알림 기능이 추가됩니다. 반복해서 확인하는 조건을 저장하고, 관련 광고를 알림으로 확인해 광고 품질을 관리할 수 있게 되었습니다. AdMob 새 기능 관련 링크는 아래 Google Form 작성 후 확인할 수 있습니다.",
+          "transcript_excerpt": "Well, AdMob has just unveiled something  called Proactive AI Rapid Resolution.  Basically, for app developers, while  maximizing ad revenue is important,  it’s also crucial to control what ads  are shown to users. In particular,  showing in",
+          "shorts": false
+        }
+      ],
+      "links": [
+        {
+          "label": "@JulianGoldieSEO · 10-17 07:00",
+          "url": "https://www.youtube.com/watch?v=u_nDqCjkIZ8",
+          "thumbnail": "https://i.ytimg.com/vi/u_nDqCjkIZ8/hqdefault.jpg"
+        },
+        {
+          "label": "@JulianGoldieSEO · 10-17 05:00",
+          "url": "https://www.youtube.com/watch?v=aO8Dsri74sY",
+          "thumbnail": "https://i.ytimg.com/vi/aO8Dsri74sY/hqdefault.jpg"
+        },
+        {
+          "label": "@JulianGoldieSEO · 10-17 04:00",
+          "url": "https://www.youtube.com/watch?v=3ukYxwAaOMI",
+          "thumbnail": "https://i.ytimg.com/vi/3ukYxwAaOMI/hqdefault.jpg"
+        }
+      ],
+      "entities": [
+        "@JulianGoldieSEO",
+        "@JulianGoldieSEO",
+        "@JulianGoldieSEO",
+        "@fahdmirza"
+      ]
+    },
+    "system": {
+      "summary": "CPU 43.5 % 사용 / RAM 10.7GB 사용 (68%) / SSD 183.0GB 사용 (38%, 여유 292.9GB) / 업타임 72시간 39분",
+      "take": "CPU는 현재 43.5 % 사용 중이며, RAM은 총 15.8GB 중 10.7GB (68%), SSD는 총 475.9GB 중 183.0GB 사용 (38%, 여유 292.9GB) 중입니다. 시스템 가동 시간은 72시간 39분이며, 네트워크 트래픽은 수신 8089.1 MB / 송신 15846.4 MB입니다. CPU 클럭은 2923.2 MHz, 버스 스피드는 100.8 MHz입니다.",
+      "metrics": [
+        {
+          "label": "CPU 사용률",
+          "value": "43.5 %",
+          "pct": 43.5,
+          "tone": "normal"
+        },
+        {
+          "label": "CPU 클럭",
+          "value": "2923.2 MHz",
+          "pct": 83.52,
+          "tone": "normal"
+        },
+        {
+          "label": "버스 스피드",
+          "value": "100.8 MHz",
+          "pct": 100,
+          "tone": "normal"
+        },
+        {
+          "label": "CPU 온도",
+          "value": "74.0 °C",
+          "pct": 74.0,
+          "tone": "normal"
+        },
+        {
+          "label": "RAM 사용량",
+          "value": "10.7 / 15.8 GB (68%)",
+          "pct": 67.8,
+          "tone": "normal"
+        },
+        {
+          "label": "SSD 사용량",
+          "value": "183.0 / 475.9 GB (38%)",
+          "pct": 38.5,
+          "tone": "normal"
+        },
+        {
+          "label": "SSD 여유 공간",
+          "value": "292.9 / 475.9 GB",
+          "pct": 61.5,
+          "tone": "normal"
+        },
+        {
+          "label": "SSD 온도",
+          "value": "40.0 °C",
+          "pct": 40.0,
+          "tone": "normal"
+        },
+        {
+          "label": "업타임",
+          "value": "72시간 39분",
+          "pct": 100,
+          "tone": "normal"
+        },
+        {
+          "label": "네트워크 수신",
+          "value": "8089.1 MB",
+          "pct": 100,
+          "tone": "normal"
+        },
+        {
+          "label": "네트워크 송신",
+          "value": "15846.4 MB",
+          "pct": 100,
+          "tone": "normal"
+        }
+      ]
+    },
+    "openclaw": {
+      "summary": "OpenClaw 2026.7",
+      "take": "OpenClaw 게이트웨이 정상 작동 중",
+      "metrics": [
+        {
+          "label": "Runtime",
+          "value": "running",
+          "pct": 100,
+          "tone": "good"
+        },
+        {
+          "label": "RPC probe",
+          "value": "ok",
+          "pct": 100,
+          "tone": "good"
+        },
+        {
+          "label": "Listening",
+          "value": "active",
+          "pct": 100,
+          "tone": "good"
+        },
+        {
+          "label": "Gateway",
+          "value": "active",
+          "pct": 100,
+          "tone": "good"
+        }
+      ]
+    }
+  },
+  "cards": [
+    {
+      "title": "오늘의 한마디",
+      "summary": "오늘 일정이 비어 있다면, 오히려 중요한 걸 조용히 정리할 수 있는 좋은 날입니다.",
+      "take": "습도가 높아 체감이 더 무겁습니다. 물을 자주 마시며 리듬을 유지하면 좋겠습니다. 오늘은 마음을 급하게 쓰지 말고, 가장 아쉬웠던 한 가지를 먼저 정리해 보시면 좋겠습니다. 그런 작은 정리가 하루의 기분을 꽤 크게 바꿉니다.",
+      "meta": [
+        "응원",
+        "중간 길이"
+      ],
+      "entities": [],
+      "keywords": [
+        "아침",
+        "집중"
+      ],
+      "links": []
+    },
+    {
+      "title": "오늘 일정",
+      "summary": "오늘 일정 없음",
+      "take": "오늘 등록된 일정이 없습니다. 이럴 때는 중요한 정리 한두 개만 분명하게 끝내도 충분합니다.",
+      "meta": [
+        "일정",
+        "calendar"
+      ],
+      "entities": [
+        "calendar"
+      ],
+      "keywords": [
+        "calendar"
+      ],
+      "links": []
+    },
+    {
+      "title": "주요 메일 / 중요 알림",
+      "summary": "[확인필요] [토스뱅크] 현금카드 약관 개정 안내 / [중요인물] 🔥 Introducing Gemini 4 Arg",
+      "take": "지금 확인할 만한 메일만 추렸습니다. 결제, 업무, 보안성 알림 위주로 먼저 보면 됩니다.",
+      "meta": [
+        "메일",
+        "gmail",
+        "중요 알림"
+      ],
+      "entities": [
+        "중요인물",
+        "확인필요"
+      ],
+      "keywords": [
+        "gmail",
+        "alert"
+      ],
+      "links": []
+    },
+    {
+      "title": "유튜브 업데이트",
+      "summary": "@JulianGoldieSEO Free Claude Code is Abso / @JulianGoldieSEO New ChatGPT Update Is a  / @JulianGoldieSEO Stitch CLI Just Changes ",
+      "take": "업로드 속도가 빠른 채널은 오늘도 여러 편이 들어왔습니다. 중요한 주제부터 2~3개만 골라 보면 효율이 좋습니다.",
+      "meta": [
+        "유튜브",
+        "AI 채널",
+        "중간 길이"
+      ],
+      "entities": [
+        "@JulianGoldieSEO",
+        "@JulianGoldieSEO",
+        "@JulianGoldieSEO",
+        "@fahdmirza"
+      ],
+      "keywords": [
+        "youtube",
+        "update",
+        "thumbnail"
+      ],
+      "links": [
+        {
+          "label": "@JulianGoldieSEO · 10-17 07:00",
+          "url": "https://www.youtube.com/watch?v=u_nDqCjkIZ8",
+          "thumbnail": "https://i.ytimg.com/vi/u_nDqCjkIZ8/hqdefault.jpg"
+        },
+        {
+          "label": "@JulianGoldieSEO · 10-17 05:00",
+          "url": "https://www.youtube.com/watch?v=aO8Dsri74sY",
+          "thumbnail": "https://i.ytimg.com/vi/aO8Dsri74sY/hqdefault.jpg"
+        },
+        {
+          "label": "@JulianGoldieSEO · 10-17 04:00",
+          "url": "https://www.youtube.com/watch?v=3ukYxwAaOMI",
+          "thumbnail": "https://i.ytimg.com/vi/3ukYxwAaOMI/hqdefault.jpg"
+        }
+      ]
+    },
+    {
+      "title": "시스템 상태 요약",
+      "summary": "CPU 43.5 % 사용 / RAM 10.7GB 사용 (68%) / SSD 183.0GB 사용 (38%, 여유 292.9GB) / 업타임 72시간 39분",
+      "take": "CPU는 현재 43.5 % 사용 중이며, RAM은 총 15.8GB 중 10.7GB (68%), SSD는 총 475.9GB 중 183.0GB 사용 (38%, 여유 292.9GB) 중입니다. 시스템 가동 시간은 72시간 39분이며, 네트워크 트래픽은 수신 8089.1 MB / 송신 15846.4 MB입니다. CPU 클럭은 2923.2 MHz, 버스 스피드는 100.8 MHz입니다.",
+      "meta": [
+        "시스템",
+        "LHM"
+      ],
+      "entities": [
+        "Intel N100",
+        "RAM",
+        "SSD"
+      ],
+      "keywords": [
+        "temperature",
+        "load",
+        "memory"
+      ],
+      "links": []
+    },
+    {
+      "title": "OpenClaw 상태 요약",
+      "summary": "OpenClaw 2026.7",
+      "take": "OpenClaw 게이트웨이 정상 작동 중",
+      "meta": [
+        "OpenClaw",
+        "Gateway"
+      ],
+      "entities": [
+        "main",
+        "gateway"
+      ],
+      "keywords": [
+        "version",
+        "rpc",
+        "status"
+      ],
+      "links": []
+    }
+  ],
+  "footer": "AI-assisted morning briefing, unified data structure ready for stage 2"
+}
